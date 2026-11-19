@@ -1,32 +1,38 @@
 {
- "updated": "2026-11-19T02:03:16+00:00",
+ "updated": "2026-11-19T10:24:07+00:00",
  "briefing": {
-  "headline": "COP31, fossil fuels and wildfires",
+  "headline": "COP31, fossil fuels and El Niño",
   "period": "Nov 13–19",
-  "made": "2026-11-19T02:03:16+00:00",
+  "made": "2026-11-19T10:24:07+00:00",
   "bullets": [
    {
-    "text": "Bangladesh arrived at COP31 having committed substantial public resources to protecting our people from climate change.",
+    "text": "After ministers gathered for a “divan” conflab on Wednesday night to start resolving differences on what should be in the main COP31 political decision, the talk in the halls was that it had been a nice opportunity for…",
     "source": "Climate Home News",
-    "url": "https://www.climatechangenews.com/2026/11/19/bangladesh-needs-cop31-to-deliver-clarity-on-climate-finance/",
+    "url": "https://www.climatechangenews.com/2026/11/19/cop31-bulletin-day-10-ministers-exchange-makes-little-concrete-progress/",
     "theme": "COP31"
    },
    {
-    "text": "The world is “being held hostage by the petroleum mafia” and seems unable to break free, Panama’s environment minister has warned, as key issues remain unresolved in the final days of the UN Cop31 climate summit.",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/environment/2026/nov/18/world-held-hostage-by-oil-mafia-says-panama-minister-at-cop-31",
+    "text": "The consecutive emergency orders have led to $25.6 million in ratepayer costs, according to the analysis by the Environmental Defense Fund.",
+    "source": "Inside Climate News",
+    "url": "https://insideclimatenews.org/news/19112026/florida-stanton-coal-plant-trump-emergency-orders/",
     "theme": "fossil fuels"
    },
    {
-    "text": "NASA researchers have produced detailed 3D topography maps for all of California, down to the scale of a single tree.",
+    "text": "Winter precipitation helped wake dormant seeds in northern Chile, carpeting the desert with what may be the region’s most extensive flowering of the satellite era.",
     "source": "NASA",
-    "url": "https://science.nasa.gov/blogs/science-news/2026/11/18/california-wildfire-risk-3d-maps/",
+    "url": "https://science.nasa.gov/earth/earth-observatory/el-nino-rains-paint-the-atacama/",
+    "theme": "El Niño"
+   },
+   {
+    "text": "When wildfire risk is high, utilities sometimes shut off power lines, leaving people without electricity for days.",
+    "source": "Yale Climate Connections",
+    "url": "https://yaleclimateconnections.org/2026/11/wildfire-prone-areas-could-turn-to-microgrids-to-cope-with-power-outages/",
     "theme": "wildfires"
    },
    {
-    "text": "The year 2026 is expected to be Earth's 2nd-warmest year on record, with 2027 likely to be the warmest.",
-    "source": "Yale Climate Connections",
-    "url": "https://yaleclimateconnections.org/2026/11/october-2026-earths-warmest-october-on-record/",
+    "text": "I n this cold weather, it is easy to forget that Britain has just been through its hottest summer on record, part of our new reality as the climate crisis reaches our doorstep.",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/commentisfree/2026/nov/17/britain-climate-action-plan-working-cop31-voters-jobs-home-prices",
     "theme": "record warmth"
    },
    {
@@ -34,16 +40,286 @@
     "source": "Climate Home News",
     "url": "https://www.climatechangenews.com/2026/11/17/cop31-bulletin-day-8-arab-group-russia-reject-cover-text-over-fossil-fuels-and-electrification-goal/",
     "theme": "clean energy"
-   },
-   {
-    "text": "International Energy Agency chief Fatih Birol celebrates the electricity demands of AI and electric cars, but the revolution must be about more than luxuries for the rich.",
-    "source": "Climate Home News",
-    "url": "https://www.climatechangenews.com/2026/11/16/cop31s-electricity-goal-must-be-about-more-than-ai-and-luxuries-for-the-rich/",
-    "theme": "AI’s power demand"
    }
   ]
  },
  "articles": [
+  {
+   "url": "https://wattsupwiththat.com/2026/11/19/thanks-climate-skeptic-for-exposing-the-bbcs-falsehoods-about-extreme-weather/",
+   "title": "Thanks, Climate Skeptic, For Exposing the BBC’s Falsehoods About Extreme Weather",
+   "source": "Watts Up With That",
+   "desk": "opinion",
+   "published": "2026-11-19T10:04:00+00:00",
+   "seen": "2026-11-19T10:24:07+00:00",
+   "cats": [
+    "Bad science journalism",
+    "extreme weather",
+    "Weather",
+    "BBC",
+    "BBC Panorama",
+    "Justin Rowlatt",
+    "Paul Homewood"
+   ],
+   "note": "Skeptic blog",
+   "description": "In the end, every specific claim of worsening weather made in the Panorama story is refuted by long-term data recorded by the U.K.’s Environment Agency. Data trumps anecdotes and unreferenced claims every time.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2026/11/london-rain-window-phone-box-1024x512-1.webp?fit=1024%2C512&quality=75&ssl=1",
+   "paragraphs": [
+    "Climate Skeptic recently posted an article by Paul Homewood, who operates the website, Not a Lot of People Know That, that exposes the BBC program Panorama’s ongoing misrepresentations about climate change causing worsening extreme weather in the United Kingdom. Homewood’s take down of Panaroma’s false claims is devastating. He shows with hard data that neither floods nor wildfires have become worse or more frequent in the United Kingdom.",
+    "The story, “ BBC Panorama Serves Up Justin Rowlatt’s Latest Barrel of Climate Hogwash ,” examines in detail an episode of the BBC One program, Panorama, called, “ Fire and Floods: Our Extreme Weather ,” by BBC’s Climate Editor, Justin Rowlatt. As Paul Homewood’s analysis shows, Rowlatt uses anecdotes to claim that wildfires and floods have become worse in recent years due to climate change, in the process, ignoring real world data and historical evidence that shows each of these claims is false.",
+    "At the outset, it is interesting that after complaints by viewer’s BBC examined a recent previous post by Rowlatt and found it contained at least two serious errors or misstatements of fact. Ignoring that, BBC allowed Rowlatt to produce a new segment that contains even more easily debunkable claims concerning climate change in the U.K.",
+    "Rowlatt repeatedly confuses weather with climate, claiming specific extreme weather events, recent floods and wildfires, for example, are proof of climate change. Yet, as discussed at Climate at a Glance: Weather vs. Climate, the World Meteorological Organization defines climate as “…the average weather conditions for a particular location and over a long period of time.” Typically, 30 years of weather data is averaged to create a “normal” climate expectation for a location or region. Yet none of the recent flood and wildfire occurrences or seasons in the U.K., even those above average, were historically unique, nor were they part of a long-term trend of extreme wildfire or flood conditions.",
+    "Concerning wildfires, Rowlatt asserts that global warming is causing more and larger wildfires in England due to increasingly dry summers with little rainfall. Homewood looks at the evidence and points out that multiple lines of evidence, including hard data from NASA, the European Space Agency, and multiple peer reviewed studies show that wildfires are in decline. While wildfires have been historically common in England during dry summers, this year was far from the driest on record and summer rainfall across the U.K. has been above average 12 of the 26 years since 1996 — the relevant 30 year period. (see the graph, below)",
+    "There is no long-term trend of declining rainfall that would suggest climate change is having an impact.",
+    "Concerning floods, contrary to Rowlatt’s claims that the U.K. was beset by extreme floods, data from the U.K. Environment Agency show just the opposite, in 2025 the numbers of properties affected by flooding was extremely low, reflective of a recent long-term trend of limited flooding, with a few exceptions. (See the figure below)"
+   ],
+   "lede": "In the end, every specific claim of worsening weather made in the Panorama story is refuted by long-term data recorded by the U.K.’s Environment Agency. Data trumps anecdotes and unreferenced claims every time."
+  },
+  {
+   "url": "https://insideclimatenews.org/news/19112026/florida-stanton-coal-plant-trump-emergency-orders/",
+   "title": "Trump Orders to Keep Florida Coal Plant Running Cost Ratepayers Millions",
+   "source": "Inside Climate News",
+   "desk": "reporting",
+   "published": "2026-11-19T10:00:00+00:00",
+   "seen": "2026-11-19T10:24:07+00:00",
+   "cats": [
+    "Fossil Fuels",
+    "Justice & Health",
+    "Politics",
+    "Coal",
+    "coal power plant",
+    "coal power plants",
+    "Department of Energy",
+    "Florida"
+   ],
+   "description": "The consecutive emergency orders have led to $25.6 million in ratepayer costs, according to the analysis by the Environmental Defense Fund.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://insideclimatenews.org/wp-content/uploads/2026/11/GettyImages-1236577115-1024x683.jpg",
+   "paragraphs": [
+    "The group said the orders were issued under a law designed for temporary emergencies such as weather events, but the Trump administration repeatedly has renewed the orders. In Florida, the Orlando Utilities Commission had planned to move one of two coal-fired plants at Stanton into a state of “extended cold shutdown” by the end of May 2026, as part of a plan to transition to renewable energy and achieve net zero emissions by 2050.",
+    "Dan Gearino’s habit-forming weekly take on how to understand the energy transformation reshaping our world.",
+    "A once-a-week digest of the most pressing climate-related news, written by Kate Waxman and released every Tuesday.",
+    "Don’t miss a beat. Get a daily email of our original, groundbreaking stories written by our national network of award-winning reporters.",
+    "A digest of stories on the inequalities that worsen the impacts of climate change on vulnerable communities.",
+    "The Department of Energy issued an initial order to keep the plant running in June and another in September that expires Nov. 30. OUC is the state’s second-largest municipal utility, serving more than 288,000 customers in Orange and Osceola counties in central Florida.",
+    "“If they stay true to form then they’re going to issue another order,” said Bradley Marshall, senior attorney at Earthjustice, which filed a legal challenge against the Trump administration over the situation at Stanton.",
+    "“We know that a lot of these coal plants were due to be retired for a reason. They simply weren’t economic to run anymore,” he said. “When you unexpectedly have to keep a plant running that you were planning to retire, and you don’t need to keep it running for any kind of reliability purpose but because the Trump administration has told you to keep it running, it shouldn’t be surprising there are a lot of economic costs associated with that.”",
+    "The Department of Energy has attributed an energy emergency in Florida to a shortage of facilities and anticipated growing demand related to a burgeoning data center industry in the state. The agency also noted a February cold snap that strained OUC’s resources.",
+    "“Radical climate activists will say anything to further their anti-energy agenda. The Trump Administration’s actions—including saving six coal-fired plants, preserving more than 17 gigawatts of coal power from retirement, and unleashing backup power generation—likely saved hundreds of American lives during peak demand periods,” a Department of Energy spokesperson told Inside Climate News."
+   ],
+   "lede": "The consecutive emergency orders have led to $25.6 million in ratepayer costs, according to the analysis by the Environmental Defense Fund."
+  },
+  {
+   "url": "https://www.nytimes.com/2026/11/19/business/cop31-energy-iea.html",
+   "title": "How the War in Iran Will Remake the Global Energy Order",
+   "source": "The New York Times",
+   "desk": "reporting",
+   "published": "2026-11-19T09:25:56+00:00",
+   "seen": "2026-11-19T10:24:07+00:00",
+   "cats": [
+    "International Energy Agency",
+    "Birol, Fatih",
+    "Oil (Petroleum) and Gasoline",
+    "US and Israeli Attack on Iran (2026)",
+    "Electric Light and Power",
+    "Coal",
+    "Greenhouse Gas Emissions",
+    "Antalya (Turkey)"
+   ],
+   "byline": "Lisa Friedman",
+   "description": "The International Energy Agency, in its most comprehensive analysis of the war’s fallout, found the oil shock could accelerate adoption of alternative power sources.",
+   "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-iea-energy-01-mgtf/19biz-iea-energy-01-mgtf-mediumSquareAt3X.jpg",
+   "ftries": 1,
+   "lede": "The International Energy Agency, in its most comprehensive analysis of the war’s fallout, found the oil shock could accelerate adoption of alternative power sources."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUVFaNUVRcThfX2tpbHNfNUUtZzdZMVBSeXItR3VZeG5tdlBwVG0taWg1NkdCelQ5aDhWNC1xZjFpdlo5QndRN1JySTRucHlYUDNRZ2lpakFOTHJuODJiYklNSmxSTkJjUzNvNWEtbVN4TVZFV2hHSkxaNDdQV3JXZGE4NlBDWHJHeHpvZThZbURZbDROWnBJYm10ZkR3dnlpazQ4dk53?oc=5",
+   "title": "Deeper collusion between hostile powers threatens the West",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-19T08:31:05+00:00",
+   "seen": "2026-11-19T10:24:07+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://www.climatechangenews.com/2026/11/19/cop31-bulletin-day-10-ministers-exchange-makes-little-concrete-progress/",
+   "title": "COP31 Bulletin Day 10: Ministers’ exchange makes little clear progress",
+   "source": "Climate Home News",
+   "desk": "politics",
+   "published": "2026-11-19T08:28:07+00:00",
+   "seen": "2026-11-19T10:24:07+00:00",
+   "cats": [
+    "News",
+    "Politics",
+    "cop31"
+   ],
+   "description": "On Wednesday night, ministers got the chance to swap views on what should be in the cover decision, but it seems few differences were bridged",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.climatechangenews.com/wp-content/files/2026/11/Ministerial-Divan.jpg",
+   "paragraphs": [
+    "After ministers gathered for a “divan” conflab on Wednesday night to start resolving differences on what should be in the main COP31 political decision, the talk in the halls was that it had been a nice opportunity for them to share views but little had moved forward.",
+    "The room - closed to media - was set out with chairs in a large circle, so far apart the assembled ministers looked like they had to cross a small ocean to actually speak to one another. Let’s hope they could at least hear what their peers were saying through the mics and headsets.",
+    "Adão Soares Barbosa, Timor-Leste’s climate ambassador who chairs the Least Developed Countries (LDCs) at the climate talks, told Climate Home News the discussion had been “constructive” but noted that some ministers expressed concern there would be no agreement on a decision.",
+    "After ministers gathered for a “divan” conflab on Wednesday night to start resolving differences on what should be in the main COP31 political decision, the talk in the halls was that it had been a nice opportunity for them to share views but little had moved forward.",
+    "The room - closed to media - was set out with chairs in a large circle, so far apart the assembled ministers looked like they had to cross a small ocean to actually speak to one another. Let’s hope they could at least hear what their peers were saying through the mics and headsets.",
+    "Adão Soares Barbosa, Timor-Leste’s climate ambassador who chairs the Least Developed Countries (LDCs) at the climate talks, told Climate Home News the discussion had been “constructive” but noted that some ministers expressed concern there would be no agreement on a decision.",
+    "Irish environment minister Darragh O’Brien, who represents the European Union, told a press conference on Thursday morning that the atmosphere at the divan was “very different” from last year. “It wasn’t as confrontational,” he said.",
+    "Next to him, Tuvalu’s climate minister Maina Talia said “it seems to be” that language about transitioning away from fossil fuels will be out of the cover text, adding there was a small window of opportunity to keep it in. It is opposed by fossil fuel-producing countries, including Saudi Arabia and Russia.",
+    "In a statement issued after the “divan”, COP31 president Murat Kurum urged countries not to reiterate their respective positions at this stage of the talks, but to identify where they can move forward together.",
+    "Discussions reportedly touched on all the key hot topics - from 1.5C overshoot to adaptation finance and electrification - but little progress seems to have been made in how to bridge divisions."
+   ],
+   "lede": "After ministers gathered for a “divan” conflab on Wednesday night to start resolving differences on what should be in the main COP31 political decision, the talk in the halls was that it had been a nice opportunity for…",
+   "cop": true
+  },
+  {
+   "url": "https://www.theguardian.com/science/2026/nov/19/ipcc-report-delay-climate-crisis-scientist",
+   "title": "IPCC report delay will threaten global effort to tackle climate crisis, says top scientist",
+   "source": "The Guardian",
+   "desk": "reporting",
+   "published": "2026-11-19T07:16:45+00:00",
+   "seen": "2026-11-19T10:24:07+00:00",
+   "cats": [
+    "Climate science",
+    "Intergovernmental Panel on Climate Change (IPCC)",
+    "Environment",
+    "Global climate talks",
+    "Science",
+    "United Nations",
+    "World news",
+    "Cop31"
+   ],
+   "description": "Johan Rockström, one of world’s leading climate experts, says slowing down scientific work puts cooperation at risk",
+   "image": "https://i.guim.co.uk/img/media/9f57ba9d5e7f9ed5bfc10dd82f5dcdcde10b2020/497_0_3703_2962/master/3703.jpg?width=140&quality=85&auto=format&fit=max&s=d584aa31cc111b9e9a02f2521a765572",
+   "ftries": 1,
+   "fetched": true,
+   "paragraphs": [
+    "Climate science is “foundational” to the Paris agreement and worldwide progress on tackling global heating, and attempts to delay new scientific reports threaten global cooperation on tackling the crisis, one of the world’s leading climate scientists has warned.",
+    "Johan Rockström, the director of the Potsdam Institute for Climate Impact Research, said the world’s leading body of climate scientists, the Intergovernmental Panel on Climate Change, must be allowed to work as quickly as possible on its next comprehensive assessment of global knowledge of the climate systems.",
+    "Some countries are holding up work on the three-part report in a row over the body’s role and representation of developing countries. One group has argued that racist assumptions underpin some of the body’s recommendations.",
+    "Rockström said the reports were fair. “The IPCC is objective, evidence-based science, and it’s the only thing that we can reliably stand on as a basis for our policymaking,” he said. “The IPCC is the summary of everything done voluntarily by scientists from the entire world, global south and global north, that collectively carries out a synthesis [of established research].”",
+    "The IPCC’s work is used to inform the annual climate “conference of the parties” (Cop) to the UN Framework Convention on Climate Change. Its next assessment, called AR7, the seventh in a series dating back to 1988, under way, and it is hoped it will be completed in 2028. In the autumn of that year, nations will gather for Cop33, where the second “global stocktake” under the Paris agreement will be thrashed out.",
+    "This is the mechanism by which progress towards the core Paris goal, of limiting temperature rises to 1.5C above pre-industrial levels, will be judged. The stocktake is almost certain to find that current pledges to cut greenhouse gas emissions are inadequate and must be improved.",
+    "The UN has already found the world to be on track for a 2.8C temperature rise, a level previous IPCC reports have found would result in severe and, in some cases, irreversible consequences, such as the melting of ice caps and glaciers, sea level rises, coral bleaching and extreme weather.",
+    "But some countries – chiefly Russia, India and the Arab group of countries including Saudi Arabia – want to delay publication of AR7 until 2029, after the global stocktake is completed. They argue, with the backing of some climate campaigners, that developing countries are disadvantaged in trying to submit science to the IPCC. As a result, they say, the work is permeated by racist assumptions that guarantee the privilege of developed countries.",
+    "Lidy Nacpil, the coordinator of the Asian Peoples’ Movement on Debt and Development, told the Guardian the IPCC’s scenarios for cutting greenhouse gas emissions – known as “mitigation” in UN jargon – were “biased against the interests of the global south”."
+   ],
+   "lede": "Climate science is “foundational” to the Paris agreement and worldwide progress on tackling global heating, and attempts to delay new scientific reports threaten global cooperation on tackling the crisis, one of the…",
+   "cop": true
+  },
+  {
+   "url": "https://wattsupwiththat.com/2026/11/18/el-nino-is-weakening-with-rapid-sea-surface-cooling-off-the-washington-coast/",
+   "title": "El Nino Is Weakening With Rapid Sea Surface Cooling Off the Washington Coast",
+   "source": "Watts Up With That",
+   "desk": "opinion",
+   "published": "2026-11-19T06:10:00+00:00",
+   "seen": "2026-11-19T10:24:07+00:00",
+   "cats": [
+    "El Nino Basics",
+    "Sea Surface Temperature",
+    "Weather",
+    "Cliff Mass",
+    "El Niño",
+    "NOAA",
+    "Pacific Northwest"
+   ],
+   "note": "Skeptic blog",
+   "description": "At the current rate of decline, it will no longer be a very strong El Nino (2°C or more above normal) by early December.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2026/11/northeast-pacific-sst-cooling-trend-1024x512-1.webp?fit=1024%2C512&quality=75&ssl=1",
+   "paragraphs": [
+    "Cooling of the ocean surface has been occurring over the last month, with substantial implications for our future.",
+    "Wow. Massive cooling off the Northwest coast, with some locations chilling by 2°C or more.",
+    "A series of strong low-pressure centers have developed again and again off our coast, as the surface pressure analysis at 10 AM on Saturday (below) shows.",
+    "Such a strong pressure system produces strong winds that mix the upper layer of the ocean, bringing cool water to the surface.",
+    "Ironically, the low center and resulting cool surface water are caused by the warm tropical waters of El Nino, which produce a “wave train” in the Pacific.",
+    "The current El Nino is weakening. According to the latest NOAA report, the relevant warm surface waters (in the Nino 3.4 area) have peaked and are now declining (see below).",
+    "Right now the temperature anomaly (difference from normal) in that Nino 3.4 area is 2.2C. At the current rate of decline, it will no longer be a very strong El Nino (2°C or more above normal) by early December.",
+    "The latest NOAA forecasts suggest it will continue to decline for the remainder of the winter season.",
+    "We start the winter with a classic El Niño pattern, and California and Colorado River drainage get a major refill. Very helpful.",
+    "Then, as El Nino weakens later in the winter, Washington State gets substantial precipitation and snowpack, allowing us to be fine next summer."
+   ],
+   "lede": "At the current rate of decline, it will no longer be a very strong El Nino (2°C or more above normal) by early December."
+  },
+  {
+   "url": "https://climatediplobrief.substack.com/p/climate-diplomacy-brief-cop31-day-cce",
+   "title": "Climate Diplomacy Brief",
+   "source": "Climate Diplomacy Brief",
+   "desk": "politics",
+   "published": "2026-11-19T06:05:34+00:00",
+   "seen": "2026-11-19T10:24:07+00:00",
+   "byline": "Ed King",
+   "description": "COP boss Kurum takes control of talks as tensions [and brackets] mount with under 48 hours till closing",
+   "image": "https://substackcdn.com/image/fetch/$s_!DPjx!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F628b7274-f1a4-4a26-bc32-db73c3410fd3_799x533.jpeg",
+   "ftries": 1,
+   "fetched": true,
+   "paragraphs": [
+    "GTA6 Competing factions. Gangs. Territorial control. Threats. Informal alliances. Egos. Economic sanctions. Out-of-control leaders. The NYT says the launch of Grand Theft Auto 6 will “steal your heart”. It may also give anyone at COP31 PTSD given the alarming similarities between the legendary violent video game and the rollercoaster UN talks, where the only rules are there are no rules. Divan No guns but plenty of hot mics in the Wednesday evening meeting of leading envoys, called a ‘Divan’ after an Imperial Ottoman gathering. That or 190+ diplomats were testing the memory foam Divan 300 series from Bedworld. “The sticking point is countries’ development priorities,” COP boss Kurum told the room, adding: “We will share the draft decision with you this evening and ask for your feedback tomorrow.” Vibes *Tuvalu: Signal needed that the world is taking steps to phase out fossil fuels *Brazil: IPCC results should give input to GST2, need clean electrification *Kiribati: 1.5C is not a negotiating point, overshoot is catastrophic for us *Russia: Cannot have cover decision with non-negotiated outcomes *EU: 35x35 clean electrification target, overshoot, open to talk adaptation finance *UK: Keep 1.5C within reach + electrification, methane, forests and oceans adaptation *Senegal: Climate ambition must be linked to funding *Saudi Arabia: Opposes targeting any energy sources or intervening in sovereignty *Japan: Address overshoot, expand financing under the COP29 NCQG *Panama: Cap on petroleum production, request funds from producers *Kenya: Need clear signal on unilateral trade measures/finance *India: Don’t pressure countries who didn’t cause this *Kuwait: Let countries decide how to change their energy path",
+    "Overheard in the corridors: “A place that cannot make fake teeth fast enough is close to delivering a COP with no teeth.” Bowen on no $$$ “Without setting new targets, new financing commitments, we need to find ways to reflect that we are serious about delivering.” When historians (or at the very least Carbon Brief) reflect on COP31, they may note the lack of financing commitments from co-hosts Australia was an egregious mistake that came back to bite them on the ass. Electro: 75 Open the abacus: we’re counting countries. Turkish news agencies report 75 countries now support 35x35, but only about 25% of those are signed up. Did they lose their pens? Antigua and Barbuda, Germany, Panama, Papua New Guinea, the Philippines and Zambia came out in support of the pledge on Wednesday. Electrifying transport, heating and industry is \"the smartest thing we can do for our economies,\" according to Germany. JUST OUT: 18-page COP31 electrification ‘delivery package’ for presentation under the ‘Action Agenda’. COP boss Kurum has committed to “work tirelessly to forge a powerful global coalition to deliver this goal”. That coalition is TBC but this doc *does* contain useful examples of how electrification is accelerating, COP deal or not. It’s worth a read."
+   ],
+   "lede": "The NYT says the launch of Grand Theft Auto 6 will “steal your heart”.",
+   "cop": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONUR1eFNhaGJfM09pUUg3eVhiVVZOLUVOdkEtRXEtcTM3aDVIY2gxY0VtdmEzQ09vSEhjUmJzQVEzVlJnQ2p3M0t3Q1JPQVY0VWl4aTZOeHNXLWNOdklGUzRmLVhZSWtqMXJvblVGZWdZc05fMmJLaExxb3JfTXBLbEJjMmJIbFBXcWNlSGJYa2FGYzlJSmFrcEJ4c2ZkQkpuSm83NjB3UDlNbnhGWXBiblFKMjA?oc=5",
+   "title": "Developing Countries Are Leading Global Electrification Efforts",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-19T05:01:00+00:00",
+   "seen": "2026-11-19T10:24:07+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://science.nasa.gov/earth/earth-observatory/el-nino-rains-paint-the-atacama/",
+   "title": "El Niño Rains Paint the Atacama",
+   "source": "NASA",
+   "desk": "science",
+   "published": "2026-11-19T05:00:00+00:00",
+   "seen": "2026-11-19T10:24:07+00:00",
+   "cats": [
+    "Earth Observatory",
+    "El Niño - Southern Oscillation",
+    "Land Cover",
+    "Landsat 8 / LDCM (Landsat Data Continuity Mission)",
+    "Landsat 9",
+    "Vegetation"
+   ],
+   "description": "Winter precipitation helped wake dormant seeds in northern Chile, carpeting the desert with what may be the region’s most extensive flowering of the satellite era.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/el-niño-rains-paint-the-atacama/atacamabloom_oli2_20261024_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+   "paragraphs": [
+    "Parts of the Atacama Desert in northern Chile, normally one of the driest places on Earth, turned red-purple, green, and white in austral spring 2026 following an unusually wet winter. The rain woke seeds lying dormant in the soil, setting off what scientists say may be the most extensive desierto florido, or “flowering desert,” of the satellite era.",
+    "The rains came as El Niño was strengthening in the tropical Pacific. During an El Niño, the subtropical Pacific high that normally keeps the region dry weakens, while a blocking high tends to form in the South Pacific near the tip of South America. Together, these shifts push the Southern Hemisphere storm track equatorward.",
+    "Beginning in mid-July, a series of storm fronts fed by an atmospheric river brought one of the heaviest July rain events in decades to a long stretch of Chile, from the Atacama region south to Los Lagos, according to Chile’s national weather service (Dirección Meteorológica de Chile). In August, back-to-back winter storms blanketed parts of the Atacama Desert in rare snow.",
+    "The spring blooms that followed are visible in these satellite image pairs, which show the desert at different stages of flowering on September 14 (left) and on October 24 (right). The OLI (Operational Land Imager) on Landsat 8 acquired the September images, and the OLI on Landsat 9 acquired the October images.",
+    "The pair above shows a part of the desert about 30 kilometers (20 miles) southwest of Copiapó, near the eastern sector of Desierto Florido National Park. The red-purple areas prominent in the October 24 scene are vast blooms of pata de guanaco, most likely Cistanthe longiscapa or another Cistanthe species, according to Roberto Chávez, a remote sensing scientist at Pontificia Universidad Católica de Valparaíso.",
+    "Chávez and colleagues photographed the Cistanthe blooms (above) in the area that same day. They were in the field to study the bloom with satellite data, drones, and digital cameras. The project aims to use these data to map how the bloom’s biodiversity changes across space and over time, to inform land-use planners and conservation managers.",
+    "The pair below shows another part of the blooming desert, about 50 kilometers (30 miles) southwest of Copiapó. It lies within a priority area of the desert cited for its biological significance, including the flowering landscape.",
+    "Cistanthe is abundant here in the October view, but the September scene (left) reveals another desert beauty. The green areas capped with white are blooms of suspiros, or Nolana, probably Nolana baccata, according to Andres Moreira-Muñoz, a scientist at Pontificia Universidad Católica de Valparaíso who studies plant geography. The researchers photographed the Nolana -covered hillsides below on September 24, 2026.",
+    "Satellite data have been key to understanding the Atacama’s blooms. A 2014 study used Landsat observations to map where flowering and fog-fed plants grow around the Copiapó dune field. And a 2019 study used NASA’s long-term vegetation record to identify 13 Atacama Desert blooms between 1981 and 2015."
+   ],
+   "lede": "Winter precipitation helped wake dormant seeds in northern Chile, carpeting the desert with what may be the region’s most extensive flowering of the satellite era."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbkN0NHY0R0JxTlVRYlg0Rk4tQnoxNm5jSUtiTU50S1FLazFOSEVYejBJVVBwNWpianlISllUTFpmQktoRGtmdGxXYmgxUTN1MnZjRkJaREVsZlV5aWQybU5sR05kMmg1YnB0bzNYNU5iV180NklsSnU4WmZWTlBreWhITlJxSEphaVRfVjZkb0E1d3Bma2lhd2VaWVI?oc=5",
+   "title": "Democrats from all levels attend UN climate talks, as world learns to 'stop waiting for Washington'",
+   "source": "Associated Press",
+   "desk": "reporting",
+   "published": "2026-11-19T02:43:00+00:00",
+   "seen": "2026-11-19T10:24:07+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
   {
    "url": "https://wattsupwiththat.com/2026/11/18/united-nations-complains-ai-models-are-not-adhering-to-their-climate-brainwashing/",
    "title": "United Nations Complains AI Models are Not Adhering to their Climate Brainwashing",
@@ -103,12 +379,34 @@
    "cop": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYjFtUnJiZlJBczhOVnluVkZaZWdGbVE0cDdFU0pwNXpWSGVDX05pNVZLbVZnTzdZcmpDVDBteVlOdUJRM0hJaGlxNFpnekdoVWdXTVVCYWJSSENocG1yTmJYMHFBZHdmRXlOeURYS1BLR0J6NlYyOW1KaHg4Zzliam5zaXBzRVJyWFBJcVRqMVg3YlAza1labHZxdnZSMzFRYUVVb2l1MUwzMktPd1lZMWF4VQ?oc=5",
+   "title": "California Faces Flood Risks and Heavy Snow From Pacific Storm",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-19T00:44:00+00:00",
+   "seen": "2026-11-19T10:24:07+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZkFZZzk0NGV4ZlJOQ19jS3hhaUtnVHhjeEpzdFVhaHlzSDZMRjVhWDlxSTN3NTlGUGJ4V1ZyemY3V3hHZWRUdmQ4LXVqUVJwdGVuVm1HTlpJS3BMYVl4MGZSZVJwNXQ1a3pxa1ZUX1ZBZ0wtSk5EN0xMcWh6Z3kyNE5oWk1tVVdmZGpBNk9abnUwajFmSHFQeUd3em9xQk9TTk5tdlNSTmJCMzVBd1V6Wk50blpTT3ZNUHc?oc=5",
    "title": "Skydance Opts Out of Bidding for Costly FIFA World Cup Rights",
    "source": "Bloomberg Green",
    "desk": "reporting",
    "published": "2026-11-18T22:52:49+00:00",
    "seen": "2026-11-19T02:03:16+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbmlRemhKVWxoMUdUaGN1akN1dnlTV1ZfRzgtbExESURfMUczS0NlTWo0RUFHWUNzR2R2VnprNWIxcm9HYVRwS3ZSSW9uU2VnX2lSeGVfdXFJZi1NbzZIdV9ZdDdmNFlTLTFlRE9BX1RncGJqV2tMdE5LcXRDZGZLM3FsZ0lrbUx5OWpsUXRvaVBhelowZFFuc2lnMWpYQ2QtQlVqZDhNdVNCbDNrZ29JRmVJZUM1eTB5?oc=5",
+   "title": "Alberta Tightens Data Center Rules After Public Backlash on AI",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-18T21:28:55+00:00",
+   "seen": "2026-11-19T10:24:07+00:00",
    "via_google": true,
    "ftries": 1,
    "fetched": true
@@ -185,6 +483,17 @@
    "lede": "NASA researchers have produced detailed 3D topography maps for all of California, down to the scale of a single tree."
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWlI3cG1TZ2poQ1NkUEZiY09tcExRZzlKOGhtRDFZRHMxanZINjU3bTBEb1JhelU3N055WmxSek1kLVVxdXMtTzdMenUxVTZLcTRPNGstYkJSLU9BWHFiTlRoaHlDaUlndkZMT3Y2MFFDTms3SWxzZWg3b1RrQjV1WV9MVUwxMHdHUExETUxxN29wMjBPZjlGWHRRbFpBSWk5RExn?oc=5",
+   "title": "“Grand Theft Auto VI” may mark the end of an era in gaming",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-18T19:16:31+00:00",
+   "seen": "2026-11-19T10:24:07+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://yaleclimateconnections.org/2026/11/baaja-whos-in-favor-and-whos-opposed/",
    "title": "BAAJA: Who’s in favor and who’s opposed?",
    "source": "Yale Climate Connections",
@@ -232,6 +541,18 @@
    "fetched": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbDlGcVNtWmpRY080QlpqdGRvZk14THRWMmVhdGFlOUZEM2dMeWFHTjVhNmtuSzluVGJiQmdob2x5dlVLUHcwa2NlbzI0T2QwcHoyMzFhbVBfVFU3cG1lczY1RFdqR0VrODM0VWU1Q0JtSWtLRGlUUTFQeWdsVlpCbjFBOW9vSG0tR3hHTQ?oc=5",
+   "title": "Russia, Vatican lead gender backlash at climate summit",
+   "source": "POLITICO.eu",
+   "desk": "reporting",
+   "published": "2026-11-18T18:13:00+00:00",
+   "seen": "2026-11-19T10:24:07+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://wattsupwiththat.com/2026/11/18/whoopsie-callahan-and-mankins-28-trillion-heat-damages-depend-on-which-thermometer-scale-used/",
    "title": "Whoopsie! Callahan and Mankin’s $28 Trillion Heat Damages Depend on which Thermometer Scale Used",
    "source": "Watts Up With That",
@@ -244,6 +565,17 @@
    "fetched": true,
    "image": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2026/11/callahan-mankin-scale-feature.webp?fit=1024%2C512&quality=75&ssl=1",
    "lede": "A new preprint finds that Callahan and Mankin’s $28 trillion in extreme-heat losses comes out at $43 trillion in Fahrenheit and $359 trillion in Kelvin, more than three times world GDP. Remove one term and the total falls to $2.5 trillion."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWlRMQXJObW92WS1jOW9PakpUZkJ3MTB2ZExiNTYzaC00Y3pYMzZNSVY1SFctbVl0d2h6RHJISnQzam9nQ2VDX3Z6UzU4YlV6eDVMSzdiX3JOU1NvcUZqalNTQXBGRWJLVmdaT21jR0hkT24tVm1CRW1raEh5Q0Q5UmxlalJCODlWNkhrQg?oc=5",
+   "title": "The technologies that will define 2027",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-18T17:18:22+00:00",
+   "seen": "2026-11-19T10:24:07+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://www.theguardian.com/environment/2026/nov/18/world-held-hostage-by-oil-mafia-says-panama-minister-at-cop-31",
@@ -499,6 +831,17 @@
    "fetched": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMXp6NXVnMGt6QmxZcFFfM29uRmhfVFU3cndQS19STjdTei0taldHUklMdUJ5d1hja2FtVVVtQlcwZEZKVGhSdk9yTjMzSmVBOVhMOHZ3ZEpvZWxmNHpnOFlwTl9HdjRZcjN2MUdjZzFSYmlibk1tZ3Vpa0NpWlV4aDdEajdURzE0V0ZXV3ZTZWlBMVp5MGFzeHMtLXVPbFYxR3c?oc=5",
+   "title": "What to expect from Lula’s fourth and final term",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-18T12:12:48+00:00",
+   "seen": "2026-11-19T10:24:07+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://www.theguardian.com/environment/ng-interactive/2026/nov/18/el-bosque-mexico-displaced-sea-level-this-is-climate-breakdown",
    "title": "‘The sea washed away trees, then a whole row of houses. I knew it was time to get out’",
    "source": "The Guardian",
@@ -729,6 +1072,17 @@
    "fetched": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTk5fUHZqbGtrZkltbWIxVl95bjk0QnBEMVQ4ajl3ZDRrR1dndU40cm40aWNrY3lQeGlTbHVXVUR3eVVoMDRXMWhkTEF0eUlYenRfUnA4dzhDMG1aeXg0MnVlbDlrYjVfQklBUDdiSTBEMG1JdUNmTm1HQ3BHYmNOQkEwQzZ6bWkxaVAtNW5RRXJONF9icUt0Nnk2TjB0T3hk?oc=5",
+   "title": "The ECB is heading for a stand-off with France",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-18T10:32:16+00:00",
+   "seen": "2026-11-19T10:24:07+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORFdoX3dJb1NvYXpIc01lQ2xEeTJyM0hqLS1nWVB0N1gzWGNyVUVQbVVQUHc4WnZqZFU0ZlpHVFJURi01UHVyd2VYVzdTUS1NWmpqUGF3RlIxVkMwU080dEx4R3ZyZFU1dEVvUlJRUWxrYTlhT1dDazQyN29LSXF2bWxVai1mZURDVnBEcEx1dXVGRjAwNWVwU1U4WW9pdFRp?oc=5",
    "title": "Get ready for humanoid robots, says He Xiaopeng",
    "source": "The Economist",
@@ -746,6 +1100,17 @@
    "desk": "opinion",
    "published": "2026-11-18T10:12:16+00:00",
    "seen": "2026-11-19T01:57:51+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdGZ0UHJVRS1Zcl9BbXhFVEhpRTQ0VUxiT1p6a09yR0VOaEh6X19yMWUtRVd3dm4ySV94OGJHT2J3VzlhbmVfSXVrZGtsLWo2OW9KWGdvRE1BQWZnR2tsZmNDZnBYdms5ajNNckdvQjhVVjJoRmFGSjNYMWpRR3JDd0RHdmxvMmZWOWRTWUg5WG9nQzN1cmlpUnlVQlljUGNhcUhoWkdPbUJzaVZxUG9vRXg1VQ?oc=5",
+   "title": "Chinese firms will build cars abroad in ever greater numbers",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-18T10:11:43+00:00",
+   "seen": "2026-11-19T10:24:07+00:00",
    "via_google": true,
    "ftries": 1,
    "fetched": true
@@ -784,6 +1149,28 @@
     "Back in the world of observational science, it is generally accepted that Arctic sea ice, summer and winter, has been stable for over 20 years . This popular climate scare was generally held to be on its last legs following a recent well publicised paper from Dr Mark England of the University of Exeter. Conceding the obvious, he noted a “surprising, but not unexpected pause”. Of course, it might be added that it was only surprising to those who get their information from computer models, and not unexpected for those who consult cyclical Arctic ice trends over decades rather than months."
    ],
    "lede": "Needless to say, the terminal coral message is not sourced and is based on an unnamed “prediction” that “could” happen."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMXVsQzU3SGIwX3BIblgtR1VnRGhwVjcxUXIzNzR4QnJiRC1mbjZfb2JFWlN3LXVNU2VTUFExVXV3V3JEVFBhZ2s5NzZwRDRlNDVPODNVOEFaa0I5OFFDTnZGakhXRDZubDREYjFpTm5qeHRIak5EdlpFcXlLSFBiTVQ4NFFvM283TThLSFNjbzNKdVZnRjVySkRaU2NMWlk2OG5Vdk5xTQ?oc=5",
+   "title": "American and Chinese approaches to AI will converge",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-18T10:01:05+00:00",
+   "seen": "2026-11-19T10:24:07+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaTZYeE42NENweFp3SGdqUXk2am9WY3JiYnlHT0NkTnhJaXRCOXBqdEo3ZV8tNW1wbnRidjg1ekNoTU9qOFpRUVBhbXFCcWRlQy1GSmI2aHFra0dGRlNUTWczSDRCdkwyeXdJYlBqMTJnQlZuX1NXc3pZSXh2U0JsY1RYeHdXS1h6ZEpBcDVRR3l0WUFzbE9McnU2Nm5EdmhUVnVtWWs1Yw?oc=5",
+   "title": "Humanoid robots will become a common sight in China",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-18T10:00:06+00:00",
+   "seen": "2026-11-19T10:24:07+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcHRLZmUxYi1fUEhGbjcyN09CQ2VNNy0wVlJfWjIxOFNvTHZraDdNbDZlM0JSVExxMEdib3RCX2N3ZExDYVQ5MXlFZTFzVUZoNDJUNzZGOXB6UEtRS2pzbFdqQm5JdjZGSDJENTlKY1g4SnJtYXpFSjRhckowUkxlOGpLcFNFc1I2OXllVkxobzhPbEhKNzBwMjFmZm1tQQ?oc=5",
@@ -961,6 +1348,17 @@
    ],
    "lede": "Time and credit is running out for the Australian / Turkish COP hosts: as the pressure mounts will they stick or twist?",
    "cop": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdGhuaEFQM1lyNGhIZHVTS1dDN2ttYkZ2VzFHcVQtXzFGNkNxcGZsYWpFU2t2ZkZod3RXd1NYenBDZU10dVJjb2NmWVAtSVpxWHNybUJGVlRZb19oRkJjMnV2QldTZEw5Sm43WjVZSDBwOVVkSnUwOXNQQ3hvTHVpTjhyemY4RVVsRHFLR3FBeGpBSXhCOVZ1MnBDTmFXa3RodF9odWhGRHdtMVFIbDVEZg?oc=5",
+   "title": "Infratil CEO Optimistic on Long-Term Demand for Data Centers",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-18T02:12:00+00:00",
+   "seen": "2026-11-19T10:24:07+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVVVaTERLVnhKR3MtTHNMaUkyWVZrYzJ1MmlpV0dHeFNCVzhNQzdJNVU2NVVTcHVpME84WW9SS2pWZGw0cXVLSjlIX1hiUHBNckxtRERacElNYnNDUkV6dDhCR21fQWNoR0xpTG12LVh1QnYwOXJSd0ZZQnFTbDVBUzB4MDVONkVVcGlRXzlUeXBXal9LdXlkYXJDT0stNW9sYmtN?oc=5",
@@ -1428,6 +1826,17 @@
    "lede": "O n Myrtle Farm in Somerset, there are thousands of apple trees laid out in rows of 100. Over the past year, each has endured the same wet winter and long summer drought."
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORG5heVNzajhYb0lLRUVKYUdvSkJWZU9MMW5oZzdmM2pfNjl5QkNKTE4wUmEzLWtXNmZHMGpuQzJKb0hoclJzM0ZzVTNYZkxfMEU4N2wxb0JicnlUckdjUDJDSm9idzJ0ZEl6a09vOS04Zmx2cUVCQ1lYcDIwZlBOY1pYejNYbzVGUEZhRW1WTGVWdXdac0c3NXVXTGNNLXBzMmp5R3BHZ0d2R0g0NVZhMEMzTQ?oc=5",
+   "title": "Envision Said to Weigh Adding Data Center Power Unit to IPO Plan",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-17T07:00:00+00:00",
+   "seen": "2026-11-19T10:24:07+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://wattsupwiththat.com/2026/11/16/theyre-back-the-mullahs-of-meteorology-and-climate/",
    "title": "They’re back: The mullahs of meteorology and climate",
    "source": "Watts Up With That",
@@ -1643,6 +2052,17 @@
     "On Oct. 24, all of Alabama’s congressional delegation—Republicans and Democrats— signed a letter supporting Gov. Kay Ivey’s request to Trump for a major disaster declaration for 23 counties in the southern part of the state, including much of the second district. They have received no reply."
    ],
    "lede": "Incumbent Shomari Figures reflects on the discontent that fueled his unlikely victory: voters’ frustrations over affordability, Republican redistricting and delayed disaster relief."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeUdDXzVqbUpCb3VibUI5M1JDbWEwcnZFVUdQT05zQWxfNHRIQVkzTUZ4YVhfS2hKSzdkRm1yRzkxaHRkZGxpem1COVNEQk80VFhhSmFqTnNzc2owM0NlUTc1dXoxRE9mNmI1alZUSWh6ZWhFRjVCV0tYSkF0bnBqVUJhY0UxZE9qbjhubXFJMS1wc1g1VWdqZWhkaHQ2UkpkVGZIOGlYeExRbzV1cHNR?oc=5",
+   "title": "HSBC Sold $300 Million Troubled Data Center Loan at Discount",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-16T22:01:27+00:00",
+   "seen": "2026-11-19T10:24:07+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://wattsupwiththat.com/2026/11/16/cop31-electrification-absurdity-australia-leads-the-charge/",
@@ -1863,6 +2283,17 @@
    ],
    "lede": "International Energy Agency chief Fatih Birol celebrates the electricity demands of AI and electric cars, but the revolution must be about more than luxuries for the rich.",
    "cop": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONmdvREdrMXNHU3B6VVdldWdxVWswUnNjeXU4T2xGTlFfeDkyRzg0YkRweTdtZnhJNEZQcDRIMkR0NEw4Zk5QVzFfVllmMlI2OHFZeFRUMnVLRzIzSUY1U0RVSnZma2lZQjZORXIxSjZYck1fMExpMDVncXRka0dPby1tSW14SU40eDUtTnR2SmU2N0lNN243MkRlM01xQmpJeGtXT2wwelpPcXhET1lnQg?oc=5",
+   "title": "Blackstone REIT to Buy Amazon Data Centers in $5 Billion Deal",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-16T14:48:30+00:00",
+   "seen": "2026-11-19T10:24:07+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWDNoZzZRNXJWSGVCbG1SOEVYWWVxdTFIcnlvbkN0RTZDQVNKTmRYbFJheW00SzZkcU8xWG1OQm8tN0ZGRmlLYW5VWEdFRE9oOW9SMkk5clk5V2podHNFa1Nya1lyVllxM2VWaHJZekszQzMzcURjcHJ5UDFRTHBrdFJJOGlkRE1oZHlxU1ZKZ0J2cFlyd3c?oc=5",
@@ -2097,6 +2528,17 @@
    "published": "2026-11-16T07:46:00+00:00",
    "seen": "2026-11-19T02:03:16+00:00",
    "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdGQ5WGRTdWVUNFZDdmxmdDBKaEQyamJ2WE1aQXQ1TGs3T0RFbmxKRlpaX3dIMWk5bzdVQlEtVWtyTU9yVXJabnlMbUZXVGxkMm9pWE5DWU9nMkVJTWxxM1NlZzl6UFIxQld1UUJxX041Z0d6dWRUcmZrSUVfV2ZobEhEZVpQRnZwSzlDZVBqZ01WcEt6NEZlWW5GWmNNaHVVd3BnZzFKZy1LZjR3X3c?oc=5",
+   "title": "Thai GDP Growth Accelerates to 2.9% on AI, Missing Estimates",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-16T06:17:00+00:00",
+   "seen": "2026-11-19T10:24:07+00:00",
    "via_google": true,
    "ftries": 1,
    "fetched": true
@@ -2406,6 +2848,18 @@
    "lede": "So, while the UHI effect in NYC is quite large (+3 to +4 deg."
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOak5nb2tVZ1dwUlZoWGZfSXpuaHJnMHlyUUlVOUlpSzVLZVRWLXBuc0o5VGgzMkdvajJfNXdsNXFaaklCSXpKZkY2NTBiNGJCZjZqdGIwdHU1YlBOZkEtalBkNE12dGl0SEdnODhocEtHWkI3dE1qY19sa3NxT1A5R0xPREdXM3k4NWI4dlNJcG1YSjc5V0RURTVHeHh0X0wzN1NpUjk0SUNGWDg?oc=5",
+   "title": "Coalition to move away from fossil fuels presses ahead without Colombia, its original champion",
+   "source": "Associated Press",
+   "desk": "reporting",
+   "published": "2026-11-15T02:01:00+00:00",
+   "seen": "2026-11-19T10:24:07+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://wattsupwiththat.com/2026/11/14/what-happens-when-our-ccgt-plants-shut-down/",
    "title": "What Happens When Our CCGT Plants Shut Down?",
    "source": "Watts Up With That",
@@ -2456,6 +2910,18 @@
    "cop": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMUdMa3BVSk45alRMRFZoSmM0ZllsLVVMcEdKaDZpbzh5UW5EeGR2WHVmYTh5aE1KRnlleEIwMEVyc1o0VVVael9pMHVaa25BSmpZYUpENWxCZ09aOW1VRlJqZkhMcjVSWnlXcFNBaGFzSUkwbG85SlpZZF9jYlltMHkzRC1fSUxVSFNRQ2hfVEdUMzdXSHc4TzBzZnFFZFhtSU1fNjJVcFppZ1Z2REp6bFdDV0NGbGlRVHc?oc=5",
+   "title": "UN climate chief urges speed as COP31 confronts fossil fuel divide",
+   "source": "Reuters",
+   "desk": "reporting",
+   "published": "2026-11-14T15:31:46+00:00",
+   "seen": "2026-11-19T10:24:07+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://www.climatechangenews.com/2026/11/14/cop31-bulletin-day-6-limited-progress-as-ministers-arrive-in-antalya/",
    "title": "COP31 Bulletin Day 6: Climate marchers call for justice as talks make limited progress",
    "source": "Climate Home News",
@@ -2480,6 +2946,18 @@
    ],
    "lede": "As negotiators race to lay the ground for the big political fights coming in the second week of COP31, campaigners took to the streets of Antalya demanding that governments keep their climate promises.",
    "cop": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZWw3R0VwdDZ5MVhtNGNaOFpQdjBDT2lxNU5OZXM3Q1VtSkk2SzdMQWJ6U2hKd0xtTXRIVE0tdHcwSFo0bnFaYlY0QkZYbHBaWmlhQVJYYUhhQTF0UDEtSnlqM2UxeTl1MDhwSHVHRkxzdVJiRjJVSTJkOTZaZEVSYzNZUmwxWGdxd0ow?oc=5",
+   "title": "UN chief says 'immediate and drastic' emissions cuts needed to avert climate change catastrophe",
+   "source": "Associated Press",
+   "desk": "reporting",
+   "published": "2026-11-14T06:18:00+00:00",
+   "seen": "2026-11-19T10:24:07+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://climatediplobrief.substack.com/p/climate-diplomacy-brief-cop31-day-602",
@@ -2569,6 +3047,18 @@
    "cop": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNWRLdGhNWkstQjg5ZFF3bDlVWGp3LXFIc1ZzZm83dGRnajdsUFh0a0t2VTBEOE9Zam5HVVdBXzhvREFhYjN5S2hmeXAwTjJjY19WcHoxUFV3ZTF5OWhUaXpvcEZ4VWRJMlRkT3VqN3Blbm54dTdoalhza1RxUHdoWE5zVC1KQnlXWjgtS1pJODhEUXpOUWlrT0JGYWprVWtrZU5aampLMFRBUDNCSjZlNkExMDRVbWM?oc=5",
+   "title": "UK, Norway and Canada launch $10 billion climate finance initiative",
+   "source": "Reuters",
+   "desk": "reporting",
+   "published": "2026-11-13T18:32:54+00:00",
+   "seen": "2026-11-19T10:24:07+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://www.nytimes.com/2026/11/13/climate/cop31-turkey-ipcc-climate-report.html",
    "title": "Timing of Climate Science Reports Ignites a Hot Fight at U.N. Talks",
    "source": "The New York Times",
@@ -2592,6 +3082,18 @@
    "ftries": 1,
    "fetched": true,
    "cop": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTWI0TFhtUEJVQks4dTRVcFRxdF9Lbmw3dDV0cjVhQWRDQ1pwbVR5al84TEZ5Y29aZllBMVpKZVREMVBndVlZMk00MWpMQlJNSGpSa1h4NGk3MllKZnZDYnVDa2trd09pT2xXR3lySnRpVXNJTGZjNVYyb2dxeWZVeFR3?oc=5",
+   "title": "Desperate for good news, COP31 aims for a win on ‘super pollutant’ methane",
+   "source": "POLITICO.eu",
+   "desk": "reporting",
+   "published": "2026-11-13T16:14:00+00:00",
+   "seen": "2026-11-19T10:24:07+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://yaleclimateconnections.org/2026/11/ironworkers-in-high-demand-as-wind-energy-booms/",
@@ -2673,6 +3175,18 @@
    ],
    "lede": "Catnip It says much about events at COP31 on Thursday that a Turkish news agency decided to attach a camera to a cat and allow it to prowl through the venue.",
    "cop": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTXlUSWVwbVZ3UkJ4dERlR1FpSXZ3WmZEN2ljSnotaS1HNE1CS19CZ0lLZ0hXa3l1SEotV01uWWRRNVBQSi1ybmxVSE4yN2tYZkwyRTg1VGhOTWxCeUdlMU9vNDhxdGdCZFIzLUhCb19LMEtFZ0VTSm94TlVuMVc1T0k1TGU2LVZCN0dNdUJZcnBCWl9YTXIxTzBmbTRNRXY5Z24wcXJ6bWlrLVhsYUNpMlh3ODI2WnU0WUZtOA?oc=5",
+   "title": "UN climate summit pushes electrification goal as groups call for mining safeguards",
+   "source": "Associated Press",
+   "desk": "reporting",
+   "published": "2026-11-13T02:03:00+00:00",
+   "seen": "2026-11-19T10:24:07+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://yaleclimateconnections.org/2026/11/se-puede-recoger-agua-de-lluvia-en-estados-unidos/",
@@ -3365,6 +3879,31 @@
    "cop": true
   },
   {
+   "url": "https://climatediplobrief.substack.com/p/climate-diplomacy-brief-cop31-day",
+   "title": "Climate Diplomacy Brief",
+   "source": "Climate Diplomacy Brief",
+   "desk": "politics",
+   "published": "2026-11-09T05:59:48+00:00",
+   "seen": "2026-11-19T10:24:07+00:00",
+   "byline": "Ed King",
+   "description": "100,000 expected in Antalya as annual UN climate summit opens amid bubbling geopolitical tensions",
+   "image": "https://substackcdn.com/image/fetch/$s_!hd6W!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5417cabd-1a47-4c5f-80f5-bf28c3b07084_799x533.jpeg",
+   "ftries": 1,
+   "fetched": true,
+   "paragraphs": [
+    "Use your illusion A city with hotels modelled on the Kremlin, Concorde, Chrysler building and Titanic was always destined to host a UN climate summit. The annual COP is filled with KGB intrigue, sonic-boom-breaking expectations, sky-high aspirations and diplomatic icebergs. Antalya has seen off the Greek, Roman, Byzantine and Ottoman Empires. Late nights and acronyms may yet break it. Let’s COP!",
+    "Context COP1 kicked off in 1995. Angela Merkel was the future. 31 years on, many of the warnings from scientists are now coming true. Record greenhouse gas emissions are spiking global temperatures. Glaciers are crumbling. Oceans are broiling. A super El Niño is lurking. Outgoing UN chief Guterres is rumbling. “We can no longer have endless discussions in which everybody tries to push the responsibility to someone else,” he told AP.",
+    "Expectations “No single COP is a silver bullet that can stop climate change overnight” is the new favourite line of UN climate chief Stiell. Serious expectations management are afoot. Türkiye is placing emphasis on the voluntary ‘Action Agenda’. Australia is talking up ‘practical action’. The geopolitics are tortuous, but don’t head to the Kremlin waterpark just yet. Soaring oil & gas prices and cleantech’s growth offer a little more hope, as IEA boss Birol details here.",
+    "Benchmarks “COP31 lacks a single ‘big-ticket’ mandate – it is a classic intermediate COP,” writes veteran French climate diplomat Paul Watkinson. He’s probably right, but with AFP reporting 100,000 are expected to attend it does need to deliver some tickets, otherwise why bother? Below are the benchmarks we’re working with:",
+    "1. Is finance allocated by COP31 to Nepal for reconstruction/early warning? 2. Is there a clean electrification goal? Does it include $$$, grids & policies? 3. Are new fossil fuel phaseout plans published by governments? 4. Will hosts Türkiye & Australia commit to curbing coal use/exports? 5. Is there a plan to triple adaptation finance (as agreed in 2025)? 6. Have countries agreed (in negotiations) on how Global Stocktake 2 will work? 7. Will the IPCC deliver its next blockbuster report by GST2/2028?",
+    "Bedfellows They should get on: in many respects Australia and Türkiye are similar climate and energy beasts. Both have climate plans ranked pretty rubbish by Climate Action Tracker. Both love coal. Both also love solar and want to protect the ocean. One key difference is while Kurum is happy to discuss moving away from fossil fuels, Bowen is evidently under orders from above not to mention Australia’s addiction, which as negotiations lead is a little awkward.",
+    "Bookmark *IEA: Energy crisis policy tracker *Carbon Brief: Who wants what at COP31? *Carbon Brief: Negotiating text tracker *NRDC: International climate finance tracker *CAT: GHG analysis of all major emitters *ENB: Priceless daily update from inside the talks *Ember: Why rapid electrification matters",
+    "Signals Bowen and Kurum say they’ll begin to negotiate a cover text from the beginning, a different approach to former presidents who’ve waited till week 2. Tuesday evening’s consultations/ bushtucker trial will be a test for the Oz/Turk relationship. Do they push for a Christmas tree text (shiny, baubles, lacking substance) or stay focused on clean electrification and fossil fuels, tripling adaptation finance etc? It’s a choice."
+   ],
+   "lede": "Use your illusion A city with hotels modelled on the Kremlin, Concorde, Chrysler building and Titanic was always destined to host a UN climate summit.",
+   "cop": true
+  },
+  {
    "url": "https://www.nytimes.com/2026/11/08/business/cop-31-iran-war-oil.html",
    "title": "Why the Iran War Has Spurred Both Clean Energy and Fossil Fuels",
    "source": "The New York Times",
@@ -3620,6 +4159,31 @@
    "cop": true
   },
   {
+   "url": "https://climatediplobrief.substack.com/p/climate-diplomacy-briefing-cop31",
+   "title": "Climate Diplomacy Brief: COP31 preview",
+   "source": "Climate Diplomacy Brief",
+   "desk": "politics",
+   "published": "2026-11-05T11:52:51+00:00",
+   "seen": "2026-11-19T10:24:07+00:00",
+   "byline": "Ed King",
+   "description": "Will US midterms & Lula’s win in Brazil deliver a COP31 bounce?",
+   "image": "https://substackcdn.com/image/fetch/$s_!TPRV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0a94834f-aada-4415-9653-fd8fa6a1730a_800x475.jpeg",
+   "ftries": 1,
+   "fetched": true,
+   "paragraphs": [
+    "One vision “Wake up, wake up, put your hand on your heart before time is up.” Two minutes into one of the latest musical posts by the COP31 team it occurred to me that perhaps they think they’re hosting Eurovision, not a two-week climate summit involving 190+ countries and 50+ world leaders. Maybe that’s for the best. Another COP31 top tune’s lyrics include “ bring down the heat… let’s COP… take it to the top ”. Who says AI is bad for songwriting?",
+    "Context The UN’s annual review of national climate plans (aka NDCs) dropped on 27 Oct. 154 countries have lodged 2035 targets with the UN. Submitted plans cover 71% of global emissions (excluding land use). The good: the quality of plans is much better, legislation is tighter, tracking is clearer. The bad: “progress in lowering projected emissions [from the 1.5C targets] remains substantially off track” warns the UN.",
+    "Expectations Ignore for a moment the deluge of LinkedIn short-form videos building Antalya up as a huge moment. Two weeks in an exhibition hall won’t change global politics. “No single COP can fix this global crisis, but each takes meaningful steps forward”, UN climate chief Stiell said on 21 Sept. Despite the shadow of record heat, lethal glacier collapse and extreme weather, progress in Antalya will be incremental. This is the UN, not Usain Bolt.",
+    "Bookmark *Carbon Brief: Who wants what at COP31? *NRDC: International climate finance tracker *CAT: GHG analysis of all major emitters * ENB: Priceless daily update from inside the talks",
+    "1.5C “Countries cannot waffle on or walk away from 1.5”, reads a punchy pre-COP note from the 39-strong Alliance of Small Island States (AOSIS). With the UNEP ‘ Limiting overshoot ’ report warning the 1.5C threshold is set to be breached, small islands are worried. And angry. Ditching 1.5C would be ‘egregious’ they say. They will hold ‘historical emitters and developed countries’ to account. ‘COP31 must be a reckoning’, they warn. Buckle up.",
+    "Presidency goals Ankara’s priorities are evident in its agenda for the 11-12 Nov Leaders Summit: electrification, green industrialisation, finance, zero waste and methane. And we know both Australia and Türkiye plan an overarching cover decision at the end to “recognise… bring profile… reaffirm” key issues. The emphasis is more on sending signals than on brokering major political shifts, which makes sense given the unstable state of the world.",
+    "Benchmarks So what could we reasonably expect, given fast rising greenhouse gas emissions need to be cut 18% by 2030, according to the latest UNEP Emissions Gap report? Below are 7 tests for COP31 that we’ll use to assess progress (and yes, I’m sure 4 won’t happen, but if you insist on hosting a climate summit there are some basic asks you should expect).",
+    "1. Is finance allocated by COP31 to Nepal for reconstruction/early warning? 2. Is there a clean electrification goal? Does it include $$$, grids & policies? 3. Are new fossil fuel phaseout plans published by governments? 4. Do hosts Türkiye & Australia commit to curbing coal use/exports? 5. Is there a plan to triple adaptation finance (as agreed in 2025)? 6. Have countries agreed (in negotiations) on how Global Stocktake 2 will work? 7. Will the IPCC deliver its next blockbuster report by GST2/2028?"
+   ],
+   "lede": "Will US midterms & Lula’s win in Brazil deliver a COP31 bounce?",
+   "cop": true
+  },
+  {
    "url": "https://www.climatechangenews.com/2026/11/05/clean-power-shields-china-from-oil-shock-more-than-any-other-country/",
    "title": "Clean power shields China from oil shock more than any other country",
    "source": "Climate Home News",
@@ -3833,6 +4397,25 @@
     "For any questions about the station data archive, please reach out to synthesis@berkeleyearth.org ."
    ],
    "lede": "For fifteen years stakeholders from across the climate, resilience, and research ecosystems have come to Berkeley Earth for a clear, transparent, and trustworthy read on how our climate is changing."
+  },
+  {
+   "url": "https://climatediplobrief.substack.com/p/climate-diplomacy-brief-world-bank",
+   "title": "Climate Diplomacy Brief: World Bank / IMF Annual Meeting special",
+   "source": "Climate Diplomacy Brief",
+   "desk": "politics",
+   "published": "2026-10-11T17:11:07+00:00",
+   "seen": "2026-11-19T10:24:07+00:00",
+   "byline": "Ed King",
+   "description": "WBG boss Banga faces key test in midst of biting climate impacts & fossil fuel crisis - but will US handlers let him off the leash?",
+   "image": "https://substackcdn.com/image/fetch/$s_!o7tq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F08cad0f2-2bcf-41ea-a498-57871cad4018_800x450.jpeg",
+   "ftries": 1,
+   "fetched": true,
+   "paragraphs": [
+    "MDBs to MCFs The other set of funds not to forget are the so-called ‘Multilateral Climate Funds’ - these are effectively banks set up purely for climate funding in the past 2-3 decades. Wonks at Germanwatch reckon the tripling of the multilateral climate finance target by 2030 on 2022 levels is possible. Below are two examples, the GCF & GEF.",
+    "New cash Typically most finance in the past came from G7 / developed countries like the US, Japan, Norway, EU nations, Canada etc. That dynamic is shifting. So-called ‘non-traditional donors’ now contribute significant climate finance to developing countries, WRI analysis shows:",
+    "What else could we possibly leave you with but Bangaranga by Dara. Let’s hope Ajay shows the same energy this week. Mehr & Ed"
+   ],
+   "lede": "WBG boss Banga faces key test in midst of biting climate impacts & fossil fuel crisis - but will US handlers let him off the leash?"
   },
   {
    "url": "https://www.theatlantic.com/science/2026/10/hurricane-season-isaias-simon/688961/?utm_source=feed",

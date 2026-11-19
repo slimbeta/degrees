@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T10:24:07+00:00",
+ "updated": "2026-11-19T19:29:47+00:00",
  "briefing": {
   "headline": "COP31, fossil fuels and El Niño",
   "period": "Nov 13–19",
@@ -44,6 +44,370 @@
   ]
  },
  "articles": [
+  {
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQnZBUXpSc0Fpa2lCa0MwaTh6dVYxSmh6WngySVRleUtxTVFBaDMyaXpVRWpkcEg2UVpwS3RMYTBxQTVUNHZubEtSbGZLb0tNUHE3eGR0UHpmZWszakN6cGZuYkVGVkMwZ0l1d3czcGxwWlg5TlQtQW1RQzA5TjVWLXZQNVRmQVBlRkg1WDRJRzR1RUpOblVxS2VTUC1kMUZUYWZ4WGpjSQ?oc=5",
+   "title": "El Nino raises the stakes as COP31 wrestles over finance",
+   "source": "Reuters",
+   "desk": "reporting",
+   "published": "2026-11-19T18:41:52+00:00",
+   "seen": "2026-11-19T19:29:47+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://insideclimatenews.org/news/19112026/california-marathon-martinez-refinery-osha-violations/",
+   "title": "California Refinery That Locked Out Workers Fined for Safety Violations",
+   "source": "Inside Climate News",
+   "desk": "reporting",
+   "published": "2026-11-19T18:36:28+00:00",
+   "seen": "2026-11-19T19:29:47+00:00",
+   "cats": [
+    "Fossil Fuels",
+    "Justice & Health",
+    "California",
+    "Marathon Petroleum",
+    "Occupational Safety and Health Administration",
+    "OSHA",
+    "refineries",
+    "refinery"
+   ],
+   "description": "Marathon didn’t properly train all the workers’ replacements, exposing them to potentially deadly hazards, the state said.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://insideclimatenews.org/wp-content/uploads/2026/11/platform-picket.jpg",
+   "paragraphs": [
+    "When refinery operators went on strike to demand safer conditions at a renewable fuels facility northeast of San Francisco in April, they worried that workers brought in to replace them hadn’t been adequately trained to run their potentially explosive processing units. The strikers’ concerns grew as they saw unusually frequent and intense flaring, giant flames shooting up from stacks that burn flammable gases to prevent explosions—a sign of problems inside the plant.",
+    "California inspectors confirmed workers’ concerns last month. The state’s Division of Occupational Safety and Health, known as Cal/OSHA, cited Marathon for several violations. Among the most serious was the failure “to train each employee before starting work in a newly assigned process” and “provide the training curriculum … and training certification for newly assigned employees,” documents reviewed by Inside Climate News reveal.",
+    "Marathon USW Local 5 members raised their safety concerns during months of contract negotiations with the company, which rejected workers’ proposals to address fatigue from relentless overtime shifts resulting from chronic understaffing. The strike turned into a lockout in June, when Marathon rebuffed the union’s unconditional return-to-work offer.",
+    "Dan Gearino’s habit-forming weekly take on how to understand the energy transformation reshaping our world.",
+    "A once-a-week digest of the most pressing climate-related news, written by Kate Waxman and released every Tuesday.",
+    "Don’t miss a beat. Get a daily email of our original, groundbreaking stories written by our national network of award-winning reporters.",
+    "A digest of stories on the inequalities that worsen the impacts of climate change on vulnerable communities.",
+    "Operators’ fears about safety emerged as soon as they left the plant to go on strike at midnight on April 27. They realized the people who were taking over their shift had not been trained on their units, said Nick Plurkowski, United Steelworkers Local 5 president. “We had safety concerns with the way the shift turnovers went,” he said.",
+    "Now the workers are even more concerned about inadequate operator training and oversight of the plant’s volatile operations, which they blamed for the catastrophic accident that nearly killed their co-worker Jerome Serrano three years ago on Nov. 19.",
+    "The federal agency that investigates the causes of industrial accidents agreed with the workers."
+   ],
+   "lede": "Marathon didn’t properly train all the workers’ replacements, exposing them to potentially deadly hazards, the state said."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQmdwRmVVelpCME1XUFJaY205YnloQ1NrdDhSVDBiZkhjTU9oQlp4WUg5YXFRNWp5RzhhVlN2bC1mUHFrVEhKalZJMGhjeHNla3ppQTc1Y2FwcWwweDJydXlRVzI0aUE4S3JyWXpJaEs2WjJOQWNKNTNMeEVZRWgwT3I0SUZsbjBtcGlDbS0zSy11SlI4MjE1VkVUMGd6Q0w1LVFqUTE1Nko2SlE?oc=5",
+   "title": "At COP31, Venezuela touts AI as path to cleaner oil production",
+   "source": "Reuters",
+   "desk": "reporting",
+   "published": "2026-11-19T18:13:50+00:00",
+   "seen": "2026-11-19T19:29:47+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://wattsupwiththat.com/2026/11/19/hilarious-350-org-expresses-outrage-as-cop31-fossil-fuel-transition-eliminated/",
+   "title": "HILARIOUS: 350.org expresses ‘outrage’ as COP31 fossil fuel transition eliminated",
+   "source": "Watts Up With That",
+   "desk": "opinion",
+   "published": "2026-11-19T18:08:00+00:00",
+   "seen": "2026-11-19T19:29:47+00:00",
+   "cats": [
+    "Climate News"
+   ],
+   "note": "Skeptic blog",
+   "description": "ANTALYA, TÜRKIYE – 350.org(opens in a new tab) expressed outrage at the latest COP31 cover decision(opens in a new tab), which eliminated all mention of the transition away from fossil fuels, despite calls from countries across negotiating blocs to center a political outcome on moving forward roadmaps to move away from oil, coal, and gas – the root cause of the climate crisis.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2026/11/350fail.webp?fit=1024%2C512&quality=75&ssl=1",
+   "paragraphs": [
+    "As near-final texts emerge, 350.org(opens in a new tab) warns that fossil fuel phase-out efforts are being completely sidelined by the COP31 presidencies, finance commitments are missing, and clean electrification risks being diluted by carbon capture and fossil fuel loopholes.",
+    "“ We are on the brink of an outrageous and utterly embarrassing lack of leadership by the COP31 presidencies. They have reduced one of the defining challenges of our time to an inconvenient paragraph they would rather delete, while leaving the door open for fossil fuels to masquerade as clean electrification. Last year, Brazil, a country deeply dependent on oil, had the political courage to start confronting the difficult question of how to move beyond fossil fuels. This year with Minister Bowen we got a spineless fossil fuel bro while the Türkiye presidency stands by. If the COP31 presidencies want to keep some level of credibility, they should announce to take forward the global and national roadmaps in a presidency initiative similar to what the COP30 presidency did.",
+    "Rich countries’ failure on finance is a historic disgrace. They expect developing countries to shoulder the costs of a global transition while refusing to provide the means to deliver it. This is not a failure of technical negotiations. It is a shameless abdication of political responsibility. If this is where COP31 lands, history will remember it as a summit where those entrusted with leadership chose the comfort of inaction over the courage to confront reality.”",
+    "“More than 600 million people in the continent of Africa are still living in the dark and are in desperate need for reliable, affordable renewable energy. But electrification that masquerades as green yet opens the door to more fossil fuel use is not what we came here for. Africa needs to electrify with renewables to keep people safe, lower bills, and create green jobs and industries.",
+    "Developing countries and frontline communities don’t need another process, they need the money. COP31 must set the baseline now and get it delivered. Anything less is a cruel injustice and an insult we will not accept.”",
+    "Fenton Lutunatabua, 350.org (opens in a new tab) Pacific and Caribbean Lead said: “ Australia calls itself part of the Pacific family, but the direction of the talks are already pointing to a betrayal of the Pacific. COP31 must keep 1.5°C and momentum on the transition away from fossil fuels alive. While overshooting 1.5°C is now inevitable, but we absolutely can’t accept it as the norm. Every year above 1.5°C puts more pressure on Pacific ecosystems, infrastructure and lives. Yet world leaders are ignoring our reality and showing an outrageous lack of political will on phasing out fossil fuels. We cannot rely on costly, unproven technologies such as carbon capture to get us out of this crisis. The science is clear: ending coal, oil and gas now is the only way to limit overshoot.”"
+   ],
+   "lede": "350.org(opens in a new tab) expressed outrage at the latest COP31 cover decision(opens in a new tab), which eliminated all mention of the transition away from fossil fuels, despite calls from countries across…",
+   "cop": true
+  },
+  {
+   "url": "https://www.theguardian.com/environment/2026/nov/19/cop31-risks-becoming-ghost-summit-after-all-mentions-of-fossil-fuels-removed-from-draft-text",
+   "title": "Cop31 told it risks being ‘ghost’ summit as all mentions of ‘fossil fuels’ removed from draft text",
+   "source": "The Guardian",
+   "desk": "reporting",
+   "published": "2026-11-19T17:58:21+00:00",
+   "seen": "2026-11-19T19:29:47+00:00",
+   "cats": [
+    "Cop31",
+    "Environment",
+    "Climate crisis",
+    "Fossil fuels",
+    "Energy",
+    "World news"
+   ],
+   "description": "Draft agreement also fails to show how developing countries will receive financial help to deal with climate crisis",
+   "image": "https://i.guim.co.uk/img/media/0dcf2f4e26be89799494e7fe6683b3cdce430515/1005_0_6600_5280/master/6600.jpg?width=140&quality=85&auto=format&fit=max&s=dd752f6da9465c083514133dcda63540",
+   "ftries": 1,
+   "fetched": true,
+   "paragraphs": [
+    "Every mention of “fossil fuels” has been expunged from the draft outcome of global climate talks, which were approaching their final hours on Thursday night, threatening to turn the UN summit into what campaigners called a “ghost Cop”.",
+    "The second draft of the key text, released on Thursday afternoon and setting out the main commitments from the Cop31 climate summit in Turkey, removed a pledge to phase out fossil fuels and weakened goals on electrification, while other parallel texts failed to flesh out how developing countries would receive the financial help they needed to deal with the climate crisis.",
+    "Panama made the unusual move of writing to the Turkish and Australian presidents of the talks announcing that unless all its demands were met, it would block any outcome.",
+    "Cop negotiations require consensus, meaning that Panama’s stance, especially if supported by others, has the potential to upend the talks in their final hours.",
+    "The “cover decision” text is likely to be the main outcome of Cop31, containing pledges intended to meet the goals of the Paris agreement in limiting temperature rises and staving off the worst ravages of global heating.",
+    "But in slimming down by half an unwieldy 18-page first draft issued on Monday, the joint presidencies of Australia and Turkey cut many of the commitments – including a phaseout of fossil fuels, and stronger support for developing countries to adapt to extreme weather – that vulnerable countries were relying on.",
+    "Countries agreed to transition away from fossil fuels at Cop28 in 2023, but negotiations since have failed to flesh out the ambition.",
+    "“Frontline communities will look on with despair,” said Mohamed Adow, director of the Power Shift Africa thinktank. “If this version of the text remains, it will be a ghost Cop. The summit will have nothing to show for what happened here.”",
+    "His verdict – that the talks had been “muzzled” by the refusal of some fossil fuel producing countries to allow a commitment to “transition away from fossil fuels” to stand – was echoed by campaigners around the world."
+   ],
+   "lede": "Every mention of “fossil fuels” has been expunged from the draft outcome of global climate talks, which were approaching their final hours on Thursday night, threatening to turn the UN summit into what campaigners…",
+   "cop": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZTdPVjNhWXhQa2lQM1JSWnZUTGtFd0xQY3BqNUlDQzhxOTNiS3I5THhaODg5SC1oTDN6LWJnUXM0WGxNLTQtTUQxOEV3Vm1FbEVQSTV2TEppTDF0Tnc5a0p6YVd4NU1INVp2Q0FxZmk4RWVVeXE3SUw3a0RzNzIxZlFTNVdwM0JHVWc0enUtcDJqTndZR1hkM0lmTGw5Qm1SQ2JHTGRqaHgxUk1vdDVIQ2NB?oc=5",
+   "title": "Los Angeles Flood Threat Builds as El Niño Storm Sweeps South",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-19T17:53:18+00:00",
+   "seen": "2026-11-19T19:29:47+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://berkeleyearth.org/october-2026-temperature-update/",
+   "title": "October 2026 Temperature Update",
+   "source": "Berkeley Earth",
+   "desk": "science",
+   "published": "2026-11-19T16:00:00+00:00",
+   "seen": "2026-11-19T19:29:47+00:00",
+   "cats": [
+    "Featured On Home",
+    "Temperature Updates",
+    "2026",
+    "climate change",
+    "El Nino",
+    "global warming",
+    "land",
+    "Ocean"
+   ],
+   "description": "October 2026 was the warmest October on record. El Niño is at record strength. 2026 is almost certain to become a record warmest year.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://berkeley-earth-wp-offload.storage.googleapis.com/wp-content/uploads/2026/11/12223838/Month_anomaly_map.png",
+   "paragraphs": [
+    "The following is a summary of global temperature conditions in Berkeley Earth’s analysis of October 2026.",
+    "According to Berkeley Earth’s high-resolution temperature dataset, October 2026 was the warmest October since records began in 1850, with a monthly global average of 1.80 ± 0.12 °C (3.25 ± 0.22 °F) above the 1850–1900 (pre-industrial) average. It finished about 0.12 °C above October 2023, the previous record holder, and the rank is unambiguous once the uncertainties are taken into account. Measured as an anomaly, October 2026 was also nominally the warmest month of any kind among the 2122 months since 1850.",
+    "October was a slight increase from September and continued the climb that began in mid-year. Global temperatures have moved well above the long-term trend line as the strengthening El Niño adds its warming influence to the global average.",
+    "The 12-month moving average has turned sharply upward. After falling back toward the long-term trend through 2025 and early 2026, it has risen above the trend line again and is approaching the peak reached in 2024. This short-term variability is an inherent part of the climate system and is expected even alongside persistent long-term global warming.",
+    "In October 2026, warmer-than-average temperatures covered nearly the entire globe. Warmth was especially pronounced across the central and eastern equatorial Pacific, where the El Niño warm tongue dominates the map, and over the Arabian Peninsula, Iran and the Persian Gulf, northern Russia and the Barents Sea, Scandinavia, northern Canada, eastern China and Japan, and the Antarctic Peninsula.",
+    "The most notable cool anomaly covered Argentina and Paraguay, which were unusually cool for October against their own history.",
+    "Roughly 14.4% of Earth’s surface experienced its locally warmest October on record (about 10.4% of land and 16.4% of ocean surfaces). Record warmth covered a large part of the tropical Pacific, the tropical and subtropical North Atlantic, the Arabian Peninsula and Persian Gulf, the Arabian Sea and much of the tropical Indian Ocean, mainland Southeast Asia and the South China Sea, equatorial Africa, northern South America, much of the South Atlantic.",
+    "The eastern tropical Pacific warmth is due to the current El Niño event. Broad warmth continuing to extend across much of the tropics is also a common feature during Super El Niño events.",
+    "Near-record cold for October was confined to a small part of East Antarctica, South America, and a few scattered patches of ocean.",
+    "We further estimate that 45 countries set monthly records for October average temperature: Antigua and Barbuda, Bahrain, Barbados, Benin, Brunei, Burundi, Cambodia, Cameroon, the Central African Republic, Chile, Costa Rica, the Democratic Republic of the Congo, Ecuador, Equatorial Guinea, the Federated States of Micronesia, Gabon, Ghana, Indonesia, Iran, Ivory Coast, Kenya, Kuwait, Laos, Liberia, Malaysia, the Maldives, Myanmar, New Zealand, Nicaragua, Nigeria, Oman, Palau, the Philippines, Qatar, Rwanda, Saint Vincent and the Grenadines, São Tomé and Príncipe, Saudi Arabia, Singapore, Thailand, Togo, Uganda, the United Arab Emirates, the United States of America, and Vietnam."
+   ],
+   "lede": "October 2026 was the warmest October on record. El Niño is at record strength."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWlc2MHpUb3VmbGltejJydzV6TVc3bVFyZTdEYVlkZmVKTVlwOVhyMHVyQnp5b21RTHIybHJ6WHl3c3pTNFhHTlRmOUpMVVdaaXZhZVlFeWtKbTZTbjdNdndrVWIwcVljRDVJM3dIdDFmaWM4YUZobldOZkJ2c3AzV19GT1NoaDdFcFhfUGZobEpKX2ZmQy1KUUhYQmF6U09XcnpDSWNtVUJzMzhEN1ZZOHJFZDcyWGllRFJpZVNmYw?oc=5",
+   "title": "EU countries, Parliament agree to delay EU methane regulation by two years",
+   "source": "Reuters",
+   "desk": "reporting",
+   "published": "2026-11-19T15:56:34+00:00",
+   "seen": "2026-11-19T19:29:47+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWnNmMHZITEU3THdLMmZxbTI5UGtOeXdNb1BPNG9kckV1cENjajg5THowdFRDbENYSWJYS2JhZzJOVVJnRVdBX2RSOWluYmtURUxnWmlEbDV1SEJ1R0NhYVJRX084NHNzNVlKNGZwcUdtdU5IbE5ERGJuMVZHSWh3THhnT3lRdXJ5SGNSZjF4ZFlqNkNtOHRyd1hUa2FkZHRUY2ZZMVpMSVBJVkdqT3JiWXVFMHJnU3YtcVVjNzZXQTRiSk95T2c?oc=5",
+   "title": "COP31 draft drops fossil fuel language as talks near deadline",
+   "source": "Reuters",
+   "desk": "reporting",
+   "published": "2026-11-19T15:11:48+00:00",
+   "seen": "2026-11-19T19:29:47+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth/",
+   "title": "NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth",
+   "source": "NASA",
+   "desk": "science",
+   "published": "2026-11-19T14:31:15+00:00",
+   "seen": "2026-11-19T19:29:47+00:00",
+   "cats": [
+    "Heliophysics",
+    "Heliophysics Division",
+    "Jet Propulsion Laboratory",
+    "Science Mission Directorate",
+    "The Solar System",
+    "The Sun",
+    "Voyager 1"
+   ],
+   "description": "NASA’s Voyager 1 probe, humanity’s farthest-flying spacecraft, has reached one light-day from Earth, after more than 49 years of constant travel. A light-day",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.nasa.gov/wp-content/uploads/2026/11/voyager-1-light-day-horizontal.png",
+   "paragraphs": [
+    "NASA’s Voyager 1 probe, humanity’s farthest-flying spacecraft, has reached one light-day from Earth, after more than 49 years of constant travel. A light-day is the distance light travels in 24 hours, equaling about 16.1 billion miles (25.9 billion kilometers). The spacecraft achieved the milestone at 2:16 a.m. PST (5:16 a.m. EST) Nov. 18.",
+    "Voyager team members at NASA’s Jet Propulsion Laboratory in Southern California, managed by Caltech, heard from the probe 24 hours later, the time it took for the spacecraft’s radio signal traveling at the speed of light to reach Earth, early Thursday.",
+    "“Traveling a light-day is a singular feat for a spacecraft, but Voyager is so much more than a distant traveler. The Voyager mission would be remarkable just for what it contributed to planetary science with the Grand Tour of the outer planets,” said Joe Westlake, director, Heliophysics Division at NASA Headquarters in Washington. “But it went on to become central to NASA’s fleet of heliophysics missions offering insights into the star that we all revolve around, the Sun.”",
+    "Scientists use light to measure the vast distances of space. Light travels at about 186,000 miles (299,000 kilometers) a second in a vacuum. A ray of sunlight passing Earth takes about 1.3 seconds to reach the Moon, about four hours to reach Neptune, and another 20 hours to reach Voyager 1. For comparison, a light-year is 5.88 trillion miles (9.46 trillion kilometers).",
+    "Even though the team has not received science and engineering data from Voyager 1 since Nov. 14, the spacecraft is sending what is called a carrier signal, which typically conveys that data to Earth. Mission engineers used the carrier signal and trajectory calculations to confirm the light-day milestone. They continue to analyze the issue impacting the science and engineering data.",
+    "Humanity’s only probes in interstellar space, Voyager 1 and its twin, Voyager 2, launched in 1977 to take advantage of a rare planetary alignment. Managed by JPL, they were only the third and fourth spacecraft to visit Jupiter and Saturn, and the first to return high-resolution imagery, transforming our understanding of these worlds and their moons. Voyager 2 went on to study the ethereal ice giants, Neptune and Uranus. Both spacecraft continue to measure changes in the Sun’s magnetic field across vast distances.",
+    "“Voyager 1 crossing the light-day threshold is yet another historic feat on an extraordinary voyage of discovery,” said Dave Gallagher, JPL director. “Above all, this milestone stands as a testament to the exceptional teams who built, programmed, and fly these spacecraft today, and who have overcome countless challenges to keep them connected to Earth across the vastness of space. As NASA pushes toward new frontiers in human and robotic exploration, Voyager and the people behind its success continue to inspire us to reach farther and dream bigger.”",
+    "In addition to their suite of scientific instruments, the Voyager probes carry a Golden Record, a gold-plated copper phonograph compiling images and sounds from Earth, as a message to any advanced civilization that might one day find it."
+   ],
+   "lede": "NASA’s Voyager 1 probe, humanity’s farthest-flying spacecraft, has reached one light-day from Earth, after more than 49 years of constant travel."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMnk5d2N1TThRN25fWno4dmtQMXlyMl9PVjVJdWtrT2FObkJ2M2RTQk41N3BtSnpfUG9KWEFKT0JkRGlLMEFHMHdKY1N1WV9LNkY4bk80a1hUeHhSeU5OcXMwNE00V2o1QzhQckR1ZWFSd1d5NEpjSVA4OG12VXEwV1NhQkhtUzJlTVhXdTY3QU5PX28yOVl5Wg?oc=5",
+   "title": "China is kicking up a fuss over a Japanese spy show",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-19T14:01:02+00:00",
+   "seen": "2026-11-19T19:29:47+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOX19SYl9pQnlhWVRncE5TcENCc20zTHg5ejlIdFRFRERzTkFVNzRaTy00WnBKLUdkUGNsTUhaeXg2NDdBajZwYThWTmN4cjUxelZaU25BOXBDRDZLM0VMWDlScjdOd2Nmd3d1dW5wZ1lfNWxRWWpnV0ozRVVBMUJScndQNzV3d0o0cV9oYmhkZHFPeWFGVkVVOA?oc=5",
+   "title": "China’s prison for the elite is massively expanding",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-19T14:01:02+00:00",
+   "seen": "2026-11-19T19:29:47+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcEhxZE4wZV9ocnQ1azBscVA4NlRLTFV3eTlUMU5tTmZLaWR5WWM4RVhQTTBpVUE3NUs2Nng3a1JuU21kcHJIcGE1Mk5iVXp1bElPZ0NfXzltOTMyLWZyc3VwWEExTWhBU1pYOHpoZk1ubWtabm5OS2czVGVwRjJkSEhLYk5XaUxla015dzBCbDBXQ05SLUtJcTljUDUtb2J5Vy1aUkZFUQ?oc=5",
+   "title": "China’s efforts to strengthen its safety net fuel public anger",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-19T14:01:02+00:00",
+   "seen": "2026-11-19T19:29:47+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://wattsupwiththat.com/2026/11/19/is-americas-nuclear-renaissance-now-in-jeopardy/",
+   "title": "Is America’s nuclear renaissance now in jeopardy?",
+   "source": "Watts Up With That",
+   "desk": "opinion",
+   "published": "2026-11-19T14:00:00+00:00",
+   "seen": "2026-11-19T19:29:47+00:00",
+   "cats": [
+    "Climate Politics",
+    "Energy",
+    "nuclear power",
+    "Democrats",
+    "Donald Trump",
+    "Duggan Flanakin",
+    "SMRs"
+   ],
+   "note": "Skeptic blog",
+   "description": "We should soon know whether the new Congress will build on the Trump nuclear energy strategy or let their hatred of all things Trump wipe out years of nuclear progress.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2026/11/vogtle-nuclear-plant-cooling-towers-1024x512-1.webp?fit=1024%2C512&quality=75&ssl=1",
+   "paragraphs": [
+    "Throughout his presidencies, Donald Trump has been the most proactive leader for a renaissance of nuclear energy since the Cold War. But Democrats have consistently opposed most Trump policies, and the wipeout of GOP majorities in both houses of Congress raises questions about whether his nuclear agenda will be disrupted or even dismantled.",
+    "During the 2020 presidential campaign, The Week national correspondent Ryan Cooper argued that both Elizabeth Warren and Bernie Sanders were head and shoulders ahead of eventual nominee Joe Biden and any previous president on climate issues, but added that both had committed a serious policy error — one that may have cost them the nomination.",
+    "As Cooper explained, both disavowed the use of nuclear power and, echoing Germany’s green energy strategy, called for the dismantling of all existing nuclear power plants. Sanders’ platform included a moratorium on existing nuclear power license renewals, while Warren simply said, “We won’t be building new nuclear plants” and pledged to wean “ourselves off nuclear and replace it with renewables.”",
+    "In 2024, only Sanders and Ed Markey, Warren’s colleague from Massachusetts, voted against the ADVANCE Act. The 80-year-old Markey just extended his 50-year career in Washington by winning a third Senate term. He had criticized the bill for propping up the nuclear industry while omitting funds for communities affected by nuclear closures and contamination.",
+    "Markey, Warren, and Sanders are senior leaders of the “progressive” wing of the Democratic Party, and as of January they will have several new allies who have opposed a wide variety of Trump administration technology initiatives.",
+    "In September, for example, Sanders and Rep. Greg Casar (a close Texas ally of newly elected Sen. James Talarico) introduced the Ban Artificial Superintelligence Act, which would permanently ban development and deployment of superintelligent AI and pause advanced AI development pending a new regulatory framework.",
+    "Warren, in June, escalated her “war” against SpaceX on grounds that passive investors could be “dragged into what governance experts call a ‘catastrophic’ ownership structure through their index funds.” Now multiple Democrats, including Texas Governor-elect Gina Hinojosa, are calling for investigations and even imprisonment and confiscation of all of Elon Musk’s assets.",
+    "Despite the hue and cry against nuclear (which could power data centers) as well as AI and cryptocurrencies (which rely on data centers), Democratic governors like JB Pritzker, Mikie Sherrill, and even Kathy Hochul have taken steps this year to encourage nuclear development.",
+    "A year ago, a Gallup poll showed 46% of Democrats (up from just 34% in 2016) favored the use of nuclear energy (compared to 74% of Republicans), whether as a means of carbon reduction or energy reliability. This growing support for nuclear has not discouraged nuclear industry entrepreneurs.",
+    "Longtime nuclear energy advocate Steven Curtis, whose latest project U2energy seeks to enhance efforts to recycle used nuclear fuel, believes entrepreneurs will be more successful without government “support” than companies that rely on government funding. He also believes that everyone wants cheap, clean electricity, and that since nuclear can provide it, even the strongest opponents cannot stop its momentum."
+   ],
+   "lede": "We should soon know whether the new Congress will build on the Trump nuclear energy strategy or let their hatred of all things Trump wipe out years of nuclear progress."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTVNsb0JiN3FPZzRvQS0tMFdaV0ZRMkZ1UFZRVTZ3MmJMS1NHeGplaXlBa2xyMjVUU1N1WGRUcDFXdUZkWVhLbUgtTDVxSHp2Q3g5cC1kRUtLQU9EbjB6ek1CcGpfbnVHcldqNVJyaUxQSTRGS09Tb2l5VG51REg5dFNva3o0c1h1VjZuX1hSQkt2R0N1RzZSaVNqMjU4S2lqdTBsbzI4T0FkMWJZeXZCdTZkWVh4ZVdi?oc=5",
+   "title": "Anthropic’s Massive IPO Is a Stress Test for Public Benefit Corporations",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-19T13:00:03+00:00",
+   "seen": "2026-11-19T19:29:47+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeUlFUlRBZ0VwZjFSN2oyR2t6Ny1LcWlycjJjTW5oWWI0eVBuX3dBVDRpdHVndjBuZEJSMFpZSkhvSzczUWZhb2hZV0MtanNBS0w2a0stNHIwSGtrNTFNWGFRVW1kV3hUekFmanRVZWlxQXVlUDB4QnZSNGxvdXducURWS0MwVFJQQnZzNmlQVEJjaWd6LTNmX2xfZFVUU0s4Z3dHSVZPM1JhV004Y3V4RERSdllfaVBLYVVZM2YxMVQ3QQ?oc=5",
+   "title": "Can US Data Centers Ditch the Grid and Supply Their Own Power?",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-19T12:00:00+00:00",
+   "seen": "2026-11-19T19:29:47+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://yaleclimateconnections.org/2026/11/these-two-types-of-people-can-help-children-recover-after-a-disaster/",
+   "title": "These two types of people can help children recover after a disaster",
+   "source": "Yale Climate Connections",
+   "desk": "science",
+   "published": "2026-11-19T11:59:00+00:00",
+   "seen": "2026-11-19T19:29:47+00:00",
+   "cats": [
+    "Adaptation",
+    "Audio",
+    "Solutions",
+    "Weather Extremes",
+    "Louisiana",
+    "New Orleans",
+    "United States"
+   ],
+   "description": "Researchers studying young Hurricane Katrina survivors found that supportive adults and community advocates often helped children fare better over time.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://i0.wp.com/yaleclimateconnections.org/wp-content/uploads/2026/11/111926_kids_1600.jpg?fit=1600%2C900&ssl=1",
+   "paragraphs": [
+    "Many children who survived Hurricane Katrina faced long, difficult roads to recovery – especially those who endured the worst impacts.",
+    "Peek: “They were literally behind in the disaster, they waded through floodwaters … they had an incredibly traumatizing disaster experience.”",
+    "But sociologist Lori Peek, co-author of the book “ Children of Katrina ,” says some are now thriving.",
+    "To learn why some recovered better than others, Peek and her co-author met with hundreds of children and tracked what happened to 25 of them over seven years.",
+    "An anchor is a parent or other person who provides steady support before, during, and after the disaster. And advocates are first responders, pastors, or others who connect the family with resources.",
+    "For example, Peek recalls a girl named Cierra who benefited from having a supportive mom and community advocates.",
+    "Peek: “They helped Cierra’s mom to find a car, to find stable housing, and to secure a full-time job. They helped Cierra to get into a good school.”",
+    "So Peek says a combination of family and community support is critical to kids’ recovery after disasters."
+   ],
+   "lede": "Researchers studying young Hurricane Katrina survivors found that supportive adults and community advocates often helped children fare better over time."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbnphMUhTTDdEUV83bjJvc0lSeDFlbmw2QVlyU2tMMlJtcm5zQUVzdDZId3VfM3c2LW8xTS1LZkY3cnJXaVRBU0k3ZXRJemJydW9HQmxlTkpfVTlNd29ZZlM4OWtfOXdldFdWU3FucGpKYlhSVS1vRVZXNVFUREw1TzlHeGwzcEZrRkFiaVhXb2owRUVPajZJRzlpcUVBeWpoaFZVZ3VmWQ?oc=5",
+   "title": "India feeds the world, but its methane emissions are heating it",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-19T11:00:22+00:00",
+   "seen": "2026-11-19T19:29:47+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRVVRbFFvU3ZPNWlmTHFvU1JzSm9FMW5yRXlqRkk0eWMyTkNORHBuN24wSXI4VTlpR0pqRzh1SWllb1gxXzFyU05WOUh6SWl1Skdvell5dFl3NVBZczJETUhLckpORGhPS3RiWVpfRjdha3psMG00Yy03QTBEMHl4NlNPclRCT21kMXN1YWFnV2RNVXVDTWxoYk5TNWxjOFp1NFJ6YmhBaUthbkltbG14eVJSUVpVQQ?oc=5",
+   "title": "ECB’s Kocher Warns Changing Climate Is Impacting Monetary Policy",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-19T10:14:57+00:00",
+   "seen": "2026-11-19T19:29:47+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
   {
    "url": "https://wattsupwiththat.com/2026/11/19/thanks-climate-skeptic-for-exposing-the-bbcs-falsehoods-about-extreme-weather/",
    "title": "Thanks, Climate Skeptic, For Exposing the BBC’s Falsehoods About Extreme Weather",
@@ -112,6 +476,28 @@
    "lede": "The consecutive emergency orders have led to $25.6 million in ratepayer costs, according to the analysis by the Environmental Defense Fund."
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQM2RxWnRjRUZqalVPTERhNHQ4eXowOThOR3cxTlhyT3RGcE8wd1h2MDI4ZG5OM080aDFkWVVBbE9LT21nMGZ1dHRhS2lGQmJNMlRCYWNLbjdlcnFMS2xEaFVSY2ZHeVIzSEUwaEl4bG1xaklydjhTWWdLVjc4U3B3dUNBVUlLekhSM05ydTc2ZlBMRGpQeGNKT1lYekVHVTdEbWNERVZ1NWNqbjNa?oc=5",
+   "title": "Bangladesh, an underappreciated success, faces an economic crisis",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-19T09:51:47+00:00",
+   "seen": "2026-11-19T19:29:47+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNelZRLXNWLUdqaUxFZzVOOVR6T2tOQmx4RFA0dEF3MFdETnVTV01HY1R2cGpnUGlzVFdZUjh6a2U5d1JfSnZ6dUNwOG0yNEV2UFJKX010WUZlak1SMlFsLUJpcEl6Z2NCNlIwYUw5cGVnbUF6RVpQSzRTS3VGTEhWeWlSSXJCbXl6enptVTJONjRLR1NQeEtoLWNnLTBPMFNzVDVwcl95ZHl1dnRHTEQ0amd3?oc=5",
+   "title": "ECB to Probe Riskier Private Credit and Hedge Fund Links at Banks",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-19T09:28:33+00:00",
+   "seen": "2026-11-19T19:29:47+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://www.nytimes.com/2026/11/19/business/cop31-energy-iea.html",
    "title": "How the War in Iran Will Remake the Global Energy Order",
    "source": "The New York Times",
@@ -131,7 +517,7 @@
    "byline": "Lisa Friedman",
    "description": "The International Energy Agency, in its most comprehensive analysis of the war’s fallout, found the oil shock could accelerate adoption of alternative power sources.",
    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-iea-energy-01-mgtf/19biz-iea-energy-01-mgtf-mediumSquareAt3X.jpg",
-   "ftries": 1,
+   "ftries": 2,
    "lede": "The International Energy Agency, in its most comprehensive analysis of the war’s fallout, found the oil shock could accelerate adoption of alternative power sources."
   },
   {
@@ -144,6 +530,29 @@
    "via_google": true,
    "ftries": 1,
    "fetched": true
+  },
+  {
+   "url": "https://www.climatechangenews.com/2026/11/19/cop31-antalya-turkiye-australia-ministers-agremeent-fossil-fuels-electrification/",
+   "title": "COP31 Bulletin Day 10: New draft keeps electrification goal but drops fossil fuel references",
+   "source": "Climate Home News",
+   "desk": "politics",
+   "published": "2026-11-19T08:28:07+00:00",
+   "seen": "2026-11-19T19:29:47+00:00",
+   "cats": [
+    "News",
+    "Politics",
+    "cop31"
+   ],
+   "description": "The second draft of the COP31 cover decision leaves out a key ask from many developing countries to put a number on tripling finance for adaptation",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.climatechangenews.com/wp-content/files/2026/11/Ministerial-Divan.jpg",
+   "paragraphs": [
+    "The keenly awaited second draft of the COP31 cover decision was released mid-afternoon on Thursday in Antalya. At half the length of the first version, the nine-page document still covers many bases - but leaves out a key demand by developing nations to put a number on tripling finance for adaptation, instead delaying the decision until COP32.",
+    "It also drops any wording on the transition away from fossil fuels, including welcoming the global roadmap to that end prepared by Brazil’s COP30 presidency, an omission that one veteran campaigner called “a glaring regression”."
+   ],
+   "lede": "The keenly awaited second draft of the COP31 cover decision was released mid-afternoon on Thursday in Antalya.",
+   "cop": true
   },
   {
    "url": "https://www.climatechangenews.com/2026/11/19/cop31-bulletin-day-10-ministers-exchange-makes-little-concrete-progress/",
@@ -212,6 +621,17 @@
    "cop": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWFpFbE5TVV92emdxZ05rWER2RWpZQW1VZWt6Mm1ueUNuckljRzBkVk9qVGJ4SjV6Qjlsb3N1SGZCOTUtOTFZQjVRbTB6TXYyZDBZYXJVZElaT3hJOGtEbElNeXNYNFdaeGJyQ2tydWExNV90OXkwT2dSRmlUZWpwTEtnX1ZvN29RSmp5Yi05SERrUDVlQkI5TEtpOE9kWHhJcmlNV0QtYTFwX3dCWTAzdDIxZw?oc=5",
+   "title": "EU Reaches Deal on Longer Delay to Methane Rules for Importers",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-19T06:15:00+00:00",
+   "seen": "2026-11-19T19:29:47+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://wattsupwiththat.com/2026/11/18/el-nino-is-weakening-with-rapid-sea-surface-cooling-off-the-washington-coast/",
    "title": "El Nino Is Weakening With Rapid Sea Surface Cooling Off the Washington Coast",
    "source": "Watts Up With That",
@@ -264,6 +684,17 @@
    ],
    "lede": "The NYT says the launch of Grand Theft Auto 6 will “steal your heart”.",
    "cop": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVENGcjRabDJIdUVKczNfQ3IzS1NoWkNCejRvbVVHQkwwOW5PV0JKVVhKMnNYS3Bqa2hOaGhMSWtuTTFHWVZ1QkJnRU5LSzR3TXlaeThZOU05SGE0bHpkZzE5ZjVmOUdJWjlwUHZCV24zbkJ1MENaSnpFNmx6U1E2WW9tRkZWUTZvb1ZRbU55U0VHckFFZUtrbWhBWTI3ZkhwbFdmcDZaUTUyMmg4aDBlUWlpUXZncmFGNVBOSDY2NWNQRmh1?oc=5",
+   "title": "Walmart Heir Pledges Millions to African Wildlife Parks as Aid Falls",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-19T05:30:00+00:00",
+   "seen": "2026-11-19T19:29:47+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONUR1eFNhaGJfM09pUUg3eVhiVVZOLUVOdkEtRXEtcTM3aDVIY2gxY0VtdmEzQ09vSEhjUmJzQVEzVlJnQ2p3M0t3Q1JPQVY0VWl4aTZOeHNXLWNOdklGUzRmLVhZSWtqMXJvblVGZWdZc05fMmJLaExxb3JfTXBLbEJjMmJIbFBXcWNlSGJYa2FGYzlJSmFrcEJ4c2ZkQkpuSm83NjB3UDlNbnhGWXBiblFKMjA?oc=5",
@@ -1168,6 +1599,17 @@
    "desk": "opinion",
    "published": "2026-11-18T10:00:06+00:00",
    "seen": "2026-11-19T10:24:07+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWHZsTGl6cEpFQzFFUGh0VWQ5TkllOVZSekctZzdDT0NxYmE3YlVITkVCUHNJZGl2Y2dIY3d6YkJ6WWVQU2RZWlBMSm1TcjJlN0R6NzExdHNlOEd5b2gxSm0yS0wzZGk1WUZTSm91bm81VmlfMWdBR2ZPV2xPTUY0S19uMlhpaWpWOVF3Y0V0WFNGVlhkcl95WnBYSmgtQ2kwcG15U0YyLUNhUUVqNHNWQW5tYWRFd3ZfODFFZTFoYWprOENuMmRv?oc=5",
+   "title": "To avoid conflict, great powers must be more flexible, argues Odd Arne Westad",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-18T09:40:31+00:00",
+   "seen": "2026-11-19T19:29:47+00:00",
    "via_google": true,
    "ftries": 1,
    "fetched": true
@@ -2141,6 +2583,17 @@
    "fetched": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYnZMVzNkYUk0Vjh5THFNRTAzN3p0WElFRjdENmJ2UVZzSXdiWnpvRXZYZUJsYndTa0tTRXNwY3BxYjY4bk5rQmNSTnZXa0poVGlXdEI1MDlrNEczY0xoWXNZMExZUkFJYVJQOTBUN1I3VlkxM0RHV2VRNmR0V1UyaXNqZUhBdWlraVBWY0xCNDRwVDA?oc=5",
+   "title": "Bangladesh is no longer a development superstar",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-16T18:31:19+00:00",
+   "seen": "2026-11-19T19:29:47+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://wattsupwiththat.com/2026/11/16/our-health-is-suffering-because-of-global-warming-say-lancet/",
    "title": "Our Health is Suffering Because of Global Warming, Say Lancet",
    "source": "Watts Up With That",
@@ -2606,6 +3059,18 @@
    "lede": "T he days are suddenly short, and the mornings have begun to turn much colder, but – strange as it may seem – I’m feeling optimistic."
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQY2ZoU3VFSVFQaTlNNXFTc1FzSlNrS1FYdzUzc0FDOGJlLWFGRTZHRnY2Zl9XMEtmY0daMzNYWGxnU2VLZHhLbGJnR3MyWlBtT1Joa1l2bXlsU3pDZjVISDFpUVJlOWNhZ19LMjAyVHdJdHV4NU5jeS1OR3pXd1ltalBYS0poQ3ctOFZ0NjJydXQ0My1CNzlxSkhmcWpzeVJqeFZpRElrMFU1d0p3SDduajBHWkhCVmZCbFFsR1VBeE85aUl4c25BVU43XzlMdE9h?oc=5",
+   "title": "Electric motorcycle maker Stark Future hits unicorn status with €150 million-plus raise",
+   "source": "Reuters",
+   "desk": "reporting",
+   "published": "2026-11-16T05:08:00+00:00",
+   "seen": "2026-11-19T19:29:47+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQkZhaWlkUzdTNnhqcWFNaFJzLUh3Mll3QVhSX253ckVJSUdUZXB4dFh5aE9CLURLVjhJQW9DNVlWY0U3ZlBtMjBkOVNvUnFHX1VtYTJTQ21wVWpfWE42WTlLSGdlejhPc3huVUtrdmJJM1ZST09kR1BvWnJWaHBBODNsZ0hTRlU2MDhBSlNzMVl2Vjd1Q0JQbEtRREE0a2JWbnRUWk56Njh5c1RkcW5OZHJTVWY?oc=5",
    "title": "China’s Fossil Fuel Power Tips Toward Annual Drop on Green Boom",
    "source": "Bloomberg Green",
@@ -2641,6 +3106,17 @@
     "But catching the spacecraft brings SpaceX closer to a fully reusable system and makes the road to the Moon and Mars look a little less like science fiction."
    ],
    "lede": "But catching the spacecraft brings SpaceX closer to a fully reusable system and makes the road to the Moon and Mars look a little less like science fiction."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNV2ZZdGRPUmY2RWlJQzY0RXB2ZktZZDFTT0EwVm9sSFB2ZnJiaGRLWFhIUHIzMVM0ZVlyeFJscmlFT2ZmRk02ckViT291SkY1NVhvaVdIMDZONG1Za29PM2NaN1NkVVJDS3l2ZVE3ZFh0VzNoTUdQLVlJWGZBMGlsd3p5aG1BSUxIR0F1RjgtcnB0elk0MzQwLVh6Y094YnJqQ1lyWmZPbzcwNDlVRW5KdllBTQ?oc=5",
+   "title": "Peak Energy Eyes Korea Green Projects as War Upends Fuel Flows",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-16T00:00:00+00:00",
+   "seen": "2026-11-19T19:29:47+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOc29YelRiQ092dnhMREpZdTk1U0VNVzh2cmpmQTQtSkQzMUdrMjh2Zm1mYWpUS1VFaVQ1cldDU1ZZLWJ0RUxwMDJwVzlTQUJOanZNVE5kcTFKcDdDZG9mNmVWdDRkVW5KQnZHNVBPckpxTk1lamNVTHdUV0Z0OUExSlBRcmZ0SHI2MkpERlpnR3BrLS0wbnBlS0RnMzY5X1pwSWFreXlhRQ?oc=5",
@@ -2803,6 +3279,18 @@
    "cop": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbzNDQ1FMTDNwSkpfY2tTSkxoMHhzbkpjQXNOWlF4V1JRYXd1THFySFY1cURlaHF0UHozd0RMYjhwb0pHdTRYaDR0RnFUSlZDOVo0amM0T1JCc3ppSkNmREZnclFyRlN5LVQtUU9jSF93clpXbDh3ZnpOcFhIVG94T2lFcG5UVkF2R3ItZGpJVk9LT2VJTTNMOVVydmlibko2aXNZeDg4X05KcElxNUJvMUMydF9NWW1P?oc=5",
+   "title": "Canada pledges up to $392.5 million for Brazil-led tropical forest fund",
+   "source": "Reuters",
+   "desk": "reporting",
+   "published": "2026-11-15T07:12:00+00:00",
+   "seen": "2026-11-19T19:29:47+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://wattsupwiththat.com/2026/11/14/new-study-barents-sea-temperatures-were-warmer-and-sea-ice-less-extensive-in-the-1700s-than-today/",
    "title": "New Study: Barents Sea Temperatures Were Warmer And Sea Ice Less Extensive In The 1700s Than Today",
    "source": "Watts Up With That",
@@ -2882,6 +3370,18 @@
     "Which brings us back to the initial question. How will the grid cope if a large chunk of its CCGT capacity disappears in the next ten years?"
    ],
    "lede": "There is no financial incentive for building new gas plants, which will be on idle for most of the time and which will be banned eventually because of Net Zero."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaEdHNmdSYU9NYzhkdE1iVHREZHV1TGl0a296LUNwZ3dGZEJvSm9KMVQzYmt4U3U4NGU3QTVnUmhQRG82NWMyLU4zVFJZMDQzTm5UWExZdVVTbFJSbmlQR1ZWM0ZCR1hHUnpMR3FmSloyc1cyX2x6MUF6cEVZeDdZODhGUkpuR1JDTjNDY05JZ2ZHNFdXXzdmRkNEVXIwd2w3NFVFd3lwNjBtN2dSbzZWVlVR?oc=5",
+   "title": "As Democrats seek changes to bill on energy permits, divisions emerge",
+   "source": "Reuters",
+   "desk": "reporting",
+   "published": "2026-11-14T18:53:43+00:00",
+   "seen": "2026-11-19T19:29:47+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://www.climatechangenews.com/2026/11/14/scientists-defend-un-overshoot-report-after-saudi-led-push-to-sideline-it-at-cop31/",
@@ -3053,6 +3553,18 @@
    "desk": "reporting",
    "published": "2026-11-13T18:32:54+00:00",
    "seen": "2026-11-19T10:24:07+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYWdPekliQW01X2JyRnUyQTZlNjEzUHlBU2dOYVhUZ0s4aG1jM1NzVU5MTHo2ODZNMjJNREhXV1hna3hieEhSX3U1b3hwT0JNSjlaMEpuM25tQ0RCX2ZiYzloYXVaaWtydG9fdi01cU5NVlYtbG01Ull2Smx2eVREV29hTi0tcG9CS0Y0SDZxTHBrQ2pnbTIySndqMmtEemVSbTAzZ0JQZ0ZuTHJvR3B3dQ?oc=5",
+   "title": "UN chief urges drastic emissions cuts as COP31 wrestles with fossil fuels",
+   "source": "Reuters",
+   "desk": "reporting",
+   "published": "2026-11-13T18:27:50+00:00",
+   "seen": "2026-11-19T19:29:47+00:00",
    "cop": true,
    "via_google": true,
    "ftries": 1,
@@ -3721,6 +4233,17 @@
    ],
    "lede": "When we co-hosted the first-ever conference on transitioning away from fossil fuels (TAFF) this April, the world was reeling from the volatility in oil and gas prices due to the Hormuz blockade.",
    "cop": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVlNYX3V0MDJxbUFkN1pPTXp0eEo2MzZ4d2lrM2NVdmhkMllBZlJhSDBKM2tIWUZsVHdTT05yTlJkOGVpdWtVVzBUUmlLNmNIanpjUVd5cTFCWnVzNzRhQURfUGp5VEI4c1ZicndRU3ZXRVlRTElncnBzYjhMaUx6YVZTN0R1dEU3VUpwWkY3SmRJOGVmeTNfUEl1UzBtU2l6M0M1RjhGRUk?oc=5",
+   "title": "Europe has been living beyond its means. Now the bills are due",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-10T08:00:00+00:00",
+   "seen": "2026-11-19T19:29:47+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbGhyay1ISngtTWR1YTloV0R0emRlY3VJMDNhQkN5MFlfV20ydUowMmVmTmowcWQ5VEFROXR2aEZVM1hyUWN2UkUtdmNlQ3RwY3p3anZ6RzdvbFhhMmppeTU1RmhEMEk1b2JBcDVidmpRYzJFQnhiTkV5aFpUWnplcmtMd2I?oc=5",

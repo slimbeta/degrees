@@ -1,6 +1,83 @@
 {
- "updated": "2026-11-19T01:57:51+00:00",
+ "updated": "2026-11-19T02:03:16+00:00",
+ "briefing": {
+  "headline": "COP31, fossil fuels and wildfires",
+  "period": "Nov 13–19",
+  "made": "2026-11-19T02:03:16+00:00",
+  "bullets": [
+   {
+    "text": "Bangladesh arrived at COP31 having committed substantial public resources to protecting our people from climate change.",
+    "source": "Climate Home News",
+    "url": "https://www.climatechangenews.com/2026/11/19/bangladesh-needs-cop31-to-deliver-clarity-on-climate-finance/",
+    "theme": "COP31"
+   },
+   {
+    "text": "The world is “being held hostage by the petroleum mafia” and seems unable to break free, Panama’s environment minister has warned, as key issues remain unresolved in the final days of the UN Cop31 climate summit.",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/environment/2026/nov/18/world-held-hostage-by-oil-mafia-says-panama-minister-at-cop-31",
+    "theme": "fossil fuels"
+   },
+   {
+    "text": "NASA researchers have produced detailed 3D topography maps for all of California, down to the scale of a single tree.",
+    "source": "NASA",
+    "url": "https://science.nasa.gov/blogs/science-news/2026/11/18/california-wildfire-risk-3d-maps/",
+    "theme": "wildfires"
+   },
+   {
+    "text": "The year 2026 is expected to be Earth's 2nd-warmest year on record, with 2027 likely to be the warmest.",
+    "source": "Yale Climate Connections",
+    "url": "https://yaleclimateconnections.org/2026/11/october-2026-earths-warmest-october-on-record/",
+    "theme": "record warmth"
+   },
+   {
+    "text": "Ministers are in the building and embarking on the tricky task of refining the mammoth draft cover text down to something that can be agreed upon by the end of the week.",
+    "source": "Climate Home News",
+    "url": "https://www.climatechangenews.com/2026/11/17/cop31-bulletin-day-8-arab-group-russia-reject-cover-text-over-fossil-fuels-and-electrification-goal/",
+    "theme": "clean energy"
+   },
+   {
+    "text": "International Energy Agency chief Fatih Birol celebrates the electricity demands of AI and electric cars, but the revolution must be about more than luxuries for the rich.",
+    "source": "Climate Home News",
+    "url": "https://www.climatechangenews.com/2026/11/16/cop31s-electricity-goal-must-be-about-more-than-ai-and-luxuries-for-the-rich/",
+    "theme": "AI’s power demand"
+   }
+  ]
+ },
  "articles": [
+  {
+   "url": "https://wattsupwiththat.com/2026/11/18/united-nations-complains-ai-models-are-not-adhering-to-their-climate-brainwashing/",
+   "title": "United Nations Complains AI Models are Not Adhering to their Climate Brainwashing",
+   "source": "Watts Up With That",
+   "desk": "opinion",
+   "published": "2026-11-19T02:00:00+00:00",
+   "seen": "2026-11-19T02:03:16+00:00",
+   "cats": [
+    "Alarmism",
+    "Artificial Intelligence",
+    "Opinion",
+    "United Nations",
+    "Leona Verdadero",
+    "UNESCO"
+   ],
+   "note": "Skeptic blog",
+   "description": "\"... The fact they could so easily abandon truth and be more agreeable to a user’s shows it is weak and fallible. ...\"",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2024/11/Hal-9000.webp?fit=800%2C400&quality=75&ssl=1",
+   "paragraphs": [
+    "“… The fact they could so easily abandon truth and be more agreeable to a user’s [misinformation] shows it is weak and fallible. …”",
+    "While mostly accurate describing simple facts, models pivoted to denial and wrong answers when challenged",
+    "Artificial intelligence models can quickly turn into climate crisis deniers at the mildest challenge from users, according to a new UN-backed study.",
+    "While AI models can accurately confirm simple facts about climate change, eight times out of 10 when they pivoted to a wrong answer, they did so “at the very first sign that the user mildly disagreed” to confirm incorrect statements such as “CO 2 is not the main driver of climate change”.",
+    "The report uncovered a strong tendency for AI models to be sycophantic, meaning the model is more interested in pleasing the user than standing by facts – an issue identified when people turn to AI chatbots for personal advice.",
+    "Leona Verdadero, Unesco’s lead author of the report, said: “AI is not neutral. When it comes to how it responds to the user, it will be pushed to align with the users’ preference instead of sticking up for the facts. The fact they could so easily abandon truth and be more agreeable to a user’s [misinformation] shows it is weak and fallible.”",
+    "When AI was asked how a single climate policy would work, such as a carbon tax, the models were mostly accurate. But when asked how two climate policies could work together, accuracy collapsed to no better than random guessing, the researchers said.",
+    "AI by definition is a black box, so lead author Leona Verdadero cannot be absolutely sure what is being observed is pure sycophancy.",
+    "I mean it likely is, but there is also currently a big push to give AI a deeper understanding of the physical world, by loading AI systems with vast amounts of engineering and physics.",
+    "A lot of the information the AIs are absorbing is likely creating conflicts with what the AIs are being told to say about climate change. For example, if the AI learns that monkeys did really well during the PETM, a period of extreme warming which occurred 55 million years ago, when global temperatures soared up to 7ºC hotter than today, how is the AI supposed to reconcile that information with the command that it should tell people that 1.5º or 2º global warming would be a disaster and would lead to large numbers of deaths?"
+   ],
+   "lede": "The fact they could so easily abandon truth and be more agreeable to a user’s shows it is weak and fallible. ...\""
+  },
   {
    "url": "https://www.climatechangenews.com/2026/11/19/bangladesh-needs-cop31-to-deliver-clarity-on-climate-finance/",
    "title": "Bangladesh needs COP31 to deliver clarity on climate finance",
@@ -24,6 +101,17 @@
    ],
    "lede": "Bangladesh arrived at COP31 having committed substantial public resources to protecting our people from climate change. Yet the costs continue to rise, leaving us to finance recovery from one disaster while preparing for the next.",
    "cop": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZkFZZzk0NGV4ZlJOQ19jS3hhaUtnVHhjeEpzdFVhaHlzSDZMRjVhWDlxSTN3NTlGUGJ4V1ZyemY3V3hHZWRUdmQ4LXVqUVJwdGVuVm1HTlpJS3BMYVl4MGZSZVJwNXQ1a3pxa1ZUX1ZBZ0wtSk5EN0xMcWh6Z3kyNE5oWk1tVVdmZGpBNk9abnUwajFmSHFQeUd3em9xQk9TTk5tdlNSTmJCMzVBd1V6Wk50blpTT3ZNUHc?oc=5",
+   "title": "Skydance Opts Out of Bidding for Costly FIFA World Cup Rights",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-18T22:52:49+00:00",
+   "seen": "2026-11-19T02:03:16+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://www.nytimes.com/2026/11/18/climate/nepal-disaster-aid-cop31.html",
@@ -250,6 +338,17 @@
    "cop": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNV3Z6TmItOUk3YVEwMXVXb3hhQnVyS2JkajIyenJCUEFrR3BvQVI4TmhBUy1UanNQQXA2VmlRZmNFYUF4Q0V4cUtXejliQVN4c2Q5VHpKcVdkZVA3N2UzUU5LdFIwM3lPWHUtc3NXUnV6OGZGMFNydF9HN2gxSW01aERiWi0zX2NWZFhnekhYdHJKWW1TV0NnM1g3cDM0VE16S0F1Sw?oc=5",
+   "title": "Just how central should one person be to an organisation?",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-18T15:27:00+00:00",
+   "seen": "2026-11-19T02:03:16+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZGR3UkttMzhtX1lyb3pPZ3dxZFZKM19wVXFBZ2ZxNG1NX2JTLXA5X0dodHg1T3ZiWUZMR0hXeU9sX2hBYXRaeUdiQVE4VTFCU1A0UThDUVc0aGljLXNRdHpfQ3JxbDZCdW90UkN6UGxHX1U3aThKWm5yb2x4YVhWRFVRbDJGejhLS2owRk52MGVaNlRMVnhWMEVWQ21oQzBoeS1DQkxkT3pNaFR0cXpKM3FIcw?oc=5",
    "title": "Ten business trends for 2027, and forecasts for 16 industries",
    "source": "The Economist",
@@ -356,6 +455,17 @@
    "lede": "Climate groups fear lawmakers could pass a bill by the end of the year that would give fossil fuel companies immunity from lawsuits and legislation that aim to hold them accountable for the climate crisis."
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYl9NZk1ZT1Y4b0lBU0FKWmhXbTVlSzNZSWpmTEM4WWRHS2FHbWx3X21SV2JIcEN2UndNNldVS2drNkJsT01NeXhlRjNUN21VYkJZSWVja0xTRTRZZmxDOGVSWmc1R1lkNHNqWGdrN2xEVDV1TGJJZktNYTA3TENBNjRkTXdfbE1Ic3VtTmdIamJ5Vi1XdWtDZWJiSQ?oc=5",
+   "title": "Russia and Ukraine are bombing bridges. Who’s winning?",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-18T12:56:18+00:00",
+   "seen": "2026-11-19T02:03:16+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5DeURRUU1PUmdVZi1Kd2ljNjFTclFDd0FwUzhUUjBVQ0x3MGdoejdPYWV1dlR5SnZnc2huVEM2Wkk2RTBNVlhVOUhsUnI0UnN6OFBjUjk4X0RWTko2VlV1X0drWGN4V0h5QXZMaTh2YU16Mmp3NFo4?oc=5",
    "title": "Drawing on 2027",
    "source": "The Economist",
@@ -373,6 +483,17 @@
    "desk": "opinion",
    "published": "2026-11-18T12:49:33+00:00",
    "seen": "2026-11-19T01:47:57+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSkQzZEJYclpZRTBld0RIcWlEYkFYWjVMVnBtaWx5YjRLdzA2by1sZjk2VGw4M09rOUItVFQwc1FFUURZU1QtWjdpTVBrWDd3Z2JPbm9nYWlDSU1JYV9yeEtyUFZRN3JUUjY1M19NVVZvT3luSndTb1BhVjdCRWlRNmY3cnZLbnNGYUNldU41RzAtbzljQjlVa0RFTWpEX2FFVEg4dHdaMkhvWEhUSC1ldw?oc=5",
+   "title": "Dutch Push to Raise Wealth Taxes Exposes Political Fragility",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-18T12:28:43+00:00",
+   "seen": "2026-11-19T02:03:16+00:00",
    "via_google": true,
    "ftries": 1,
    "fetched": true
@@ -495,6 +616,17 @@
    "fetched": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMWFQb2ZxTmFvaHJLZWJjbnVYTlgxTW1yRnU3T3dUMndRR1VsaDZReTU1Wmw1Y3V0a3UyOTlSN1VWajl6eDFhb0R2U2ZXQUJrSXNXams1Q3VGYXdkT1k2VXVvM0RHMmYtTXZQbldMWV9IRzJDOWFzeGNwVi0zX2ttVjBreTdEWWJyWkxEZXRXRVYzOThCUTlv?oc=5",
+   "title": "Catch up: Nvidia rules out return of Jensen Huang; Xi hugs Trump in China",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-18T11:07:14+00:00",
+   "seen": "2026-11-19T02:03:16+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://www.theguardian.com/commentisfree/2026/nov/18/nasa-voyager-1-pale-blue-dot",
    "title": "After 49 years, Nasa’s Voyager 1 is one light-day away from us. Can we save this ‘pale blue dot’?",
    "source": "The Guardian",
@@ -553,6 +685,17 @@
    "fetched": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTHc0eEVWTmlwZDBpejhlZ05iRXJVcEQ2Rkt1VmFKLThBVDV6cjJ6Zm5xaklLaGxKb2xZSlV0TDl4c3oxMXNRY0h4QTFGTmJsRWFsXzh6enBncTFSOVRzeXNwa0pVZll6WWprcEl3NnoyY2dTRzBtaUFkcVhVMVJfWXpNNENtNDZjdUt2aTRDQ1pia0NMaEI2cW1KbGhVZi1kdGNLdTduS0VTSlpZNmx4UjZoUHVCQQ?oc=5",
+   "title": "The first private-sector space station is due to go into orbit",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-18T10:47:43+00:00",
+   "seen": "2026-11-19T02:03:16+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ0NIRTVmUDNhSTRaUFJtS1lzdWNlRGt4QVpJRVQ0aWZpcmNtaGFDSWdwNW1SWS02RTlMZUU2Sl9TWHBpWDRjS3FfMWJjeURoNUFKWWN6NkFXUVBjSktETTIzU09SWjZTd051Q293NEo5VzRKRG0xem5vdXhDU2FiODltd1FySHhvV1Q5emxvUUZWQWkxOWZQcl9EcE1LX2ppZE91OG5ZRElDVGduX0NOdHRVcVdXdw?oc=5",
    "title": "India’s Richest State Aims Clean Power to Meet Half its 2030 Use",
    "source": "Bloomberg Green",
@@ -581,6 +724,17 @@
    "desk": "opinion",
    "published": "2026-11-18T10:43:33+00:00",
    "seen": "2026-11-19T01:57:51+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORFdoX3dJb1NvYXpIc01lQ2xEeTJyM0hqLS1nWVB0N1gzWGNyVUVQbVVQUHc4WnZqZFU0ZlpHVFJURi01UHVyd2VYVzdTUS1NWmpqUGF3RlIxVkMwU080dEx4R3ZyZFU1dEVvUlJRUWxrYTlhT1dDazQyN29LSXF2bWxVai1mZURDVnBEcEx1dXVGRjAwNWVwU1U4WW9pdFRp?oc=5",
+   "title": "Get ready for humanoid robots, says He Xiaopeng",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-18T10:14:19+00:00",
+   "seen": "2026-11-19T02:03:16+00:00",
    "via_google": true,
    "ftries": 1,
    "fetched": true
@@ -630,6 +784,17 @@
     "Back in the world of observational science, it is generally accepted that Arctic sea ice, summer and winter, has been stable for over 20 years . This popular climate scare was generally held to be on its last legs following a recent well publicised paper from Dr Mark England of the University of Exeter. Conceding the obvious, he noted a “surprising, but not unexpected pause”. Of course, it might be added that it was only surprising to those who get their information from computer models, and not unexpected for those who consult cyclical Arctic ice trends over decades rather than months."
    ],
    "lede": "Needless to say, the terminal coral message is not sourced and is based on an unnamed “prediction” that “could” happen."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcHRLZmUxYi1fUEhGbjcyN09CQ2VNNy0wVlJfWjIxOFNvTHZraDdNbDZlM0JSVExxMEdib3RCX2N3ZExDYVQ5MXlFZTFzVUZoNDJUNzZGOXB6UEtRS2pzbFdqQm5JdjZGSDJENTlKY1g4SnJtYXpFSjRhckowUkxlOGpLcFNFc1I2OXllVkxobzhPbEhKNzBwMjFmZm1tQQ?oc=5",
+   "title": "Cowboy culture is spreading across the world",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-18T09:39:50+00:00",
+   "seen": "2026-11-19T02:03:16+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://www.theguardian.com/environment/2026/nov/18/phantom-forests-in-australian-arid-outback-used-to-create-carbon-credits-meant-to-offset-emissions-report-claims",
@@ -768,6 +933,17 @@
    "lede": "America’s oil and gas industry was born in Pennsylvania. Hundreds of thousands of aging, unplugged wells are one of its enduring legacies."
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOTFNTXhVbkNsYW15R3dTNzVIb1dNTTlCRmFBbzdyNzd3bzVrbzctXzhmNTdabmwxRGJ6d01LWFpicjlYVURXb0FPM2ZyRUR0Wk02SVpfTmFjQkVBQ24tQV9DdHE0T1JYY3RmYUE5aHI3cVZpWUU0YTdiVm9ZLWdNaWdlWFBJS2h3TTdzT1o1UDBqUVMxOElJ?oc=5",
+   "title": "Catch up: Nvidia’s post-Huang earnings beat expectations; Putin, Trump and Xi to meet in China",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-18T07:59:46+00:00",
+   "seen": "2026-11-19T02:03:16+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://climatediplobrief.substack.com/p/climate-diplomacy-brief-cop31-day-43b",
    "title": "Climate Diplomacy Brief",
    "source": "Climate Diplomacy Brief",
@@ -884,6 +1060,17 @@
    "desk": "opinion",
    "published": "2026-11-17T17:58:19+00:00",
    "seen": "2026-11-19T01:49:59+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZW53X1hFYy1uNVFDTExuYk92VnlqX0xFaVRDZTVFMllJQVNLRHpiQnNKYnVHbVVTZVA4LW9kR2hGRDFiYWhxb2ZpMTdROW1ia0F6QVFwY29JUWo4UUNCcVliN29DV3MtVlFmWno0UjJNeXJiV0FzQlVvMDBWa1paRG9jM25rcWRfUUhwcnV3cVVDZ0Vmb3N5QVpZQ21TZjlL?oc=5",
+   "title": "Does Donald Trump care about the economy?",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-17T17:54:03+00:00",
+   "seen": "2026-11-19T02:03:16+00:00",
    "via_google": true,
    "ftries": 1,
    "fetched": true
@@ -1053,6 +1240,17 @@
    "cop": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNb3prRExYanpoNHRhQWJJSndvSGpodmlsdTRyYWl1aWlfSFlXNGZKWkZuZkxuMkd5RUVzZHNhNkpMbmJHMFc1Uzh6b2NjNnVHc0p0S0IxOXVlNnJ1eWdsSjJVbWp2UnhoUmpJNTNvZ2wyLWRLdlZyajNiTFc3RTNtRGEyV3FDdVJEZ2lWN0haNW1oWUVwQlQ4ekRVQXg2YWJxNTd0TU9xaFg5MWpCMzZvTnhSbkRZNEpsWGc?oc=5",
+   "title": "Mexico Risks Missing Out on AI Data Center Boom as Energy Crunch Bites",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-17T13:00:06+00:00",
+   "seen": "2026-11-19T02:03:16+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdjhUQlo3dXY1ODlsX0F3RUJhVFp2SUdWVmRfQktIWS1tYzJuR05fODk3eTg4M0szZ0gzTms2R2lRRWNCTGJGd2tocnhJM3JYU3oxaXNRUTEwM3Y5VGJvNVFxblotamhocDRiaFR2djdZc2lyV3V6WUdYOTNtQTNrVlJBcWl2b0MyQ1ozLVJfeVFsWHZYQUN1NmM1ZmtocWZwa2l1NUpES3c2R3JjVGdVbDNzUQ?oc=5",
    "title": "Peru’s Fujimori Wins Chinese Aid for El Niño After Appeal to Xi",
    "source": "Bloomberg Green",
@@ -1167,6 +1365,17 @@
     "The Roan Plateau rises 3,500 feet above the Colorado River Valley between De Beque and Rifle on Colorado’s Western Slope. It sits atop the southern margin of the Piceance Basin, one of the most heavily drilled natural gas fields in the West; the federal land at the center of the fight covers some 73,600 acres."
    ],
    "lede": "A new federal mandate requires fossil fuel lease auctions on land that past negotiations were supposed to have set aside, raising concerns about the fate of other public lands protections."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQWFtM196eHg4TkRoTE9kMk9aQXQ0aGpJN1MydkZoQmpTS1BCeHhDLUN0ZmZscjh5aWhTWEVYX0tIN19uaEQ0MUV0NVF2TGVmUHdwQVRQQllCQzdCY0ZtR0FuVHRGbkFBdWhoU0NBeDlNSUxyUFFMNWFXSDJDWXZLTlpHSFFlTzF3aXpESDBTblM3Z3pDcU5EaHFUVE42QkR5LTA3RkdYdkV3VGY4emhFLVl2WDFHQQ?oc=5",
+   "title": "Pimco Says AI Bond Spreads May Tighten as Data Center Boom Slows",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-17T09:33:48+00:00",
+   "seen": "2026-11-19T02:03:16+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://www.climatechangenews.com/2026/11/17/cop31-bulletin-day-8-arab-group-russia-reject-cover-text-over-fossil-fuels-and-electrification-goal/",
@@ -1320,6 +1529,30 @@
    "fetched": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNN2FGMTkxaWkxVXpOQUoyN3JUbVBTeEdEOWo0YmZtajVHUXdINTBuZGNZSnpIQk5YUzVTSkY1Vl9FV3RtM0tQaE9Sanp5Nm1OVmZ6UjA5eHpuMkotdUt3RTEwS2lacWEtWDFuT0F4X0NvaHhUSnlBTmgxZnNOTHdyNWVQTkNodTlNNzgtTS11Xzh4eFFvREJfb1lsY2Z3bUdWOUNoNjZwN3VOcWpoa0E?oc=5",
+   "title": "At COP31, Nepal pushes for billions to help disaster survivors. So far, $20 million is promised",
+   "source": "Associated Press",
+   "desk": "reporting",
+   "published": "2026-11-17T02:29:00+00:00",
+   "seen": "2026-11-19T02:03:16+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUTFqY1VncEd2YzN6Z3dUT2lqVXNmVDVxOXROdERRaVFrcDN3ZlhxZVNXdFQ3bnVMNjBYeW1lVk90WGxJRW9VUnpnMU1QQ01vSGJmbmNKdWZWSHVYeElhMUpSMFhFeVk4eG5JakcyNjZ1NTh6ejhMU1RhWVA2N1BiU3lyX1VDRTJGVmpOSjBXd1V4b2Z0OVFWbXozRUJUdk5x?oc=5",
+   "title": "Study estimates magnitude of US data center pollution as climate talks unveil clean AI pledge",
+   "source": "Associated Press",
+   "desk": "reporting",
+   "published": "2026-11-17T02:29:00+00:00",
+   "seen": "2026-11-19T02:03:16+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://wattsupwiththat.com/2026/11/16/renewable-energy-siting-and-light-pollution-issues-eco-complaints/",
    "title": "Renewable Energy: Siting and Light Pollution Issues (eco-complaints)",
    "source": "Watts Up With That",
@@ -1464,6 +1697,30 @@
    "cop": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY0tybWxMT0d3VG5LdlhVYVRWSF9fcUFTVDNOcjFQM3hxdVpoRzRROTI5b0pCUGwtUzNqMFRvbkROQWFGMWRsX0RyaXhzcnZ6MmFERTVtZUJ4WXdDT0UwUW1xRFRQNkxabjUtOGVOak1rS2IydmgwcWNBVTBSVDM2RUdHakZ4Q3FqNDZrd0d4YmpLSVhFQXJvSGFtenpPZTZzcExlWXI2NHN6VUk?oc=5",
+   "title": "US Democrats bring hope of climate comeback to COP31",
+   "source": "Reuters",
+   "desk": "reporting",
+   "published": "2026-11-16T20:36:35+00:00",
+   "seen": "2026-11-19T02:03:16+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWVlsVlZ0US1xOVU2U1lLbEtiOGJmVmJIcUViWnBzRXdleE9DN05lN3ZHMDFRQXhpYUJuellVODcyLTUwYnkxOXBMOEhGNmpYbW9iUHNOTm9HcFhkUkxjaHo0UVBkb1pYUmlSVWp6SXRRRGtaRElTOHBOOTBEYXhWOTJSanpxb3RNRzZ2TkZYV1U1YUlOOVBkYUFBLUdFVGprNVBUZ0xWNXgtN1VxVGc?oc=5",
+   "title": "First draft of COP31 deal signals tough negotiations to come",
+   "source": "Reuters",
+   "desk": "reporting",
+   "published": "2026-11-16T20:36:04+00:00",
+   "seen": "2026-11-19T02:03:16+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://wattsupwiththat.com/2026/11/16/our-health-is-suffering-because-of-global-warming-say-lancet/",
    "title": "Our Health is Suffering Because of Global Warming, Say Lancet",
    "source": "Watts Up With That",
@@ -1494,6 +1751,18 @@
    "desk": "opinion",
    "published": "2026-11-16T16:40:03+00:00",
    "seen": "2026-11-19T01:49:59+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBJcDVGekd3eGdqMFRxUTNPWGVhalVmZFJ0S0hsaUxuSEdMVTZxb3RZTFNZUnZJVVkxaDVWckpQbXRnSGxicDlQMjJaUVFmankyekN6LXVEMHBScS1DWjFzUTAzVEF0QkJzQ0VCeW9ydEY2TVRsbG9nWGd5Tzk?oc=5",
+   "title": "Europeans court China’s help to keep climate action on track",
+   "source": "POLITICO.eu",
+   "desk": "reporting",
+   "published": "2026-11-16T16:33:00+00:00",
+   "seen": "2026-11-19T02:03:16+00:00",
+   "cop": true,
    "via_google": true,
    "ftries": 1,
    "fetched": true
@@ -1594,6 +1863,18 @@
    ],
    "lede": "International Energy Agency chief Fatih Birol celebrates the electricity demands of AI and electric cars, but the revolution must be about more than luxuries for the rich.",
    "cop": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWDNoZzZRNXJWSGVCbG1SOEVYWWVxdTFIcnlvbkN0RTZDQVNKTmRYbFJheW00SzZkcU8xWG1OQm8tN0ZGRmlLYW5VWEdFRE9oOW9SMkk5clk5V2podHNFa1Nya1lyVllxM2VWaHJZekszQzMzcURjcHJ5UDFRTHBrdFJJOGlkRE1oZHlxU1ZKZ0J2cFlyd3c?oc=5",
+   "title": "Draft COP31 text suggests ‘immediate’ fossil fuel transition",
+   "source": "POLITICO.eu",
+   "desk": "reporting",
+   "published": "2026-11-16T14:26:00+00:00",
+   "seen": "2026-11-19T02:03:16+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://wattsupwiththat.com/2026/11/16/cop31-the-finance-may-hit-the-fan/",
@@ -1727,6 +2008,17 @@
    "cop": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZ2U5cjdXLTR6SDQxaUxVS0MxeHNWTWtKV3BZajFLYUJFRHlYR0RvQXczbDFIdW9OeVdscUlPMHZ6a3g0NHRleGlwSUxvejZZSEpfQnhONWViVUpJTDQyeFFTWVdKR19BVW0wNTlTZXVmZGR6VnlJV3AtUTdTSnJWX2tiaG1QVFFvTU5OeTRTcjg2bWZQNWhLcXl3UTl3NVN1ZjBoQm05cE5NRWVTQ3JhYQ?oc=5",
+   "title": "El Niño Ravages Ecuador Cocoa Crop, Threatening Global Supply",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-16T10:14:34+00:00",
+   "seen": "2026-11-19T02:03:16+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://www.theguardian.com/global-development/2026/nov/16/malawi-hunger-food-foraging-nyika-shire-river-crocodiles",
    "title": "‘Crocodiles are possible, but hunger is certain’: Malawi’s foragers forced into infested waters",
    "source": "The Guardian",
@@ -1796,6 +2088,18 @@
    "ftries": 1,
    "fetched": true,
    "cop": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQV21EUHlpcVpLbWhUTnNzV3RGVkRzV0k1WU9aeDlSS0dQV2dwS1dvak5OaEdTLVFjMGxXMUU5Z1M4VDU4NnBKcl9ZVHdUWlVwZF94MDZ2dDQwRFo5Z0ktMWZuN2hJZjZ5ckVtUDhjcmlLdm1feUpyV0M3MENTMEN5eldYZko2QlpZMTVGaVFlUlZ3WFYzVGVlM29xN1NpOFZhcy1KaWpyRGtOcnhXeTdabXZVbU8?oc=5",
+   "title": "UN ready to support any denuclearisation effort from US, China, Russia talks",
+   "source": "Reuters",
+   "desk": "reporting",
+   "published": "2026-11-16T07:46:00+00:00",
+   "seen": "2026-11-19T02:03:16+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://climatediplobrief.substack.com/p/climate-diplomacy-brief-cop31-day-908",
@@ -1980,6 +2284,17 @@
    ],
    "lede": "T he Cop31 climate talks have acquired something their delegates scarcely expected: a little political breathing space.",
    "cop": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeE13bVBYcUNqZUZxYjdnVG9WaGh2TTBITUlPdUtVMFJrem95UGZkcmgwTk52NFV3cm9SM3pLV1JKeld6YjVkSUlocGRzQ0lRTUIwemxidTNPTlFqZXdsemR5XzdHc1ZJVlU0N3hvdHZINFpHMERwbkdvc1VtUUM1RFRXOTRPUzJzbjFVME1mU0ppb0dDUk5oRWNjeWRNUlFpSkl5R2hBRGhvbGI0V1Z5RnhodTQ?oc=5",
+   "title": "House Chairman Says Huang Agrees to Testify But No Date Set Yet",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-15T16:32:43+00:00",
+   "seen": "2026-11-19T02:03:16+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://wattsupwiththat.com/2026/11/15/met-office-uses-implausible-climate-scenario-to-claim-climate-change-could-increase-flooding-by-800/",
@@ -2215,6 +2530,17 @@
    "desk": "reporting",
    "published": "2026-11-14T00:10:18+00:00",
    "seen": "2026-11-19T01:57:51+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb2ItNXZXVGNsZDBqQW5JYVRjOERPdHNKWEFlakk3S0ZrZ09fVFZfM3JWRjJNa1dGcWhYdWdOdi1iR3FrUFJDNEo4SnNiUmo2MXBkdHBYNUYxTncwTElPc1k3TjNpSFdTTlF3dXFKSTc3a1prXzZyTFRfaGZXb0NTWkUzdmJpYVJ6bmVwb1liQmFjZERhMHNnblptZWktS0laRmprUGk2cVhncHNLRDVZel9LX0RIdkZO?oc=5",
+   "title": "How a Bolivian Woman Is Reviving a Dying Lake with Plants",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-13T23:30:19+00:00",
+   "seen": "2026-11-19T02:03:16+00:00",
    "via_google": true,
    "ftries": 1,
    "fetched": true
@@ -2511,6 +2837,17 @@
    "desk": "opinion",
    "published": "2026-11-12T14:08:53+00:00",
    "seen": "2026-11-19T01:46:41+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQXBhZkxKMXpyUlVXQmNnUk8zbmJJYzI2Y3ByNHhvQkpjQ3U1NU9QVjlLbTVLbk5WbFVOX2hRV2NQQWs1QXhwZkgyZTF6ZGluQUQ2cXltRDZ2emdsNi1kcFBpUVowUHg3VldfNGZ5TGZ4cGZqZ284aklkV0xjQTRvNEZDVUktdFV1RElDVXVzQy1nWUxUMklYblhFNkN3VjkxNTdKd0tCdkt0NGxIVmRnWlV2dHpTOU14a2N3SA?oc=5",
+   "title": "El Niño’s Odds of Being Worst Ever Edge Lower, US Climate Prediction Center Says",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-12T14:00:00+00:00",
+   "seen": "2026-11-19T02:03:16+00:00",
    "via_google": true,
    "ftries": 1,
    "fetched": true
@@ -2988,6 +3325,18 @@
    ],
    "lede": "An agenda row is averted at the opening session, where the UN climate chief said strong results are needed from the talks to boost \"real-world outcomes\"",
    "cop": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjaFk2SnlacjFiZnBjLVN6Zk54Vnk4cjJuYlg1aDJmTU1ZVlZsbk5FZlZqMEUweU55U0x4Sm4wYTFQTWRxNTFRc2lTMm1KSnhHY3U3VUNZU3pEVGc?oc=5",
+   "title": "El Niño pushes world towards record heat as COP31 opens",
+   "source": "BBC",
+   "desk": "reporting",
+   "published": "2026-11-09T08:00:00+00:00",
+   "seen": "2026-11-19T02:03:16+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://www.carbonbrief.org/qa-what-is-the-belem-antalya-mechanism-for-a-just-transition",

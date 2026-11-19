@@ -14,6 +14,7 @@
     opinion: "David Wallace-Wells, The Atlantic, The Economist and Watts Up With That",
   };
   let articles = [];
+  let brief = null;
   let view = store.get("dg-view", "latest");
   if (!DESKS[view]) view = "latest";
   const saved = new Set(store.get("dg-saved", []));
@@ -83,6 +84,7 @@
     rest.slice(0, 3).forEach((a) => side.append(card(a)));
     wrap.append(leadCol, side);
     const frag = document.createDocumentFragment();
+    if (brief && brief.bullets && brief.bullets.length) frag.append(briefing(brief));
     frag.append(wrap);
     // One row per desk, so every kind of coverage shows up on the front page
     for (const desk of ["cop", "science", "politics", "reporting", "opinion"]) {
@@ -97,6 +99,25 @@
       frag.append(h, grid);
     }
     content.replaceChildren(frag);
+  }
+
+  // The week in climate: a headline of the top themes, then one sentence per story with its source linked
+  function briefing(b) {
+    const sec = el("section", "briefing");
+    sec.setAttribute("aria-label", "The week in climate");
+    sec.append(el("p", "briefing-label", `The week in climate \u00b7 ${b.period}`));
+    sec.append(el("h2", "briefing-head", b.headline));
+    const ul = el("ul", "briefing-list");
+    for (const x of b.bullets) {
+      const li = el("li");
+      li.append(document.createTextNode(`${x.text} (`));
+      const a = el("a", null, x.source);
+      a.href = x.url; a.target = "_blank"; a.rel = "noopener";
+      li.append(a, document.createTextNode(")"));
+      ul.append(li);
+    }
+    sec.append(ul);
+    return sec;
   }
 
   function editions(list, note) {
@@ -253,6 +274,7 @@
       if (!r.ok) throw new Error(r.status);
       const data = await r.json();
       articles = data.articles || [];
+      brief = data.briefing || null;
       $("#updated").textContent = `Updated ${ago(data.updated).toLowerCase()}`;
       render();
       if (location.hash === "#skim" && skimEl.hidden) openSkim();

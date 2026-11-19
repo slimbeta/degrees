@@ -8,6 +8,7 @@ paragraphs when the site allows it. Standard library only.
 """
 import html
 import json
+import os
 import re
 import sys
 import time
@@ -87,6 +88,86 @@ def lede(a):
             out = f"{out} {ss[1]}"
         return out
     return None
+
+
+# Weekly briefing: themes ranked by how many different outlets covered them
+THEMES = [
+    (r"\bCOP ?\d{1,2}\b", None),  # label taken from the match, e.g. "COP31"
+    (r"climate finance|finance goal|adaptation finance|\bNCQG\b|climate (aid|funding)", "climate finance"),
+    (r"fossil fuel|\boil\b|\bgas\b|\bcoal\b|\bOPEC\b|petroleum|petrostate", "fossil fuels"),
+    (r"wildfire|bushfire|forest fire", "wildfires"),
+    (r"heat ?wave|extreme heat|humid heat|heat stress", "extreme heat"),
+    (r"\bflood", "flooding"),
+    (r"hurricane|typhoon|cyclone|tropical storm", "storms"),
+    (r"drought", "drought"),
+    (r"sea.level", "sea-level rise"),
+    (r"glacier|ice sheet|sea ice|\bArctic\b|\bAntarctic", "melting ice"),
+    (r"carbon (dioxide )?removal|geoengineering|direct air capture|solar (radiation|geo)|stratosph", "geoengineering and carbon removal"),
+    (r"electrif|renewable|solar power|solar panel|wind (power|farm|turbine)|batter(y|ies)|clean energy|heat pump", "clean energy"),
+    (r"methane", "methane"),
+    (r"\bemissions? (fell|fall|drop|declin|peak|rise|rose|record|cut)|emissions (are|have) (falling|peaked)", "the emissions curve"),
+    (r"adaptation|resilien", "adaptation"),
+    (r"loss and damage", "loss and damage"),
+    (r"El Ni\u00f1o|La Ni\u00f1a|El Nino|La Nina", "El Ni\u00f1o"),
+    (r"hottest|warmest|record (heat|temperature|high)|1\.5 ?(\u00b0|C\b|degrees)", "record warmth"),
+    (r"permitting", "permitting reform"),
+    (r"\bTrump\b|White House|\bEPA\b", "Washington"),
+    (r"\bChina\b|\bChinese\b|Beijing", "China"),
+    (r"\bIndia\b|\bIndian\b", "India"),
+    (r"\bEU\b|European Union|Brussels", "Europe"),
+    (r"\bAI\b|data cent(er|re)", "AI\u2019s power demand"),
+    (r"coral|reef|ocean acidif|marine heat", "oceans"),
+    (r"amazon|deforest|rainforest", "forests"),
+]
+THEMES = [(re.compile(p, re.I), label) for p, label in THEMES]
+
+
+def first_sentence(text):
+    ss = sentences(text or "")
+    return ss[0] if ss else None
+
+
+def briefing(articles, now):
+    week = [a for a in articles if a.get("lede") and (parse_date(a["published"]) or now) >= now - timedelta(days=7)]
+    if len(week) < 4:
+        return None
+    hits = {}  # label -> list of articles
+    for a in week:
+        hay = f"{a['title']} {a['lede']}"
+        for rx, label in THEMES:
+            m = rx.search(hay)
+            if m:
+                hits.setdefault(label or re.sub(r"\s+", "", m.group(0)).upper(), []).append(a)
+    ranked = sorted(hits.items(), key=lambda kv: (len({a["source"] for a in kv[1]}), len(kv[1])), reverse=True)
+    ranked = [kv for kv in ranked if len({a["source"] for a in kv[1]}) >= 2] or ranked
+    bullets, used, used_sources = [], set(), {}
+    for label, items in ranked:
+        if len(bullets) >= 6:
+            break
+        def score(a):
+            fs = first_sentence(a["lede"]) or ""
+            return (a["url"] not in used, a.get("note") is None, used_sources.get(a["source"], 0) == 0,
+                    40 <= len(fs) <= 220, a["published"])
+        best = max(items, key=score)
+        if best["url"] in used:
+            continue
+        text = first_sentence(best["lede"])
+        if not text or len(text) < 40:
+            continue
+        if len(text) > 230:
+            text = text[:220].rsplit(" ", 1)[0].rstrip(",;:\u2014-") + "\u2026"
+        used.add(best["url"])
+        used_sources[best["source"]] = used_sources.get(best["source"], 0) + 1
+        bullets.append({"text": text, "source": best["source"], "url": best["url"], "theme": label})
+    if not bullets:
+        return None
+    labels = [b["theme"] for b in bullets[:3]]
+    head = labels[0] if len(labels) == 1 else ", ".join(labels[:-1]) + " and " + labels[-1]
+    head = head[0].upper() + head[1:]
+    first = now - timedelta(days=6)
+    end = now.strftime("%-d") if first.month == now.month else now.strftime("%b %-d")
+    return {"headline": head, "period": f"{first.strftime('%b %-d')}\u2013{end}",
+            "made": now.isoformat(timespec="seconds"), "bullets": bullets}
 
 
 def is_cop(a):
@@ -427,8 +508,15 @@ def main():
             a["cop"] = True
     articles.sort(key=lambda a: a["published"], reverse=True)
     articles = articles[:MAX_ITEMS]
+    # Rewrite the briefing once a day (first run after 10:00 UTC, early morning in the Americas)
+    brief = existing.get("briefing")
+    due = now.replace(hour=10, minute=0, second=0, microsecond=0)
+    if now < due:
+        due -= timedelta(days=1)
+    if not brief or (parse_date(brief.get("made")) or due) < due or os.environ.get("REBUILD_BRIEFING"):
+        brief = briefing(articles, now) or brief
     OUT.parent.mkdir(parents=True, exist_ok=True)
-    OUT.write_text(json.dumps({"updated": now.isoformat(timespec="seconds"), "articles": articles,
+    OUT.write_text(json.dumps({"updated": now.isoformat(timespec="seconds"), "briefing": brief, "articles": articles,
                                "dropped": sorted(dropped)[-3000:]},
                               ensure_ascii=False, indent=1))
     print(f"wrote {len(articles)} articles ({len(fresh)} new)")

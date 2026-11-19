@@ -212,3 +212,18 @@ body{font-feature-settings:"kern"}
   .dek,.grid .dek{font-size:16px}
   .skim-hed{font-size:26px}
 }
+
+/* The week in climate */
+.briefing{margin:26px 0 6px;padding:20px 22px 18px;background:var(--panel);border-top:3px solid var(--hot)}
+.briefing-label{font-size:14px;font-weight:700;color:var(--hot);margin-bottom:6px}
+.briefing-head{font-size:28px;line-height:1.18;font-weight:700;letter-spacing:-.2px;text-wrap:balance}
+.briefing-list{margin:14px 0 0;padding:0 0 0 1.1em;font-size:17px;line-height:1.5;max-width:860px}
+.briefing-list li{margin-top:9px;padding-left:2px}
+.briefing-list li::marker{color:var(--hot)}
+.briefing-list a{color:var(--accent);font-weight:700;text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:3px}
+.briefing+.front{padding-top:24px}
+@media (max-width:720px){
+  .briefing{margin:18px -16px 0;padding:18px 16px 16px}
+  .briefing-head{font-size:24px}
+  .briefing-list{font-size:16px}
+}

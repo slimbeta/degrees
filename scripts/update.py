@@ -35,6 +35,66 @@ CLIMATE_WORDS = re.compile(
     r"\bcop\d|unfccc|paris agreement|ocean|arctic|antarctic|permafrost", re.I)
 
 
+COP_WORDS = re.compile(
+    r"\bCOP ?\d{1,2}\b|\bUNFCCC\b|\bUN climate (talks|summit|conference|negotiations|process)|"
+    r"\bclimate (talks|negotiations|negotiators|summit)\b|Paris Agreement|\bNDCs?\b|Article 6|"
+    r"loss and damage|Bonn climate|\bSB ?6\d\b|global stocktake", re.I)
+
+ABBREV = re.compile(r"\b(?:U\.S|U\.K|U\.N|E\.U|Mr|Mrs|Ms|Dr|Prof|St|Jr|Sr|Inc|Co|Corp|No|vs|etc|e\.g|i\.e|approx|Gov|Sen|Rep|Gen|Jan|Feb|Mar|Apr|Jun|Jul|Aug|Sep|Sept|Oct|Nov|Dec)\.$")
+
+
+def sentences(text):
+    parts, start = [], 0
+    for m in re.finditer(r"[.!?][\u201d\u2019\"')]?(?=\s+[A-Z0-9\u201c\u2018\"'])", text):
+        cand = text[start:m.end()].strip()
+        if ABBREV.search(cand):
+            continue  # "U.S." and friends don't end a sentence
+        parts.append(cand)
+        start = m.end()
+    tail = text[start:].strip()
+    if tail:
+        parts.append(tail)
+    return parts
+
+
+DATELINE = re.compile(r"^(?:[A-Z][A-Z.\u2019' -]{2,30}(?:, [A-Z][\w.\u2019' -]{1,25})?\s*(?:\([A-Za-z ]+\))?\s*[\u2014\u2013-]+\s*)")
+BIO = re.compile(r"^[A-Z][\w.\u2019' -]{2,60}\b(is|was|serves as)\b.{0,60}\b(minister|professor|director|author|fellow|"
+                 r"researcher|editor|executive|chair|founder|ceo|president|lecturer|analyst|correspondent|columnist)", re.I)
+
+
+def fix_spacing(t):
+    t = re.sub(r"\s+(?=[\u2019']s\b)", "", t)
+    return re.sub(r"\s+(?=[.,;:!?)\u201d](?:\s|$))", "", t)
+
+
+def lede(a):
+    """The story's opening in at most two short sentences: the publisher's standfirst, else the first paragraph."""
+    desc = a.get("description") or ""
+    paras = [p for p in (a.get("paragraphs") or [])[:3] if not BIO.search(p)]
+    truncated = desc.endswith(("\u2026", "...")) or (desc and desc[-1] not in ".!?\u201d\"')")
+    pool = ([desc] if desc and not truncated else []) + paras[:1] + ([desc] if desc and truncated else [])
+    for text in pool:
+        text = fix_spacing(DATELINE.sub("", re.sub(r"\s+", " ", text).strip()))
+        if BIO.search(text):
+            continue
+        ss = [x for x in sentences(text) if len(x) > 25]
+        if not ss:
+            continue
+        out = ss[0]
+        if len(out) > 230:  # one long sentence: trim at a word boundary
+            out = out[:220].rsplit(" ", 1)[0].rstrip(",;:\u2014-") + "\u2026"
+        elif len(ss) > 1 and len(out) + len(ss[1]) <= 240:
+            out = f"{out} {ss[1]}"
+        return out
+    return None
+
+
+def is_cop(a):
+    hay = " ".join([a.get("title", ""), a.get("description", ""), " ".join(a.get("cats", [])),
+                    (a.get("paragraphs") or [""])[0]])
+    return bool(COP_WORDS.search(hay))
+
+
 def gnews(query):
     return "https://news.google.com/rss/search?q=" + quote_plus(query) + "&hl=en-US&gl=US&ceid=US:en"
 
@@ -73,6 +133,10 @@ SOURCES = [
      "via_google": True},
     {"name": "Watts Up With That", "desk": "opinion", "note": "Skeptic blog",
      "feed": "https://wattsupwiththat.com/feed/"},
+    # COP wire coverage (publisher taken from each Google News headline)
+    {"name": "auto", "desk": "reporting", "via_google": True, "cop": True,
+     "feed": gnews('("UN climate" OR COP31 OR COP32 OR COP33) (site:reuters.com OR site:apnews.com OR '
+                   'site:bbc.com OR site:politico.eu) when:14d')},
 ]
 
 NS = {"dc": "http://purl.org/dc/elements/1.1/", "atom": "http://www.w3.org/2005/Atom",
@@ -96,7 +160,8 @@ def tidy_desc(t):
 
 
 def text_of(node):
-    return re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", " ", node or ""))).strip()
+    t = re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", " ", node or ""))).strip()
+    return re.sub(r"\s+(?=[.,;:!?)\u201d](?:\s|$))", "", re.sub(r"\s+(?=[\u2019']s\b)", "", t))
 
 
 def parse_date(s):
@@ -319,13 +384,21 @@ def main():
             when = it["when"] or now
             if when < cutoff or it["url"] in known or it["title"].lower() in known_titles:
                 continue
-            title = it["title"]
+            title, source = it["title"], src["name"]
             if src.get("via_google"):
-                title = re.sub(r"\s+-\s+[^-]+$", "", title)  # "Headline - Bloomberg.com"
-            item = {"url": it["url"], "title": clean_title(title), "source": src["name"], "desk": src["desk"],
+                m = re.search(r"\s+-\s+([^-]+)$", title)  # "Headline - Bloomberg.com"
+                if m and source == "auto":
+                    source = {"AP News": "Associated Press", "Politico.eu": "Politico Europe"}.get(m.group(1).strip(), m.group(1).strip())
+                title = re.sub(r"\s+-\s+[^-]+$", "", title)
+                title = re.sub(r"^NEWSLETTER:\s*", "", title)
+            item = {"url": it["url"], "title": clean_title(title), "source": source, "desk": src["desk"],
                     "published": when.isoformat(timespec="seconds"), "seen": now.isoformat(timespec="seconds")}
             if not it["when"]:
                 item["undated"] = True
+            if it["cats"]:
+                item["cats"] = it["cats"][:8]
+            if src.get("cop"):
+                item["cop"] = True
             for k in ("byline", "note", "via_google"):
                 if src.get(k):
                     item[k] = src[k]
@@ -346,6 +419,12 @@ def main():
     everything = fresh + existing["articles"]
     articles = [a for a in everything if (parse_date(a["published"]) or now) >= cutoff]
     dropped |= {a["url"] for a in everything if a not in articles}
+    for a in articles:
+        a["lede"] = lede(a)
+        if not a["lede"]:
+            a.pop("lede")
+        if a.get("cop") or is_cop(a):
+            a["cop"] = True
     articles.sort(key=lambda a: a["published"], reverse=True)
     articles = articles[:MAX_ITEMS]
     OUT.parent.mkdir(parents=True, exist_ok=True)

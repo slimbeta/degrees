@@ -5,8 +5,9 @@
     get(k, d) { try { const v = localStorage.getItem(k); return v ? JSON.parse(v) : d; } catch (e) { return d; } },
     set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) {} },
   };
-  const DESKS = { latest: "Latest", science: "Science", politics: "Politics", reporting: "Reporting", opinion: "Opinion", saved: "Saved" };
+  const DESKS = { latest: "Latest", cop: "COP", science: "Science", politics: "Politics", reporting: "Reporting", opinion: "Opinion", saved: "Saved" };
   const DESK_NOTES = {
+    cop: "every desk, plus Reuters, AP, BBC and Politico Europe — the UN climate talks, UNFCCC sessions and the Paris Agreement",
     science: "NASA, Copernicus, Berkeley Earth, NOAA and Yale Climate Connections",
     politics: "Carbon Brief, Climate Home News and Ed King’s Climate Diplomacy Brief",
     reporting: "Lisa Friedman, Bloomberg Green, Inside Climate News and The Guardian",
@@ -57,7 +58,7 @@
     node.querySelector(".kicker").replaceWith(kicker(a));
     node.querySelector(".hed").textContent = a.title;
     const dek = node.querySelector(".dek");
-    if (a.description) dek.textContent = a.description; else dek.remove();
+    if (a.lede) dek.textContent = a.lede; else dek.remove();
     if (a.image) {
       const fig = node.querySelector(".story-photo"), img = fig.querySelector("img");
       img.src = a.image;
@@ -71,7 +72,7 @@
 
   function front(list) {
     const top = list.slice(0, 12);
-    const lead = top[Math.max(0, top.findIndex((a) => a.image && a.description))];
+    const lead = top[Math.max(0, top.findIndex((a) => a.image && a.lede))];
     const rest = list.filter((a) => a !== lead);
     const wrap = el("div", "front");
     const leadCol = el("div", "lead-col"), side = el("div", "side-col");
@@ -84,8 +85,8 @@
     const frag = document.createDocumentFragment();
     frag.append(wrap);
     // One row per desk, so every kind of coverage shows up on the front page
-    for (const desk of ["science", "politics", "reporting", "opinion"]) {
-      const items = rest.slice(3).filter((a) => a.desk === desk).slice(0, 4);
+    for (const desk of ["cop", "science", "politics", "reporting", "opinion"]) {
+      const items = rest.slice(3).filter((a) => (desk === "cop" ? a.cop : a.desk === desk)).slice(0, 4);
       if (!items.length) continue;
       const h = el("h2", "rule-heading");
       const btn = el("button", "desk-link", DESKS[desk]);
@@ -118,6 +119,7 @@
   function currentList() {
     if (view === "saved") return articles.filter((a) => saved.has(a.url));
     if (view === "latest") return articles;
+    if (view === "cop") return articles.filter((a) => a.cop);
     return articles.filter((a) => a.desk === view);
   }
 
@@ -181,7 +183,7 @@
     } else c.classList.add("no-photo");
     const body = el("div", "skim-body");
     body.append(kicker(a), el("h2", "skim-hed", a.title));
-    body.append(el("p", "skim-meta", `${DESKS[a.desk] || ""} · ${ago(a.published)}`));
+    body.append(el("p", "skim-meta", `${a.cop ? "COP · " : ""}${DESKS[a.desk] || ""} · ${ago(a.published)}`));
     const paras = a.paragraphs || [];
     const sum = el("div", "skim-summary");
     if (a.description) sum.append(el("p", "skim-desc", a.description));

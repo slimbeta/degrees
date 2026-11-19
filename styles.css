@@ -4,8 +4,9 @@
   --paper:#f4f3ee; --ink:#16191c; --deck:#454a4f; --muted:#6f757a; --line:#d9dad4; --strong:#16191c;
   --accent:#1d5a8a; --hot:#b2221b; --panel:#e9eae4; --focus:#1f5f8b;
   --display:"Libre Caslon Display","Libre Caslon Text",Georgia,serif;
-  --serif:"Libre Caslon Text",Georgia,"Times New Roman",serif;
-  --sans:Jost,"Futura","Avenir Next",system-ui,sans-serif;
+  /* Atkinson Hyperlegible Next: designed by the Braille Institute for maximum character distinction */
+  --serif:"Atkinson Hyperlegible Next","Atkinson Hyperlegible",system-ui,-apple-system,sans-serif;
+  --sans:"Atkinson Hyperlegible Next","Atkinson Hyperlegible",system-ui,-apple-system,sans-serif;
   color-scheme:light;
 }
 @media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
@@ -181,3 +182,33 @@ body.skimming{overflow:hidden}
 .skim-meta{font-family:var(--sans);font-size:12px;letter-spacing:.06em;color:var(--muted);margin-top:10px;padding-bottom:16px;border-bottom:1px solid var(--line)}
 .fleuron{color:var(--hot)}
 .side-col .dek,.grid .dek,.list .dek{display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden}
+
+/* Readability pass: one highly legible face, larger text, no italics or spaced capitals for reading text */
+body{font-feature-settings:"kern"}
+.hed{font-weight:700;letter-spacing:0;line-height:1.22}
+.story.lead .hed,.skim-hed,.edition-date{font-family:var(--serif);font-weight:700;letter-spacing:-.2px}
+.story.lead .hed{font-size:34px;line-height:1.15}
+.dek,.tagline,.skim-cont,.desk-note,.skim-none{font-style:normal}
+.dek{font-size:17px;line-height:1.5;color:var(--deck)}
+.story.lead .dek{font-size:19px}
+.story.lead .dek.dropcap::first-letter{font-family:var(--serif);font-weight:700;font-size:2.9em;line-height:.9}
+.side-col .dek,.grid .dek,.list .dek{-webkit-line-clamp:3}
+.kicker{text-transform:none;letter-spacing:.01em;font-size:14px;font-weight:700}
+.tag{text-transform:uppercase}
+.sections button{text-transform:none;letter-spacing:.01em;font-size:15px}
+.rule-heading{text-transform:none;letter-spacing:.01em;font-size:16px;font-weight:700}
+.save,.skim-close,.skim-read,.skim-count{text-transform:none;letter-spacing:.01em}
+.save{font-size:13px}
+.skim-read,.skim-close{font-size:15px}
+.skim-hed{font-size:30px;line-height:1.15}
+.skim-desc{font-size:19px;line-height:1.5}
+.skim-excerpt{font-size:19px;line-height:1.65;hyphens:manual;-webkit-hyphens:manual}
+.skim-excerpt.first::first-letter{font-family:var(--serif);font-weight:700;font-size:3em;line-height:.9}
+.skim-card,.list{max-width:680px}
+.stripes figcaption{font-size:12px;letter-spacing:0}
+@media (max-width:720px){
+  .story.lead .hed{font-size:28px}
+  .hed,.grid .hed,.side-col .story:not(.has-photo) .hed{font-size:19px}
+  .dek,.grid .dek{font-size:16px}
+  .skim-hed{font-size:26px}
+}

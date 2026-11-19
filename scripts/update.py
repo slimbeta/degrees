@@ -54,7 +54,8 @@ SOURCES = [
      "categories": re.compile(r"^(politics|unfccc|cop\d+|article 6|paris agreement)$", re.I),
      "exclude_categories": re.compile(r"^sponsored$", re.I)},
     {"name": "Climate Diplomacy Brief", "byline": "Ed King", "desk": "politics",
-     "feed": "https://climatediplobrief.substack.com/feed"},
+     "feed": "https://climatediplobrief.substack.com/feed",
+     "fallback_feed": gnews("site:climatediplobrief.substack.com when:30d")},
     # Reporting
     {"name": "The New York Times", "byline": "Lisa Friedman", "desk": "reporting",
      "feed": "https://rss.nytimes.com/services/xml/rss/nyt/Climate.xml", "author": re.compile(r"Lisa Friedman", re.I)},
@@ -78,8 +79,11 @@ NS = {"dc": "http://purl.org/dc/elements/1.1/", "atom": "http://www.w3.org/2005/
       "media": "http://search.yahoo.com/mrss/", "content": "http://purl.org/rss/1.0/modules/content/"}
 
 
-def get(url, limit=1_500_000, timeout=20):
-    req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "text/html,application/xml,*/*"})
+READER_UA = "DegreesReader/1.0 (+https://github.com/slimbeta/degrees; hourly RSS reader)"
+
+
+def get(url, limit=1_500_000, timeout=20, ua=UA):
+    req = urllib.request.Request(url, headers={"User-Agent": ua, "Accept": "text/html,application/xml,*/*"})
     with urllib.request.urlopen(req, timeout=timeout) as r:
         return r.read(limit).decode("utf-8", "replace")
 
@@ -113,11 +117,12 @@ def parse_date(s):
 def fetch_feed(url):
     for attempt in range(3):
         try:
-            return get(url, limit=4_000_000)
+            # Some hosts (Substack) refuse browser-like requests from cloud servers but accept a named feed reader
+            return get(url, limit=4_000_000, ua=READER_UA if attempt == 1 else UA)
         except urllib.error.HTTPError as e:
-            if e.code != 429 or attempt == 2:
+            if e.code not in (403, 429) or attempt == 2:
                 raise
-            time.sleep(10 * (attempt + 1))  # Google News rate limit
+            time.sleep(10 * (attempt + 1) if e.code == 429 else 1)
 
 
 def parse_xml(raw):
@@ -134,7 +139,15 @@ def parse_xml(raw):
 def feed_items(src):
     if src.get("via_google"):
         time.sleep(3)
-    root = parse_xml(fetch_feed(src["feed"]))
+    try:
+        root = parse_xml(fetch_feed(src["feed"]))
+    except Exception as e:
+        if not src.get("fallback_feed"):
+            raise
+        print(f"  {src['name']}: {e}; using Google News fallback", file=sys.stderr)
+        time.sleep(3)
+        src["via_google"] = True
+        root = parse_xml(fetch_feed(src["fallback_feed"]))
     items = root.findall(".//item") or root.findall(".//atom:entry", NS)
     for it in items:
         title = text_of(it.findtext("title") or it.findtext("atom:title", namespaces=NS))
@@ -289,7 +302,8 @@ def main():
     now = datetime.now(timezone.utc)
     cutoff = now - timedelta(days=MAX_AGE_DAYS)
     existing = json.loads(OUT.read_text()) if OUT.exists() else {"articles": []}
-    known = {a["url"] for a in existing["articles"]}
+    dropped = set(existing.get("dropped", []))  # too old when first found; don't refetch every hour
+    known = {a["url"] for a in existing["articles"]} | dropped
     known_titles = {a["title"].lower() for a in existing["articles"]}
     fresh = []
     for src in SOURCES:
@@ -329,11 +343,14 @@ def main():
     with ThreadPoolExecutor(max_workers=8) as pool:
         list(pool.map(enrich, fresh + retry))
 
-    articles = [a for a in fresh + existing["articles"] if (parse_date(a["published"]) or now) >= cutoff]
+    everything = fresh + existing["articles"]
+    articles = [a for a in everything if (parse_date(a["published"]) or now) >= cutoff]
+    dropped |= {a["url"] for a in everything if a not in articles}
     articles.sort(key=lambda a: a["published"], reverse=True)
     articles = articles[:MAX_ITEMS]
     OUT.parent.mkdir(parents=True, exist_ok=True)
-    OUT.write_text(json.dumps({"updated": now.isoformat(timespec="seconds"), "articles": articles},
+    OUT.write_text(json.dumps({"updated": now.isoformat(timespec="seconds"), "articles": articles,
+                               "dropped": sorted(dropped)[-3000:]},
                               ensure_ascii=False, indent=1))
     print(f"wrote {len(articles)} articles ({len(fresh)} new)")
     update_stripes()

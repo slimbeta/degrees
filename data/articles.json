@@ -1,49 +1,301 @@
 {
- "updated": "2026-11-20T01:47:33+00:00",
+ "updated": "2026-11-20T10:04:06+00:00",
  "briefing": {
   "headline": "COP31, fossil fuels and El Niño",
-  "period": "Nov 13–19",
-  "made": "2026-11-19T10:24:07+00:00",
+  "period": "Nov 14–20",
+  "made": "2026-11-20T10:04:06+00:00",
   "bullets": [
    {
-    "text": "After ministers gathered for a “divan” conflab on Wednesday night to start resolving differences on what should be in the main COP31 political decision, the talk in the halls was that it had been a nice opportunity for…",
-    "source": "Climate Home News",
-    "url": "https://www.climatechangenews.com/2026/11/19/cop31-bulletin-day-10-ministers-exchange-makes-little-concrete-progress/",
+    "text": "Rich countries are undermining the process, trust and credibility of the UN climate summit process by failing to live up to their commitments under the Paris agreement, African ministers said on Friday.",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/world/live/2026/nov/20/cop31-climate-crisis-talks-turkey-latest-news-updates",
     "theme": "COP31"
    },
    {
-    "text": "The consecutive emergency orders have led to $25.6 million in ratepayer costs, according to the analysis by the Environmental Defense Fund.",
+    "text": "The legislation is expected to accelerate pipeline buildout and lock in future LNG projects, climate advocates warn.",
     "source": "Inside Climate News",
-    "url": "https://insideclimatenews.org/news/19112026/florida-stanton-coal-plant-trump-emergency-orders/",
+    "url": "https://insideclimatenews.org/news/19112026/bipartisan-permitting-bill-natural-gas-exports/",
     "theme": "fossil fuels"
    },
    {
-    "text": "Winter precipitation helped wake dormant seeds in northern Chile, carpeting the desert with what may be the region’s most extensive flowering of the satellite era.",
-    "source": "NASA",
-    "url": "https://science.nasa.gov/earth/earth-observatory/el-nino-rains-paint-the-atacama/",
+    "text": "October 2026 was the warmest October on record.",
+    "source": "Berkeley Earth",
+    "url": "https://berkeleyearth.org/october-2026-temperature-update/",
     "theme": "El Niño"
    },
    {
-    "text": "When wildfire risk is high, utilities sometimes shut off power lines, leaving people without electricity for days.",
-    "source": "Yale Climate Connections",
-    "url": "https://yaleclimateconnections.org/2026/11/wildfire-prone-areas-could-turn-to-microgrids-to-cope-with-power-outages/",
+    "text": "NASA researchers have produced detailed 3D topography maps for all of California, down to the scale of a single tree.",
+    "source": "NASA",
+    "url": "https://science.nasa.gov/blogs/science-news/2026/11/18/california-wildfire-risk-3d-maps/",
     "theme": "wildfires"
    },
    {
-    "text": "I n this cold weather, it is easy to forget that Britain has just been through its hottest summer on record, part of our new reality as the climate crisis reaches our doorstep.",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/commentisfree/2026/nov/17/britain-climate-action-plan-working-cop31-voters-jobs-home-prices",
-    "theme": "record warmth"
+    "text": "The administration’s attempt to revive the declining industry is leaving workers — and the planet — behind.",
+    "source": "Yale Climate Connections",
+    "url": "https://yaleclimateconnections.org/2026/11/under-trump-black-lung-disease-is-surging-among-appalachias-coal-miners/",
+    "theme": "Washington"
    },
    {
-    "text": "Ministers are in the building and embarking on the tricky task of refining the mammoth draft cover text down to something that can be agreed upon by the end of the week.",
+    "text": "International Energy Agency chief Fatih Birol celebrates the electricity demands of AI and electric cars, but the revolution must be about more than luxuries for the rich.",
     "source": "Climate Home News",
-    "url": "https://www.climatechangenews.com/2026/11/17/cop31-bulletin-day-8-arab-group-russia-reject-cover-text-over-fossil-fuels-and-electrification-goal/",
-    "theme": "clean energy"
+    "url": "https://www.climatechangenews.com/2026/11/16/cop31s-electricity-goal-must-be-about-more-than-ai-and-luxuries-for-the-rich/",
+    "theme": "AI’s power demand"
    }
   ]
  },
  "articles": [
+  {
+   "url": "https://insideclimatenews.org/news/20112026/utility-commissions-democrat-election-victories/",
+   "title": "Blue Wave Trickled Down to Little-Known Utility Commissions",
+   "source": "Inside Climate News",
+   "desk": "reporting",
+   "published": "2026-11-20T10:00:00+00:00",
+   "seen": "2026-11-20T10:04:06+00:00",
+   "cats": [
+    "Politics",
+    "Arizona Public Service",
+    "democrats",
+    "Election",
+    "Election 2026",
+    "Electric Utilities",
+    "Energy",
+    "Georgia Public Service Commission"
+   ],
+   "description": "Once overlooked, utility regulator elections drew millions in outside spending and increased attention from consumer and environmental groups nationwide, leading to some Democratic victories in red states.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://insideclimatenews.org/wp-content/uploads/2026/11/GettyImages-2302963032b-1024x683.jpg",
+   "paragraphs": [
+    "Data centers and increased energy costs brought attention to typically low-profile utility commission races in states across the country during this year’s midterms.",
+    "Nine states, all historically Republican, held elections for their utility regulators this year. Democrats won five of the 15 contested seats, flipping four Republican-held seats and retaining one, while Republicans won 10 seats, including one flipped from a Democrat in Louisiana.",
+    "Every state has a commission responsible for regulating its utilities, with authority over decisions that affect how electricity is generated, delivered and priced. Most are called Public Service Commissions (PSCs) or Public Utility Commissions (PUCs), and their structures vary. Some have three members, others five or seven. In most states commissioners are appointed officials, while in 10 states they are elected in partisan races.",
+    "Dan Gearino’s habit-forming weekly take on how to understand the energy transformation reshaping our world.",
+    "A once-a-week digest of the most pressing climate-related news, written by Kate Waxman and released every Tuesday.",
+    "Don’t miss a beat. Get a daily email of our original, groundbreaking stories written by our national network of award-winning reporters.",
+    "A digest of stories on the inequalities that worsen the impacts of climate change on vulnerable communities.",
+    "In this election cycle, the biggest shifts occurred in Georgia and Arizona, where Democrats made historic gains. In Georgia, they won control of the PSC for the first time in 30 years, while in Arizona, they ended Republicans’ 5-0 hold on their commission. Both states have seen a surge in data center development, bringing new scrutiny to electricity costs and how to meet growing energy demand.",
+    "In Georgia, Democrats Shelia Edwards won her first PSC election while Peter Hubbard was reelected to his first full term, an early endorsement of the job he did his rookie year as commissioner. Joined by Commissioner Alicia Johnson, who won a seat last year, Democrats now hold a 3-2 majority on a commission that was entirely Republican just two years ago.",
+    "In Arizona, Clara Pratte and Jonathon Hill won the first Democratic seats on the commission since 2020."
+   ],
+   "lede": "Once overlooked, utility regulator elections drew millions in outside spending and increased attention from consumer and environmental groups nationwide, leading to some Democratic victories in red states."
+  },
+  {
+   "url": "https://wattsupwiththat.com/2026/11/20/climate-mania-has-made-the-world-bank-stupid/",
+   "title": "Climate Mania Has Made the World Bank Stupid",
+   "source": "Watts Up With That",
+   "desk": "opinion",
+   "published": "2026-11-20T09:53:00+00:00",
+   "seen": "2026-11-20T10:04:06+00:00",
+   "cats": [
+    "Alarmism",
+    "Climate Politics",
+    "Commentary",
+    "COP31",
+    "Singapore",
+    "Tuvalu",
+    "World Bank"
+   ],
+   "note": "Skeptic blog",
+   "description": "An institution founded to promote economic growth has joined the brigade fulminating against the weather gods. The world’s poor deserve better than that.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2026/11/world-bank-headquarters-washington-feature.webp?fit=1024%2C512&quality=75&ssl=1",
+   "paragraphs": [
+    "The CCDR is the Bank’s “core diagnostic” for helping countries align their “climate ambitions” with their development priorities, and the Bank’s blog trails the new report as a journey from commitment to delivery. The phrasing smuggles in an equivalence that no finance minister in Lusaka or Abuja would recognise. Why would a poor country have climate ambitions at all, beyond ensuring that poverty does not stand between its citizens and the travails of bad weather? Is civilisation itself not born of the struggle against the depredations of nature? Is science, in the Baconian tradition, not power over a harsh nature, the taming of her furies for the comfort of man? The ambitions in question belong to the Net Zero ideologues of Brussels and Davos. The poor merely get to be the guinea pigs of climate modelling and Net Zero imperatives.",
+    "The report opens with the assertion, repeated across all five editions, that “climate and development are inseparable”. It then declares that climate change poses a substantial threat to economic development, with projected GDP losses of between 1% and 20% by 2050 “compared with a baseline without climate change”. This is an alternate universe. No country has ever been offered a baseline without weather. The counterfactual that matters to a development bank surely is the loss from the absence of growth, measured against a baseline of robust growth, whatever the climate does.",
+    "The Bank’s own text gives the game away. Its modelled losses are larger in poorer and hotter economies. Its headline adaptation case is Nigeria, where the projected GDP loss shrinks from 6.7% to about 1% once one assumes mechanisation, air conditioning, health interventions and flood-resilient investment. Heat stress, it notes, costs far less in high-income countries, where machines do the heavy lifting. Mauritius is declared at risk of water scarcity, yet 61% of the water its system captures is lost before it reaches a customer. That is a plumbing problem. Mechanisation, air conditioning and pipes that do not leak used to be called economic development. The Bank has rediscovered it and filed it under “climate adaptation”.",
+    "The rest is conjecture by model. In Armenia, climate change “could” raise poverty by 2.7 percentage points by 2030, relative to that imaginary alternate universe baseline. In Nigeria, under a “pessimistic dry/hot scenario”, it “could” push 5.1 million more people into poverty by 2035. The report concedes that the impact channels modelled differ from country to country, that results are not comparable and that its estimates are merely “indicative”. Running climate models through economic forecasts to divine a poverty rate a decade hence is not much of an advance on the augurs of classical Rome who inspected the entrails of sacrificed animals to learn what the gods had in store.",
+    "Where the report cites an actual event, it misrepresents. Zambia’s 2023-24 drought, which more than halved the maize crop, is offered as evidence of climate change destroying jobs. But the World Weather Attribution group, no nest of sceptics, found that El Niño, i.e., weather, was the key driver and that such droughts are, if anything, less likely in today’s climate than in a cooler pre-industrial one. That is of a piece with the IPCC’s own Sixth Assessment, whose Table 12.12, as Roger Pielke Jr. has patiently documented, shows that for most types of extreme weather a climate-change signal has not emerged from natural variability and is not expected to this century, even under the implausible RCP8.5 scenario."
+   ],
+   "lede": "An institution founded to promote economic growth has joined the brigade fulminating against the weather gods. The world’s poor deserve better than that.",
+   "cop": true
+  },
+  {
+   "url": "https://www.theguardian.com/world/live/2026/nov/20/cop31-climate-crisis-talks-turkey-latest-news-updates",
+   "title": "Cop31 live: crunch time as deeply divided climate talks enter final day",
+   "source": "The Guardian",
+   "desk": "reporting",
+   "published": "2026-11-20T09:41:59+00:00",
+   "seen": "2026-11-20T10:04:06+00:00",
+   "cats": [
+    "Turkey",
+    "Environment",
+    "Cop31",
+    "Climate crisis"
+   ],
+   "description": "Disagreements between rich polluting countries and everyone else threaten to push UN summit beyond its official end",
+   "image": "https://i.guim.co.uk/img/media/bf2aefa654c56a510f3bb1bf2586a24294e1d22c/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=f585474d7857df9ba4a5efc98f5cfcdb",
+   "ftries": 1,
+   "fetched": true,
+   "paragraphs": [
+    "Rich countries are undermining the process, trust and credibility of the UN climate summit process by failing to live up to their commitments under the Paris agreement, African ministers said on Friday.",
+    "“We didn’t come here to beg,” said Zanetor Agyeman-Rawlings, chair of the African Group of Negotiators, in a press conference on the last official day of the Cop31 talks in Antalya on Friday.",
+    "“We came here to claim what is rightfully ours for our people who are suffering the brunt of anthropogenic activities of developed countries that they are now being asked to pay for in ways that they never asked.”",
+    "Africans were being “excluded by the use of technicalities, with the use of inaccessible finance, and with the use of shifting goalposts and lack of commitment and delivery on promises”, Agyeman-Rawlings said.",
+    "The strong statement by African ministers came after civil society groups highlighted the EU as leading a bloc of rich countries obstructing progress on finance, the just transition and adaptation at the summit.",
+    "“The draft text on the climate finance work program, the just transition mechanism, and the global goal on adaptation have yet to appear in a form that makes sense to the people of Africa,” Agyeman-Rawlings said.",
+    "She continued: “Africa is not a continent merely seeking assistance. We are asking the developed countries to keep promises that they already made.”",
+    "In an apparent reference to the US, she said: “There are countries who from the onset decided not to be a part of this agreement. There, they were plain and honest.",
+    "“What we do not appreciate are those who choose to remain a part of the framework and yet continue to undermine the process and undermining trust and the credibility of what we do.",
+    "“We ask that we are here ready to make the work constructive with the presidency and to all parties and to reach an outcome that is credible, ambitious, yet fair.”"
+   ],
+   "lede": "Rich countries are undermining the process, trust and credibility of the UN climate summit process by failing to live up to their commitments under the Paris agreement, African ministers said on Friday.",
+   "cop": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNM0JQZlN6SGkwam1OZkRINnJITDdYX25FenEyTmlOYWFtRy0yRXE0Uk5LcWs3ZldQMGo1ZXlrbXd2elJjM19pOEg0cW1lVVZXdU5VS19vd3pOQWFkTXNoSmFvRTRqUFBBbVE2TWZKRC1qUTF0VUdmdUU1OFhZMXlZZTNmZXN5a1FQU0IwUUw1ZTVOSk9MeENkQ3UyVlpMUmRydFdEWHZCLVVuSjN6dENGSDNiOENWdDNONkVyQkR4ZmxpLUV5SmoyOVMtWQ?oc=5",
+   "title": "Magnitude 5.1 earthquake strikes near California's Monterey County, USGS says",
+   "source": "Reuters",
+   "desk": "reporting",
+   "published": "2026-11-20T07:07:00+00:00",
+   "seen": "2026-11-20T10:04:06+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://www.theguardian.com/environment/2026/nov/19/whats-left-to-do-as-cop31-enters-its-frantic-final-days",
+   "title": "What’s left to do as Cop31 enters its frantic final days",
+   "source": "The Guardian",
+   "desk": "reporting",
+   "published": "2026-11-20T07:00:24+00:00",
+   "seen": "2026-11-20T10:04:06+00:00",
+   "cats": [
+    "Environment",
+    "Cop31",
+    "Climate crisis"
+   ],
+   "description": "The diplomatic battles shaping the future of climate action as Cop31 enters its final days",
+   "image": "https://i.guim.co.uk/img/media/c128b19e2dc5c3433a2b50c928a3031bc3845920/504_0_4240_3392/master/4240.jpg?width=140&quality=85&auto=format&fit=max&s=1f1720e45c0aca7504ec7a80a5d2a5dc",
+   "ftries": 1,
+   "fetched": true,
+   "paragraphs": [
+    "T he end is in sight. If all goes as planned, countries as diverse as wealthy petrostates erecting new oil rigs and low-lying islands threatened by rising seas will reach an agreement tomorrow in Antalya, bringing the 31st UN climate summit to a close (though, as usual, the talks are likely to overrun ).",
+    "But tensions – much like our global temperatures – are running high. A draft text that satisfies all the competing interests is a long way off, and negotiators are expected to argue into the night and then the weekend. On the table are the electrification of the global economy, the transition away from fossil fuels, and the response to the looming overshoot of the 1.5C (2.7F) temperature target. Deepening the divide are long-running disputes over who should pay what, and emerging fights over the fairness of the transition and assumptions in the underlying science.",
+    "I’ve been following the contentious climate talks from afar every day for our liveblog, as my tireless colleagues on the ground have raced from interview to interview. The three big issues frustrating diplomats help the rest of us make sense of how well humanity is doing at keeping the planet habitable.",
+    "Here’s what stands out, and what’s at stake in these final days. But first, the headlines.",
+    "This is climate breakdown: ‘The landslide hit the side of my car. I heard screaming, and realised it was me’",
+    "In just a few years, global heating is set to surpass that dangerous 1.5C (2.7F) threshold world leaders had promised to pursue for the end of the century. Temperatures could still be brought back down a touch after reaching net zero emissions, but the Paris climate target only stays in play if overshoot is limited – and brief.",
+    "In what struck me as the most powerful speech of the two-day leaders’ summit last week, Hilda Heine, president of the embattled Marshall Islands, told her counterparts that it was time to “wake up” to what crossing that threshold would really mean. “Our response to the threat of overshoot must be overwhelming, or the world we know is over.”",
+    "Many countries can reasonably claim to be on the frontlines of the climate crisis but small islands face the darkest future from crossing the 1.5C target, as even a brief period of extra heat pushes sea levels higher for the centuries that follow. A couple of weeks ago, a UN report argued that Earth’s icy regions face such dangerous melting that temperature rise should be brought back below 1C, decrying the “persistent myth” that peak heat of 2C or 3C could be manageable or preferable to rapid emissions cuts.",
+    "“Overshoot is not a new target,” said Mia Mottley, the prime minister of Barbados, as she called on fellow heads of state and government to cut emissions faster. “It is a debt, a debt of heat, borrowed against our children’s future. And it must be repaid.”",
+    "The obvious answer, which scientists (and fossil fuel companies) have known for decades, is to quickly stop burning coal, oil and gas. But while “fossil fuels” made it into the text of the draft deal published on Monday – words that first featured in the final outcome at the 26th iteration of these yearly climate talks – observers fear the Turkish and Australian co-hosts have not done the diplomatic groundwork for such wording to survive."
+   ],
+   "lede": "If all goes as planned, countries as diverse as wealthy petrostates erecting new oil rigs and low-lying islands threatened by rising seas will reach an agreement tomorrow in Antalya, bringing the 31st UN climate summit…",
+   "cop": true
+  },
+  {
+   "url": "https://wattsupwiththat.com/2026/11/19/abolish-carbon-taxes-to-save-the-economy/",
+   "title": "Abolish Carbon Taxes to Save the Economy",
+   "source": "Watts Up With That",
+   "desk": "opinion",
+   "published": "2026-11-20T06:12:00+00:00",
+   "seen": "2026-11-20T10:04:06+00:00",
+   "cats": [
+    "carbon tax",
+    "Energy",
+    "Net-Zero",
+    "Carbon tax",
+    "CBAM",
+    "David Turver"
+   ],
+   "note": "Skeptic blog",
+   "description": "Abolishing the main rates of the Climate Change Levy, Carbon Price Support and the UK ETS would cut energy users’ bills by £7.2 billion a year – equivalent to around £250 per household, including about £60 directly off domestic energy bills.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2026/11/port-talbot-steelworks-aerial-1024x512-1.webp?fit=1024%2C512&quality=75&ssl=1",
+   "paragraphs": [
+    "British households and businesses are paying some of the highest energy prices in the developed world. My new paper for the Prosperity Institute, ‘Not Zero: How Green Taxes Put British Energy Bills in the Red’, shows that a large part of the problem is self-inflicted. Carbon taxes and related levies – the Climate Change Levy (including Carbon Price Support), the UK Emissions Trading Scheme (ETS) and Fuel Duty – now extract around £28 billion a year from the real economy. These charges fall especially heavily on mineral extraction, manufacturing, transport and agriculture, the foundational sectors that support the rest of the economy. Carbon taxes act as a brake on all businesses that produce basic materials, manufacture goods or transport physical goods, effectively blocking any attempt at reindustrialisation.",
+    "The paper finds that industrial energy consumption has almost halved since 2003, largely through deindustrialisation rather than efficiency gains. Overall energy use has fallen by a fifth since 2005 while per-capita GDP growth has pretty much stagnated. Britain has reduced its energy consumption by more than other comparable countries and growth has been slower than all but Canada. Electricity-sector productivity, measured by output per hour worked, has more than halved. Carbon costs embedded in wholesale power prices have frequently added £20–40 per megawatt-hour. Household electricity bills been driven sharply higher by carbon taxes and subsidies. Consumer energy debt and arrears have soared to almost £5 billion.",
+    "Abolishing the main rates of the Climate Change Levy, Carbon Price Support and the UK ETS would cut energy users’ bills by £7.2 billion a year – equivalent to around £250 per household, including about £60 directly off domestic energy bills. The gross cost to the Exchequer would be £4.2 billion, so energy users would gain almost £2 for every £1 of receipts the Treasury gives up. The paper estimates a long-run GDP boost of £5.7 billion a year (up to £7.4 billion in the upper case) from higher investment and more hours worked. Cutting other Net Zero spending such as EV subsidies and non-nuclear parts of GB Energy and the extra tax revenue from faster growth would offset much of the fiscal impact.",
+    "This is the opposite of the direction implied by the Prime Minister’s EU Reset. Linking the UK Emissions Trading Scheme to the EU’s would force British carbon prices up by around 32% to converge with higher European levels, raising costs across the economy. Participation in the EU electricity market would require dynamic alignment with EU rules, acceptance of the European Court of Justice as arbiter of disputes, and contributions to EU funds. The paper notes that any modest savings on imported power would be outweighed by these costs and by the loss of control over energy policy. The UK would also be tied to an EU target of achieving 42.5% of total energy from renewables by 2030 that is unachievable on current trajectories.",
+    "A UK Carbon Border Adjustment Mechanism (CBAM), due to start in 2027, would not revive the industries that have already closed (e.g. ammonia and aluminium) and would raise costs for remaining downstream manufacturers while exempting many imported finished goods. Repealing the ETS, by contrast, would save energy users far more than the potential CBAM exposure over the rest of the decade."
+   ],
+   "lede": "Abolishing the main rates of the Climate Change Levy, Carbon Price Support and the UK ETS would cut energy users’ bills by £7.2 billion a year – equivalent to around £250 per household, including about £60 directly off…"
+  },
+  {
+   "url": "https://www.theguardian.com/environment/2026/nov/20/pacific-cop31-summit-climate-devastation",
+   "title": "Pacific islanders face a ‘sickening disconnect’ between Cop31 and the climate devastation at their doorstep",
+   "source": "The Guardian",
+   "desk": "reporting",
+   "published": "2026-11-20T05:00:23+00:00",
+   "seen": "2026-11-20T10:04:06+00:00",
+   "cats": [
+    "Cop31",
+    "Environment",
+    "Climate crisis",
+    "Pacific islands",
+    "World news",
+    "Fossil fuels",
+    "Energy"
+   ],
+   "description": "As the UN summit nears its close, the ‘frustratingly’ slow progress and lack of focus on fossil fuel transition have the Pacific turning elsewhere for help",
+   "image": "https://i.guim.co.uk/img/media/686cc69506ee1a9c41a8d864b3d30879de58dc3a/341_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=37eb6691d4275311ef9692651e9f1261",
+   "ftries": 1,
+   "fetched": true,
+   "paragraphs": [
+    "“I need to go to sleep every night wondering what that means, you know?” says Albon Ishoda, leaning against a wall in a corridor at the UN climate summit in Turkey. “For us, it’s about existence.”",
+    "Ishoda is a diplomat who works for the Marshall Islands – a group of low-lying atolls that are specks on a map in the ocean between Hawaii and Australia.",
+    "As the Cop31 summit nears its close, with a scheduled finish of Friday but which is likely to push into the weekend, Pacific islanders are becoming increasingly frustrated with the UN’s decades-old system of annual climate summits.",
+    "The region has its own cash fund – the Pacific Resilience Facility – to pay for damages from climate-driven extremes and to prepare for the future.",
+    "“Disappointing is probably not strong enough a word,” Ishoda says. “We have money for wars but not to save communities.”",
+    "Ishoda’s sleep has been interrupted by a related issue that is receiving more focus in the fortnight-long talks in the Mediterranean resort city of Antalya: “overshoot”. In other words, how far and for how long the planet will experience global heating greater than 1.5C, a goal set in the 2015 Paris agreement.",
+    "Scientists confirmed months ago the 1.5C goal would be breached and that a temperature rise of 1.8C is the best the planet can hope for in the near term.",
+    "Tackling this overshoot and pushing for countries to transition away from fossil fuels are top priorities for the Pacific. But they fear the process in Turkey might fail them again.",
+    "The need to deal with fossil fuels was absent from a draft agreement released on Thursday by the Australian and Turkish ministers leading the negotiations after being included in a first draft on Monday. Critics have noted both countries have substantial fossil fuel interests."
+   ],
+   "lede": "“I need to go to sleep every night wondering what that means, you know?” says Albon Ishoda, leaning against a wall in a corridor at the UN climate summit in Turkey. “For us, it’s about existence.”",
+   "cop": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeHB2M3RIWnBkWEVneC01QmZUS1NwQk9aMVo3V3Z5VW9NaVp5RlR1U0dWY01hNUhvLUtVMEs0el95alp1M2RsczJ0SEdFOGRtU2xQSEJ2LVBZN3g0Q3gxQmJiY1RJcE9VYlFDVm16cS1MWDM5cmlRdmlCYUhHMXlKMHBzbnNEczE2YzlmTlQwUEF1OUx4UGc?oc=5",
+   "title": "UK ‘playing catch up’ with Nordic countries on crisis preparations, says minister",
+   "source": "POLITICO.eu",
+   "desk": "reporting",
+   "published": "2026-11-20T03:00:00+00:00",
+   "seen": "2026-11-20T10:04:06+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://wattsupwiththat.com/2026/11/19/cop-31-time-for-attendee-carbon-credits/",
+   "title": "COP 31: Time for Attendee Carbon Credits?",
+   "source": "Watts Up With That",
+   "desk": "opinion",
+   "published": "2026-11-20T02:10:00+00:00",
+   "seen": "2026-11-20T10:04:06+00:00",
+   "cats": [
+    "Carbon credits",
+    "Climate Politics",
+    "COP conferences",
+    "Antalya",
+    "Carbon Offsets",
+    "COP31",
+    "Robert Bradley Jr."
+   ],
+   "note": "Skeptic blog",
+   "description": "But if COP is just a CO2fest and a soothing exercise in confirmation bias, expect the CO2-positive confabs to continue.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2026/11/antalya-airport-terminal-apron-1024x512-1.webp?fit=1024%2C512&quality=75&ssl=1",
+   "paragraphs": [
+    "“COP will always have a footprint. Joost [Brinkman] is making sure someone pays to remove it.” – CarbonFix",
+    "Progressive Left environmentalists have long complained against ‘carbon credits” for cause. The program, first set up under the Kyoto Protocol of 1997 for wealthy, industrialized countries, was part of the Clean Development Mechanism and Joint Implementation programs.",
+    "But recent evaluations suggest that two thirds of these credits may not have accurately calculated avoided emissions or enhanced removals of CO2 from the atmosphere. The Paris Accord has upped the urgency of carbon offsets, but problems remain, such as:",
+    "Many countries and countless companies, including giants like Amazon and FedEx, have looked to carbon offsets as they work toward reaching net zero. And yet, these offsets haven’t significantly curbed global greenhouse gas emissions. In fact, global emissions are still increasing. As a climate solution, carbon offsets have failed—and according to a new scientific review looking at 25 years of carbon offset research, they’ve failed because they’re riddled with intractable, deep-seated problems that incremental changes won’t be able to solve.",
+    "On moral gounds, carbon credits have been criticized as the wealthy paying for their indulgenses.",
+    "“COP is an ironically pollutive event,” CarbonFix complains, “especially if you count all the fossil fuel lobbyists flying in. Tens of thousands of delegates are descending on Antalya right now, racking up 130,000 tons of CO₂.”",
+    "Ouch! But rather than question the COP confabs themselves, CarbonFix endorses a proposal by Joost Brinkman to offset the same.",
+    "With CO₂llective, he’s campaigning for every delegation to remove the carbon equivalent to their travel emissions. After driving 3,200km in an electric van over four days to get to Antalya, emitting just a third of the equivalent flight, Joost spent the last three days trying to convince more than 100 companies, governments and lobbyists in the Green Zone to pay to remove the carbon emitted by their organization’s travel.",
+    "The COP-goer can calculate his or her emissions and indulgence fee at this site. Flying multiplies the emission calculation fourfold. CO₂llective would buy carbon credits from Carboneers and Underground Forest wherein if every delegate paid, €20 million worth of carbon credits (at €150/tonne). Short of this, continues CarbonFix,",
+    "every delegate that does makes a difference: every tonne is taken out of the air, collective demand helps a scalable market grow, and a public commitment signals to companies and policymakers that permanent removal is the norm. That’s why we’re giving Joost a grant for his campaign."
+   ],
+   "lede": "But if COP is just a CO2fest and a soothing exercise in confirmation bias, expect the CO2-positive confabs to continue.",
+   "cop": true
+  },
   {
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14NGVDVGxITGhiVFBUT0QtNjhJanRZTEpDdDZOUFMtQi0yY1hZZFhKSFZGYzI1bVNsM1RyNE1nTk5GQlRJUDBaVEtwTi13YnVUakVhWnkxdnlPS0k?oc=5",
    "title": "COP31: More climate money for Africa? Europe says use what's already pledged",
@@ -136,6 +388,17 @@
     "Omaha Track and similar companies take wood products, often treated with chemicals, and process and sell them to be burned as industrial fuel. While the industry has billed its products as a renewable energy source because trees and other organic matter can be regrown, environmentalists have critiqued the carbon-intensive practice as “burning trees to save the planet.”"
    ],
    "lede": "A massive fire of creosote-treated railroad ties broke out Thursday 60 miles northeast of Birmingham. Those living nearby are scared and want answers."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWm9DNVQ0d1BKS3RER2hpeGhpYmtwMDM5M19EQ0VxZ0VBMWJFSTMwOFlQN0VzMm9mV2pzOUU3MGNlS25PeEkxbDlxZHd2QVRfVVBlTkYycTNsMEtsQWdZcktpZkoyTDdyT0tyYXZvVjRZd3JORXM2WHcya3ZOVTN4YUI0Zm5KLXY0azdObThTWUJnRWFGMDJOQXFZM0hHZzgzbTFfWUdFTmc0SGVNeFhv?oc=5",
+   "title": "Republican Lawmakers Urge EPA to Reinstate Solar for All Program",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-19T22:25:20+00:00",
+   "seen": "2026-11-20T10:04:06+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://wattsupwiththat.com/2026/11/19/the-rise-of-the-mighty-el-chalado/",
@@ -320,6 +583,41 @@
    "fetched": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWjNJNzFVNjA5dmFIWm5qNW9NMnJ6MkFMeGRLVHNKMnFySW9mNGg4QndHdWtTLWtNUzFuVGUtdVR4VlpiVUMxQi1YNS1PeG43Tks1Z0U5TW5XRm5RRlVxemNGT1VHV3U0c2dVVWgzUVZiU3dWdDhVZVU3RkZKVl92TmtlSzRSbzI3Q0MyM2w0MlkteTVaMjMtbEhiajRNX1ZEc0QwTldrWlBRQTgtT29hb3ZrU25MMDE3Z0hORWY2ZEJHOV9V?oc=5",
+   "title": "Global Beef Boom Pushes Cattle Off Pastures and Onto Grain",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-19T20:00:00+00:00",
+   "seen": "2026-11-20T10:04:06+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUm45YlpVU3AxQ0tuSlNTN3lMTWgwaTFVSWFQTDVoMXNTOU5IMkoyY1ZWa0MtblZxb2paV1puY2wtSkVFSjc5eklWWktpSmo0NlNtMllubWdLMk9LTFBvTnppVVhfT1VnMU42dlZVTUtnRlVCSmJrTEFwZml3cHdtdGtqRE1lS2xUQm9hZg?oc=5",
+   "title": "Costa eyes tax on Big Tech to boost EU budget after Trump’s poor midterms showing",
+   "source": "POLITICO.eu",
+   "desk": "reporting",
+   "published": "2026-11-19T19:35:00+00:00",
+   "seen": "2026-11-20T10:04:06+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBnLUllR3dVbXllWHJuWVZicHdwZXlSVnk1TEdwWkQyanhjVVF5TE0zNzNXNm5LM21qZHdkQ2VUZUNickR6dWpMZHRscVJXVFcxUl9JWVM2d3lJREdrMjl3YjhMSEp2YjVsejg1Q3h3M1RFdw?oc=5",
+   "title": "Ukraine has a French election problem",
+   "source": "POLITICO.eu",
+   "desk": "reporting",
+   "published": "2026-11-19T19:19:00+00:00",
+   "seen": "2026-11-20T10:04:06+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQnZBUXpSc0Fpa2lCa0MwaTh6dVYxSmh6WngySVRleUtxTVFBaDMyaXpVRWpkcEg2UVpwS3RMYTBxQTVUNHZubEtSbGZLb0tNUHE3eGR0UHpmZWszakN6cGZuYkVGVkMwZ0l1d3czcGxwWlg5TlQtQW1RQzA5TjVWLXZQNVRmQVBlRkg1WDRJRzR1RUpOblVxS2VTUC1kMUZUYWZ4WGpjSQ?oc=5",
    "title": "El Nino raises the stakes as COP31 wrestles over finance",
    "source": "Reuters",
@@ -460,6 +758,17 @@
    "fetched": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa0NwTV80R0hwek1sSmtBeV9SQTdoRXVsNzd3YklyQWh6bW1JaFBESnJaeUtwQ190RFhoTTdwazRuR2ZPY1pQTklNZm5fN1dIMmNucUlvWXF6bEdZS1Bfel9IQjNkSE5UZk0yZ0hqNW95YTNLUjhPSHVRdnZRR3JZc0Rlb1NDTjlEbnM2bHVZZ1lPQWY0TjRj?oc=5",
+   "title": "World in Brief: Trump, Xi and Putin meet in China; Anthropic’s huge IPO",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-19T17:29:19+00:00",
+   "seen": "2026-11-20T10:04:06+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOC04cHg0RVduNXJKTTJLb2FkUnlEbmFkcTliWFotVzlOdlh3Ymh2b3RzaXRVNWdlOEc2a29sR3JpeFhoZ0hUbUNNZGhRWDEzTWx5UmJzQ0I3LWpUTGdnWUFwbnBUZUdpQ09GWFBValRTN2VXajV6cWoyXzU2MjdTc3psSENqQjZiYlAxeFVpamNQVEdZLS1CVzN5NUcwc2NsVGhKMVVOclllR0I5Ny1ibEpn?oc=5",
    "title": "The US Housing Market’s Widening Wealth Gap Comes Down to Luck and Timing",
    "source": "Bloomberg Green",
@@ -477,6 +786,30 @@
    "desk": "reporting",
    "published": "2026-11-19T17:02:00+00:00",
    "seen": "2026-11-20T01:47:33+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVHlfQkZyMGRXeTNJY1N3azV6THBOREQzblNTUWR2eG9ZdE43QzV2aUVWd1J0VlMyd2NMN3dHRUFQNll5RDFuVHZwZXRxcFNfeUVHT293a0dwUG1tcDhXX1pGeDRVSGtYb092RWVoc3hVVGxwc2xpRy1lbjRqall0UWVaeElfMGVXc0xQcVlfVEgzUy03cEc0Zm5ROU92dkQ0WnV1THBNQW8zOGt5bWR2czdCVHo4Nm8?oc=5",
+   "title": "After Putin talks, Trump tells Europe it could save lives and cash if Ukraine war ends",
+   "source": "POLITICO.eu",
+   "desk": "reporting",
+   "published": "2026-11-19T16:38:00+00:00",
+   "seen": "2026-11-20T10:04:06+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNenRES2E5MmQwb1FyNFJkdHpReUdWSWNFYkwyLVowYUxjZENLbzZnaTFURHNZSXRyLTVFUTBGSExLRFZEWHh2SllRMzdMZDFDeXozLWlYNmJkTzdNRkQ2bUZuSEpWUVR4d0R5cFhpWEp3YklUT0xRMjFGa3k5UXpTRXpJVk81VVNpUHM2OEoxQmhJTEw4c2huN1pFQQ?oc=5",
+   "title": "UN bets on controversial carbon clean-up tech at climate summit",
+   "source": "POLITICO.eu",
+   "desk": "reporting",
+   "published": "2026-11-19T16:20:00+00:00",
+   "seen": "2026-11-20T10:04:06+00:00",
    "cop": true,
    "via_google": true,
    "ftries": 1,
@@ -614,6 +947,61 @@
    "desk": "reporting",
    "published": "2026-11-19T14:20:54+00:00",
    "seen": "2026-11-20T01:47:33+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNODdwZ0ZSZEdEN3VKc1luclBUSTdVZDBmVll2Ui1pUmNHU21UMjZ2b2VWbzNQbWo3MHpmT05acHRZZFlXaXpXa05tX0xpR1lLY0NyWHI1Y0ZpQTItTW9RSXRUVUZsV28zQmprUlljOUZ0ZXZ3d09NWEZPajBlTGR4bkZFcTRCWFN3cXFPTWJSdzQ5NlRERTYydkNOd1lfdjhSY214Ynd4T0RjaHFmaDVfdWFJWWlOOF9BUWNTYnNqQQ?oc=5",
+   "title": "Cartoon: The meeting of Donald Trump, Xi Jinping and Vladimir Putin",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-19T14:03:33+00:00",
+   "seen": "2026-11-20T10:04:06+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcUpHZnROUVFmQnRwZ0NxYXJNb2hZcWZlTDZVNHNYNEFkYzcwTjNtQk8zcHRzbmVLc1cxVTBqVXpfYzBhZkdiTGxRaUhXM0VIZnhqdGkxMW9XTWxOVzhiWXBmaVVIZFZBQm9qM0xoMjJKM1o1MGQ4TmZvSFVBTDZWUjE3WWs0RXppYjc0VEhMcWIzNlFvVHJ4RlJfYVo1SzZjVWxES0FrS28yLXZMN1ZnVmg5UQ?oc=5",
+   "title": "Neither America nor Iran has the means to end the war",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-19T14:01:02+00:00",
+   "seen": "2026-11-20T10:04:06+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9kb3VHZHdTeTBBeUEyVkpyem9STkxvUm1nMV9hYV93cHBsSkdhdUkzS05OMmo1Z3VVc1BzMS1KbDBCQ3cwMEVZdTY4YmVDNGhDN2U5R3YyaW5tZFhVcHotMEhMLUtraG93d0xkSUQwcG5uRnJDdTFFSDNFUXhiQQ?oc=5",
+   "title": "The World Ahead 2027",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-19T14:01:02+00:00",
+   "seen": "2026-11-20T10:04:06+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQY0kwSGFRelVSdzVjaDJMMUxZOVQ5LVlneDZTSHo1eWpyWTFGUEJRTUFqTlgyVXNiQ0pzZUNmR2o3c3lmWXRNb3d5bEFhQV9kcnlZdk5xdlRwc3R5dVRYcEV6a1pNamVKNjFIU2JSSER1d2gySDYtUG4tUkNjVFNlQ2RreUh5WXA4YmVUdjNrVWJyN25sbTBORTFEaElBSDlSQ0Rz?oc=5",
+   "title": "How China continues to evade America’s tech-export rules",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-19T14:01:02+00:00",
+   "seen": "2026-11-20T10:04:06+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTzd0TEdPMndCT0FHbUoxSGdYTnVoX1dYbEtONE5BWmoySDVMemR4V0FTdUZiOGk4QXhNTVpNR2VGUkFFTkotMzdzd19hVnZ2V0hUdXVXZ1ZQZElweVRrVGZ6Y2xxclNrZ1ZLWlNQd0VUX0FISW5RMlMwZnVOSXVJT0paTFlCc3NnTnh3NndqSDlWUklhYTBSdGZR?oc=5",
+   "title": "A scandal causes problems for Recep Tayyip Erdogan",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-19T14:01:02+00:00",
+   "seen": "2026-11-20T10:04:06+00:00",
    "via_google": true,
    "ftries": 1,
    "fetched": true
@@ -808,6 +1196,17 @@
    "lede": "Researchers studying young Hurricane Katrina survivors found that supportive adults and community advocates often helped children fare better over time."
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYjJIYkhXNkJlLWpTaVVEUzdGTW1WNy1yWHFmbkh6SjYzbXM2VVNfaGdpS3VYaXkza1ZNMnJMWUl2R0E3SndMTkxPcVc0aU1aejdRc05KSWdibjhIWV93RGs5MmU4SEFOTEVBU3VRRTZMUE9KSF9XYjVTM2U0bEdtb1BfeEdQaGNEYk84RHhJSDJnaHNKelhrbm9vTWg3SDJfZHlXMnp0U0k2SDZpUWc?oc=5",
+   "title": "IEA Sees Data Center Boom Pushing Power Grids to the Limit",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-19T11:03:08+00:00",
+   "seen": "2026-11-20T10:04:06+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbnphMUhTTDdEUV83bjJvc0lSeDFlbmw2QVlyU2tMMlJtcm5zQUVzdDZId3VfM3c2LW8xTS1LZkY3cnJXaVRBU0k3ZXRJemJydW9HQmxlTkpfVTlNd29ZZlM4OWtfOXdldFdWU3FucGpKYlhSVS1vRVZXNVFUREw1TzlHeGwzcEZrRkFiaVhXb2owRUVPajZJRzlpcUVBeWpoaFZVZ3VmWQ?oc=5",
    "title": "India feeds the world, but its methane emissions are heating it",
    "source": "The Economist",
@@ -903,6 +1302,17 @@
    "desk": "opinion",
    "published": "2026-11-19T09:51:47+00:00",
    "seen": "2026-11-19T19:29:47+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNDZaRDE5Tmk3UDBjWE01cmJQcnlJblp3LWVyZ1ZYYXNaSVV2dWtSbzdHaThxeW1GUkJFdmxiQUJuU0FRemRIa2pjanZCVzZueU00TE9uMnAxMkxGR0dLTEdhSlQ5YkRHYWZvd1RqLVlHWVZ1eWZuWERiVk0xTng3OFN5eWFWUlpOTWdIVGxXM3pEclRYd3d0cEtvZXNRT09NZ01xSXhmalEzNV9JWDNNRUt3QXZ0UQ?oc=5",
+   "title": "Nations Take Aim at a Climate Threat Hiding in Electricity Grids",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-19T09:32:16+00:00",
+   "seen": "2026-11-20T10:04:06+00:00",
    "via_google": true,
    "ftries": 1,
    "fetched": true
@@ -1135,6 +1545,17 @@
    "desk": "reporting",
    "published": "2026-11-19T05:01:00+00:00",
    "seen": "2026-11-19T10:24:07+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSzNnN2RyMU8zcXZlMTJFWFVXbjZ0bE56Z21hS1ZIcXJSblJrRkVqdzdpSVdLTkJYMWpxZlF3TExDUW5lbUxIRVlPel9SMF9rWDlyQUk2X0p0bkdRWGpNNndNMm1sYnEweFpMdkF2OFhmSjdOQVFPQVIyYjdRb1JHblZLSnZkVXNaZzdySjdiX0pnMWxfU2o5XzRkckdCMHRhb2Q1S0k2THh2UjdHVkxpdUZrNmstSkxu?oc=5",
+   "title": "Google’s Porat Pledges Data Center Local Support Amid Backlash",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-19T05:00:00+00:00",
+   "seen": "2026-11-20T10:04:06+00:00",
    "via_google": true,
    "ftries": 1,
    "fetched": true
@@ -1628,6 +2049,17 @@
    "lede": "Mateus Tremembé Project Coordinator, Association for Co-produced Local Development, Universidade da Integração Internacional da Lusofonia Afro-Brasileira (Unilab)"
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZlRKLVZyN3R3RW4xYzhNVFM4Z1J0NmRXVGRIX0ZudDQ4Q0lhQm83R0trXzI2YnAyaTJRRXhVVmIza0dNdE4yMDVGbHJrRS1aZENtVERpVFpxRTFoTE90VUlkY0h1X3UwMU44TVFpYk5XMjZxTVg5RGZEeVlmVlo3V2djTVdkUl9jRFFFM2xJNl9ZdERoNE1od0dBR1ZWejd2VkpyU2ppVnVQVnliVGpRdUZhQWM?oc=5",
+   "title": "Tencent’s Sales Miss Estimates in Setback for Founder’s AI Push",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-18T13:40:11+00:00",
+   "seen": "2026-11-20T10:04:06+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://www.theguardian.com/us-news/2026/nov/18/big-oil-immunity-bill-climate",
    "title": "Republicans could expedite bill to make big oil immune to lawsuits, warn experts",
    "source": "The Guardian",
@@ -2059,6 +2491,17 @@
    "fetched": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSjQyTGNERU5qVTIxUXNxQXVGOWt5U3QtYUFDSnFBUDQ1MEx6VEh2SW44YS1IZk5lSmFMUWlRQmRtcDN2YWhDV1NOOWx2dWtQaDM1M0c1R0lmejl3R2pIRDlqM3ljSXFta0RoSE9PeU40eU1jTXh1WTlLYWg2aElzQWUtM3I1ZTk2bUZpNTNxSXpfMF9RRmNxMjBWS3dCc2tYb0N4M3plQ2ltUjEtVThxVDM5dmxaUjlNdm0w?oc=5",
+   "title": "The war in Iran is affecting Asian food supplies as well as energy",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-18T09:43:41+00:00",
+   "seen": "2026-11-20T10:04:06+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWHZsTGl6cEpFQzFFUGh0VWQ5TkllOVZSekctZzdDT0NxYmE3YlVITkVCUHNJZGl2Y2dIY3d6YkJ6WWVQU2RZWlBMSm1TcjJlN0R6NzExdHNlOEd5b2gxSm0yS0wzZGk1WUZTSm91bm81VmlfMWdBR2ZPV2xPTUY0S19uMlhpaWpWOVF3Y0V0WFNGVlhkcl95WnBYSmgtQ2kwcG15U0YyLUNhUUVqNHNWQW5tYWRFd3ZfODFFZTFoYWprOENuMmRv?oc=5",
    "title": "To avoid conflict, great powers must be more flexible, argues Odd Arne Westad",
    "source": "The Economist",
@@ -2307,6 +2750,18 @@
    "lede": "Regulators warned dairies to ready their animal waste ponds for storms that could bring the state at least 150 percent of its normal rainfall. Farmers say they’re preparing."
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeWZkQzJ2SWZiTDZVMDU1WE1ReVVuUDVEYVEzZHlXeThOdXI4RGkxVDQ1eS1mMXMwdnhsSXFCSEtmM1oxMy1OX0QwV0xPMEl5aGNXWUNoMFVoWnpPMFdfTndja29ZengzRW0zU3hDT0RvNmhCR3VjQ3FvTHRybVk1QkE5cU93OFZtaVRncWhaR1VxZGxuMHNYSGd2MFphSlBVcHRzU2ctMVVOU1ZnOUEtQVNtcnBGaU1fZUFfdzgtaE81dW1VLW1ZZQ?oc=5",
+   "title": "Britain to miss climate goals if EV targets are weakened, climate advisers say",
+   "source": "Reuters",
+   "desk": "reporting",
+   "published": "2026-11-18T00:05:00+00:00",
+   "seen": "2026-11-20T10:04:06+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54N1FiSGpwT3FOZk90Q0ExaXlFeTd1cGRMUXBTc29oSWU3N1JHRmRmcTRhS0xFYVVJbzk0ZnUzUlB1ZW9EY0x5MUs3TzZKNEJxaW9SUDJIUlc2blk?oc=5",
    "title": "COP31: Pakistan's solar revolution has been so successful the national grid is lagging behind",
    "source": "BBC",
@@ -2401,6 +2856,17 @@
    "desk": "reporting",
    "published": "2026-11-17T16:35:07+00:00",
    "seen": "2026-11-19T01:49:59+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNW52MTVNdk9hSjhwV2tfUnRuOGR4VXREb0lqaGJGbko2ZUxROWRZQjQwQWJZTENsRlRNd3VOR3Y5QVIwdF9YaC1kUUlxNm8tVmlZNHJXcXhWVHh6aFVNbnotRHpRV3dQdkhVTzhmQUJjVjRfQ1o5bVptNnp0VC13QWprYVFfVVJ4SzlCTXlMZ0tUcG50MlhvaDFERTNkSk54WlhReUhselh2WmtRNk5BS0dqX1k?oc=5",
+   "title": "Calpers to Boost AI Oversight, Bought Nvidia Before Huang Exit",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-17T16:30:16+00:00",
+   "seen": "2026-11-20T10:04:06+00:00",
    "via_google": true,
    "ftries": 1,
    "fetched": true
@@ -2589,6 +3055,29 @@
     "So microgrids can help build resilience in wildfire-prone areas while also expanding the use of clean, renewable energy."
    ],
    "lede": "When wildfire risk is high, utilities sometimes shut off power lines, leaving people without electricity for days."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOLUxlLVUxMklSVU9TdEJTVWFUelMyNjNxTXo2TklSaHdqSDFfeFpBREtzN0czTWxYeHpzdm8tQ0hoRGlXRzFzakNaaVNlcm02NEw5STRncUpuUTZPUWNhWWdGTlMzUV9Kek16VTRsM1FCYU9hWmpiUjc1V0tkbmI4NXQzallheU4welFkSjd4clhFMFUtRDNCZWlTR0xxRnNkVDdzVjAtWkdMYW5zTVE?oc=5",
+   "title": "IKEA thinks outside the 'big blue box' as shopping habits shift",
+   "source": "Reuters",
+   "desk": "reporting",
+   "published": "2026-11-17T11:28:03+00:00",
+   "seen": "2026-11-20T10:04:06+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT0I5SFlaYlc1VWZvOE5MNGJHU0RTRUlKMDJYOU1hYnZYcWh5V1ZDbXB0R3gtb19CMGFONzRlRjc1dlNWSzFuazdBMkxFdC1lT0YyU2U1MVoxRk9IQlZlcWd5TWxrMFpydzQ1bVhFZGtfUDMxQVNkRW1iMllaYkV3T3dudFE2bDdHbEJqUlV1QmhkSjkxUmRWb1NkOUd0SFJfQzFSWm9FR2lTb0s3N3ZWYUs2QQ?oc=5",
+   "title": "Free Child Care Could Generate $6.5 Billion for NYC, Study Finds",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-17T11:00:01+00:00",
+   "seen": "2026-11-20T10:04:06+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT3N1clMxbG1DQTlLRUxybmI5dk1GeGFDZEVmWmxZQ1RzYnBXRnI3VGRXRC1HZWRDc1pPQ0xvY1lTd01MUkMzQ2Fra0pENzRrMEtMUWk5YklxWUg2V3J5NkVrOWRHYWZkYTRvT1RwbmRZU2VJbm01dDNXZHJKZUNLeGZJR2o3VDl1TGo2enRzREhvVEt0Z0FQWk14aFpHaExvb0tSREdYeGxueml3aF9CSjlPSlI?oc=5",
@@ -3947,6 +4436,17 @@
    ],
    "lede": "As negotiators race to lay the ground for the big political fights coming in the second week of COP31, campaigners took to the streets of Antalya demanding that governments keep their climate promises.",
    "cop": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hRVJBX1RMN2pCczk1NGY2X0wyckY4UHJzVjYwd2VWMjhtZk1TaTJVeDZyY18wcHowZ2ZOTk5BSFRTaUN6aXlJblZ5QUZqckNGODlSa05LU2lXbEwzc0VF?oc=5",
+   "title": "Whatever next?",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-14T08:00:00+00:00",
+   "seen": "2026-11-20T10:04:06+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZWw3R0VwdDZ5MVhtNGNaOFpQdjBDT2lxNU5OZXM3Q1VtSkk2SzdMQWJ6U2hKd0xtTXRIVE0tdHcwSFo0bnFaYlY0QkZYbHBaWmlhQVJYYUhhQTF0UDEtSnlqM2UxeTl1MDhwSHVHRkxzdVJiRjJVSTJkOTZaZEVSYzNZUmwxWGdxd0ow?oc=5",

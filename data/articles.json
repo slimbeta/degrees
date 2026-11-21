@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-21T08:18:38+00:00",
+ "updated": "2026-11-21T16:49:04+00:00",
  "briefing": {
   "headline": "COP31, fossil fuels and El Niño",
-  "period": "Nov 14–20",
-  "made": "2026-11-20T10:04:06+00:00",
+  "period": "Nov 15–21",
+  "made": "2026-11-21T16:49:04+00:00",
   "bullets": [
    {
-    "text": "Rich countries are undermining the process, trust and credibility of the UN climate summit process by failing to live up to their commitments under the Paris agreement, African ministers said on Friday.",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/world/live/2026/nov/20/cop31-climate-crisis-talks-turkey-latest-news-updates",
+    "text": "Brandon Wu oversees research, advocacy, coalition building and campaigning work for ActionAid USA.",
+    "source": "Climate Home News",
+    "url": "https://www.climatechangenews.com/2026/11/21/cop31-is-shaping-up-to-be-a-disaster-not-only-because-its-weak-on-fossil-fuels/",
     "theme": "COP31"
    },
    {
-    "text": "The legislation is expected to accelerate pipeline buildout and lock in future LNG projects, climate advocates warn.",
-    "source": "Inside Climate News",
-    "url": "https://insideclimatenews.org/news/19112026/bipartisan-permitting-bill-natural-gas-exports/",
+    "text": "Crucial climate talks headed into overtime on the last official day of the Cop31 UN summit as countries continued to argue over a draft deal that was silent on fossil fuels, with a host of other contentious issues…",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/environment/2026/nov/20/cop31-talks-overtime-fossil-fuels-vanish-from-draft-deal",
     "theme": "fossil fuels"
    },
    {
@@ -30,20 +30,280 @@
     "theme": "wildfires"
    },
    {
+    "text": "Alabama Power attributed the decrease to revenue from data centers.",
+    "source": "Inside Climate News",
+    "url": "https://insideclimatenews.org/news/20112026/alabama-power-rate-decrease/",
+    "theme": "AI’s power demand"
+   },
+   {
     "text": "The administration’s attempt to revive the declining industry is leaving workers — and the planet — behind.",
     "source": "Yale Climate Connections",
     "url": "https://yaleclimateconnections.org/2026/11/under-trump-black-lung-disease-is-surging-among-appalachias-coal-miners/",
     "theme": "Washington"
-   },
-   {
-    "text": "International Energy Agency chief Fatih Birol celebrates the electricity demands of AI and electric cars, but the revolution must be about more than luxuries for the rich.",
-    "source": "Climate Home News",
-    "url": "https://www.climatechangenews.com/2026/11/16/cop31s-electricity-goal-must-be-about-more-than-ai-and-luxuries-for-the-rich/",
-    "theme": "AI’s power demand"
    }
   ]
  },
  "articles": [
+  {
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTl96ZmoxUFNXaGxBSVp4MVlQTGpTMjlWZjdPeEJQSm9McUpfSnhjZ0xTM1FVdlctNUVGQ2lQY0UzLXFIelh0ZGhnWW1zZXU4c0VUa1BhS2pIZmdfUUx5N01wSU5vZFdNaC0ybDg2Sl8yTTM4RW1zc1lHR29rdVRYQm9hMjk2eUdXSWlzNU94NVIwVGpXTXFGbENOMXpGUktBX05HV3RxaXFIcVh3dXk4WWM4aw?oc=5",
+   "title": "Losing Money, Having Fun",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-21T16:30:36+00:00",
+   "seen": "2026-11-21T16:49:04+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE82NENHMVFUMEhrZGhkcmJkVWR4ZEd0V21IQnB5Rnp5M2VfU3U4QndHeHVsdW5fR01XU3JlOFlWRHA1aDhCQVNRWFVBU19RVFRVeDN3R0hxZG1BREk?oc=5",
+   "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+   "source": "BBC",
+   "desk": "reporting",
+   "published": "2026-11-21T14:54:24+00:00",
+   "seen": "2026-11-21T16:49:04+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://www.theguardian.com/us-news/2026/nov/21/florida-prisoner-lawsuit-extreme-heat",
+   "title": "‘Hell dorm’: Florida prisoners testify about 119F heat indexes and walls that sweat",
+   "source": "The Guardian",
+   "desk": "reporting",
+   "published": "2026-11-21T14:38:58+00:00",
+   "seen": "2026-11-21T16:49:04+00:00",
+   "cats": [
+    "Florida",
+    "US prisons",
+    "Extreme heat",
+    "Climate crisis",
+    "US news"
+   ],
+   "description": "Temperatures in a concrete facility contributed to one man’s death after he struggled to breathe, prisoners allege",
+   "image": "https://i.guim.co.uk/img/media/927934c914d0ee17837ad17f16babd0941cd47e9/193_0_3892_3114/master/3892.jpg?width=140&quality=85&auto=format&fit=max&s=c95999168f3905f4c0ff69be6d003f81",
+   "ftries": 1,
+   "fetched": true,
+   "paragraphs": [
+    "On Tuesday afternoon Dwayne Wilson, 69, a thin Black man dressed in a light gray prison uniform, testified about the stifling heat he experienced in the Dade correctional institute, a concrete state prison south of Miami, Florida, without air conditioning. He removed his glasses and wiped his eyes as he spoke. “It was so hot,” he said, his voice catching. “It’s so hot sometimes you have to put water on the floor just to try to keep cool.”",
+    "Wilson said he’s housed in the H dorms, a T-shaped building with one-to-two-person cells, nicknamed “hell dorm” by prisoners because its concrete walls radiate heat absorbed from the sun. The plaintiff’s law firm, the Florida Justice Institute, convinced a judge to allow 31 sensors to be temporarily installed throughout the prison during the summer of 2025. They recorded temperature and humidity levels that Stefano Shiavon, a professor of civil and environmental engineering with expertise in thermal comfort, used to calculate the heat index. He found it to be above 88F (31C) 97% of the time, with the highest heat indexes often recorded at night, including one reading in the H dorm dayroom equivalent to 119F (48C) at 10pm one July day last year. “The walls sweat,” Wilson said. “It’s miserable in the cell at night because, again, it’s so hot. No air comes to the bed we sleep at and the bed is soaked in sweat.”",
+    "Wilson is among a group of prisoners who filed a lawsuit against the Florida department of corrections in 2024 for the conditions at the Dade correctional institution, alleging that the extreme heat contributed to four deaths and has subjected prisoners to cruel and unusual punishment. The bench trial began on Monday at a federal courthouse in downtown Miami serving the US district court for the southern district of Florida. The case comes amid growing concern over extreme heat in US prisons, where more than 40 states lack statewide policies requiring prisons to provide air conditioning, even as the climate crisis drives up summer temperatures and increases the risks.",
+    "Gary Wheeler, 67, who was also housed in the H dorms at the Dade correctional institute, testified that just months ago he thought he was having a heart attack, but upon going to the medical clinic in the prison he was told by a nurse that he had heat exhaustion. “I am worried about dying. I feel like sometimes when I go to sleep at night I’m not going to wake up in the morning,” he said. “My biggest fear is if I have a heatstroke and I can’t take care of myself, I have to depend on predators who could prey on you because you’re disabled.”",
+    "Both Wheeler and Wilson submitted informal grievances to the prison about the heat in the H dorms, some dating back to at least 2019. The men talked about another inmate affected by the heat named James “Jim” Beam, who was 83 years old, wheelchair bound, and had a respiratory condition. “He would breathe like he was gasping for air,” Wheeler said. “Every time he’d breathe he would throw his head back.”"
+   ],
+   "lede": "On Tuesday afternoon Dwayne Wilson, 69, a thin Black man dressed in a light gray prison uniform, testified about the stifling heat he experienced in the Dade correctional institute, a concrete state prison south of…"
+  },
+  {
+   "url": "https://wattsupwiththat.com/2026/11/21/voyager-1-makes-history-as-it-reaches-one-light-day-from-earth/",
+   "title": "Voyager 1 Makes History as It Reaches One Light-Day From Earth",
+   "source": "Watts Up With That",
+   "desk": "opinion",
+   "published": "2026-11-21T14:09:00+00:00",
+   "seen": "2026-11-21T16:49:04+00:00",
+   "cats": [
+    "NASA",
+    "Space",
+    "NASA JPL",
+    "Voyager 1"
+   ],
+   "note": "Skeptic blog",
+   "description": "There is something wonderfully reassuring about 1970s technology still returning scientific observations from interstellar space nearly half a century later, which is an awesome tribute to American engineering, the ingenuity of the team keeping it alive, and the value of building things that last.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2026/11/voyager-probe-interstellar-space-nasa-jpl-1024x512-1.webp?fit=1024%2C512&quality=75&ssl=1",
+   "paragraphs": [
+    "From Voyager’s discoveries to Starship’s spectacular return from orbit, American ingenuity keeps giving us reasons to both look up and look forward.",
+    "Over the past six months, I have chronicled an encouraging series of space milestones here at Legal Insurrection, from the successful Starship V3 test in May to July’s satellite deployments and in-space engine relight.",
+    "Last week, SpaceX raised the bar again by catching Starship returning from orbit, which is a spectacular advance toward the fully reusable spacecraft needed to make our spacefaring ambitions practical.",
+    "Yet the latest historic achievement belongs not to a gleaming new rocket, but to Voyager 1, the remarkably persistent explorer launched in 1977.",
+    "Now more than 16 billion miles from Earth, the probe has reached a distance of one light-day, meaning its radio signals need a full 24 hours just to reach home.",
+    "NASA’s Voyager 1 probe, launched nearly a half century ago in 1977 to provide the first close-up views of Jupiter, Saturn and their assortment of moons, reached a distance from Earth early Wednesday of one light day — more than 16 billion miles — the farthest any human artifact has ever ventured from the home planet.",
+    "Its sister ship Voyager 2, on a different trajectory, added Uranus and Neptune to the outer planets “Grand Tour” before following its sibling out of the solar system and into interstellar space in 2018, six years after Voyager 1.",
+    "Both spacecraft continue to beam back data about the magnetic fields, charged particles and plasma waves in the space between the stars as their power steadily declines and their signals grow weaker and weaker.",
+    "There is something wonderfully reassuring about 1970s technology still returning scientific observations from interstellar space nearly half a century later, which is an awesome tribute to American engineering, the ingenuity of the team keeping it alive, and the value of building things that last.",
+    "The mission was inspired by an astronomical alignment of planets, which allowed spacecraft to fly by the outer planets of the Solar System."
+   ],
+   "lede": "There is something wonderfully reassuring about 1970s technology still returning scientific observations from interstellar space nearly half a century later, which is an awesome tribute to American engineering, the…"
+  },
+  {
+   "url": "https://www.theguardian.com/environment/2026/nov/21/alaska-bering-sea-heatwave-snow-tanner-hybrid-crabs-fishing-quotas",
+   "title": "‘Legally, they don’t exist’: the hybrid crabs puzzling biologists and fishers",
+   "source": "The Guardian",
+   "desk": "reporting",
+   "published": "2026-11-21T11:00:57+00:00",
+   "seen": "2026-11-21T16:49:04+00:00",
+   "cats": [
+    "Marine life",
+    "Alaska",
+    "Shellfish",
+    "Extreme heat",
+    "Environment",
+    "Endangered habitats",
+    "Endangered species",
+    "Fishing"
+   ],
+   "description": "A heatwave in the Bering Sea that killed 10bn snow crabs has led to a new hybrid emerging that has no fishing quotas",
+   "image": "https://i.guim.co.uk/img/media/9fdb0a2c2757969e8c0d78e2fdaf3c659856ca2b/386_148_4136_3308/master/4136.jpg?width=140&quality=85&auto=format&fit=max&s=f4efc1ca54ee71c7421e52c493dba1b2",
+   "ftries": 1,
+   "fetched": true,
+   "paragraphs": [
+    "S omewhere out on the Bering Sea, hundreds of miles off the coast of Alaska, a group of researchers onboard the trawler Alaska Knight haul up a heap of crabs from the seabed. As they sort and measure their haul, something seems wrong.",
+    "The catch, which usually features species such as the snow crab – a species of spider crab growing up to a metre wide with its legs outstretched – or its larger relative, the tanner crab, is instead dominated by an odd-looking hybrid of the two species.",
+    "These hybrids carry a strange mix of characteristics: a squashed M-shape in the mouth, a cross between the flat mouth of snow crabs and the distinctive M-shape of tanner crabs, and a mix of red and green eyes, one from each of its parents.",
+    "“I was struck by how hybridy they are,” says Erin Fedewa, a biologist at the National Oceanic and Atmospheric Administration’s (NOAA) Alaska Fisheries Science Center.",
+    "In the region where the ranges of snow crab overlap with tanner crabs, researchers would occasionally find hybrids, though they were a rarity. But in 2025, they recorded more than 13 times more hybrids than the historical average.",
+    "After the 2025 anomaly, the scientists waited with interest for this summer’s survey. “A lot of times it takes several years of our survey data to really understand what’s going on,” says Fedewa.",
+    "But she adds: “The very first station we sampled, I was seeing all of these large male hybrids. It was sort of like an affirmation for me.”",
+    "The 2026 survey showed that the hybrid increase is continuing, and commercially sized hybrid adult males now outnumber snow crabs.",
+    "The phenomenon was triggered by an extreme heatwave in 2018 and 2019, when the Bering Sea became nearly ice-free by early spring. The heatwave led to mass starvation and a collapse in the snow crab population, causing the death of about 10 billion crabs."
+   ],
+   "lede": "S omewhere out on the Bering Sea, hundreds of miles off the coast of Alaska, a group of researchers onboard the trawler Alaska Knight haul up a heap of crabs from the seabed. As they sort and measure their haul, something seems wrong."
+  },
+  {
+   "url": "https://www.climatechangenews.com/2026/11/21/cop31-is-shaping-up-to-be-a-disaster-not-only-because-its-weak-on-fossil-fuels/",
+   "title": "COP31 is shaping up to be a disaster – not only because it’s weak on fossil fuels",
+   "source": "Climate Home News",
+   "desk": "politics",
+   "published": "2026-11-21T10:18:17+00:00",
+   "seen": "2026-11-21T16:49:04+00:00",
+   "cats": [
+    "Comment",
+    "Energy",
+    "Finance",
+    "Politics",
+    "cop31",
+    "Energy transition",
+    "fossil fuels"
+   ],
+   "description": "A singular focus on the lack of fossil fuel outcomes - which weren't actually on the agenda - obscures the story of EU and Global North bad faith on finance and just transition",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.climatechangenews.com/wp-content/files/2026/11/COP31-JT-now.jpg",
+   "paragraphs": [
+    "Brandon Wu oversees research, advocacy, coalition building and campaigning work for ActionAid USA.",
+    "“Fossil fuels dumped from latest draft deal at climate summit.” “Ambition goes missing as fossil fuel language drops from draft deal.” “Anger as COP31 draft climate deal removes all mentions of fossil fuels.” These are a few selected headlines about the COP31 climate negotiations as they draw to a close this weekend - and they all miss the point."
+   ],
+   "lede": "Brandon Wu oversees research, advocacy, coalition building and campaigning work for ActionAid USA.",
+   "cop": true
+  },
+  {
+   "url": "https://wattsupwiththat.com/2026/11/21/fossil-future-cop-31s-failure/",
+   "title": "Fossil Future: COP 31’s Failure",
+   "source": "Watts Up With That",
+   "desk": "opinion",
+   "published": "2026-11-21T10:07:00+00:00",
+   "seen": "2026-11-21T16:49:04+00:00",
+   "cats": [
+    "Climate Politics",
+    "COP conferences",
+    "Opinion",
+    "COP31",
+    "James Hansen",
+    "Paris agreement"
+   ],
+   "note": "Skeptic blog",
+   "description": "The world uses 206 exajoules more fossil energy per year than it did when COP began.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2026/11/what-thirty-years-bought-feature-1024x512-1.webp?fit=1024%2C512&quality=75&ssl=1",
+   "paragraphs": [
+    "“The organisers are billing the thirty-first summit as the one where everyone finally gets on with implementation. Thirty-one meetings is a long time to spend getting to the part where you do the thing…. [I]t seems reasonable to ask how much of the last thirty years’ work shows up in the energy accounts, and what the travelling show itself burns along the way.” – Vlado Vivoda (below)",
+    "COP 31 in Antalya, Turkey marks the tenth anniversary of the COP 21’s Paris Accord. This (voluntary) international treaty set out to limit the rise in the global average temperature to “well below” 2°C above pre-industrial levels, while pursuing a limit of 1.5°C. Another goal was to achieve net-zero emissions by 2050, with a net reduction of 45 percent by 2030.",
+    "So much for aspirations. Politically and otherwise, consumer preference for the best energies will not be denied. The current global market share of fossil fuels is a robust 86 percent, despite decades of government intervention propping up nuclear, wind, and solar in electrical generation. According to AI, this compares to 85–87 percent in 1990 and 86 percent in 2015. So much for ‘energy transformation.’",
+    "Upon its passage in 2015, the Paris Climate Agreement was called by James Hansen as “a fraud really, a fake…. It’s just worthless words.” He added:",
+    "It’s just bullshit for them to say: “ We’ll have a 2C warming target and then try to do a little better every five years.” It’s just worthless words. There is no action, just promises. As long as fossil fuels appear to be the cheapest fuels out there, they will be continued to be burned.",
+    "Watch what happens in Paris carefully to see if all that the leaders do is sign off on the pap that UN bureaucrats are putting together, indulgences and promises to reduce future emissions, and then clap each other on the back and declare success.",
+    "Yet the energy transition has been demoted to energy addition (Daniel Yergin) and now energy duplication. Think rising energy prices from climate mitigation policy that is trying to pass itself off as energy affordability.",
+    "In “ Thirty Years of Climate Pledges and a Record Year for Fossil Fuels” (November 11, 2026), Vlado Vivoda, PhD provided a ten-year true-up to COP 31 in regard to COP 21. “Prominent commentators have been making fun of the COP circus in Antalya,” he began.",
+    "I went back to the Energy Institute’s Statistical Review of World Energy and pulled the global figures for 1995, when the first COP met in Berlin, 2015, when the Paris Agreement was adopted, and 2025, the latest full year in the workbook. Here is the figure that stopped me. The world uses 206 exajoules more fossil energy per year than it did when COP began. That increase alone is larger than the world’s entire annual oil consumption today.",
+    "The falling fossil share is real, albeit tiny: a drop of only 3.1 percentage points. So is the growth in renewables. Since Paris, the world has added about 23 exajoules of annual renewable energy supply and 51 exajoules of annual fossil fuel consumption, more than two units of new fossil energy for every unit of new renewables. The denominator grew fast enough for the fossil share to fall while oil, gas and coal each reached a new high in the workbook."
+   ],
+   "lede": "The world uses 206 exajoules more fossil energy per year than it did when COP began.",
+   "cop": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQ1V1Zkd3TEhMWFZOajEyMFVTdnY5SVFZMGVRcG56ZENWc0JhNnZ6WFlhaHp5aTViMkhCVWwtMFRZUnRYcmNsWmxpU0FMUm1SQ1lZeXNRRTdzRWtKU2E3NDlZckp0TjVYZXR1RGJ4cmhiYTZEX01VaDdiUXJTRWJ3UVhtQkNVdjJEVGNkZlN2TEtmWTdTQlZBSmhKZEo4cVZ4cTRFdDNZV3hSSzFaSnRzVjJ0ZllLUEVmZXZqSThSbEVjdw?oc=5",
+   "title": "Magnitude 6.8 earthquake strikes Banda Sea near Timor-Leste, GFZ says",
+   "source": "Reuters",
+   "desk": "reporting",
+   "published": "2026-11-21T10:05:54+00:00",
+   "seen": "2026-11-21T16:49:04+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://insideclimatenews.org/news/21112026/texas-wont-enforce-plastic-discharge-ban/",
+   "title": "He Sacrificed Everything to Stop Industrial Water Pollution. Authorities in Texas Don’t Care.",
+   "source": "Inside Climate News",
+   "desk": "reporting",
+   "published": "2026-11-21T10:00:00+00:00",
+   "seen": "2026-11-21T16:49:04+00:00",
+   "cats": [
+    "Fossil Fuels",
+    "Justice & Health",
+    "Diane Wilson",
+    "Environmental Justice",
+    "Formosa",
+    "Formosa Plastics",
+    "Formosa Plastics Corp.",
+    "Lavaca Bay"
+   ],
+   "description": "The state’s environmental regulator intends not to enforce a ban on discharge of plastic materials that local activists won in a landmark 2019 lawsuit.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://insideclimatenews.org/wp-content/uploads/2026/11/4O6A0237-1024x683.jpg",
+   "paragraphs": [
+    "The Resistance, Part 3: A key ally to environmentalist Diane Wilson opposes a move by Texas regulators to issue Formosa Plastics Corp. a new permit without requiring the petrochemical giant to stop discharging plastic waste into Lavaca Bay.",
+    "Palm trees surrounded the meeting hall, near the edge of Lavaca Bay in a tiny Gulf Coast town, where about 100 people took their seats one evening last month for a discussion with state authorities.",
+    "A panel of technical experts from Texas’ environmental regulator had traveled 150 miles from the capital in Austin to talk about industrial wastewater discharges from the sprawling conglomeration of petrochemical infrastructure that loomed across the water, Formosa Plastics’ Point Comfort complex.",
+    "The regulator, the Texas Commission on Environmental Quality, had proposed a regular renewal of Formosa’s discharge permit, so agency representatives came to take questions and comments from the public.",
+    "A silver-haired former supervisor at Formosa, Ronnie Hamrick, stepped up to the microphone.",
+    "“Why are y’all sitting here saying that you’re going to renew their permit?” he asked indignantly. “You know what they’re doing!”",
+    "Hamrick, standing in a baseball cap, jeans and camouflage Crocs, had sacrificed mightily to make sure of it. He had gathered much of the evidence that convinced a federal judge, in 2019, that the Taiwanese plastics giant had chronically violated its wastewater permit for decades, releasing vast amounts of polyethylene pellets and PVC powder into Lavaca Bay.",
+    "Hamrick played a critical role in the landmark lawsuit led by one of the most acclaimed environmentalists in Texas, Diane Wilson, who continues to lead campaigns against petrochemical giants on this rural stretch of coastline.",
+    "Dan Gearino’s habit-forming weekly take on how to understand the energy transformation reshaping our world.",
+    "A once-a-week digest of the most pressing climate-related news, written by Kate Waxman and released every Tuesday."
+   ],
+   "lede": "The state’s environmental regulator intends not to enforce a ban on discharge of plastic materials that local activists won in a landmark 2019 lawsuit."
+  },
+  {
+   "url": "https://insideclimatenews.org/news/21112026/midterms-environmental-voters/",
+   "title": "What Democrats Can Learn About Environmental Voters From the Midterms",
+   "source": "Inside Climate News",
+   "desk": "reporting",
+   "published": "2026-11-21T09:55:00+00:00",
+   "seen": "2026-11-21T16:49:04+00:00",
+   "cats": [
+    "Politics",
+    "democrats",
+    "Election 2026",
+    "Environmental Voter Project",
+    "Living on Earth",
+    "Nathaniel Stinnett",
+    "Q&A",
+    "voters"
+   ],
+   "description": "Voters do care about the environment, want to hear more about it, and are sick of “small adjustments on the dial.”",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://insideclimatenews.org/wp-content/uploads/2026/11/GettyImages-2301317402-1024x683.jpg",
+   "paragraphs": [
+    "From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by producer Aynsley O’Neill with Nathaniel Stinnett of the Environmental Voter Project.",
+    "With late word from Alaska, Democrats now have 56 seats in the US Senate. And while climate was not on the ballot directly, many campaigned on climate-adjacent issues like utility affordability and high gas prices.",
+    "In a September survey, the Environmental Voter Project found voters in battleground states want politicians to spend more time talking about climate change—not less. That challenges the wisdom of what’s been called “ climate hushing ,” or keeping climate out of political campaigns, and offers insight into how climate might play out in the 2028 presidential primaries.",
+    "Nathaniel Stinnett is the founder and executive director of the Environmental Voter Project. This interview has been edited for length and clarity.",
+    "Dan Gearino’s habit-forming weekly take on how to understand the energy transformation reshaping our world.",
+    "A once-a-week digest of the most pressing climate-related news, written by Kate Waxman and released every Tuesday.",
+    "Don’t miss a beat. Get a daily email of our original, groundbreaking stories written by our national network of award-winning reporters.",
+    "A digest of stories on the inequalities that worsen the impacts of climate change on vulnerable communities.",
+    "AYNSLEY O’NEILL: Tell us a little bit about the organization that you founded, the Environmental Voter Project. What is your goal here?",
+    "NATHANIEL STINNETT: Our goal is to get millions of people who care deeply about climate and the environment who aren’t voting to start voting more often. At the end of the day, the only way we’re going to get good climate policy is if voters force politicians to lead on climate."
+   ],
+   "lede": "Voters do care about the environment, want to hear more about it, and are sick of “small adjustments on the dial.”"
+  },
   {
    "url": "https://www.theguardian.com/environment/live/2026/nov/21/cop31-climate-deal-latest-news-updates",
    "title": "Cop31 live: climate talks drag into overtime as countries race to find agreement",
@@ -98,6 +358,17 @@
    "cop": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QZlhaY0QwcVBxU2N1eG5VZzNCQW1PaDBtaFY3ckMtclBvdGF1Z0FLQ0tUcHN1TWtSRWUxLXctOThPQXY1SEFHcmNVOHB2VkZkVnFkcmUtY09qNzhqM3hGZzRWdHAtc3pqdmkxLUtyYzVmdnVESEE?oc=5",
+   "title": "The real tech addicts",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-21T06:47:07+00:00",
+   "seen": "2026-11-21T16:49:04+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://wattsupwiththat.com/2026/11/20/pennsylvania-vows-to-be-the-next-state-to-reduce-electricity-costs-using-wind-and-solar-generation/",
    "title": "Pennsylvania Vows To Be The Next State To Reduce Electricity Costs Using Wind And Solar Generation",
    "source": "Watts Up With That",
@@ -147,6 +418,17 @@
    ],
    "lede": "Delusion COP boss Kurum tweeted on Friday this was ‘Best COP Türkiye’. Yet more evidence the effects of sleep deprivation should be taken seriously.",
    "cop": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONmNLRGI1ZnMzdE00Y0RyRzlxeHZNUzZwNUtkQUsyWUdqTDhvdzhCN0ZDLTd3TXc1VjBoMHRjOHN4UlNUQkNMNlBJLTk1aTU2NTR6cTUzWmRHUmxGeTRzWGNvMExCa0lZdmNaQlFzcnh3MmVxb2tzRS1mQmpXQjh5VXNJbDgwVW9TQm5mR2Q0cDFyOVNDNHFlalo4TWxQQUtLMWdEYU5IWlFxQk1kb1djRkFxSlo?oc=5",
+   "title": "Australian Energy Officials Warned of Data Center Risk, Age Says",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-21T05:18:00+00:00",
+   "seen": "2026-11-21T16:49:04+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://wattsupwiththat.com/2026/11/20/joe-romm-on-cop-failure-a-look-back/",
@@ -244,6 +526,29 @@
    "lede": "Alabama Power attributed the decrease to revenue from data centers. But one watchdog group credited a federal tax cut instead."
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZHl3V0QyamRldHBCUEdmUkltRzVGbVNiZms3UmJlZmFzY0htRFFKMm9sSFRobzBQRUtEc1JGSWVHT0RzcnpBZHV5STcxb2t5d1NncnZCdkJ6UlNMTUFBNjZmTHdZUHFuMlFOakVxQUhYSWEtbzhlRTZnRXhRZkNsc3R0SUdUYWJWQjh5M1NpdXNVbHBsME5lYk5Xc2ZGSFRINmJWc2lHM2RCQllRVlJHcVBIUDE?oc=5",
+   "title": "Canada Offers Stellantis Options to Keep Ontario Plant Open",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-20T23:16:22+00:00",
+   "seen": "2026-11-21T16:49:04+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMmJ1MkI1NFRhVGFBd09OcklwWXpmN2taa1EtT1pfNWxDSzZhamdaUkJubjMxb01yQV9zQ0hqQ0JFVGFGUE92RFRvRjh1Q21UeElHcWFxWnRhdnFlZFNuT1BBY081U2tyTVpaZmU5RmR6cmRfcklWUG1LeXRfdUZJTlNGQ213X0JDNGdzMTZOdVlPTVZYZVZaUmdGVVFpYmJFdG5xSUlBclI0QWlPYzdsTFdncWJjeF80XzI5N3NXMDM4b1E?oc=5",
+   "title": "Araqchi says Iran wants diplomacy to end war, Trump says terms unacceptable",
+   "source": "Reuters",
+   "desk": "reporting",
+   "published": "2026-11-20T23:11:00+00:00",
+   "seen": "2026-11-21T16:49:04+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://insideclimatenews.org/news/20112026/iowa-toxic-lead-explosives-detonation-delayed/",
    "title": "Court Delays Plan to Detonate Toxic Explosives in Iowa",
    "source": "Inside Climate News",
@@ -277,6 +582,18 @@
     "In their suit, the petitioners argued that the decision-making process lacked transparency and that the Army failed to adequately explore alternatives to detonation. “Within the permit, we just do not see enough things that will protect human health and the environment,” said Thien Chau, a senior attorney for Earthjustice. He described the planned detonation as “abnormal and extraordinary.”"
    ],
    "lede": "State leaders and residents demanded answers after learning lead dust from the explosion could spread across hundreds of miles."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yeVJmODk1Zm5EYWNjeDNUVjVTTnNTVjIzNHpTcXFUR1lHcVpmX1NQeGJrY19qaHYxS3lkb2l5WldQdDIzMklBbExkQkMtSG5zczZmWWNkandEQQ?oc=5",
+   "title": "Newshour | Deep divisions exposed at UN climate summit",
+   "source": "BBC",
+   "desk": "reporting",
+   "published": "2026-11-20T22:19:25+00:00",
+   "seen": "2026-11-21T16:49:04+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://wattsupwiththat.com/2026/11/20/appalling-evidence-emerges-to-suggest-wind-turbine-bat-deaths-in-us-now-rival-those-of-devastating-extinction-level-white-nose-disease/",
@@ -483,6 +800,18 @@
    "lede": "Available data show that the predicted disasters are not coming to pass outside of flawed computer models designed to produce catastrophic outcomes."
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uLXU3RmhCR2FnU2JtWE44cGwtMEtvWVp1NkVVVmtGZFJEQzVhX0xzNkhjTnhaWVloSnRwSUVqd0NDLVRmTmhjMVBMOGszQkhlYzRKcGxoVVJZQQ?oc=5",
+   "title": "Newshour | UN climate talks in Turkey enter final hours",
+   "source": "BBC",
+   "desk": "reporting",
+   "published": "2026-11-20T17:41:25+00:00",
+   "seen": "2026-11-21T16:49:04+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://wattsupwiththat.com/2026/11/20/live-at-1-pm-et-commie-31-the-climate-realism-show-226/",
    "title": "Live at 1 PM ET: COMMIE 31",
    "source": "Watts Up With That",
@@ -603,6 +932,18 @@
    "fetched": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT203dWpPR19PY3FGeGlGWkNqRklXMDA0cEtFTXBoY21LbVhhaEVNNzVXWTJfOUhUOURwUVVtQXBVazBOdjRjNmVnRktLOGxHam9tZ3ZneGp3bXNfQ2lHOU0yY0I2WF9qdnJxSkNrVm1Pc0REblNaMXJxRHZqRnpDcmY5MEhOdkNaeUZMUVFQYUxDUXRKbmhmckRvQnBHZUlXclh6ZEJJSUJQYll3SUNfdGJ5WQ?oc=5",
+   "title": "Student protests held across Europe with demands from school funding to climate",
+   "source": "Reuters",
+   "desk": "reporting",
+   "published": "2026-11-20T16:25:00+00:00",
+   "seen": "2026-11-21T16:49:04+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObjIxMlZVeTJjMm9DQlZwdWRjblpRdXdqcWdPU0VUWVd4czEzMVRJcV92UjJLaklVWVdPMFh1aUZSQWpRU29UdFZYOWMxRmpVZ3dRMTMxTG9fUnhRaUJFZmpfcnNvcGNPU01SRHFIdy1Tc2QwOWd2Q3FZbEpXWXhYaHhLdi1TMUs2RHVYblRhYlVNRjRRLUd2OUtOMTlIN1k0MFNOamF4QndqOWJHd00xVExR?oc=5",
    "title": "ING’s $500 Million Data Center Loan Auction Stalls on Low Bids",
    "source": "Bloomberg Green",
@@ -715,6 +1056,29 @@
    "published": "2026-11-20T13:49:05+00:00",
    "seen": "2026-11-21T00:49:24+00:00",
    "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbDdhS3NmTHkwLUt3RXZmVVc0eUd0WUxwR3RCUDc3X0hvY1RLRnN2bWhGanFtQzYtSjF4WllaNk9xV2FFNTdLMUhkOGNzRzAyb0FIOXJGZDlUWXItdm1PaWZRd0l4blNBdDdJamgyQ0R1bkNVbndMQWM3OWlSay1tQlVjS0RqZHRFSjNGSkhGSmVHVTZoRGhHNERZSk54aE9sWHBTejhmQkRRTzZ6anpFV2RTMWY?oc=5",
+   "title": "China Focuses on Crusade Against Trade Barriers at Climate Talks",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-20T13:45:20+00:00",
+   "seen": "2026-11-21T16:49:04+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "cop": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQX19PeE5HajNpc01Ta0hzTVJTNjVkQUx4NWdPM09NaG5FM3JfdklQS205ZWQ4QnNxazk3SWVabnY5bUhXVWo2ek5zem5UY21lLXpvby1DUTRtNkV4QkZEUG5KdmVSVEotWWUxNVVDZVlYSnNwMTB4bVNOTkJTLWVVNV9vTFVCbjROdmQtUzY2b25BejFxbzNuakpzMEtrOHEyV0t3S2NKeU4zcmFRbUJFbDFVUUxMSFZGQUFVLVVn?oc=5",
+   "title": "We Were Promised Homes of the Future. Where’d They Go?",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-20T13:30:04+00:00",
+   "seen": "2026-11-21T16:49:04+00:00",
    "via_google": true,
    "ftries": 1,
    "fetched": true
@@ -907,6 +1271,18 @@
    ],
    "lede": "The last official day of COP was yanked out of its early torpor on Friday afternoon as a group of countries from both the Global North and the Global South threw down the gauntlet on the latest version of the cover…",
    "cop": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZzd0RzR5djNoM2NaX2FJLWlSdGtxOWlJNWlRZFI4RXU4QnNkV0x1VTFNV21ESTA2M2pWa28zM2VFVlZuYm0zSm9yVWpQT1ZqekNYcUJhX3M1VWR3VUQtdmVlNTBYY0tFWE50RkFhTnNvNkFsOGhRZDZQQy0xTE9NbUQ1WVNudzlyRGxGMGdSSWtPOF9GMmJvTg?oc=5",
+   "title": "Brussels to link UK-EU summit package to tuition fee demands",
+   "source": "POLITICO.eu",
+   "desk": "reporting",
+   "published": "2026-11-20T10:01:00+00:00",
+   "seen": "2026-11-21T16:49:04+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://insideclimatenews.org/news/20112026/utility-commissions-democrat-election-victories/",
@@ -1336,6 +1712,18 @@
    "desk": "reporting",
    "published": "2026-11-19T22:53:30+00:00",
    "seen": "2026-11-21T00:49:24+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nSXBEQktxblFwbW9RZ3ZpWjgyTlcwRncyakFlM3o3b0F5TmloTko1T1BNQ0d4cGl0RmFPNi1ycjlSdFgtbTFLdkp6TGQ3SXJ0Q3J5U2FWUG5OZw?oc=5",
+   "title": "Newshour",
+   "source": "BBC",
+   "desk": "reporting",
+   "published": "2026-11-19T22:50:19+00:00",
+   "seen": "2026-11-21T16:49:04+00:00",
    "cop": true,
    "via_google": true,
    "ftries": 1,
@@ -1950,6 +2338,50 @@
    "fetched": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYmd5d1RPZWd2NUtuUGxzcXlZdkhldnRSbGdIUkk3cV81NWlLZkROME5fYTBXRG5uY3c0ZkJWclRINEVuRmM1czQ1cGIteWFjSVc5T3BTdkYxc0pSN1FiUDhuaDJxYnA5TVVfZmhQVXFQVkY5MXBIQndBMXF0ZEU1TzdTdnE5SW9XLVg3QkVyWFp4eGM2d0hJcERyZzQ?oc=5",
+   "title": "Vladimir Uglev saw his life’s work denied by Russia",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-19T14:01:02+00:00",
+   "seen": "2026-11-21T16:49:04+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM2dheERXbV9wWXl6MG1DWjZmcEZmN3lQX3FiZ3BneWF4bW1GNVNFOE45bllLYmU1SkRsckpJNEo1NjY5LTJhV1hGRGZmQkVzdE1CSW81Rldlc2R3aHhMNUFkcDhLOVhPb3FlNjFVRENJeHRZTGRKSEIzU0tSQ2dDWWNzTHI0LXJQLW5JVTFETzZpeVVqMEFXRVpJckxFUzRKYmdBbVJXZTF2QWlIdTVrTThB?oc=5",
+   "title": "America’s most respected jurist was never on the Supreme Court",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-19T14:01:02+00:00",
+   "seen": "2026-11-21T16:49:04+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcnRNVU1JcE9seVVmbnNfOWlDWjRLek9qa2JQMnZmajVUMW03dTlsenVRdFVBNk9taGtTLWhHbUw3UjRadnRGZ1FxV05Gc2kxbTlRLXFOUi16RlpXVTF5RFNjY2ZZaDVNV21HdnFCTTBVNjF5LVBULWN5UGViakVqRWpsRTQ3cnpDakFpVGZPcVZVeDFKM3NITlNkZjBSZw?oc=5",
+   "title": "The world’s oldest travel retailer has hit turbulence",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-19T14:01:02+00:00",
+   "seen": "2026-11-21T16:49:04+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMEVOM2NyRzhja0s5ekl1ZnpOWEhVMklSNlF1djFJUUUtSkEwVVQ3emlFQy16NFNkWGpjUWhHWk5od3FETm4xTVQ5TWlwbEVaVTQ1YUFIMzU0UXFyNjZQYUF1dlFYVGJRSGRtWmtuMXJQSDZnVnBlMXh2QlZrREFweEhZUVc4X2tYeE50UWtwcw?oc=5",
+   "title": "Why French politicians write so many books",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-19T14:01:02+00:00",
+   "seen": "2026-11-21T16:49:04+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObndlTDBzTkVLMm1mVXhGLXo5bDFUVDRrUHR0Y2EyZTNvcV9ESFpRMWlhNzU4YmR6TnUxMmdCU3VPd1plczVVVF9Lb3NVdEpTa1N1MU9hbTBiZnA2S3owSTBoUURReXRkZDQzb2RJS3RHQWw5V2s5dVFLUmN1cllxWjVONm1vVWFDZlIxenRxekFxcU5BN1oyRw?oc=5",
    "title": "Andrej Babis tries to curtail public broadcasting",
    "source": "The Economist",
@@ -2412,6 +2844,17 @@
     "Concerning floods, contrary to Rowlatt’s claims that the U.K. was beset by extreme floods, data from the U.K. Environment Agency show just the opposite, in 2025 the numbers of properties affected by flooding was extremely low, reflective of a recent long-term trend of limited flooding, with a few exceptions. (See the figure below)"
    ],
    "lede": "In the end, every specific claim of worsening weather made in the Panorama story is refuted by long-term data recorded by the U.K.’s Environment Agency. Data trumps anecdotes and unreferenced claims every time."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbVUtbkVFNUxQZ0pMcVIwVjAwYXhKTW9GOXBfcVdHdVFxSEItd3BGUWdpSm5XbEtUVWdycFdMOEJoZEh1MXpJS3hPUkhXdkN1dm5vZU5ObFdpTTZCRnRENjNFa0JuXzkzNzIwanN3cG50RkwwSXllNVFJM0tkZGJwSkZLRWY5NmpBeHFBbEcxN1BGbDFXN1FuMTYxNE54ZmxL?oc=5",
+   "title": "AI is swallowing maths. Is economics next?",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-19T10:01:25+00:00",
+   "seen": "2026-11-21T16:49:04+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://insideclimatenews.org/news/19112026/florida-stanton-coal-plant-trump-emergency-orders/",
@@ -3597,6 +4040,17 @@
    "desk": "opinion",
    "published": "2026-11-18T10:49:53+00:00",
    "seen": "2026-11-19T01:57:51+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdko1c0FtZmEyazh3TzRLdzVRUFdZT0xKOVItR2c0RnQ2OEZOOTF5bUR6aDVOS1FjVE9xbHVKWVhZNElzTjR3alJrN05odEo3VW9majAxN1FEa19HVGxoa1ZRTGswTXYyNXJwNGJ1V1N1dERSWTF1NUczbFl3NnF0QURTc084Q2xFaUQ2QkFHSVYxSEN4cDFPRUt6bGF3amdjd0ZxM3B5bw?oc=5",
+   "title": "New approaches will make air defence less expensive",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-18T10:49:22+00:00",
+   "seen": "2026-11-21T16:49:04+00:00",
    "via_google": true,
    "ftries": 1,
    "fetched": true
@@ -4813,6 +5267,17 @@
    "cop": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9BUjBzWnVIeDducm1qdU1YZEd1cWV6OXVhbXNNUC13NlBia2lGMVM1Z0hXY0NqQW1JTGl6SXRTeUh1T3BrNFNSc1p0RWFKRjE4d2JWbUNzeWNkSHhsbVhpU3ZLZmZUQV9pT2NWNGU1akFtUG84LVRxejh0cw?oc=5",
+   "title": "Trump Inc is in free fall",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-16T21:37:36+00:00",
+   "seen": "2026-11-21T16:49:04+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxON25DZk1jd0tYWDRER19JREV4U1dZbGstZXlsUUZrVkgyVmlXTFd5Zmw1NmtQQmNoOUpDMlh5Q0trTXVUTmthWEtGNktnQ0x2dE4tTlJtOGVuZTFBMlAtYVdZUXlHUzhHOHZSelFSb2JFNGVham5ldzRpS0x5WHpGWldkQW1ZNnR3ckdRTEgyMXpQcklJUDRpLUlFVXJzUjlRbXQzWnJETURCcmFNT2NYLVRR?oc=5",
    "title": "Lula Worries Slam Brazil Markets From Real to Corporate Bonds",
    "source": "Bloomberg Green",
@@ -5583,6 +6048,17 @@
    "lede": "The only stark realisation to flow from this worthless agitprop and the compromised flood paper is that the Met Office seems determined to continue using RCP8.5 even as the rest of the climate science community tries to…"
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZ0IyR0JMVzg2QnBrMl9FMHNSZ1cteEo2b1JuTktabkc3bFduM3FyNXFPRllXdVhYeFVZY0lGQWd1bTFyelNoNE1faDFmdkZsRFdWTXc0dzF4VFBnNU1HUVIzUk1oVllLRjhoYUhueHhrNnlFbWNzQkNrVnVteThlQk5CdWJqTG9lOExLbVFBQ2RPUFBZVXJHV0I3R05tLWRjaENRcURPNkpHVmZEVzkwanV4dk1UZ1dhME1zSHZjeHZjNk1xOW81VVR3VzU?oc=5",
+   "title": "What Mamdani Found at MoMA’s Exhibit on West African Modernist Architecture",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-15T13:00:02+00:00",
+   "seen": "2026-11-21T16:49:04+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaDgxdzQ1dmVYYlRSYlpBTE0zNF80T0VyUFI3RndBMDQyOEtuenJYTGhGM2M1S1ZMSGUyMUFvX1BCaHdLVmd6bUpKUkl2aWJYZUt6cllNeVB6am9uNHdXUUJTZG9DWjIxRG1OR3U4WDZudURtTk10VmNRZERBT0FnRjdtenVRcVBnaVlnMnFsNHdUYWdIUXhQR1dWTnF1dmJsUzZsMHhEdXFOc0d3clMxTjlRNA?oc=5",
    "title": "Burnham Faces Labour Rebellion Over Rosebank, Sunday Times Says",
    "source": "Bloomberg Green",
@@ -6346,6 +6822,17 @@
    "cop": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWmZBR05FeHBlRTFuSEVsRm5RRjJ1WGJ4eDdSNDNIS3dBNF85Z2laQVlOVmRGVlN2QzZILVNHNDJCekNybHgzbjAxYW1wanNHQVNvN2dBSk1LRk9kWlMzVVBqbzRKUHhVaHpLWlpJRlZKOU9xZEFMcHYyaGFsV19QcUlrUW11VklIdGJLMF9EWkQtUzB4?oc=5",
+   "title": "Watch Ali Koç on the Business of Climate Change",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-12T08:00:00+00:00",
+   "seen": "2026-11-21T16:49:04+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://climatediplobrief.substack.com/p/climate-diplomacy-brief-cop31-day-ae3",
    "title": "Climate Diplomacy Brief",
    "source": "Climate Diplomacy Brief",
@@ -6440,6 +6927,17 @@
    ],
    "lede": "Around 40 leaders, including Lula, Erdoğan and Albanese, addressed the summit in Antalya, where the UN chief proposed a \"climate justice compact\"",
    "cop": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOakFjanM3SWt4LTFuSE52ODVIenQtTGR5QUUxSVVUV3hoLW9tdWNsaHdDUkxaLUgybGVfUHRXU3Mxd3BfMlI1TUR1RWQzY3doT3k3YlF2amQ2b25PZWxHei1Pc1hCSXhsZ25IS2lSQi1hekNuXzlGd1FOUVQzb1djcFAweFplQ2lMVEFpQVA5ejlqYUtKeTVYRFlBTjhTUkxWc0JyaWlwQ0lSeXVQb3JPdW5ueVViR0NVVnNYZ2lVbw?oc=5",
+   "title": "Burnham’s North Sea Drilling Dilemma Risks UK Climate Leadership",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-11T08:00:00+00:00",
+   "seen": "2026-11-21T16:49:04+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://www.climatechangenews.com/2026/11/11/turkiye-pushes-zero-waste-at-cop31-but-is-it-delivering-at-home/",

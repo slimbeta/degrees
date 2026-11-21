@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T18:38:27+00:00",
+ "updated": "2026-11-21T00:49:24+00:00",
  "briefing": {
   "headline": "COP31, fossil fuels and El Niño",
   "period": "Nov 14–20",
@@ -44,6 +44,251 @@
   ]
  },
  "articles": [
+  {
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOemxCMzdZQVhrN293eFVPNTNrdHFZblZJNkJFQzluUFhMMG8xQUI1SG80YjdUWWgzdElKWmtiVVRmOFhKS2toWWZLZ2ttZ1ZOVDl3dFVEcGlpSG9DSy1ZbW1TVEY0VFpPbzhJck9sYjJHRDkzakFBTlJ4MFhOcEZfVTF3M2lIUGo2aWQ4VUdfaDJFaklfUzlVTWlCWlNHeEp3RnZ6NWI4UmpQVzlrd1I2My1tTDNsXzJDRHRIWHRXR0ZZbXZGanpz?oc=5",
+   "title": "COP31 climate talks spill into overtime as nations quarrel over fossil fuels",
+   "source": "Reuters",
+   "desk": "reporting",
+   "published": "2026-11-20T23:57:25+00:00",
+   "seen": "2026-11-21T00:49:24+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://insideclimatenews.org/news/20112026/alabama-power-rate-decrease/",
+   "title": "Alabama Power Announces $160 Million Rate Decrease for 2027 After Pushback on High Energy Costs",
+   "source": "Inside Climate News",
+   "desk": "reporting",
+   "published": "2026-11-20T23:32:21+00:00",
+   "seen": "2026-11-21T00:49:24+00:00",
+   "cats": [
+    "Politics",
+    "Alabama",
+    "Alabama Power",
+    "Alabama Public Service Commission",
+    "Data Centers",
+    "electricity rates",
+    "Energy",
+    "utilities"
+   ],
+   "description": "Alabama Power attributed the decrease to revenue from data centers. But one watchdog group credited a federal tax cut instead.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://insideclimatenews.org/wp-content/uploads/2026/11/DJI_20260606183914_0025_D-1024x683.jpg",
+   "paragraphs": [
+    "The company attributed the savings to projected increases in revenue from large data center contracts next year.",
+    "“In January, our customers will see their rates go down because of the growth we’re seeing across the state,” Alabama Power CEO Jeff Peoples said in a news release. “Alabama is growing and we’re making sure that growth works for all of our customers.”",
+    "Dan Gearino’s habit-forming weekly take on how to understand the energy transformation reshaping our world.",
+    "A once-a-week digest of the most pressing climate-related news, written by Kate Waxman and released every Tuesday.",
+    "Don’t miss a beat. Get a daily email of our original, groundbreaking stories written by our national network of award-winning reporters.",
+    "A digest of stories on the inequalities that worsen the impacts of climate change on vulnerable communities.",
+    "Electricity costs have been a major political issue in Alabama for the past year, after an Inside Climate News investigation last November showed Alabama Power customers paid the highest total electric bills in the country in 2024, driven by its above-average rates and Alabama’s very high electricity usage.",
+    "Unlike most regulated utilities in the United States, Alabama Power operates under a formula-based rate mechanism called the Rate Stabilization and Equalization factor, created by the PSC in 1982.",
+    "Under that system, rates are adjusted up or down automatically every January based on the company’s projections for the upcoming year, without the formal rate case hearings that most other states use to set electricity rates.",
+    "Alabama Power also said it will comply with the commission’s request to stop billing customers for part of its advertising budget beginning in 2027. That change is expected to save the average customer about four cents per month, the company said."
+   ],
+   "lede": "Alabama Power attributed the decrease to revenue from data centers. But one watchdog group credited a federal tax cut instead."
+  },
+  {
+   "url": "https://insideclimatenews.org/news/20112026/iowa-toxic-lead-explosives-detonation-delayed/",
+   "title": "Court Delays Plan to Detonate Toxic Explosives in Iowa",
+   "source": "Inside Climate News",
+   "desk": "reporting",
+   "published": "2026-11-20T22:31:02+00:00",
+   "seen": "2026-11-21T00:49:24+00:00",
+   "cats": [
+    "Justice & Health",
+    "Environmental Justice",
+    "Environmental Protection Agency",
+    "EPA",
+    "explosion",
+    "explosions",
+    "Iowa",
+    "lead"
+   ],
+   "description": "State leaders and residents demanded answers after learning lead dust from the explosion could spread across hundreds of miles.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://insideclimatenews.org/wp-content/uploads/2026/11/GettyImages-2306107359-1024x683.jpg",
+   "paragraphs": [
+    "Plans to detonate nearly 10,000 pounds of degraded lead azide at an Eastern Iowa ammunition plant are on hold after the Army postponed the operation and a federal appeals court temporarily halted an emergency permit from the Environmental Protection Agency.",
+    "Initially scheduled for Friday, the planned explosion generated immense public outcry and concern from public health experts, environmentalists and elected officials who say residents received inadequate notice and guidance regarding the impacts of lead dust on their health and the environment.",
+    "Lead azide is a common primary explosive in bombs. After decades in storage at the Iowa Army Ammunition Plant, 68 barrels of the compound have become dangerously unstable and require emergency disposal.",
+    "Acting Army Secretary Adam Telle announced late Thursday that the detonation would be rescheduled to Monday. But hours later, a ruling by the U.S. Court of Appeals for the 8th Circuit placed an administrative stay on the EPA’s detonation permit, indefinitely delaying the operation.",
+    "Dan Gearino’s habit-forming weekly take on how to understand the energy transformation reshaping our world.",
+    "A once-a-week digest of the most pressing climate-related news, written by Kate Waxman and released every Tuesday.",
+    "Don’t miss a beat. Get a daily email of our original, groundbreaking stories written by our national network of award-winning reporters.",
+    "A digest of stories on the inequalities that worsen the impacts of climate change on vulnerable communities.",
+    "The ruling came less than 24 hours after environmental law organization Earthjustice, representing the Iowa Environmental Council and the Sierra Club Iowa Chapter, sued the EPA over its permit and filed an emergency motion asking the court to suspend it.",
+    "In their suit, the petitioners argued that the decision-making process lacked transparency and that the Army failed to adequately explore alternatives to detonation. “Within the permit, we just do not see enough things that will protect human health and the environment,” said Thien Chau, a senior attorney for Earthjustice. He described the planned detonation as “abnormal and extraordinary.”"
+   ],
+   "lede": "State leaders and residents demanded answers after learning lead dust from the explosion could spread across hundreds of miles."
+  },
+  {
+   "url": "https://wattsupwiththat.com/2026/11/20/appalling-evidence-emerges-to-suggest-wind-turbine-bat-deaths-in-us-now-rival-those-of-devastating-extinction-level-white-nose-disease/",
+   "title": "Appalling Evidence Emerges to Suggest Wind Turbine Bat Deaths in US Now Rival Those of Devastating Extinction Level White-Nose Disease",
+   "source": "Watts Up With That",
+   "desk": "opinion",
+   "published": "2026-11-20T22:06:00+00:00",
+   "seen": "2026-11-21T00:49:24+00:00",
+   "cats": [
+    "Intermittent Wind and Solar",
+    "Net-Zero",
+    "wind power",
+    "Bats",
+    "Chris Morrison",
+    "USGS"
+   ],
+   "note": "Skeptic blog",
+   "description": "If wind turbine energy was fracking for gas, it would have been banned years ago.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2026/11/hoary-bat-feature-1024x512-1.webp?fit=1024%2C512&quality=75&ssl=1",
+   "paragraphs": [
+    "Shocking evidence has emerged to suggest that American bat fatalities following collisions with wind turbine blades have reached a level compared to the devastating depredations of white-nose syndrome. Over the last 20 years this fungal disease is likely to have killed around 12 million bats and in some places led to a 90% wipeout of local populations. A new survey from the US Geological Society suggests that bat deaths caused by wind turbines over the last 40 years have reached nearly 19 million, and the annual rate of 1.5 million is increasing every year.",
+    "This is the massive ecological scandal that dares not raise its voice in mainstream media and politics. At most the slaughter is just seen as the cost of doing virtuous business in the interests of promoting the Net Zero fantasy. As we have reported in the Daily Sceptic, blind eyes are also turned to the 500,000 balsa trees illegally logged in the Amazon rainforest every year to supply the lightweight but strong cores for turbine blades. Also somewhat under-discussed is the doppler effect created by giant revolving blades and the unwelcome distortions they can create for both miliary and civilian radar.",
+    "The latest report has been compiled by a group of scientists at the federally-funded US Geological Survey and it casts new and disturbing light on the increasingly obvious bat genocide problem connected with wind farms. Of course, the terrible American figures are relevant across the world where wind farms have spread in many ways like a plague.",
+    "The scientists start by noting what is already known that blades crunch large numbers of bats, but state that the “scope and severity of these fatalities have remained largely unknown because monitoring has been piecemeal and focused on site-level compliance”. They continue:",
+    "Bats provide essential and economic valuable ecosystems services, yet scientists have questioned for more than two decades whether their populations can withstand the impacts of disease, habitat change and anthropogenic disturbances. The two greatest sources of mass fatalities in North America come from collisions with wind turbines and white-nose syndrome.",
+    "White-nose syndrome has caused catastrophic declines in several US bat populations and recovery could take many decades. It is considered one of the most serious wildlife events in recent years in the US. Declines in populations of species such as the northern long-eared bat, the little brown bat and the tri-coloured bat are feared to have hit over 90%. In Europe and other areas of the world where the disease has been widespread for centuries, the death tolls are much less dramatic, with naturally selected and immunised bats better able to survive infection. In time such natural help may be on the way for bats in America. Alas, there is no similar hope for getting used to being battered by countless wind blades strewn over their hunting grounds and natural habitats.",
+    "The alarming new findings from the US Geological Society are much worse than previous estimates and they are sending shivers through bat conservation circles. Dr Ed Arnett, the Chief Executive Officer for the Wildlife Society, commented that the bat fatalities “are far more alarming than we thought ”. Dr Arnett had previously studied bat fatalities at wind facilities for eight years and said the new research “corroborates his own work from more than a decade ago on bat fatality numbers”."
+   ],
+   "lede": "If wind turbine energy was fracking for gas, it would have been banned years ago."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY256NUZxVFdCVEZCamFBLV90OXFrMGJaZTJWcDBtaGFyMGxjUjExSko2bUU0VzZKeFBZazJQblBrUS1VdkJOWEl1MG1idkFVSkV3S3lFSTJQMXVJaWpnZF9oZFQ3d0dVcjJmU0F0eXV1VzUzYXdOUUZVX09xcEE1eGE3VWpqeWR5WnduVEx6MUw5bzBfYlFyLU1nQWZ5LW0zMHFRNTFEQzlCUGU3SXpRUVY1eDR2M0N6bHF6ZA?oc=5",
+   "title": "AI may have solved the most important problem in mathematics",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-20T21:41:15+00:00",
+   "seen": "2026-11-21T00:49:24+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM1ZmUmtfcXdRcHRkaWZ2YzRzWDg3XzQ1NzRMdFFLc1Vad1ZkaFV0X0xzTmFnNnhqX0FsT3hQdEpQRHQ3Tk5sX1RnLVFHekgwV3pJejRZX3ZwbUMzVlBFaHcwczlqUVU4QTNjeFdCWGFwS0JKUkNrUGl0YTBoN2p0YWNJb3FVZHRnUWpINTUzb3kyT3AtTjhv?oc=5",
+   "title": "World in Brief: Anthropic claims a mathematical breakthrough; AI market jitters remain",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-20T20:43:31+00:00",
+   "seen": "2026-11-21T00:49:24+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://www.theguardian.com/environment/2026/nov/20/cop31-talks-overtime-fossil-fuels-vanish-from-draft-deal",
+   "title": "Cop31 talks go into overtime as debate rages over lack of fossil fuels in draft deal",
+   "source": "The Guardian",
+   "desk": "reporting",
+   "published": "2026-11-20T20:04:46+00:00",
+   "seen": "2026-11-21T00:49:24+00:00",
+   "cats": [
+    "Cop31",
+    "Global climate talks",
+    "Environment",
+    "Fossil fuels",
+    "Climate crisis",
+    "Carbon capture and storage (CCS)",
+    "Protest",
+    "Energy"
+   ],
+   "description": "African ministers say they ‘didn’t come here to beg’, with civil society groups calling it the ‘worst Cop ever’",
+   "image": "https://i.guim.co.uk/img/media/48abb5109f1943cf34ae69dd6982c9a991c9c4ef/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=213d9f5c5115f07440db4915083c1965",
+   "ftries": 1,
+   "fetched": true,
+   "paragraphs": [
+    "Crucial climate talks headed into overtime on the last official day of the Cop31 UN summit as countries continued to argue over a draft deal that was silent on fossil fuels, with a host of other contentious issues complicating negotiations.",
+    "Nearly 200 countries struggled to bridge their differences after two weeks of intense talks and impassioned speeches in Antalya, Turkey, about the effects of climate breakdown around the world, with a scheduled finish of Friday evening breached.",
+    "“At this point, no one is happy,” Brazil’s national secretary for climate change, Aloisio Lopes Pereira de Melo, told reporters.",
+    "The Guardian understands there will probably not be a new draft of an agreement for negotiators to pore over until Saturday morning. A sprawling initial draft deal released earlier this week included strong calls to accelerate the phase-out of coal, oil and gas, but a second, shorter version on Thursday did not include mention of fossil fuels and weakened goals on electrification.",
+    "On Friday there was a dramatic intervention by African ministers early on in the day, with one saying: “We didn’t come here to beg.” Civil society groups, who have a mandated role at the talks, declared it the “worst Cop ever”, with none of their priorities making it through the negotiations. They were particularly frustrated by a failure to take forward a just transition mechanism agreed last year, which they hoped would embed social, racial and economic justice into a low-carbon future.",
+    "Several Cop insiders said Saudi Arabia was one of the countries playing an obstructive role. The petrostate has gained a reputation over the decades for using the Cop process to slow action. Saudi Arabia is understood to be among the countries pushing for carbon capture utilisation and storage (CCUS) to be strongly referenced in the final agreement as a way to help the planet to minimise overshooting the 1.5C temperature goal agreed in Paris.",
+    "Neil Grant, a senior expert on mitigation at the advisory group Climate Analytics, said CCUS was being put into the text “because the fossil fuel interests want it in there”. He said: “It’s a Trojan horse for fossil fuel interests.”",
+    "Eight countries called for reference to “a clear transition away from fossil fuels” to be restored into the text of any agreement. Panama, Belgium, Côte d’Ivoire, Finland, Greece, the Solomon Islands and Sweden outlined vital issues they said must be addressed, including ensuring polluting countries paid into funds for developing countries to adapt to the climate crisis.",
+    "Juan Carlos Navarro, Panama’s climate minister, said: “It is not acceptable to have a Cop or a cover document that does not even mention fossil fuels, and we simply will not put up with it. We need to tell the truth and to speak clearly.”"
+   ],
+   "lede": "Crucial climate talks headed into overtime on the last official day of the Cop31 UN summit as countries continued to argue over a draft deal that was silent on fossil fuels, with a host of other contentious issues…",
+   "cop": true
+  },
+  {
+   "url": "https://insideclimatenews.org/news/20112026/trump-deep-sea-mining-federal-waters/",
+   "title": "Trump Administration Awards First-Ever Deep-Sea Mining Exploration Leases",
+   "source": "Inside Climate News",
+   "desk": "reporting",
+   "published": "2026-11-20T19:02:23+00:00",
+   "seen": "2026-11-21T00:49:24+00:00",
+   "cats": [
+    "Justice & Health",
+    "Politics",
+    "California",
+    "deep sea mining",
+    "Department of Interior",
+    "Department of the Interior",
+    "Greenpeace",
+    "marine life"
+   ],
+   "description": "A private company bid $6 million for access to 31.5 million acres of federal waters. Environmentalists have vowed to stop the deal from moving forward.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://insideclimatenews.org/wp-content/uploads/2026/11/Greenpeace-_-Deepsea-Drilling-_-Ventura-County-_-11.19.26-26-1024x683.jpg",
+   "paragraphs": [
+    "In a historic first, the Department of Interior has leased more than 31 million acres of Pacific waters to a deep-sea mining company seeking to exploit mineral-rich deposits from the ocean floor off American Samoa.",
+    "“This is the first time that a lease has been issued for deep-sea mining in U.S. waters,” said Arlo Hemphill, U.S. project lead against deep-sea mining for Greenpeace USA.",
+    "Deep-sea mining is a highly contested, emerging industry that aims to extract rock-like deposits on the seabed called polymetallic nodules, formed over millions of years. They contain cobalt, copper, manganese and nickel—so-called “critical minerals” used in batteries, electronics and other devices that have historically been mined on land. To date, no commercial deep-sea mining operations have begun anywhere in the world.",
+    "Scientists, environmentalists and Indigenous peoples with strong cultural connections to the ocean aim to stop the industry from moving forward at all.",
+    "Dan Gearino’s habit-forming weekly take on how to understand the energy transformation reshaping our world.",
+    "A once-a-week digest of the most pressing climate-related news, written by Kate Waxman and released every Tuesday.",
+    "Don’t miss a beat. Get a daily email of our original, groundbreaking stories written by our national network of award-winning reporters.",
+    "A digest of stories on the inequalities that worsen the impacts of climate change on vulnerable communities.",
+    "“Once mining strips away habitat that took millions of years to form, no amount of money can bring it back,” said Hemphill in a statement. “Congress should press the administration to suspend these leases before work begins.”",
+    "The lease sale took place Thursday, during a live auction held at the Ventura County Fire Department in Thousand Oaks, California, as Hemphill and dozens of other activists from American Samoa and across the Pacific rallied, prayed and sang outside in protest."
+   ],
+   "lede": "A private company bid $6 million for access to 31.5 million acres of federal waters. Environmentalists have vowed to stop the deal from moving forward."
+  },
+  {
+   "url": "https://wattsupwiththat.com/2026/11/20/claim-climate-disasters-have-traumatised-people-into-dissociating-from-climate-change/",
+   "title": "Claim: Climate Disasters have Traumatised People into Dissociating from Climate Change",
+   "source": "Watts Up With That",
+   "desk": "opinion",
+   "published": "2026-11-20T19:00:00+00:00",
+   "seen": "2026-11-21T00:49:24+00:00",
+   "cats": [
+    "Alarmism",
+    "COP conferences",
+    "Opinion",
+    "Meghana Nallajerla"
+   ],
+   "note": "Skeptic blog",
+   "description": "Its not that people don't care, the overwhelming scale of our unfolding climate disaster has made people feel helpless and apathetic.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2016/09/scream_thermometer.jpg?fit=1024%2C716&quality=83&ssl=1",
+   "paragraphs": [
+    "Its not that people don’t care, the overwhelming scale of our unfolding climate disaster has made people feel helpless and apathetic.",
+    "As climate disasters intensify and become more frequent, communities can experience “collective dissociation,” a mass desensitization to repeated crises",
+    "As world leaders conclude discussions at COP31, 2026 is ending as a year of record-breaking heat and severe weather from human-caused climate change, including devastating flash floods in Nepal and severe wildfires across Europe and North America. As the latest Lancet Countdown report outlines, the health effects of climate change are outpacing global efforts to address them.",
+    "Encompassed in climate change’s health effects are worsening global mental health, including increased prevalence of anxiety, depression and posttraumatic stress disorder (PTSD). Although the World Health Organization (WHO) and many advocates have made strides in integrating mental health into climate and health programming, a major challenge remains overlooked: collective dissociation from climate harms.",
+    "To understand collective dissociation, it is important to understand traumatic stress and the brain’s response to it. In the face of an overwhelming threat, the brain is wired to respond in one of four ways: fight (attack), flight (avoid), fawn (appease), or freeze. Evolutionarily, these responses helped human survival. However, when faced with repeated exposure to traumatic stress where escape or resolution are not possible and flight, fight, and fawn all fail, the brain tries to protect itself by entering an even more extreme “freeze” response: dissociation.",
+    "The author Meghana Nallajeria is a PhD candidate in social work at the University of Southern California.",
+    "I think there is a tiny chance Meghana might be wrong. I mean when people see a utility bill they can’t pay thanks to climate policy driven price increases, followed by eviction and homelessness, just maybe that is a little more traumatic than reading about a bad storm in the Caribbean and being told global temperatures might rise a couple of degrees by the year 2100."
+   ],
+   "lede": "Its not that people don't care, the overwhelming scale of our unfolding climate disaster has made people feel helpless and apathetic."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSEdFWGNWWTlkZlBXVDcwU3ZnY3BSTm1tdGozOU83czVlRGRVc3Noa2tFZ1ZSNjczemNydlZkSm0xSE9xM3EzTXNkSkZpRWE1SlA4OTFOSm01NTBneHVfUHh1MEpjaE4wT1Nxc3dBa21DV1JUT3RtQXJjdGxBRmRnQW9SVHFDZElhSzhXTVdzNWJSNjk2MU4wNWZqYXJGRmFtNGZOSFlnUVZkbEJGUURKeF9yc0k1UQ?oc=5",
+   "title": "Inside Bill Pulte’s Mortgage Fraud Crusade",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-20T18:36:45+00:00",
+   "seen": "2026-11-21T00:49:24+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
   {
    "url": "https://wattsupwiththat.com/2026/11/20/national-public-radio-has-it-backwards-data-does-not-show-fractions-of-a-degree-of-warming-is-dangerous/",
    "title": "National Public Radio Has It Backwards, Data Does Not Show Fractions of a Degree of Warming Is Dangerous",
@@ -101,6 +346,29 @@
    "cop": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWUM4c2xPUURGOThzbDNmVnllQ3NzY2piaUlYWVhrOWZWUUVfblRrMHVCODFfT0VpMExqa3ljR0Z6R0pldmJQeEtWbi02bktfUDBfOGNkcHpYVnB2S3lscnQzMHNhOURxYjZ3VVRFenYwV2tqVkh5MjhDRTZ6RFh6blhjT0UxWmNS?oc=5",
+   "title": "The biggest winners and losers of the EU-UK summit deals",
+   "source": "POLITICO.eu",
+   "desk": "reporting",
+   "published": "2026-11-20T17:24:00+00:00",
+   "seen": "2026-11-21T00:49:24+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaVlIdEF6STVkNjUtdjQwZmFDVFloZXl5b3huZE9zZWwwa2FBNHJuWjN6UnBGejJEb2pOUHIwWTlOckVCcTF0RkNpN2h3ejlXYm5hRVBWZUdobmwwbjFYem9jOHZjV0lQOWE2Y1hYT0paRC1vUFphVFkyTzdhTXI4NmRrZm1sTmd3Tmc?oc=5",
+   "title": "Andy Burnham’s EU deal is only a start",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-20T17:19:05+00:00",
+   "seen": "2026-11-21T00:49:24+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://www.nytimes.com/2026/11/20/climate/van-cats-turkey.html",
    "title": "Turkey’s Van Cats Contend With Rising Temperatures",
    "source": "The New York Times",
@@ -117,7 +385,7 @@
    "byline": "Lisa Friedman",
    "description": "A feline research center in Turkey uses air-conditioning and pools to keep residents comfortable as their numbers recover. And yes, they like to swim.",
    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20CLI-COP-CATS-stillpromo/20CLI-COP-CATS-stillpromo-mediumSquareAt3X.jpg",
-   "ftries": 1,
+   "ftries": 2,
    "lede": "A feline research center in Turkey uses air-conditioning and pools to keep residents comfortable as their numbers recover. And yes, they like to swim."
   },
   {
@@ -136,6 +404,63 @@
    "fetched": true,
    "image": "https://wattsupwiththat.com/wp-content/uploads/2023/06/friday-funny-generic.webp",
    "lede": "Another entertaining cartoon from Josh talking about our current state of affairs with Ai and Net Zero. If you like his work, buy him a beer."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLTc5Y1U5YUllS0I2NEI5T3ViQWJ5WmJrWmw3cV9pTlBVMml6Y0UzSGhHR3E2OXl6M2pna2FQQWxBUVdpMklBb1dXOUF5cnF3dHlxcS05d0haWTRwSy1yWWVUSzBOaGUxTG4ySGliNkd0WDJkaHl0ZzVpZVVCdWw1V3BsdTdzNlkzc2luR0djcERJektoT2FldW54R3lEdWJSWlp3TGdYMExOdEx4X0FzMEw2RTlTZw?oc=5",
+   "title": "Cocoa Pricier in Europe as Traders Brace for Deforestation Rules",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-20T17:07:27+00:00",
+   "seen": "2026-11-21T00:49:24+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE40d1JkQUFUSVdmemJRYlBxOTFRazBfdmNaZlhuNjJENlc4VTFVRTNyYnBTaTNCd1RnWmdiWmRzQkpKc0t5ellEbGJkZjloS3VpZklfRmJJekFHMmVlODFQWkpHMl9yQlpuZVdOelVpMmZCalVIWEFKaWdn?oc=5",
+   "title": "Andy Burnham discovers nothing in Brussels is ever easy",
+   "source": "POLITICO.eu",
+   "desk": "reporting",
+   "published": "2026-11-20T17:03:08+00:00",
+   "seen": "2026-11-21T00:49:24+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM0VvaW05TlBOeE5mMkRsNk5oWmlJclB4ZTU4RjVBc2pWQXktcTVoUDJoSXBTdWJ5eWkzaEdLZVAxd3FXRWJpeWw3WDJoRmhwNjFBSUZ3LWJQTUdKNEpCQ0J6UDB4emczU0NYckNZYjhkSzQycXVtaHpvclIwcTFJTGV3SVQxb0Rja21DeGpONjBqU1RjcmlYX3hOWGx6Z3F5VjVicWd1S1RfTGhNMnFEd29CZ1NWb0k?oc=5",
+   "title": "One Secret to the Success of ‘Grand Theft Auto VI’: Veteran Staff",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-20T17:00:01+00:00",
+   "seen": "2026-11-21T00:49:24+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObjIxMlZVeTJjMm9DQlZwdWRjblpRdXdqcWdPU0VUWVd4czEzMVRJcV92UjJLaklVWVdPMFh1aUZSQWpRU29UdFZYOWMxRmpVZ3dRMTMxTG9fUnhRaUJFZmpfcnNvcGNPU01SRHFIdy1Tc2QwOWd2Q3FZbEpXWXhYaHhLdi1TMUs2RHVYblRhYlVNRjRRLUd2OUtOMTlIN1k0MFNOamF4QndqOWJHd00xVExR?oc=5",
+   "title": "ING’s $500 Million Data Center Loan Auction Stalls on Low Bids",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-20T16:13:30+00:00",
+   "seen": "2026-11-21T00:49:24+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYndjZHNtUGpOSDVuUXRaVmE3a0xwQ1RxS3BzRkJraWxVM2owMDlGR2Q5RVFudTdzVkdsOUNIbF9xTXVjSTh6RGlMa3pFOUt3ejlRVVVnS2NORXc3d3hKNFVGNW1GQ2lWNDIyLW9ZZjhHTzlQeXBmcFI0QmItWmM2Qm55cmpzUkRadWtvRUJB?oc=5",
+   "title": "EU warns against COP31 becoming a ‘fossil fuel summit’",
+   "source": "POLITICO.eu",
+   "desk": "reporting",
+   "published": "2026-11-20T16:03:00+00:00",
+   "seen": "2026-11-21T00:49:24+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMU4tN0lkenRDSjFTZ2JzT3pWSTB1aXQyc3JDbTNXUjIzQk1yTFI5ck5GbE82UGw5Wl92NE1rMklMTW9sMnhKYVlYODhTVDVhWHplU0J1R2M3aE13eFE3RlMyNGtBS2hXbVhpVDFDVjlaZThmdjJ2QVF0WG9CRTItZmo5S0Q2bzg4SjEtZ0lRakRPWUxDQWJEdVNBZU5uSXJzVjNsY3h2SHNJQXBHV0tBcDNRRVNrMkhpT29TVldTLUg?oc=5",
@@ -197,12 +522,47 @@
    "lede": "A sunny summer is a weather phenomenon, not a climatic one. Fossil fuels don’t make it sunnier."
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVjV0OVRhWXlWUnlTSnFPZjlkRjUwdWV1bXpUbUVnTmhMa1pNTVpHVDNHMFhsaXVBeHVKV1o5eEJqejU2TDZ0YktveWEtNnV4NldXQVUxSkhwTlFjTlc2R01qNTM1dE1sY2F5NlpjVVVNcWpUWVRQVmFBZWFaWVlIYUtaVXBaSXNkUTZ0dFM5aGpzNE1XUmtFNVFIam0wV3FRUUtlMkJwV1QwNE0?oc=5",
+   "title": "Why China is unwilling to be the world's next climate leader",
+   "source": "Reuters",
+   "desk": "reporting",
+   "published": "2026-11-20T13:49:05+00:00",
+   "seen": "2026-11-21T00:49:24+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaVhLeDVRNGJfN2d5RGs2bG5MN1J3aFFTZ2hMU2FyRjRYX1A0YWI2NmhKdnhNbXdXU21xZVE2QkQ1dlVOVExyMjhOaEVsZHJOR25xaElwTWdxODZFcnlJQmFoeE9kaHZZTHk3Mm5wYVJXY1YteV9pRlFmakh6WURLWHBURjNrSGVLZmU2cDJwZnF4UVN0cFZSblhJdlhZLV9zNnRjUlhLRjFkRFhNc0VmR0FR?oc=5",
    "title": "COP31 delivers deals for host Turkey as climate diplomacy stalls",
    "source": "Reuters",
    "desk": "reporting",
    "published": "2026-11-20T13:26:20+00:00",
    "seen": "2026-11-20T18:38:27+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdUNmVG1sTDZDSkU5c01HMVdmbWR0UHBta1BMQjZSajJ6Y0w1NjV0cE1hSGkzUXhKNVRieUQxOTVad3JOcjJZcTdoZ21sWmNTdVV1VEMtS3pXSWFtWEdKV01HSElMNEljbHdsRGEwNGVuQUljampXMDFRWnVBZXNtZkM3dmZya0IzdzRyRk1MNVdLYWVFRFI5S20zakEwdlJiX0FDc2R1ZGpuclAyQVE?oc=5",
+   "title": "Gold’s Rout Tests the Myth of an All-Weather Safe Haven",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-20T12:13:18+00:00",
+   "seen": "2026-11-21T00:49:24+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbmNvZzNaUkhMeDB2TEpfbEtJaDBlSlhpR2FhZk1SVlJEZGJKeTQyTFJadmR3UUw4QUlyMl9JaWVVaVByZUlaRm9rbGhUN0w3dnphWjhfV0hsLTUtMThmUUtuY21ObUNJV3JxRHphbXRkZVVPdTl5Umw5WTJ1Wm96SnZ6RTV3QnBVQnhDWG9pS2tsRHdqS0l4b2N1Mmgwek96ZEo1Z1M0QQ?oc=5",
+   "title": "German defense minister apologizes for calling US criticism of Ukraine strikes ‘stupid’",
+   "source": "POLITICO.eu",
+   "desk": "reporting",
+   "published": "2026-11-20T12:01:00+00:00",
+   "seen": "2026-11-21T00:49:24+00:00",
    "cop": true,
    "via_google": true,
    "ftries": 1,
@@ -639,6 +999,17 @@
    "fetched": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObU5KQ2pyT2J1cU56SjAzREpzVGU5aHRFSVZVSmdtU1VsQlRFVUlyMkNrTWZPSFhzbXd4b1ZYaWFNUndQYWRabDExS01UWVVzdEdkQU5IZmljSVFJWWFIX1RKb1h0cUR4bGpxR3djd09hUkk2ZWpQWHlwSkEyRWYxRVh4QVY1Z2VwUkpRYVdJT0V3ZzhtWWxr?oc=5",
+   "title": "Can Japan declare victory over deflation?",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-20T00:00:00+00:00",
+   "seen": "2026-11-21T00:49:24+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://insideclimatenews.org/news/19112026/alabama-chemical-fire-resident-health/",
    "title": "Public Officials in Alabama Say a Huge, Chemically-Fueled Blaze Won’t Harm Residents. CDC and EPA Advise Otherwise.",
    "source": "Inside Climate News",
@@ -680,6 +1051,18 @@
    "desk": "opinion",
    "published": "2026-11-19T23:15:40+00:00",
    "seen": "2026-11-20T18:38:27+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUWFySU8yNUpPamJ1X2hHcEJJSk4zanRsYlEtT3VWYWN1c1lUaG1MNkZVMzVSa21ZbGZrM2xHVlI0akN4VFBmTDdLZnJJazdJaDl2SVpFVEJmNC15RFkyM0RHekZXYk1qLWppcU1kWkwyTzFPc0V1OXJjS0VJY2F2ampMTHFFWnlaWHU2RXE1dzZxbU05aHhJSUJEWEx0VFZEdzV1cElmWW9XcjI2Uk5UMXg2STRDYTVPdXh0bjRVUUFkcmVDQjZ5RjNDOWZrN0NtUi1wWHNjMldKVnVNLWc?oc=5",
+   "title": "Activist investor Parvus calls for Accor CEO Bazin to step down, FT reports",
+   "source": "Reuters",
+   "desk": "reporting",
+   "published": "2026-11-19T22:53:30+00:00",
+   "seen": "2026-11-21T00:49:24+00:00",
+   "cop": true,
    "via_google": true,
    "ftries": 1,
    "fetched": true
@@ -1293,6 +1676,28 @@
    "fetched": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPR1J6TW41VXpQNDJ4ZEF0SFRnZnhBeDdNellqSGxQY1hySmFGSDQyTlJQQXRVYXFGVVVqQ3ZpQUtwNF9aeUdyN0JaSWdyR3l6OUNMbVNZSUpocV9HYWxxWklJMkUxRDlhWHZJNXh2TDljUnVWUjNGVEVpM3NQbktDaElaWlhwRjhLckViZzNQT3QtQQ?oc=5",
+   "title": "Why there are so many bizarre national days",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-19T14:01:02+00:00",
+   "seen": "2026-11-21T00:49:24+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU0poay1yWlM4TnItdHBVbzBTdzgxaUJXNm55OTEwSDU5RWVrZTBSWG45UEhXMjlLQUVEX1VqNDdLS0lqbjkwS080YjlLX2pDTW9iRWVwU2tPUW12T0ZuR0FJZnZLZUVTR1RZZXltbFZTQnVyOVphWkNXWVI3bmpYUEtUcGVyQ1FoS1g1eWNUTUVfYXRLclhHcFFTLWJaRGlOQ05zdXowTExleHM?oc=5",
+   "title": "What a robot Olympiad reveals about Latin America’s future",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-19T14:01:02+00:00",
+   "seen": "2026-11-21T00:49:24+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB5X19VVmlQTTRNdkdDajlkalQzS1lLRHR5SVdfVnptQW1WanRObFJ0NWRXNVAwTThCQTRtbFBqaFBjWEZERnlmRjU3eEMyeHM5OVJBSy1icC1qWXRITktGVXFrQ3lOWHNWMTZfY255cnlmeE0?oc=5",
    "title": "Politics",
    "source": "The Economist",
@@ -1615,12 +2020,34 @@
    "fetched": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcXppZXV4Y3duMTQ0OUR3bjFBZE5DRHZKWTIwYkFXVVAwUU9IZ3I2QlRXTHc2V3lNdEszUTd0LXNFVFRIN3ZLSHRDUzd5M3M5QWxHUEV4dkQ5TWctbFUxbmZpdzZZRG8yUDNwNXBYSWRsdHNjNjhqcW1iaVlVZm5ZVEd4aVZ3Z1NtaDZzYU9XTjBYNThIYXExbkczUHBBVllkUFpQT2ZMaEI0LTB6LVdUbmJRTWxRZEhyZjNj?oc=5",
+   "title": "Russia wants talks on Europe’s “security architecture”. Don’t fall for it",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-19T10:44:42+00:00",
+   "seen": "2026-11-21T00:49:24+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRVVRbFFvU3ZPNWlmTHFvU1JzSm9FMW5yRXlqRkk0eWMyTkNORHBuN24wSXI4VTlpR0pqRzh1SWllb1gxXzFyU05WOUh6SWl1Skdvell5dFl3NVBZczJETUhLckpORGhPS3RiWVpfRjdha3psMG00Yy03QTBEMHl4NlNPclRCT21kMXN1YWFnV2RNVXVDTWxoYk5TNWxjOFp1NFJ6YmhBaUthbkltbG14eVJSUVpVQQ?oc=5",
    "title": "ECB’s Kocher Warns Changing Climate Is Impacting Monetary Policy",
    "source": "Bloomberg Green",
    "desk": "reporting",
    "published": "2026-11-19T10:14:57+00:00",
    "seen": "2026-11-19T19:29:47+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcDV6c3lGUngyMDRuWXBtNERZZFhpQktSNi1Gbm5uMVVRNmxXaHBSaXNCdnBQSF90WEJaeU1QNTluT3p1YmtFbUlmMFZPQzEwMHZRQjJWWTYtcDNpanVYUXJ6WEZiTzdwUWFuQ1Y4RHlCa1VoM3BDMjA4c1l1aTlmb0x2czUtQ3JRQmNUSHVuR0tpRm0tMWdmSGFSWncxVnJNODg5Z3lBM0c?oc=5",
+   "title": "Bond yields are rising everywhere—except China",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-19T10:04:37+00:00",
+   "seen": "2026-11-21T00:49:24+00:00",
    "via_google": true,
    "ftries": 1,
    "fetched": true
@@ -2486,6 +2913,18 @@
    "desk": "reporting",
    "published": "2026-11-18T13:40:11+00:00",
    "seen": "2026-11-20T10:04:06+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSG9tVnY3THRLampUc0VtekpyNzJqZEVVaUNfaDk5WmFXVzBfNlRDSGc4Rm1nSURRQ1FPLXQ1MUlZTWEyd0d2WlYxNWlWcXZZY2xiVnFQZjlDSGdkQ0ZYemtpT3ItOTQxZHVILUNBNTVpUjlZNndsSVRUVkhrU3FKM2tEUHRwdjFuRnFOSkY5ZzRJcXdVbUlsTjFid3VWX1d1U2VlWndCcHFJSDZ2UDltMFVVSlp6dWREWGdBeWQ2TXhSSlJ3VGcwZE9DSWk?oc=5",
+   "title": "COMMENTARY: Brazil's corn boom upended trade. Now comes the hard part",
+   "source": "Reuters",
+   "desk": "reporting",
+   "published": "2026-11-18T13:07:50+00:00",
+   "seen": "2026-11-21T00:49:24+00:00",
+   "cop": true,
    "via_google": true,
    "ftries": 1,
    "fetched": true
@@ -4278,6 +4717,17 @@
    "lede": "The Ohio municipality became the first U.S. city to release a climate migration readiness plan."
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYTJXN3JvQ091S3JuSmJudDBqNU9rYVNPTkVGMzVCbmFXcTJtN29pb2ZfSVdxX19lS0tFZTNYdVl2R0FFQjZ2ZVpoYWs1Sk8tOE1RQWRrODVGdzV4dG96NEVVU3B4SnZmQmwzRHFFdExsT1FwRFVHUlFpZDVvdDg2cjVYZXExNXRCNFZ6eWFmVmV6WTRzcEJhcS1JZkh5VWJDRVRPSlBZSU1fNXlON3ZsN19rdUdQZDgtQjR3?oc=5",
+   "title": "Congo Ebola Outbreak Defies Control as Conflict, Hunger Fuel Crisis Six Months In",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-16T11:53:25+00:00",
+   "seen": "2026-11-21T00:49:24+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX0drS0RUOC1wMGRNbkl0bkwzcUhOUDA0R1BnMVFXV2kwbGZuaFRYSnhkUlNXZWtJYjJmRUlEY3ZlU2MxZWNzbkF3OWhNWlh3ZkctcUIyQzJYa0NDb1E4LVNFLW5fSVFCck96czRkRzN2TFFoZ1p6SFhBWWY0VU5HTlU0X1lNRS1TeWNKSl9MSmFmZVlYQm1mUkhMcUpSdFJUWEoxX3dVdVRPZzAzUHc?oc=5",
    "title": "William and Kate Begin India Tour With Cricket and Climate",
    "source": "Bloomberg Green",
@@ -4894,6 +5344,28 @@
    "published": "2026-11-14T15:31:46+00:00",
    "seen": "2026-11-19T10:24:07+00:00",
    "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUWdoelFfRW5odXlFenRKVGQzNGN0Mm1vSVAyY1RSeEg0QWlSZUxXTU9WLXNFbVlOUWNHWmRxU1dOc25EaUFNZmhKVUNfdnFyWDRPa21mMHVRRlFiX240Zkh3bDVLZUVpWTJwRGpLMnlHNGJ2MjhXRlVRd3VEZV84NTZqODcxZ0o2c1dkM1o3ZmRPLVFfN2RpTGpMeHRRZ2FBZDMtMjdjMDBnV1hLS1Q5cFVPdXFuRm1nd1hZakJydGo?oc=5",
+   "title": "Bullet Trains and New Homes Are on a Collision Course in California",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-14T15:00:03+00:00",
+   "seen": "2026-11-21T00:49:24+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONTRxa3Nubm9nMFAzRjkwNEpQYnVlQVd6SnBZWXJ1aGllaENwZi1ZZlgxSkZ3SjQyWFN4Q29TVVpXb0lKZmVJcmFCRXR3aEw3bE1RaFZXb2pCNnFnb1VST29sNHJGdzFRclh5WVV5bUlOdVVLNUpYQW1JTGhJWUdmQjVJNkFOemRPdFhPZDNIcVJKOEVHMXVvczBaSFdWS2l1b0dnZVRneERPQWVJb3dLLQ?oc=5",
+   "title": "Tech Giants Face More Grid Cost Pressure on Democratic Sweep",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-14T13:00:00+00:00",
+   "seen": "2026-11-21T00:49:24+00:00",
    "via_google": true,
    "ftries": 1,
    "fetched": true

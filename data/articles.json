@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-22T09:55:09+00:00",
+ "updated": "2026-11-22T17:50:54+00:00",
  "briefing": {
   "headline": "COP31, fossil fuels and El Niño",
-  "period": "Nov 15–21",
-  "made": "2026-11-21T16:49:04+00:00",
+  "period": "Nov 16–22",
+  "made": "2026-11-22T17:50:54+00:00",
   "bullets": [
+   {
+    "text": "European and vulnerable nations rejected a proposed agreement after Saudi Arabia and other oil producers blocked any mention of phasing out coal, oil and gas.",
+    "source": "The New York Times",
+    "url": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
+    "theme": "COP31"
+   },
    {
     "text": "Brandon Wu oversees research, advocacy, coalition building and campaigning work for ActionAid USA.",
     "source": "Climate Home News",
     "url": "https://www.climatechangenews.com/2026/11/21/cop31-is-shaping-up-to-be-a-disaster-not-only-because-its-weak-on-fossil-fuels/",
-    "theme": "COP31"
-   },
-   {
-    "text": "Crucial climate talks headed into overtime on the last official day of the Cop31 UN summit as countries continued to argue over a draft deal that was silent on fossil fuels, with a host of other contentious issues…",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/environment/2026/nov/20/cop31-talks-overtime-fossil-fuels-vanish-from-draft-deal",
     "theme": "fossil fuels"
    },
    {
@@ -22,12 +22,6 @@
     "source": "Berkeley Earth",
     "url": "https://berkeleyearth.org/october-2026-temperature-update/",
     "theme": "El Niño"
-   },
-   {
-    "text": "NASA researchers have produced detailed 3D topography maps for all of California, down to the scale of a single tree.",
-    "source": "NASA",
-    "url": "https://science.nasa.gov/blogs/science-news/2026/11/18/california-wildfire-risk-3d-maps/",
-    "theme": "wildfires"
    },
    {
     "text": "Alabama Power attributed the decrease to revenue from data centers.",
@@ -40,10 +34,306 @@
     "source": "Yale Climate Connections",
     "url": "https://yaleclimateconnections.org/2026/11/under-trump-black-lung-disease-is-surging-among-appalachias-coal-miners/",
     "theme": "Washington"
+   },
+   {
+    "text": "NASA researchers have produced detailed 3D topography maps for all of California, down to the scale of a single tree.",
+    "source": "NASA",
+    "url": "https://science.nasa.gov/blogs/science-news/2026/11/18/california-wildfire-risk-3d-maps/",
+    "theme": "wildfires"
    }
   ]
  },
  "articles": [
+  {
+   "url": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
+   "title": "COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels",
+   "source": "The New York Times",
+   "desk": "reporting",
+   "published": "2026-11-22T17:42:49+00:00",
+   "seen": "2026-11-22T17:50:54+00:00",
+   "cats": [
+    "COP31",
+    "United Nations Framework Convention on Climate Change",
+    "Global Warming",
+    "Greenhouse Gas Emissions",
+    "Oil (Petroleum) and Gasoline",
+    "Europe",
+    "Saudi Arabia",
+    "United Nations"
+   ],
+   "byline": "Lisa Friedman",
+   "description": "European and vulnerable nations rejected a proposed agreement after Saudi Arabia and other oil producers blocked any mention of phasing out coal, oil and gas.",
+   "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22cli-cop31-final3-fmcb/22cli-cop31-final3-fmcb-mediumSquareAt3X.jpg",
+   "ftries": 1,
+   "lede": "European and vulnerable nations rejected a proposed agreement after Saudi Arabia and other oil producers blocked any mention of phasing out coal, oil and gas.",
+   "cop": true
+  },
+  {
+   "url": "https://www.theguardian.com/environment/2026/nov/22/cop31-climate-talks-set-to-end-in-deep-division-as-key-deal-rejected",
+   "title": "Cop31 climate talks break down as key deal rejected",
+   "source": "The Guardian",
+   "desk": "reporting",
+   "published": "2026-11-22T16:14:46+00:00",
+   "seen": "2026-11-22T17:50:54+00:00",
+   "cats": [
+    "Cop31",
+    "Environment",
+    "Climate crisis",
+    "Turkey",
+    "European Union",
+    "World news",
+    "Europe"
+   ],
+   "description": "EU, UK and some of developing world object to main text that ‘failed to meet the moment’ and did not mention fossil fuels",
+   "image": "https://i.guim.co.uk/img/media/f4d171fdee03f0450e71d98657eea9f310f36fd9/435_0_3766_3014/master/3766.jpg?width=140&quality=85&auto=format&fit=max&s=1d4e5cb91f44ed77668a8862b38fa660",
+   "ftries": 1,
+   "fetched": true,
+   "paragraphs": [
+    "The EU, the UK and allies in the developing world rejected what they called an unacceptable deal on the future of the climate, which failed even to mention fossil fuels, in a dramatic finish to the Cop31 UN talks in Turkey.",
+    "The proposed deal “failed to meet the moment”, said Ireland’s environment minister, Darragh O’Brien, speaking for the EU. “We will not endorse a decision that does not respond to the science and that actually risks deepening the chasm between global commitments and the action required. [It] does not even mention fossil fuels.”",
+    "As the talks, scheduled to end on Friday, dragged on into Sunday afternoon in the longest climate summit ever, it was clear that the “Antalya pact”, drafted by the Turkish and Australian joint presidencies of the summit, would not achieve the consensus needed to pass.",
+    "The Antalya pact invites countries to electrify their economies, calls for rich countries to provide finance to the poor to help them adapt to the impacts of the climate crisis, and calls on countries to minimise the “overshoot” of the 1.5C global heating threshold, of the Paris agreement.",
+    "But it failed to endorse the “transition away from fossil fuels” that more than 130 countries demanded, and included controversial provisions on “carbon capture and storage” (CCS) technology that some have said perpetuates fossil fuels.",
+    "The presidencies avoided outright collapse of the “conference of the parties” by passing decisions on various related matters, including the “just transition” to help workers in high-carbon industries shift to a low-carbon economy.",
+    "But Murat Kurum, Turkey’s Cop president, acknowledged there was no agreement on the draft “cover decision” text and so it had not been adopted.",
+    "“We have done our utmost; ultimately, we have not imposed this text on anyone, nor have we issued an ultimatum ⁠such as a ‘take it or leave it’ demand,” he said. “It is clear that there are parties in this hall who oppose this text. We recognise ⁠that there is no consensus on this document. Therefore, these decisions have not been adopted.”",
+    "Many countries, including the EU, UK and developing countries including small island states and some of the poorest countries, said they could not support the Antalya pact deal, which was supposed to be main outcome of the Cop."
+   ],
+   "lede": "The EU, the UK and allies in the developing world rejected what they called an unacceptable deal on the future of the climate, which failed even to mention fossil fuels, in a dramatic finish to the Cop31 UN talks in Turkey.",
+   "cop": true
+  },
+  {
+   "url": "https://www.theguardian.com/environment/video/2026/nov/22/eu-officials-reject-cop31-deal-as-it-doesnt-speak-to-reality-of-the-climate-crisis-video",
+   "title": "EU officials reject Cop31 deal as it 'doesn't speak to reality of the climate crisis'",
+   "source": "The Guardian",
+   "desk": "reporting",
+   "published": "2026-11-22T16:08:20+00:00",
+   "seen": "2026-11-22T17:50:54+00:00",
+   "cats": [
+    "Cop31",
+    "Global climate talks",
+    "Climate crisis",
+    "Fossil fuels",
+    "Environment",
+    "World news"
+   ],
+   "description": "The Cop31 climate talks fell into disarray as the EU, UK and allies in the developing world rejected what they called an unacceptable deal on the future of the climate. Ireland's climate minister, Darragh O'Brien, said the EU could not support the proposed deal, in part because it made no mention of fossil fuels",
+   "image": "https://i.guim.co.uk/img/media/889097b33a9db4d990e02f63f627671657fe64ce/265_0_3447_2758/master/3447.jpg?width=140&quality=85&auto=format&fit=max&s=3c70cf1e5b764b8fac9d51c931c83a60",
+   "ftries": 1,
+   "fetched": true,
+   "paragraphs": [
+    "The Cop31 climate talks fell into disarray as the EU, UK and allies in the developing world rejected what they called an unacceptable deal on the future of the climate. Ireland's climate minister, Darragh O'Brien, said the EU could not support the proposed deal, in part because it made no mention of fossil fuels. The president of the negotiations, Australia's Chris Bowen, called the failure 'very disappointing', saying that a lot of good work had been done but 'many parties who were people of good faith had very strong red lines on a couple of key issues, and despite many, many attempts … those red lines on behalf of different parties were just not able to be met'."
+   ],
+   "lede": "The Cop31 climate talks fell into disarray as the EU, UK and allies in the developing world rejected what they called an unacceptable deal on the future of the climate.",
+   "cop": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSXVUYkk3Y3JMdUhqME1UWUphd3N3WldvY0ZacXdJZ2xfdGMtZjFJdmhhWFliYkVtSzBjX1ZNSms4aDk2R2ZDVy0xZG1WOFY0TDliRHc3aHFNTk5XbVdyVDl0QkZMN2VhbUxabE9KWUNHLThKd19odzdoNGJQWlJIb3JvVHJpVEhjQll3Wm9rdkowOWFOLWtOWjlBSnlzcEpWMlZwV1JqaEgwLXlmU0xiRVR4TzBPUQ?oc=5",
+   "title": "Ex-Citadel Weather Head Reveals Wild Card in El Niño Predictions",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-22T15:52:00+00:00",
+   "seen": "2026-11-22T17:50:54+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://www.theatlantic.com/science/2026/11/cop31/689530/?utm_source=feed",
+   "title": "The World’s Biggest Climate Conference Just Fell Apart",
+   "source": "The Atlantic",
+   "desk": "opinion",
+   "published": "2026-11-22T15:47:38+00:00",
+   "seen": "2026-11-22T17:50:54+00:00",
+   "description": "Delegates at the annual UN climate summit failed to reach an agreement for the first time in almost 20 years.",
+   "image": "https://cdn.theatlantic.com/thumbor/YZbUMPP_c7NnhVd3vjlbZAw0h58=/media/img/mt/2026/11/2026_11_20_Climate_Action_Gets_Practical_Josh_Partlow/original.jpg",
+   "ftries": 1,
+   "lede": "Delegates at the annual UN climate summit failed to reach an agreement for the first time in almost 20 years.",
+   "cop": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONHhBWldUdzAxM3JtaEVFSGxqakFCNDA1M3B4TVdNWFlUSG1NZk53cTIyOE9STEpKbE1PcGNEcWxXZmFXa19iU1U3eURjUFBrN0NfLU53SVFtUm1LZTBlcnVza01KVm9zaFF1S25lWjEzYzN0RkZfeVVtX1A3VTVvakwxdEJsNFdHOGVtdTV0X1VUaGUybzVLWnFzTFNDVWhYRjd5OEV4anhrRmFpX2wzVlpB?oc=5",
+   "title": "UN Climate Talks Collapse in Acrimony as Nations Reject Deal",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-22T15:03:55+00:00",
+   "seen": "2026-11-22T17:50:54+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "cop": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZXM2ZTMwY2I0WnJuUlhYOUx4V3hmRENRTXFWZXZoamU1dnJBSWQ5MW9kcGRDN3FXRGktTDRRd2VrMl8xT1o5QUFNRDNBcHlPdTVMcTJldll5Q0J3UHUtbTU0Z2J5RHlFeFN5LWZaT1EyV1pRZGNzVFpPakJBdzR6VF9zNlRCb19qdFcyUVZkREdOd2wzZmM2eFpGX3llWW04Nnp2MW9pTQ?oc=5",
+   "title": "Democrats will struggle with a state-level revolution",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-22T14:38:46+00:00",
+   "seen": "2026-11-22T17:50:54+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQc3loZzVPSEw4YTN0RXZEdEpveVFkV0JoU0dtRTktZXR6LS1XVGRNVElxWHpWVUQ3eEhOMllBam9jYlNIX29HeW9ncUwyWkNhenBPcmRZeTNBNmt6MF96SkU5TS1zWUVBSEFOS0FMV1gwVmJoS3c3bGw4TjgwLUU5NTFOUEtzOWx3dy04NkhLMW9CMmJxM1dLeVRBRWMyVl9SY1A3THFB?oc=5",
+   "title": "Countries react as COP31 climate talks collapse",
+   "source": "Reuters",
+   "desk": "reporting",
+   "published": "2026-11-22T14:12:47+00:00",
+   "seen": "2026-11-22T17:50:54+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://wattsupwiththat.com/2026/11/22/grl-paper-finds-more-cyclones/",
+   "title": "Called It. GRL Paper Finds More Cyclones Peaking at Landfall Without Checking How Coastal Storm Measurement Changed Over Time",
+   "source": "Watts Up With That",
+   "desk": "opinion",
+   "published": "2026-11-22T14:11:00+00:00",
+   "seen": "2026-11-22T17:50:54+00:00",
+   "cats": [
+    "Bad science",
+    "Climate Attribution",
+    "Hurricanes",
+    "Peer review"
+   ],
+   "note": "Skeptic blog",
+   "description": "Nature says more tropical cyclones now peak at landfall, probably because of warming. The GRL paper behind it never deals with four decades of changes in how coastal storms are measured, and its own numbers show no significant trend through 2015.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2026/11/tropical-cyclone-intensity-near-landfall.webp?fit=1024%2C512&quality=75&ssl=1",
+   "paragraphs": [
+    "On November 19, Nature ran a research highlight headlined “More tropical cyclones hit peak fury at the worst possible time,” about a recent Geophysical Research Letters paper by Yuxia Fu and Qiaoyan Wu. The highlight in full, as far as the paywall lets anyone read it:",
+    "Climate change is creating conditions that pump up the intensity of hurricanes and typhoons just as the storms reach the coast.",
+    "Many tropical cyclones are now at their strongest as they move from the sea onto land — a trend probably due to global warming.",
+    "The photo with it is captioned “Hurricane Michael was a category 4 storm when it hit Florida in 2018.” The National Hurricane Center upgraded Michael to Category 5 at landfall in April 2019.",
+    "I hadn’t read the paper when I saw the title and highlight, and I’m no hurricane specialist. I had an AI analyze the PDF off for a closer look with a note that said,",
+    "“First analyze the paper for glaring flaws, likely in changes in observational instruments and resolution over time and how they reconciled this.”",
+    "A bit later I added that it might be a small statistical sample. A doubling of an number too small to be considered a trend may be another issue. Both guesses came from just from the headline and the way Nature framed it, and both turned out to be right.",
+    "When the flaws of a climate paper can be called from the title, it’s because the genre runs on a familiar sequence, in which better instruments see more, a paper finds the trend the instruments made, the authors call it “consistent with” warming, and a journal’s news desk rounds that up to “probably due to global warming.”",
+    "Using global best‐track and reanalysis data sets from 1980 to 2023, we find a significant increase in TCs that intensify within 24 hr of landfall and attain peak intensity at or near the continental coast. Both the frequency and proportion of these events have nearly doubled, with trends concentrated in nearshore regions. This shift is linked to a reorganization of the TC life cycle, characterized by a continentalward migration of TC genesis and increasingly favorable thermodynamic conditions along coastal margins. Climate model simulations indicate that these environmental changes are consistent with anthropogenic warming.",
+    "The storms come from the IBTrACS best-track archive, using the National Hurricane Center for the Atlantic and eastern Pacific and the U.S. Joint Typhoon Warning Center for every other basin. The following quote is the paper’s entire treatment of data quality:"
+   ],
+   "lede": "Nature says more tropical cyclones now peak at landfall, probably because of warming."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdFZHbXNUM1EtRDRhOS1oak5IcUFnYmw4VnJSQUJaUUE2dl9HelU5MFZPRjhqZmpjSF9kbnQ1eG81czVhQ1NlcV91ZllmdWRlR2toaS03UmxxeFhLSko3LWwzdUNzTVRWalFHUlJmRWpZYlZqUVh6dWpXV2xYX3Zyd0hOTQ?oc=5",
+   "title": "Climate deal collapses amid fossil fuel rows",
+   "source": "POLITICO.eu",
+   "desk": "reporting",
+   "published": "2026-11-22T13:04:20+00:00",
+   "seen": "2026-11-22T17:50:54+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZFRVY0w1ajMyTV9Xbm5zaS0tNXIxdjNjaW9DS2toc1kyMUdxcDFmS0xIbUgta0Jhb2Q0SWVudVlySTg2eHlHRURfaXp5UDE2OHFud0ZmRExfSFIyMUFQMzdTdHFidzBPUXQxUXRXWWVhTHYtUUx6V2VhclFFQWNzY3hkSm9Tc2pEREhsZDJUa25ZeDc3am5Xa20yelVkWE9pMTlrOXRWbDZ6OENHT25R?oc=5",
+   "title": "COP31 climate talks set to collapse without political deal",
+   "source": "Reuters",
+   "desk": "reporting",
+   "published": "2026-11-22T12:50:48+00:00",
+   "seen": "2026-11-22T17:50:54+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVDd3bDNFeHRvM0JkTnJFZ2M0R3NaS0JReWtYVUxqTmFtVXBVOXVWZnpfWm0zZ0N1OUZ0MEl2Y1RuSG5HVHBSYjY0QjhNME5CZVo3ckdIX3A3NzBkcjFqX29obDNWMng0TnprLXB4d2VOWExEVTZ1TEdHRGVsc0NEamMyYlU?oc=5",
+   "title": "The Gandhi dynasty suffers for India",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-22T12:18:07+00:00",
+   "seen": "2026-11-22T17:50:54+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTHZZVlJ6OFo3SWR3YzRrZjJ6LTdGNE1veHJLaTVmV00xSzZtbFJDeTBFeUxHaXZnVmxfYXJfZFExU0ZPN2dyUmM1eVJrcUt2ak4wM3gxbDBHZ1gzUWpfY0VybXY3NFRjZDZRbTJyZGVMemE1TGlvYkp6aUNvcnhPcUZqYnJHWWt1eFRCXy1uYkNQWU9QRnZIbEhEN005WXNIbzRqejdQYXNMYjg?oc=5",
+   "title": "Spain’s election this week will be a referendum on Pedro Sánchez",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-22T12:14:26+00:00",
+   "seen": "2026-11-22T17:50:54+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeklWYXZlaTdkNG5uYXBxdk9UbDZoMFotZ2NySmhlMDNyUk4xNjNBN1FveTc2ZFY3RWFMQktPdDlnMDFPQjlHY1hDTlA2Tmo1Ul9jYnBOcnNZMUNmWlI4Q3VoMV8zd3BhQVVDcXFGNVB6TlhaODFYdnk3OWlfcklmZkRPTU9wajZER3d5U2J5Sy1ZMUt6VEljR3lwRUZiMVlNQkd4NFI2bzFWTTNZSVQ4WUlrVkxOaVNDVmpuVlQ4eWRwdEpOZmZqUVNYdw?oc=5",
+   "title": "UN Climate Talks Slide Toward Collapse as Nations Reject Deal",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-22T12:02:52+00:00",
+   "seen": "2026-11-22T17:50:54+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "cop": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcjVjNFBWV05nNTZjNGlla3JzX1F2bmRUeUNNdno4Um04VFE5OURudzF2a3pPMHkzNEZITndnd08yQnhnc3NXVTQ4bXBvR19YWWRWVy1ZRnlDelJyQ2RJcVVCSHRKN3NCdm9XR015a254VVNwZzJyMnZGTG9IXzFmOS00OXhuTmh0STJzUXhqTy1abzR2em1VaXRnaDVHS3RZQng0NE1WVFBabUtWelBTNVJBVjJiUQ?oc=5",
+   "title": "Saudi Arabia’s $1trn wealth pot suffers an identity crisis",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-22T11:13:42+00:00",
+   "seen": "2026-11-22T17:50:54+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdWZfWjg2eXlGZmRkZ3BMNnBIVFppeFdONkNncm5ELS10MEdsMC1xOGhVVnpoTklmMHJ4b240ZUdtOXhFOVRFVnBjTDUtZDlrQjBKMnR1OU00cVpjQXVTbHFtb2xBaERINDRtWEhERmp1LWo3SlBidDBsNVVPSFVyMF80aFEzV3c2YkE3SENLc2t1Vl9nSFVRelhhVUNJdWhNNzdUSmxnUXllNnNkV2tncUdmaW0?oc=5",
+   "title": "Snarled Climate Talks Seek Breakthrough on Fossil Fuels, Finance",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-22T10:37:34+00:00",
+   "seen": "2026-11-22T17:50:54+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "cop": true
+  },
+  {
+   "url": "https://insideclimatenews.org/news/22112026/protecting-mexicos-scorpion-reef-from-climate-change-illegal-fishing/",
+   "title": "The Defenders of Mexico’s Scorpion Reef",
+   "source": "Inside Climate News",
+   "desk": "reporting",
+   "published": "2026-11-22T10:00:00+00:00",
+   "seen": "2026-11-22T17:50:54+00:00",
+   "cats": [
+    "Science",
+    "Climate Change",
+    "Coral",
+    "Coral Bleaching",
+    "coral reef bleaching",
+    "Coral Reefs",
+    "fish",
+    "fishing"
+   ],
+   "description": "Climate change and illegal fishing are threatening the Gulf of Mexico’s largest coral reef. Inside the battle to protect it.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://insideclimatenews.org/wp-content/uploads/2026/11/20260923_PATROL-14-1024x683.jpg",
+   "paragraphs": [
+    "ABOARD THE MV SHARKWATER—At 5 a.m. on a Sunday in September, crew members aboard the MV Sharkwater, a ship operated by the Sea Shepherd Conservation Society, readied a small inflatable motorboat tied alongside the larger vessel for a pre-dawn mission.",
+    "The night before, the crew received a report about an illegal sport fishing boat anchored just off Isla Desterrada, a sandy islet inside the Alacranes Reef National Park, a federally protected area located about 70 miles off the northern coast of the Yucatán peninsula. At more than 1,300 square miles, the park includes the largest coral reef in the Gulf of Mexico.",
+    "Images captured by a drone pilot for Sea Shepherd, an international marine conservation nonprofit, showed seven men from the boat setting up camp on the island. The crew was eager to confront them before they headed out to sea.",
+    "Dan Gearino’s habit-forming weekly take on how to understand the energy transformation reshaping our world.",
+    "A once-a-week digest of the most pressing climate-related news, written by Kate Waxman and released every Tuesday.",
+    "Don’t miss a beat. Get a daily email of our original, groundbreaking stories written by our national network of award-winning reporters.",
+    "A digest of stories on the inequalities that worsen the impacts of climate change on vulnerable communities.",
+    "“We want to catch them before they leave to go fishing,” said David Hance, Sea Shepherd’s director of operations, slipping on his lifejacket as he prepared to step onto the smaller vessel rocking in the dark early-morning swells. They would need to move fast, though, he said.",
+    "Since the 1970s, Sea Shepherd has dispatched crews around the world to investigate, document and disrupt activities that jeopardize marine life. They run direct-action campaigns to stop industrial krill fishing in Antarctica, mass dolphin hunts in the Faroe Islands and poaching in the Upper Gulf of California.",
+    "Combating illegal fishing inside Alacranes Reef National Park—commonly referred to as Scorpion Reef—is one of the organization’s newest initiatives aimed at helping Mexico safeguard some of its most prized marine protected areas where fishing and other potentially harmful activities are banned or highly regulated to safeguard important ecosystems like coral reefs."
+   ],
+   "lede": "Climate change and illegal fishing are threatening the Gulf of Mexico’s largest coral reef. Inside the battle to protect it."
+  },
   {
    "url": "https://www.theguardian.com/environment/live/2026/nov/22/cop31-climate-crisis-talks-turkey-latest-news-updates",
    "title": "Cop31 live: new draft deal under scrutiny as divided talks risk longest climate summit ever",
@@ -130,6 +420,28 @@
    "cop": true
   },
   {
+   "url": "https://www.climatechangenews.com/2026/11/22/cop31-bulletin-day-13-new-draft-retains-electrification-goal-but-delays-adaptation-finance-and-science-decisions/",
+   "title": "COP31 Bulletin Day 13: Talks fail as many countries reject main deal",
+   "source": "Climate Home News",
+   "desk": "politics",
+   "published": "2026-11-22T05:59:32+00:00",
+   "seen": "2026-11-22T17:50:54+00:00",
+   "cats": [
+    "News",
+    "cop31"
+   ],
+   "description": "The EU, the AILAC group of Latin American states and the Least Developed Countries (LDCs) said they could not accept the draft \"Antalya Pact\"",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.climatechangenews.com/wp-content/files/2026/11/GettyImages-2305812713-scaled.jpg",
+   "paragraphs": [
+    "The draft cover decision for COP31 was rejected on Sunday by around 90 countries, including the European Union, Norway, Panama and the Marshall Islands, leaving the longest-ever UN climate summit in disarray.",
+    "The AILAC group of Latin American states and the group of Least Developed Countries (LDCs) also said they would not accept the text of the \"Antalya Pact\" proposed by the co-presidency of Türkiye and Australia."
+   ],
+   "lede": "The EU, the AILAC group of Latin American states and the Least Developed Countries (LDCs) said they could not accept the draft \"Antalya Pact\"",
+   "cop": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CZkIxYWpUeGk5V2ZjQU9qanJtRmxmUXJQVGpUS0hZRmt3ZDdiWTkxeFhFMVpNNkZkUjBmUGZuUWl1UmR5RFE0TVA2b3BhTm1a?oc=5",
    "title": "Global News Podcast",
    "source": "BBC",
@@ -137,6 +449,17 @@
    "published": "2026-11-22T04:58:54+00:00",
    "seen": "2026-11-22T09:55:09+00:00",
    "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSDZ5NkNmRkJyVzQ3aWVBV2VSQTZNLVBReXVrZ1VLbmhDd18zN0cyY2NuVFhEX2JXUnN1QllwY3pDaTBOeGFqMER5TzVWOURKMmx3Y3c1YlJORTctTmszNnVRUzVUZE0ybnoydks2NDFnYmNzbnhMVzlZRTBvbjRSdU54cGRDLWp1LXhUR2ZLUkFlX0tUblRySXRmcTFKYXM3NjR3MzY2akVfRThlT0dPUHpyZHJIOUNs?oc=5",
+   "title": "Thailand Plans to Ban Exports of Chemicals as It Tackles Pollution",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-22T03:24:00+00:00",
+   "seen": "2026-11-22T17:50:54+00:00",
    "via_google": true,
    "ftries": 1,
    "fetched": true
@@ -255,12 +578,35 @@
    "cop": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlajdVcmlrWWR1T21TY1p6VVJYel9ITzRQUFNjZ19LcTV0MUQ2OHU3Vml3VXE1NHcyNUtiR2JHY2NoOEhnbEV2Q2FydjBFUFNZ?oc=5",
+   "title": "Six O'Clock News",
+   "source": "BBC",
+   "desk": "reporting",
+   "published": "2026-11-21T18:59:47+00:00",
+   "seen": "2026-11-22T17:50:54+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObFFTQmV1QkhHLWRGLVpJa3lYczdRcC0yM0tUam5RbGtudGdOc0p1UUZMczN3aFJYUnU5S09UZWdQM0JGNkRmMF9GYXBobThHVEZDUXRpSXdEZTB0UWU2LTdwemN2a01tZG1CTWJaU0hQY0J2c1ZGTU11RDlzN2hDbnV2b05HZ21QWUxfSGpHd2JGQmZaa0pCS3J2VzVxaGJGbjlhR0dfRFRQWHVIODNJdkNXUQ?oc=5",
    "title": "French Protests Draw Fewer People After Government Concessions",
    "source": "Bloomberg Green",
    "desk": "reporting",
    "published": "2026-11-21T18:24:05+00:00",
    "seen": "2026-11-22T02:16:22+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdGVJYTFEbkdkZ2dJaTZBVVZ1RGUzQ2R4REdnZDQwNkN1M0hfY0N3alF5WFlhWmFLOXZWRmRZVWxmTFZaajNMLXZSbl8zQVJmYTRTN05iX1l0ZmJJUjdXQXRJR3VSVl9FWW81TWpzdUNFRU5XUXNRZ1FsdnNKUVNFWHRWMEdpZW0zZlNmcVppQXBoTFV5RHhGalhzeWpQUnVRR3JuVnRvODVtUmc?oc=5",
+   "title": "Rising Demand Means It’s Hard to Find an EV in the US",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-21T18:16:28+00:00",
+   "seen": "2026-11-22T17:50:54+00:00",
    "via_google": true,
    "ftries": 1,
    "fetched": true
@@ -1846,6 +2192,17 @@
    ],
    "lede": "Rich countries are undermining the process, trust and credibility of the UN climate summit process by failing to live up to their commitments under the Paris agreement, African ministers said on Friday.",
    "cop": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYlpCZWxaX2ZhZDF4U09XUUFmeFhEOXEwRXZTVHYzLXRRZHZwRUJzelZGRzlsMEtKRFcwWWtvQk1uQ2NtUEFFSUV5WXpUSFN3OHMtWWlYVHBpTWxQYWY5emFrS3RRUG9TblB3aFE2NEFHRWtSS0FRQlNvdEc0TUFGM3FsYzVNaFNGMWtTTmNFdDJrd1l6bnhSU2p1TUFaaTltUnM4?oc=5",
+   "title": "A hustler’s odyssey through America’s wars in the Middle East",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-20T09:21:09+00:00",
+   "seen": "2026-11-22T17:50:54+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOc3hrR3FsNmpQYlVac3VVeGphWWV1dVhucmkyT290U0FLRjZEcXpRYnhhR2NiRlEtekRadzFZWjh3dnprb20xOGExSGdndFpBRkV6RUhZVGJtMkdoamtGbjlteXlEaWU5QzZEQXdfSWxJMmM0eGd6bkN2Z3hTMFA3eTJnUWdpQi1BZUY4X3JadGs3VURzVHdWLUZHZ0U5dFNMdm1KRmc4ekMySEdqNDNJcVpEY25Ydw?oc=5",
@@ -4377,6 +4734,17 @@
    "fetched": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQelVfOXctSXlDRnNkNXkycE50WllFV0dwZ3MweDdROTFxSWthT1JKbk0xd0IybndVaDVIbnlUSjlyb3NPaks3Wm5zWWlCLVNXY294SVN4a0Y0QTVQdjUtQ1pJbm9NYXpjME9XXzJFUWtLb0VvNnVWU0Q5TXBvUHpMcE1oX3lvVWNjYUp5emxBejVoWHJMQjJ4VUtzc2FNOUNiS0g3TEVUelpISTB6SjAxVzF0bw?oc=5",
+   "title": "Ten business trends for 2027, and forecasts for 15 industries",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-18T15:12:38+00:00",
+   "seen": "2026-11-22T17:50:54+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZGR3UkttMzhtX1lyb3pPZ3dxZFZKM19wVXFBZ2ZxNG1NX2JTLXA5X0dodHg1T3ZiWUZMR0hXeU9sX2hBYXRaeUdiQVE4VTFCU1A0UThDUVc0aGljLXNRdHpfQ3JxbDZCdW90UkN6UGxHX1U3aThKWm5yb2x4YVhWRFVRbDJGejhLS2owRk52MGVaNlRMVnhWMEVWQ21oQzBoeS1DQkxkT3pNaFR0cXpKM3FIcw?oc=5",
    "title": "Ten business trends for 2027, and forecasts for 16 industries",
    "source": "The Economist",
@@ -5478,6 +5846,18 @@
    "fetched": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lSUVnMWpUUDB3ZVZUcTkyMC1lZ0VzR3lIMEl0ajFvZ2d1Q01zTWxCa3dFYTBmbEl5Mk95aExYQUl6b05sX05ISXhDU2k0NV80UzF2QVl3WVpGQQ?oc=5",
+   "title": "Newshour",
+   "source": "BBC",
+   "desk": "reporting",
+   "published": "2026-11-17T15:24:45+00:00",
+   "seen": "2026-11-22T17:50:54+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSDc0X2E5T3dqcFBjdTNKaE16eVhmTFk1SkwweWRfcGxTYkI5eGFnMk5Oekp1WGF6TnJxcHJ1bzlkYnU2WFAyNHZGblNpYnVrMVdLN3dYc1lVc0dHTnFRR1ZJVjZwLXp5YktFRXhzSUt4ZjJXMll2U3RpNEZFX2hlWGtpbE0xTVVZM3hxWDVUbjAzcF9NckdoenZNQlNiMmJnc1Via0h5ZmRfTlExSVRxWTZUTzNhT0lRWjFV?oc=5",
    "title": "Climate Envoys Warn UN Talks Risk Failure Without Focus on Action",
    "source": "Bloomberg Green",
@@ -6189,6 +6569,18 @@
    "fetched": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BOTR6SmQxRlZxa0FNVEVqS1Q5UnotZFFzckwzT0d4a0V2LWh5dWVmZF9MT1JEb3hiRzNKWjUtenhrbFhjOElxNHhRZm5LclZVLTZaUUpCeW1aQQ?oc=5",
+   "title": "Newshour",
+   "source": "BBC",
+   "desk": "reporting",
+   "published": "2026-11-16T19:45:43+00:00",
+   "seen": "2026-11-22T17:50:54+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYnZMVzNkYUk0Vjh5THFNRTAzN3p0WElFRjdENmJ2UVZzSXdiWnpvRXZYZUJsYndTa0tTRXNwY3BxYjY4bk5rQmNSTnZXa0poVGlXdEI1MDlrNEczY0xoWXNZMExZUkFJYVJQOTBUN1I3VlkxM0RHV2VRNmR0V1UyaXNqZUhBdWlraVBWY0xCNDRwVDA?oc=5",
    "title": "Bangladesh is no longer a development superstar",
    "source": "The Economist",
@@ -6878,6 +7270,18 @@
    "fetched": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96OXkyaHZXTUxXZUJjQWIzQ21lS0p5VTVKc1lucUJmMHI1Z1RNRnl3OU1rWEtSdWd0RXE1Yk4zTTgwV0JYRFlaMU5zSWRJelExT2oweDZMTmhhdw?oc=5",
+   "title": "Newshour | Bangladeshi clothing factories close as workers protest",
+   "source": "BBC",
+   "desk": "reporting",
+   "published": "2026-11-15T15:20:44+00:00",
+   "seen": "2026-11-22T17:50:54+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQU01UE52TlRVa1JSUTJTdW5oWUVaS0RiejQwVDlZUzZHaWJZMU9jMjhxYVptWlNmZk5aN0UtZTNZcW01UmNWT0pqM21ZeU5KZU02UVpPWmJIY2xwYWhRTkNISmQ1YWE4U0JJd2lQc1N3dkk4N0I4RHhEQ2JCTWxGWkJfUkdmZTctczdsN2g4MmV4VVBNeGViSA?oc=5",
    "title": "Donald Trump gets a warm welcome in the Philippines",
    "source": "The Economist",
@@ -7153,6 +7557,18 @@
    ],
    "lede": "As negotiators race to lay the ground for the big political fights coming in the second week of COP31, campaigners took to the streets of Antalya demanding that governments keep their climate promises.",
    "cop": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2NjBYTHpRaE9ObTBMd01ZSTh6U2V3UzM1bm5nb1hUVlVWUnhOSG9yUl85RWVuTGV0ZG1MWGp5S1VzakRPWkFpMWNjX3V5cHI5YWtzZ3U3TVNBZw?oc=5",
+   "title": "Newshour | US touts the idea of Ukraine withdrawing its forces for Nato membership",
+   "source": "BBC",
+   "desk": "reporting",
+   "published": "2026-11-14T08:00:00+00:00",
+   "seen": "2026-11-22T17:50:54+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hRVJBX1RMN2pCczk1NGY2X0wyckY4UHJzVjYwd2VWMjhtZk1TaTJVeDZyY18wcHowZ2ZOTk5BSFRTaUN6aXlJblZ5QUZqckNGODlSa05LU2lXbEwzc0VF?oc=5",
@@ -7551,406 +7967,6 @@
     "While some initiatives have emerged to strengthen the ocean’s role in national climate plans, at formal UN negotiations it has been sidelined to a voluntary dialogue with no negotiated agreements."
    ],
    "lede": "A coalition of small island states, African countries, the European Union and other G20 nations is leading a push at COP31 in Antalya for a process that can deliver stronger ocean mandates in a key review of climate…",
-   "cop": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZTlQZ21GTkVJLV80WFZpemdLcTBublUyaWpCQTEwNlZBS1o3ejByTDE2dzV3YVg3clRnTUVNME4zOUZyV0FCQzdIYURySXNNbTZ3UHI3b3BUNGhQNW5TMHZYUk84X203bkF0NncwZmFOeF9DcUFRWVBNQ1BIalB0WWdfNjhRRGJPMU5FeWxGekhqd3A0QXlBZzVmUnRFd2lETldCQ25URHIyX1FFWlpyYy1PVnVMOUE?oc=5",
-   "title": "UN Chief Calls for Windfall Taxes on ‘Unjustifiable’ Energy Profits",
-   "source": "Bloomberg Green",
-   "desk": "reporting",
-   "published": "2026-11-12T14:23:29+00:00",
-   "seen": "2026-11-19T01:57:51+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTTF5RTRIZC16VjlHazR4WXR2SDRrYy1FTWxxRDBLNmpiMWY5alhJaERKX1QyTGJRaFRxNktycVk5U0NsYjE0UkNmYUQtV3R3Wkg3MGptcUZrQ2FIM1dleVFpMS00WDIzTk5PQTdrSHdud0Z4TnJISjJlLWlaalhIUG9vUlhJWUtEMGFjS1ZnY2VPMkVjMkZSYkxWOUg2WElTdnBDVQ?oc=5",
-   "title": "China’s exports of clean tech to South-East Asia are soaring",
-   "source": "The Economist",
-   "desk": "opinion",
-   "published": "2026-11-12T14:08:53+00:00",
-   "seen": "2026-11-19T01:49:59+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNX2V1TGppcmdIRmtrR0JoLUpsRzhpVzVQeGpCbkhzZ0ZzTU9jUUpYcWF4bW1IdVJpWVk2UUhMcU5aOXNaaG1SSXE0UFNPVHVUcDdvM1BhZ3BLa1VWdGxCdVY0UGdGQlJ6TmtMdVpzeEpnSEVEN0R1ck5RWUVzeEtRR1l3Rm5LUnEtRUtKTk81d1A2MG12ZE5CYg?oc=5",
-   "title": "China's emissions are falling. Thank self-interest",
-   "source": "The Economist",
-   "desk": "opinion",
-   "published": "2026-11-12T14:08:53+00:00",
-   "seen": "2026-11-19T01:46:41+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSlZ1WG84YXRRWWIzR0thMkJpQTNHbFFNNkdMTlhteEVqdHRld1o2ZWZYVHF5d3VrRDlBVkZfRmZCLTZTdHZFVnFNQlJGTE9LbUhhbUZWcGlKQ2U5RUNyT0RtM213U2VZaUp6MkNjRXNpal9KTXZHdnpGSGFsb3g1eWF2YmJDaS1LSkNkbXlCMXFnWExvYk9LTQ?oc=5",
-   "title": "China’s carbon-dioxide emissions have begun to fall",
-   "source": "The Economist",
-   "desk": "opinion",
-   "published": "2026-11-12T14:08:53+00:00",
-   "seen": "2026-11-19T01:46:41+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQN1NJaEpvZDU4VkRSUEJLaE9DOXQwWElfeTJkTHA3TnRUWFZFdThSdS02cWF5RXNjWGUwdUJPOVJBcXFock5kV01TM3ZiWXdOU1A3SmhTMWVYRDdFT0ttWlp6M1J1amRzaEg2TzhoYmVUVTFCMmFuWFJ1MURRc0tGN2FoSXgyU1NOeE50YkpBcjg?oc=5",
-   "title": "Andy Burnham has ignited the Rejoin debate",
-   "source": "The Economist",
-   "desk": "opinion",
-   "published": "2026-11-12T14:08:53+00:00",
-   "seen": "2026-11-19T01:46:41+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQXBhZkxKMXpyUlVXQmNnUk8zbmJJYzI2Y3ByNHhvQkpjQ3U1NU9QVjlLbTVLbk5WbFVOX2hRV2NQQWs1QXhwZkgyZTF6ZGluQUQ2cXltRDZ2emdsNi1kcFBpUVowUHg3VldfNGZ5TGZ4cGZqZ284aklkV0xjQTRvNEZDVUktdFV1RElDVXVzQy1nWUxUMklYblhFNkN3VjkxNTdKd0tCdkt0NGxIVmRnWlV2dHpTOU14a2N3SA?oc=5",
-   "title": "El Niño’s Odds of Being Worst Ever Edge Lower, US Climate Prediction Center Says",
-   "source": "Bloomberg Green",
-   "desk": "reporting",
-   "published": "2026-11-12T14:00:00+00:00",
-   "seen": "2026-11-19T02:03:16+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://www.climatechangenews.com/2026/11/12/cop31s-electrification-pledge-wins-support-with-caveats-on-clean-power-and-finance/",
-   "title": "COP31’s electrification pledge wins support, with caveats on clean power and finance",
-   "source": "Climate Home News",
-   "desk": "politics",
-   "published": "2026-11-12T12:08:10+00:00",
-   "seen": "2026-11-19T01:47:57+00:00",
-   "description": "At least 14 countries have endorsed the voluntary pledge so far, but island nations warn it must not distract from the shift away from fossil fuels",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://www.climatechangenews.com/wp-content/files/2026/11/GettyImages-2272819594-scaled.jpg",
-   "paragraphs": [
-    "More than a dozen countries, including Germany, South Korea, Pakistan and several small island states, have publicly backed the Turkish COP31 presidency’s flagship electrification pledge.",
-    "The voluntary pledge aims to raise electricity’s share of global final energy consumption to 35% by 2035, from 23% currently, but does not specify how that electricity should be generated.",
-    "The COP31 presidency is not expected to publish a full list of backers until next week, as it continues to rally support. But at least 14 countries have publicly endorsed the pledge, according to a Climate Home News analysis of speeches and official statements.",
-    "More than a dozen countries, including Germany, South Korea, Pakistan and several small island states, have publicly backed the Turkish COP31 presidency’s flagship electrification pledge.",
-    "The voluntary pledge aims to raise electricity’s share of global final energy consumption to 35% by 2035, from 23% currently, but does not specify how that electricity should be generated.",
-    "The COP31 presidency is not expected to publish a full list of backers until next week, as it continues to rally support. But at least 14 countries have publicly endorsed the pledge, according to a Climate Home News analysis of speeches and official statements.",
-    "Alongside COP31 co-host Australia and COP32 host Ethiopia, they include Germany, Norway, Finland, South Korea, Pakistan, Zimbabwe, Eswatini, Togo and Liechtenstein, as well as the small island states of Palau, Seychelles and the Solomon Islands.",
-    "The European Union is widely expected to join the pledge this week, although member states still need to formally approve the decision, Politico reported . On Wednesday, President Ursula von der Leyen supported the pledge in her personal capacity and encouraged others to do the same.",
-    "Other major economies have welcomed COP31’s focus on electrification while stopping short of endorsing the pledge.",
-    "British Prime Minister Andy Burham said on Thursday that he was proud to support the summit’s focus on electrification. He said it matters for energy security, for creating good jobs in clean energy and manufacturing, and for lowering people’s bills."
-   ],
-   "lede": "More than a dozen countries, including Germany, South Korea, Pakistan and several small island states, have publicly backed the Turkish COP31 presidency’s flagship electrification pledge.",
-   "cop": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wZkcyZ0M4UTJ0NWUweWY2VTVEZzNCOFBhZ3ZEdzduOFRQT3M1a00xX2I2Vmt1bFR0eGJpUHo5LXpCVjJrX3AzVkJGYWUzSC0yTGU2TG5iRXRra3c?oc=5",
-   "title": "COP31: Burnham says climate consensus 'gone' but pledges 'new era of leadership'",
-   "source": "BBC",
-   "desk": "reporting",
-   "published": "2026-11-12T11:03:53+00:00",
-   "seen": "2026-11-19T01:57:51+00:00",
-   "cop": true,
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdjc1ZHRjSlp2bmc3RGpjQVZad1I1cmdvOWxNYUJwRU13SmhXaHdQUW9Dd1hXTmxOQ1BGNGg3anN4UlpsWGxfZktEc3hESXRDR1BMVkN2RmJhSVpDMmRfM1I1MHlpdGNCRnFqMmN5c2JaVWxCWGZEckl0YllKOEJuMWJDSWQ?oc=5",
-   "title": "Why you should expect an AI crash",
-   "source": "The Economist",
-   "desk": "opinion",
-   "published": "2026-11-12T09:54:50+00:00",
-   "seen": "2026-11-19T01:47:57+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://www.climatechangenews.com/2026/11/12/cop31-bulletin-day-4-burnham-speaks-with-uk-climate-policy-under-fire/",
-   "title": "COP31 Bulletin Day 4: Emerging economies question need for COP31 cover decision",
-   "source": "Climate Home News",
-   "desk": "politics",
-   "published": "2026-11-12T08:33:44+00:00",
-   "seen": "2026-11-19T01:47:57+00:00",
-   "description": "Russia, Saudi Arabia and others are questioning the legitimacy of the Australian-Turkish push for an overarching COP31 agreement",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://www.climatechangenews.com/wp-content/files/2026/11/UNFCCC-COP31-6064.jpg",
-   "paragraphs": [
-    "A second set of world leaders give their speeches on Thursday before heading out of town and leaving their negotiators to it. After around 40 leaders spoke on Wednesday , on Thursday there just 25 or so including the UK’s Andy Burnham, Venezuela’s Delcy Rodriguez and Bangladesh’s Tarique Rahman spoke.",
-    "But Brazil’s President Lula was still there and expected to keep grabbing headlines, along with California’s Governor - and maybe next US president - Gavin Newsom - and Swedish climate activist Greta Thunberg who has lost none of her star power, if the crowd around her in the press centre was anything to go by.",
-    "Here are the highlights from what they said today and other updates on issues like methane and clean cooking.",
-    "A second set of world leaders give their speeches on Thursday before heading out of town and leaving their negotiators to it. After around 40 leaders spoke on Wednesday , on Thursday there just 25 or so including the UK’s Andy Burnham, Venezuela’s Delcy Rodriguez and Bangladesh’s Tarique Rahman spoke.",
-    "But Brazil’s President Lula was still there and expected to keep grabbing headlines, along with California’s Governor - and maybe next US president - Gavin Newsom - and Swedish climate activist Greta Thunberg who has lost none of her star power, if the crowd around her in the press centre was anything to go by.",
-    "Here are the highlights from what they said today and other updates on issues like methane and clean cooking.",
-    "Heading into COP31 amid geopolitical uncertainty, most delegates arrived in Antalya with the comfort of one near-certainty: the summit would produce a cover decision, the overarching text that carries its high-level political message.",
-    "But in the first rounds of consultations this week, a group made up mainly of large emerging economies has made it clear to the hosts that this is far from a done deal.",
-    "Russia, Saudi Arabia and the Like-Minded Developing Countries (LMDCs), a group that includes India and China, have repeatedly questioned the legitimacy of the process proposed by Australia and cast doubt on whether a cover decision is needed at all, according to sources familiar with the discussions.",
-    "COP watchers told Climate Home News the criticism stems from the unusual route taken by the COP31 presidency. Cover decisions are nothing new at UN climate summits, but they usually emerge late in the talks, as a way to elevate priorities that have no home in the formal negotiating tracks. This time, the presidency has led the process from the outset."
-   ],
-   "lede": "A second set of world leaders give their speeches on Thursday before heading out of town and leaving their negotiators to it.",
-   "cop": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeDZJR2pWNGtiSy1XcEEwNUdNM1JVSGZzcVNoUjAzNEtpdXBYUFQxRzFHbkh6R3BWZmxfVEtoSFNVQmpGX0JBQjcyakc3bm55YWVBNjlKZjNVaEZiTW5tckFBVWE1SDlYZFRyMk9XM0tSSENVa2U0dGtpSkJyNGpjdkctaVBRUm5aNmVDdV9Ra1pCelZoY2lLaDVOOER1TXNSMTd3b1FPd08tVTM5WUE?oc=5",
-   "title": "Plague, gruel and bad teeth: why do people idealise the olden days?",
-   "source": "The Economist",
-   "desk": "opinion",
-   "published": "2026-11-12T08:00:00+00:00",
-   "seen": "2026-11-22T02:16:22+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWmZBR05FeHBlRTFuSEVsRm5RRjJ1WGJ4eDdSNDNIS3dBNF85Z2laQVlOVmRGVlN2QzZILVNHNDJCekNybHgzbjAxYW1wanNHQVNvN2dBSk1LRk9kWlMzVVBqbzRKUHhVaHpLWlpJRlZKOU9xZEFMcHYyaGFsV19QcUlrUW11VklIdGJLMF9EWkQtUzB4?oc=5",
-   "title": "Watch Ali Koç on the Business of Climate Change",
-   "source": "Bloomberg Green",
-   "desk": "reporting",
-   "published": "2026-11-12T08:00:00+00:00",
-   "seen": "2026-11-21T16:49:04+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://climatediplobrief.substack.com/p/climate-diplomacy-brief-cop31-day-ae3",
-   "title": "Climate Diplomacy Brief",
-   "source": "Climate Diplomacy Brief",
-   "desk": "politics",
-   "published": "2026-11-12T05:54:55+00:00",
-   "seen": "2026-11-19T01:46:41+00:00",
-   "byline": "Ed King",
-   "description": "Lula lays down the law, Guterres’ final challenge, cover text debate heats up, Team America land to save us all",
-   "image": "https://substackcdn.com/image/fetch/$s_!Q7zF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc35751b0-31fc-462c-9a19-67f8f081eb9d_799x533.jpeg",
-   "ftries": 1,
-   "fetched": true,
-   "paragraphs": [
-    "Line #1 of the day Türkiye President hailing how organisers have worked to minimise the carbon impact of transport… which a few wags noted is by having limited working transport. Line #2 of the day Guterres “it’s make or bake” line. After the shame of Ronaldo’s pathetic exit from international football, here’s a Portuguese bowing out with class. We’ll miss him. Leaders day #2 Focus meetings are where developing countries will be prominent: finance, adaptation, grids, glaciers and non-GHG emissions plus focus sessions on Africa and the Pacific. Big dogs speaking include UK PM Burnham plus various reps from Venezuela, Syria, Zimbabwe, Rwanda, Kiribati, Mali, Tuvalu and Palestine.",
-    "Enter: Team America Naturally the real leaders are also here today ( these shots of the congressional plane landing in Antalya + the team emerging are certainly worth a watch). They’re a shy bunch but, if you’re lucky, you may spot and hear screaming hordes chasing White House hopeful California Governor Gavin Newson . More info here .",
-    "11:00 Greta Thunberg and Frontline Communities Demand Climate Justice and Accountability. (Media Centre back wall)",
-    "12:30 Transitioning Away from Fossil Fuels After the COP31 High-Level Segment (Press Conference Room 2, Yunus Emre)."
-   ],
-   "lede": "Line #1 of the day Türkiye President hailing how organisers have worked to minimise the carbon impact of transport… which a few wags noted is by having limited working transport. Line #2 of the day Guterres “it’s make or bake” line."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYzUxRkhiQ3lldzRqaUZaa2FwZ0ZFOWZuNWVGLWpSYVBsN092R1RDM3lqTklCX1FUdWFhRTBNSkRlZFlSM011aWt5TlVtMXVDNHpETVlXZ0lma2NXa0IyQTBKREZQbkpyUHotNmNfZlZiRFdTeVdsTjdld2toOEZZSU1BeFlaeVhxRW1IT2h3ejJfc1lKZGRwdWk4ZEFQbm0wOC1TZG9LZWE?oc=5",
-   "title": "There has never been a scandal like the Jensen Huang affair",
-   "source": "The Economist",
-   "desk": "opinion",
-   "published": "2026-11-11T21:56:28+00:00",
-   "seen": "2026-11-19T01:49:59+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://www.nytimes.com/2026/11/11/climate/cop31-antonio-guterres-un.html",
-   "title": "‘Fight Harder,’ U.N. Chief António Guterres Implores, Rousing Climate Ambassadors at COP31",
-   "source": "The New York Times",
-   "desk": "reporting",
-   "published": "2026-11-11T17:27:55+00:00",
-   "seen": "2026-11-19T01:46:41+00:00",
-   "byline": "Lisa Friedman",
-   "description": "The United Nations secretary general, António Guterres, spoke at COP31, a meeting aimed at reducing emissions, amid a sharp drop in attendance by world leaders.",
-   "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11CLI-COP-LEADERS-jvcq/11CLI-COP-LEADERS-jvcq-mediumSquareAt3X.jpg",
-   "ftries": 3,
-   "lede": "The United Nations secretary general, António Guterres, spoke at COP31, a meeting aimed at reducing emissions, amid a sharp drop in attendance by world leaders.",
-   "cop": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRk9CRllYeGx5ODBSQW55RzZmaUhSVDVtOHV6eC1raDUtR0hjNE9mM1dsd2dxZUQzTFpzQVg1OEc3aFdpbkMyNlR2THkwX2JWMG9ic2NlbEt6VUMyTmtQeWJXRHdmWW1IRkNRMEYzZ1pSX0ljaS1EU3NpTnJ5dmd6OU8tUW5LR2RTRXE1eXBReHowR2I5MGdtQVlwVE5Lc3JWZEJrc1U5dG1WdTROZVZmVTBsQl8xSjY1SHltX1VWZWEyTWMtbF94Rg?oc=5",
-   "title": "Global Warming Is Speeding Up, Its Impacts Outpacing Climate Models",
-   "source": "Bloomberg Green",
-   "desk": "reporting",
-   "published": "2026-11-11T16:39:01+00:00",
-   "seen": "2026-11-21T08:18:38+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://www.nytimes.com/2026/11/11/climate/trump-cop31-climate-turkey.html",
-   "title": "The United States Is Skipping COP31 in Turkey",
-   "source": "The New York Times",
-   "desk": "reporting",
-   "published": "2026-11-11T14:45:05+00:00",
-   "seen": "2026-11-19T01:46:41+00:00",
-   "byline": "Lisa Friedman",
-   "description": "President Trump refused to send an American delegation to the United Nations climate summit in Turkey.",
-   "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11cli-cop-americans-01-lgqt/11cli-cop-americans-01-lgqt-mediumSquareAt3X.jpg",
-   "ftries": 3,
-   "lede": "President Trump refused to send an American delegation to the United Nations climate summit in Turkey.",
-   "cop": true
-  },
-  {
-   "url": "https://www.climatechangenews.com/2026/11/11/cop31-bulletin-day-3-with-the-people-stuck-outside-world-leaders-jet-in/",
-   "title": "COP31 Bulletin Day 3: With the people stuck outside, world leaders jet in",
-   "source": "Climate Home News",
-   "desk": "politics",
-   "published": "2026-11-11T10:31:13+00:00",
-   "seen": "2026-11-19T01:49:59+00:00",
-   "description": "Around 40 leaders, including Lula, Erdoğan and Albanese, addressed the summit in Antalya, where the UN chief proposed a \"climate justice compact\"",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://www.climatechangenews.com/wp-content/files/2026/11/55646351746_e3833030b2_c.jpg",
-   "paragraphs": [
-    "Confusion reigned in Antalya on Wednesday morning as some delegates heeded the Turkish organisers’ warning to get to the COP31 venue before 7am. Others saw a later UN clarification that this wasn't necessary, and many more decided not to chance it and work from their hotel rooms.",
-    "Additional restrictions seemed to have been put in place so that the 40 or so world leaders due to speak could be ferried from the airport to the venue and so that President Recep Tayyip Erdoğan could plant some symbolic olive trees without ordinary COP delegates ruining the photo op.",
-    "The list of world leaders speaking was considerably shorter than the (already short) list from just six days ago, with the leaders of Nigeria, Kenya, Egypt, the Netherlands and Sweden among those dropping out.",
-    "Confusion reigned in Antalya on Wednesday morning as some delegates heeded the Turkish organisers’ warning to get to the COP31 venue before 7am. Others saw a later UN clarification that this wasn't necessary, and many more decided not to chance it and work from their hotel rooms.",
-    "Additional restrictions seemed to have been put in place so that the 40 or so world leaders due to speak could be ferried from the airport to the venue and so that President Recep Tayyip Erdoğan could plant some symbolic olive trees without ordinary COP delegates ruining the photo op.",
-    "The list of world leaders speaking was considerably shorter than the (already short) list from just six days ago, with the leaders of Nigeria, Kenya, Egypt, the Netherlands and Sweden among those dropping out.",
-    "Still on there were the co-hosts Erdoğan and Australia’s Albanese plus Brazil’s recently re-elected President Lula and the European Commission head Ursula Von der Leyen. The leader of rainforest-rich DR Congo and the vice president of clean energy and coal superpower China were also down to speak, as well Barbados’s Mia Mottley and Saudi Arabia’s energy minister Abdulaziz bin Salman.",
-    "International civil society groups singled out several European countries, Japan and Canada for the \"Fossil of the Day\" award over their absence at the Leaders Summit, which they said is being noticed by the world.",
-    "Despite their no-show, plenty of voices from the frontlines of climate change were heard, including heads of government from desertifying Mauritania, water-stressed Iraq, the sinking Marshall Islands and drought-hit Somalia all speaking.",
-    "Wednesday was also “Zero Waste” Day, with First Lady Emine Erdoğan holding an afternoon roundtable on her pet topic. Before COP, Climate Home News visited a landfill and zero waste education centre in Ankara to find out how well - or otherwise - Türkiye is doing in its pursuit of waste reduction."
-   ],
-   "lede": "Around 40 leaders, including Lula, Erdoğan and Albanese, addressed the summit in Antalya, where the UN chief proposed a \"climate justice compact\"",
-   "cop": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQjJMeTJzZE5xQ0VZNElaTkc1RnFueUY2NXA0OF84QkZuOW8wU3ptQ3Q0NHJMQjNsMFdpWE5EUDd6V1VoeTBjMlVHdHpDaG1heTVrMHV2U2hNWmxNN0dKaGZDNXRpZTVsSFgxOUVNa3N4WnBmYVBQNFU5cU44WHRTUmVmeTZtUGJDam1DNHZ5YmlhZ3ZZdE9waHJXT2IyOVpvZ0ZLNnphcl9UU2tWUDkxOEVvZ1g?oc=5",
-   "title": "Rise of Clean Tech Makes 2026 a Climate Turning Point, Gore Says",
-   "source": "Bloomberg Green",
-   "desk": "reporting",
-   "published": "2026-11-11T08:00:00+00:00",
-   "seen": "2026-11-22T09:55:09+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMVhRM2JWS29NT2FnaXlOUS1JczY4NlJQdnFacXhpYXlkcmtic1MwdjlFOGw2STFmcDBUUlQ1bllmTlZkZlJOSk1RWjdPcmxOcmlqUGpuUndxa1FMNklaNHJZSFYtN0RYYjdRNUlIT01KN3ZqM0VRaUNKSlJqUGEyN2IxVDlJcjZRbml5aVZ0Q0NvOHhwc0lUMTdEQkhuX2JjV2lCZ3llVlNyUUpwUDAwYVVn?oc=5",
-   "title": "Lula Scolds Leaders as War, Inflation Eclipse Climate Crisis",
-   "source": "Bloomberg Green",
-   "desk": "reporting",
-   "published": "2026-11-11T08:00:00+00:00",
-   "seen": "2026-11-22T02:16:22+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSERqeHFDWGQ5LXhiU1AyMEdDQm9XWl9idnk4M25nV1BBMThBN0RwOTVBVm9taVRMYnRHdlIxUlJsMHllTmlFN0xjcEs4SnhzTHBzR3dBZlpxbWZWTFJkT3lNa3ZzM2NicjVyWFBHUGxvYXU2NkxGTlBwdVAxRk5sN3NURVBLYUtyX2tBQUxUOFlWeXhjYjVTTXVR?oc=5",
-   "title": "Watch Al Gore on the Future of Climate Action",
-   "source": "Bloomberg Green",
-   "desk": "reporting",
-   "published": "2026-11-11T08:00:00+00:00",
-   "seen": "2026-11-21T22:11:58+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOakFjanM3SWt4LTFuSE52ODVIenQtTGR5QUUxSVVUV3hoLW9tdWNsaHdDUkxaLUgybGVfUHRXU3Mxd3BfMlI1TUR1RWQzY3doT3k3YlF2amQ2b25PZWxHei1Pc1hCSXhsZ25IS2lSQi1hekNuXzlGd1FOUVQzb1djcFAweFplQ2lMVEFpQVA5ejlqYUtKeTVYRFlBTjhTUkxWc0JyaWlwQ0lSeXVQb3JPdW5ueVViR0NVVnNYZ2lVbw?oc=5",
-   "title": "Burnham’s North Sea Drilling Dilemma Risks UK Climate Leadership",
-   "source": "Bloomberg Green",
-   "desk": "reporting",
-   "published": "2026-11-11T08:00:00+00:00",
-   "seen": "2026-11-21T16:49:04+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbFFCcEF5UUthWjVmN21mT1k3OW9HOU5JUEdzcW5hYWZ3Rjhnb1NIVm00eW1heGJUcE9tV1BZOVJxZ2Q2NVRzZlpIbTFhamVBQXp6YW5NeUxmbDN0ek5QSkhNX1ZhRldaV2tuZ3VIcnJFVzYteHJ0dFZRdXFQX0VoQ0QzUGxGaXdGQlo4RFRuSWhQRlNlSEkyRlRMOGlCN2FNNzdVY2d4U21kM3RM?oc=5",
-   "title": "Crunch Climate Talks At COP31, US Soldier Arrested in UK, More",
-   "source": "Bloomberg Green",
-   "desk": "reporting",
-   "published": "2026-11-11T07:58:21+00:00",
-   "seen": "2026-11-22T09:55:09+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "cop": true
-  },
-  {
-   "url": "https://www.climatechangenews.com/2026/11/11/turkiye-pushes-zero-waste-at-cop31-but-is-it-delivering-at-home/",
-   "title": "Türkiye pushes “zero waste” at COP31, but is it delivering at home?",
-   "source": "Climate Home News",
-   "desk": "politics",
-   "published": "2026-11-11T07:00:32+00:00",
-   "seen": "2026-11-19T01:49:59+00:00",
-   "description": "Türkiye is hosting a Zero Waste Day at the UN climate summit, led by its First Lady, but its own waste generation keeps rising while plastic imports from Europe look set to boom",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://www.climatechangenews.com/wp-content/files/2026/11/55644793163_bf0d9d87da_c-1.jpg",
-   "paragraphs": [
-    "In the shadow of Ankara’s new international football stadium, a group of visiting journalists - including Climate Home News - perched on tiny chairs watched over by mannequins dressed in old mobile phones, newspapers and bottle tops.",
-    "As they sipped Turkish tea in a room meant to educate visitors - mostly schoolchildren - about recycling, they were addressed by Ekrem Yıldırım, lead on zero waste at Türkiye’s environment ministry.",
-    "After Yıldırım spoke of Türkiye's plans to pursue \"zero waste\", one journalist asked why the sugar cubes for the tea were individually wrapped in plastic and why water had been served in single-use plastic pots.",
-    "In the shadow of Ankara’s new international football stadium, a group of visiting journalists - including Climate Home News - perched on tiny chairs watched over by mannequins dressed in old mobile phones, newspapers and bottle tops.",
-    "As they sipped Turkish tea in a room meant to educate visitors - mostly schoolchildren - about recycling, they were addressed by Ekrem Yıldırım, lead on zero waste at Türkiye’s environment ministry.",
-    "After Yıldırım spoke of Türkiye's plans to pursue \"zero waste\", one journalist asked why the sugar cubes for the tea were individually wrapped in plastic and why water had been served in single-use plastic pots.",
-    "Yıldırım accepted that this kind of packaging is a problem and glass or porcelain is preferable. He added that legislation to ban single-use packaging has been introduced to parliament, but is not yet finalised.",
-    "The situation symbolised what Turkish experts and environmental campaigners flag as a contradiction between the “zero waste” image that the government - represented by First Lady Emine Erdoğan - presents to the world and the reality of rising Turkish waste generation, significant climate-wrecking methane emissions from landfills and a politically influential industry producing plastics from oil and gas.",
-    "Türkiye's Zero Waste initiative - which is a vague plan to reduce waste generation and increase recycling, rather than a specific goal to reach zero waste by any specific date - was launched in 2017.",
-    "It came at a time when the Turkish government was under fire for its coal mines, its refusal to ratify the Paris Agreement and its brutal response to protests against plans to turn Gezi Park in Istanbul into a barracks and shopping mall."
-   ],
-   "lede": "In the shadow of Ankara’s new international football stadium, a group of visiting journalists - including Climate Home News - perched on tiny chairs watched over by mannequins dressed in old mobile phones, newspapers…",
-   "cop": true
-  },
-  {
-   "url": "https://www.carbonbrief.org/analysis-climate-finance-pledges-fall-70-as-countries-meet-at-cop31",
-   "title": "Climate-finance pledges fall 70% as countries meet at COP31",
-   "source": "Carbon Brief",
-   "desk": "politics",
-   "published": "2026-11-11T07:00:00+00:00",
-   "seen": "2026-11-19T01:46:41+00:00",
-   "description": "The amount of public funding pledged to help developing countries tackle climate change has dropped by more than 70% in 2026, according to Carbon Brief analysis.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://www.carbonbrief.org/wp-content/uploads/2026/11/ENB_SB64_16Jun26_KiaraWorth-33.jpg",
-   "paragraphs": [
-    "Developed countries are required under UN climate treaties to provide “ climate finance ” and have traditionally announced multi-year pledges to feed into their global commitments.",
-    "Most of these pledges expired in 2025 and, since then, the US has withdrawn from international climate efforts and many European aid budgets have been cut.",
-    "A civil-society tracker shows that only six nations have announced new multi-year pledges, including just one major donor – the UK.",
-    "Germany, France and Japan are among the key contributors that have so far failed to set out plans for new climate finance, while none is expected from the US.",
-    "Experts tell Carbon Brief that global conflict, fiscal constraints and the rise of the far right are all making it harder for developed-country governments to pledge new funds.",
-    "As the COP31 summit in Turkey gets underway, developing countries are stressing their urgent need for new finance, after nations agreed to a new global target just two years ago.",
-    "Under the Paris Agreement , developed countries are obliged to provide climate finance to help developing countries cut their emissions and prepare for climate disasters.",
-    "This financial assistance can be channelled through multilateral development banks , UN climate funds and investments “mobilised” from the private sector.",
-    "But a large chunk is also expected to come directly from the public coffers of developed countries – primarily their foreign-aid budgets. This public spending has made up roughly a third of climate finance flowing to developing countries in recent years."
-   ],
-   "lede": "The amount of public funding pledged to help developing countries tackle climate change has dropped by more than 70% in 2026, according to Carbon Brief analysis.",
-   "cop": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUkVsQUVBTnlLTHRvNlBYdUdyR1FkZ3EwTWZlQjZoeDhUZTlYYUw2azdmbmhndnFCWC1ibWZsRDVON0pXNXBvZVEtUjNSRF82NTloM1VVdEYycmRrdjg1YmJJYW9lckVXZ0RaNl9rVDg0OWVSVVV6VF81VFBxTmVELTZLc3M?oc=5",
-   "title": "COP31 day 3",
-   "source": "Climate Diplomacy Brief",
-   "desk": "politics",
-   "published": "2026-11-11T06:00:33+00:00",
-   "seen": "2026-11-19T01:49:59+00:00",
-   "byline": "Ed King",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "cop": true
-  },
-  {
-   "url": "https://climatediplobrief.substack.com/p/climate-diplomacy-brief-cop31-day-d31",
-   "title": "Climate Diplomacy Brief",
-   "source": "Climate Diplomacy Brief",
-   "desk": "politics",
-   "published": "2026-11-11T06:00:33+00:00",
-   "seen": "2026-11-19T01:46:41+00:00",
-   "byline": "Ed King",
-   "description": "100+ world leaders expected as Türkiye/Australia turn screw on COP31 energy target",
-   "image": "https://substackcdn.com/image/fetch/$s_!rAzX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F21bf463f-4bd2-429e-88bf-75ff5b47d114_799x533.jpeg",
-   "ftries": 1,
-   "fetched": true,
-   "paragraphs": [
-    "Access “If you’re not here already, you won’t get in until this afternoon.” Security were closing gates into the COP venue just after 7am this morning, reports Carbon Brief’s Simon Evans. Few will be playing tiny violins for delegates. Bad things are happening everywhere. But telling the media & civil society to travel between 5-7am to allow 100+ world leaders a nice trip is unusual. A sign of who organisers believe matters. It limits access & coverage. The host country agreement demands better. Bosstown The 11-12 Nov leaders segment is central to the Türkiye/Australia plan to leave COP31 with an electrification deal. Speakers on Wednesday - doubtless refreshed after a quick ride along empty roads into HQ - include Brazil’s Lula, China VP Zheng Han, the EU’s VDL, Saudi’s MBS, Mia Mottely from Barbados and heads of state from Marshall Islands, Sierra Leone and Liberia. Türkiye President Erdogan - fresh from opening two new oil fields - is also in town.",
-    "** 14:30 - leaders’ speeches start** Strategy Türkiye’s priorities for COP are clear from the 11-12 Nov plan . The [insert ‘clean’ into cover text] electrification goal of 35% of final energy use to be electricity by 2035, the growth of green industry (co-chaired by Egypt, Germany and the UK) and a zero waste session chaired by Türkiye’s first lady. Odd fact: Türkiye imported 510,000 tonnes of plastic waste from the EU last year, only 10% of which was recycled.",
-    "Roadmaps: Who said what *Brazil: Planning is a good thing. So let’s start planning. *Africa Group: We’re just 4% of global emissions. We need support to transition fairly. *UK: Don’t need new negotiations or new bodies or new mechanisms. *South Africa: Cheap renewables make the transition from fossil fuels possible. *Nigeria: This is all about investment opportunities. *Germany: Need to accelerate electrifying mobility, heating and industrial processes. *Netherlands: Committing an additional €6m to a transition fund for roadmap planning COP cover Australia’s Bowen will consult Parties on a political cover decision until Friday, then publish a summary and ask for written inputs by Saturday night, with the aim of releasing a first draft early in week two. Consultations will focus on (i) what recent progress and developments could the cover decision recognise, (ii) impacts, challenges and opportunities we face in the world, (iii) how can we work together to accelerate implementation. COP boss “If there was any doubt, it is clear that Murat and only Murat holds the gavel.” This post on power dynamics at COP31 by veteran observer Joanna Depledge based on Tuesday’s handover ceremony is worth a read. “Murat’s first act as President was to invite Bowen to the podium, underlining Bowen’s key role, but also confirming Murat at the top of the authority hierarchy,” Depledge writes.",
-    "CB+: Got a question for UK foreign secretary Ed Miliband? Ask it here . Vamos: Want your daily briefing in Spanish? Regístrate aquí. COP31: Benchmarks 1. Is finance allocated by COP31 to Nepal for reconstruction/early warning ? 2. Is there a clean electrification goal ? Does it include $$$, grids & policies? 3. Are new fossil fuel phaseout plans published by governments? 4. Will hosts Türkiye & Australia commit to curbing coal use/exports ? 5. Is there a plan to triple adaptation finance (as agreed in 2025)? 6. Have countries agreed (in negotiations) on how Global Stocktake 2 will work? 7. Will the IPCC deliver its next blockbuster report by GST2/2028? Bloc parties *48 Least Developed Countries (LDCs) - “adaptation is the central priority” *39 Small Island States (AOSIS) - “no waffling about 1.5C” *54 Africa Group Nations (AGN) - deliver agreed finance, adaptation *27 EU states on finance - turn commitments into action *20 High Ambition Coalition - “respect science… transition away from fossil fuels” *4 Brazil, India, China, South Africa - finance for developing states, oppose CBAM (We will add LMDC/Umbrella Group et al when positions emerge) Pressers/events:"
-   ],
-   "lede": "Access “If you’re not here already, you won’t get in until this afternoon.” Security were closing gates into the COP venue just after 7am this morning, reports Carbon Brief’s Simon Evans.",
    "cop": true
   }
  ],

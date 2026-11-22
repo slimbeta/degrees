@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T22:11:58+00:00",
+ "updated": "2026-11-22T02:16:22+00:00",
  "briefing": {
   "headline": "COP31, fossil fuels and El Niño",
   "period": "Nov 15–21",
@@ -44,6 +44,35 @@
   ]
  },
  "articles": [
+  {
+   "url": "https://wattsupwiththat.com/2026/11/21/china-endorses-selling-more-solar-panels/",
+   "title": "China Endorses Selling More Solar Panels!",
+   "source": "Watts Up With That",
+   "desk": "opinion",
+   "published": "2026-11-22T02:02:00+00:00",
+   "seen": "2026-11-22T02:16:22+00:00",
+   "cats": [
+    "Climate Politics",
+    "COP conferences",
+    "China",
+    "COP31",
+    "Solar power",
+    "The Guardian"
+   ],
+   "note": "Skeptic blog",
+   "description": "If countries around the world have to fast track electrification, who will benefit?",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2026/11/golmud-solar-farm-china-planet-labs-1024x512-1.webp?fit=1024%2C512&quality=75&ssl=1",
+   "paragraphs": [
+    "COP31 is going into overtime tomorrow, but I thought I would mention that the Guardian are having orgasms over this bit of news:",
+    "I should point out that the 35% by 2035, which I reported on earlier this week, is a global target, not a country one and certainly not one for China itself. It is also, as I think I also mentioned, just a voluntary, and therefore meaningless, one.",
+    "But it does not seem to have occurred to the dopey Guardian crew why China has seemingly endorsed it.",
+    "If countries around the world have to fast track electrification, who will benefit? Could it be the country which makes all the solar panels, batteries, and increasingly the magnets and rare earths for wind turbines and other grid infrastructure?"
+   ],
+   "lede": "If countries around the world have to fast track electrification, who will benefit?",
+   "cop": true
+  },
   {
    "url": "https://wattsupwiththat.com/2026/11/21/climate-change-weekly-597-prediction-cop31-will-fail-to-prevent-climate-change/",
    "title": "Climate Change Weekly # 597—Prediction: COP31 Will Fail to Prevent Climate Change",
@@ -103,6 +132,29 @@
     "Uno de los factores que favorecen el posible desarrollo del sistema durante este fin de semana es la corriente cálida del golfo (Gulf Stream). Esta poderosa corriente oceánica transporta aguas tropicales cálidas hacia el norte a través del Atlántico occidental, desde las proximidades de las Bahamas. Las temperaturas de la superficie del mar justo al este de Florida se mantienen entre 80 y 84 °F (27-29 °C), mientras que las aguas mar adentro frente al sureste de Estados Unidos presentan temperaturas de aproximadamente 78 a 82 °F (26-28 °C). Estas temperaturas son más que suficientes para favorecer el desarrollo de una tormenta tropical o subtropical. Otras condiciones ambientales también podrían volverse favorables a partir del viernes, incluida una cizalladura del viento relativamente baja."
    ],
    "lede": "Una tormenta en desarrollo podría traer lluvias intensas, vientos fuertes y oleaje peligroso a lo largo de la costa este de Estados Unidos este fin de semana, mientras que los vulnerables Outer Banks de Carolina del…"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMzZMWmphYm13bWR4c21zb05NUzhXclRXOS1UMldNcEN6NTBjbExkeDlTWWs3emg3RFBpQlFfNGRrUFRwSDZaemVpd3EweVNQd2N2Mktnc3dobEFJemczR3ZRUGM4Sy05WllXMGZVa0d6N1R6YWZ1dzBpTXFyaUFSZmFzTHlabVQtMUJxYnljWmY1MGxOT1Brd2M4RUg1bVRSX0VibFFVSUlnRWRFRm53MzlZdDFrQWVhVFhXa2lnSXRxWWJFZjMwcEliN0d3d1k?oc=5",
+   "title": "Snarled Climate Talks Seek Breakthrough on Fossil Fuels, Finance",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-21T19:57:54+00:00",
+   "seen": "2026-11-22T02:16:22+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "cop": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObFFTQmV1QkhHLWRGLVpJa3lYczdRcC0yM0tUam5RbGtudGdOc0p1UUZMczN3aFJYUnU5S09UZWdQM0JGNkRmMF9GYXBobThHVEZDUXRpSXdEZTB0UWU2LTdwemN2a01tZG1CTWJaU0hQY0J2c1ZGTU11RDlzN2hDbnV2b05HZ21QWUxfSGpHd2JGQmZaa0pCS3J2VzVxaGJGbjlhR0dfRFRQWHVIODNJdkNXUQ?oc=5",
+   "title": "French Protests Draw Fewer People After Government Concessions",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-21T18:24:05+00:00",
+   "seen": "2026-11-22T02:16:22+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://wattsupwiththat.com/2026/11/21/wrong-new-york-times-weather-anecdotes-dont-add-urgency-to-cop31/",
@@ -267,6 +319,29 @@
     "The mission was inspired by an astronomical alignment of planets, which allowed spacecraft to fly by the outer planets of the Solar System."
    ],
    "lede": "There is something wonderfully reassuring about 1970s technology still returning scientific observations from interstellar space nearly half a century later, which is an awesome tribute to American engineering, the…"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRXk4RGpjbTF2WC1scjNpRVNIUl9pQnFzdTNJZDBWSnRBVUxOMG04TXlRZVRtRE11ZDNYdFVBbHczdks5OFo5TUdrZmxjQVpkVWhZaDFtcVBiWERLMGZqbE9nUGxEcmtJMHdWakNfRHUyamlKNm5SbGlUUFVjaDhmeERVT21SejFtUGs0b0pNNy1ubzNaQkRJblRQUFdBT0Zkb0ZTNjVEZUFYaW91X1lDM0M1VFlRdw?oc=5",
+   "title": "Southern California port employers, watchmen union reach tentative deal",
+   "source": "Reuters",
+   "desk": "reporting",
+   "published": "2026-11-21T11:50:10+00:00",
+   "seen": "2026-11-22T02:16:22+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNS3VtWEFIZnZSalVUZWZabUJGMHRtMGxCTFFGckNyTWVCek1hc3J4ZTFHSVpHb3RNMFF0WGkyTnp5Q0xxSThlc1BSVGEzamt6aVRvTHNkdVJ1WWRJSDM0eHdVdkFtQW5CLUtFT1Y1YkhBeWU3ZGlwSHUwOG5KV1hVV2QyVm9kTEcxdUFFOEVfX3hwZ3JwQjFrQmR3eEZSdzl5MEV5cHljdkxOaG9KMGdYYlh1V0JRSTRGekhEcmN3?oc=5",
+   "title": "New US Chip Rules Threaten Pain for Southeast Asia",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-21T11:45:01+00:00",
+   "seen": "2026-11-22T02:16:22+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQUZBWkdWeXpQSHNNLWREb0NTaW12a2ZDc3hIbjdybGEwcWxlNm96c2RUNG9ibmhfdTRkTXVGaTkzdy1pTGEwTlJFY1pKdjV1Y2U5NFBKZDllMkdzT2lkQzY0c29sdkU5NW41d3plelN5OXJsXzI0RnhyVjlWOUVjT1E4cWZkQVVqdzJQb0FpTEhGWkt2M0pCQk9jb3JYRG1HSmJ1cDZ3RWJnTTg?oc=5",
@@ -595,6 +670,17 @@
    "fetched": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQWJDTWlvbmxiTDJMX0QwZ3R2SmNiTTMtVnpzb1ZMVW9aWjJBUWdaeU9qZmVKUWFXLXE5anVxdXh0WVhWZnZlQjVFWlg3Z1RUaGVCbjRnYWZTUVdKbU1tNGczUUtlcklmUDAyejg2NXQ5TE9Fd0t3RXQ5QnBOSnpfV1k2MFptdWZ5TFJjcUhsRUdOTTlpTTVvdS1vYTNKSmJkUFBab1RXZTZqQldxQnF1M0lYSQ?oc=5",
+   "title": "China’s Offshore Tax Clampdown Pushes Budget Into Rare Surplus",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-21T03:37:00+00:00",
+   "seen": "2026-11-22T02:16:22+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://wattsupwiththat.com/2026/11/20/joe-romm-on-cop-failure-a-look-back/",
    "title": "Joe Romm on COP Failure: A Look Back",
    "source": "Watts Up With That",
@@ -688,6 +774,18 @@
     "Alabama Power also said it will comply with the commission’s request to stop billing customers for part of its advertising budget beginning in 2027. That change is expected to save the average customer about four cents per month, the company said."
    ],
    "lede": "Alabama Power attributed the decrease to revenue from data centers. But one watchdog group credited a federal tax cut instead."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ19DTDNqa18wN2l3QWdvckc3UXYwZWhlRlpFaUVpRFBtdlBWRjY2WC1mTEdSbHIwbmxTcnNTQ2tkci04ZFoyRjlxTjQtdHh1a3lETGN2TGtWYmY3Ty1ibFZOQk1zUXJNcHE4ZWVXNkRSdDFwY21WNC1BSE1GeWdQMkxpRHQ0Yjd1cFVXNmNuRmFveUIwOW9iTDA4Z3BLc3lVMnVXMkpoSEllVEswZncxZEJVZ3N2ODhYOUs1YlkwZmVnNnhDUWVUSmdNVQ?oc=5",
+   "title": "US Defense Secretary Hegseth restricts military ties with Canada, Washington Post reports",
+   "source": "Reuters",
+   "desk": "reporting",
+   "published": "2026-11-20T23:29:43+00:00",
+   "seen": "2026-11-22T02:16:22+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZHl3V0QyamRldHBCUEdmUkltRzVGbVNiZms3UmJlZmFzY0htRFFKMm9sSFRobzBQRUtEc1JGSWVHT0RzcnpBZHV5STcxb2t5d1NncnZCdkJ6UlNMTUFBNjZmTHdZUHFuMlFOakVxQUhYSWEtbzhlRTZnRXhRZkNsc3R0SUdUYWJWQjh5M1NpdXNVbHBsME5lYk5Xc2ZGSFRINmJWc2lHM2RCQllRVlJHcVBIUDE?oc=5",
@@ -964,6 +1062,18 @@
    "lede": "Available data show that the predicted disasters are not coming to pass outside of flawed computer models designed to produce catastrophic outcomes."
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSnJIY2MzcUJjNVY3MzNYaGxKYUIySGw3TzNnVjltNDBIS2JPOHV4Y1BTaDRTRTRxSWp3R0M4Z3VSeU1IWmdoTGl6SU15bHh6UkZobTZ3aWpxUmU5c2dsODBPTjI3V0NQTEhjMWZBWE1fZnNQVHdYcjdONk43LVhleEdaUEs2d0hsV3dqMURGRUcyQzZnTFduVGZuTmJMU0taYzNreTJ4c2ZqeWV6b0l2X1FCQm5SQllFa09PZFRIcGJ5aGs?oc=5",
+   "title": "Trump, Xi agreed that military AI decisions should involve humans, Bessent says",
+   "source": "Reuters",
+   "desk": "reporting",
+   "published": "2026-11-20T18:07:21+00:00",
+   "seen": "2026-11-22T02:16:22+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBSSzUyeTl1S0JqZWZPQzhpTDQ1NW8tem02Q3FwYURFTmI0UHIzaUF6MWRRblg2Y0g5NUVobFdHZ2JIcXoyeVJ1TkNUSkNKd0VSeHZsWTQzV0ZrUlMxdlB4NDlB?oc=5",
    "title": "UK will take its time setting out Brexit options, says minister",
    "source": "POLITICO.eu",
@@ -1161,6 +1271,17 @@
    "desk": "opinion",
    "published": "2026-11-20T16:01:15+00:00",
    "seen": "2026-11-21T08:18:38+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeEsxZWdzVlg3VzZ5MjRHbjR2TEcwbkoycXB5TlFFSmxWZEhEQktPVXFmX0VpYUlUbUtrYzRKV3BpYUhpdkRidFBRakgwNk1DQndrNm1oRFA4UkpRZmwtNmV2eDk1MXAwdUN0NU45YmRGWm5FSDAtQVIzbTZrZkViMHo3UVB0cVRTRk9ZeHZnMkJWSHdVVi11b2RUMHlmajE5YmR0WW9yaFlTSVNXeVk0d3BWbG8?oc=5",
+   "title": "Nations Blast Fossil Fuel Sector’s Sway on UN Climate Deal",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-20T15:39:24+00:00",
+   "seen": "2026-11-22T02:16:22+00:00",
    "via_google": true,
    "ftries": 1,
    "fetched": true
@@ -2300,6 +2421,18 @@
    "cop": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWmNhRGRTRGVGakVJc3BWdnQ1ZWRXQnZZRmR5TThNMm52a21IaWNtVXpZbEJTYmdld1ZSdnVLYTZsQlFZSnhhR3hSSmpOckExUnhnZldXS3FvZFZDeHZiSHV2eW1LUDYtRUc2UDVBQ1c3bDRPOUhsSGJoUF8yQzAxWEhIS3dXRXM1MG5lZzdvaW9HQnNQR0V6OFE5T1h3VVowc0hBRkYtaWxRUTh0NEhIbWthc0FEQlBWUWdj?oc=5",
+   "title": "At least 12 dead in organized crime attacks in Honduras, police spokesman says",
+   "source": "Reuters",
+   "desk": "reporting",
+   "published": "2026-11-19T18:06:03+00:00",
+   "seen": "2026-11-22T02:16:22+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://www.theguardian.com/environment/2026/nov/19/cop31-risks-becoming-ghost-summit-after-all-mentions-of-fossil-fuels-removed-from-draft-text",
    "title": "Cop31 told it risks being ‘ghost’ summit as all mentions of ‘fossil fuels’ removed from draft text",
    "source": "The Guardian",
@@ -2472,12 +2605,47 @@
    "fetched": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNVlJY3luVlA5LXdjbVFickdfTG5sX2tWNHRsamFNWTNoZ3hPUjREUzZXM2RwNklOaU55anVJYmVSN3M3WEljQWdTQkVpYjVJM0RRd2FLRUl6eXRoN1JZZVJOVlhwa1drMUszb1NiYnE5d2s1THZsVWhySWdoNXZCbjJFdk1RNVdmQkl6aFRVbDJPSlZrcWdyNlk0YkU2UEJyWGl0cmJhMWdKR0RBeGU5cTZkVkYxUlU?oc=5",
+   "title": "COP31 Climate Talks Drop Push to Spur Retreat From Fossil Fuels",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-19T15:53:05+00:00",
+   "seen": "2026-11-22T02:16:22+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "cop": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTl9fZzE4ckZQZzhfWDg3VDFsbzA1MVROb1FjMlRBSlUzOGhwQVk3OWVIZ3RfRHZKVWN6OF9BMFU4MksyVDdrVFFqV2ZHY0tQVXpsR2VFUlZodXJKMlVGVnNHMTdqMW11cUtoZGdMRmpKazdlWGtLNDhSOE16dlZmLUFUUV9QVnRXOGtWNFE2MmF5THM?oc=5",
    "title": "Britain shouldn’t rush to a second Brexit referendum, say pro-EU Lib Dems",
    "source": "POLITICO.eu",
    "desk": "reporting",
    "published": "2026-11-19T15:51:00+00:00",
    "seen": "2026-11-20T01:47:33+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE85ZU90SktQWWF2MGluUkxXOUp6VTVwN1VkaTV2M3BCaFMtaWN5QklfYVhqMzA1cHBHLTU2VGtCMWVaQnkzU1cxU1dqWGJfam51MmpleWlZaW55WlNKeGpVaEFfdVhBYkV2Qk5rbl8xZDE5Y0RxNnZWQU5yZGltQQ?oc=5",
+   "title": "The best video games of 2026",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-19T15:31:10+00:00",
+   "seen": "2026-11-22T02:16:22+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hOHA0QjZJUXRaSjRnUXI3WHhWTnZWM19UVkNhSEMxZnU3YXVMVmR6WEdRbThPNGRMWGZ4TjVfYVlpbVEtZnRzVmxveXIxeTBuTmVLMm9JTUo4UQ?oc=5",
+   "title": "Newshour | Myanmar guilty of Rohingya genocide",
+   "source": "BBC",
+   "desk": "reporting",
+   "published": "2026-11-19T15:30:12+00:00",
+   "seen": "2026-11-22T02:16:22+00:00",
    "cop": true,
    "via_google": true,
    "ftries": 1,
@@ -2567,6 +2735,39 @@
    "desk": "opinion",
    "published": "2026-11-19T14:03:33+00:00",
    "seen": "2026-11-20T10:04:06+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWXBmV0cxMFFzX2dSRjhwMGM1S2VLd3g5M014dzUxN2RlRGd2LVZ1MS1hTy1ZaXE4TEJ3bUFSNl9zTFBjSDlNX3dwbkpGRnJFTXNfSndoWWZaZ2dsT19scFRtejlkT1czVUc2djdDX0YzQmNTd0hrenVwVWh6NGFUazJUYVlfNjJKT1NSd0l3b0w2ZGRsbUVSbTlYWlBmMmpCUGp4c1JKU3hPU2xDdDlJ?oc=5",
+   "title": "Latin America would like to be the next data-centre frontier",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-19T14:01:02+00:00",
+   "seen": "2026-11-22T02:16:22+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQN2FHZk1sWlVGR3V5dU1KQW5fRkY0MFJMdGhvTjUtSUd4TU9FV1BzLTBKRzdaQjBiQXZzUDdOaG14cVpIQ2I3RC1IOEJmUHp5RC1ubi1oSW5sSEdTQVVMbFVhWlNXRDNjWTRNS2huNjJiMVhpdHh6YkIteVRQMS1iM2FZQ1VfOFlXb3JvMGg1ZTczVjI5YWc?oc=5",
+   "title": "How Ukraine brought out the EU’s stubborn streak",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-19T14:01:02+00:00",
+   "seen": "2026-11-22T02:16:22+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeDJ3WllQREF3R3VjZkl1a01jY1F5THhKa000bGw2MTY0ekJKVGZSNEx3b0NYYUJpWVotd3BNa0pPUEtoT3pCVFc3a3B0OGxMQVhMYWtUTGtSU3puZDdDanZsczNpbGpCZElGRm1DT0tMUTVBTTI5VGtGU3BzcDFLcEhRNTlZVWk2YXNBekhKelZYdjd5?oc=5",
+   "title": "What is causing America’s recent outages",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-19T14:01:02+00:00",
+   "seen": "2026-11-22T02:16:22+00:00",
    "via_google": true,
    "ftries": 1,
    "fetched": true
@@ -3111,6 +3312,17 @@
     "Concerning floods, contrary to Rowlatt’s claims that the U.K. was beset by extreme floods, data from the U.K. Environment Agency show just the opposite, in 2025 the numbers of properties affected by flooding was extremely low, reflective of a recent long-term trend of limited flooding, with a few exceptions. (See the figure below)"
    ],
    "lede": "In the end, every specific claim of worsening weather made in the Panorama story is refuted by long-term data recorded by the U.K.’s Environment Agency. Data trumps anecdotes and unreferenced claims every time."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQkxzUWdBcFpHVy01Y3hvOURnd0drNUZuWW9rWC1QQk5GQVV0blFhU0ZnZVFpY2JWaVZrUlVhZ0pOV2hkVmNtUUZ0ODIyVGtxUWx6RU9LNWhJcDJNTjhCYVlvODk2eWYwRHRnbnE0NFAwOGdaQ1BsTFdSWUVFSFBzaHJaVWxDc3NSRF9ZRFVqTk1TdzZTWmNCUDhqLUJsN19YUTl1YUNPMEY0MTNnenN2aHNUeklwdw?oc=5",
+   "title": "Europe tightens sanctions on Russia. America loosens them",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-19T10:03:23+00:00",
+   "seen": "2026-11-22T02:16:22+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbVUtbkVFNUxQZ0pMcVIwVjAwYXhKTW9GOXBfcVdHdVFxSEItd3BGUWdpSm5XbEtUVWdycFdMOEJoZEh1MXpJS3hPUkhXdkN1dm5vZU5ObFdpTTZCRnRENjNFa0JuXzkzNzIwanN3cG50RkwwSXllNVFJM0tkZGJwSkZLRWY5NmpBeHFBbEcxN1BGbDFXN1FuMTYxNE54ZmxL?oc=5",
@@ -4611,6 +4823,17 @@
    "fetched": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaWRyM0NjLWZJMnhvXzktTmd0NlotWTNqWmNyRV9sRzVUZnM0eTNKSy1UT2Yyblh0S1hQTVpzbU1wdHhsd1ZtSUtBSXl6WFdjZDFEZDFFUE9RSEVYbVVzbUhoRTNBYWprUmdBZ0N2bXI0M0tTQy1ZQ2ZVY1FqV2U2RjVqYWFJUmszajZlaWJZd0t6cnc3djhsakM2SVk4cXZYOWlDNmlkcDVqTVlDLUowRE9n?oc=5",
+   "title": "The rise of AI and the decline of Trumpism will define 2027",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-18T09:01:32+00:00",
+   "seen": "2026-11-22T02:16:22+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://insideclimatenews.org/news/18112026/how-we-mapped-pennsylvania-abandoned-wells/",
    "title": "How and Why We Mapped Pennsylvania’s Forgotten Oil and Gas Wells",
    "source": "Inside Climate News",
@@ -4697,6 +4920,18 @@
    "desk": "reporting",
    "published": "2026-11-18T04:55:00+00:00",
    "seen": "2026-11-20T18:38:27+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWU1GYUNEX0tIOUhHR2IxTnZMMS1SSVhJeTZCdzJ1aGVYQnVsSmtyQm55c0c5VnhKb0JnQmItYk54ZWhsQndMWG5nTUdHVGRELXd4SXNOWFN0d29xNjFGSC1PMGtxQV8xaTBKWl9nMExZZldjOGxSRmNCUnNFdXpGOUg5SkJmZW9sX3hELVByU0pmby0wYVdTQzZjWXRibDdQTTNzb0U4NUVOS0QwOTJJOThlNA?oc=5",
+   "title": "Magnitude 6 earthquake strikes Papua New Guinea, GFZ says",
+   "source": "Reuters",
+   "desk": "reporting",
+   "published": "2026-11-18T03:57:00+00:00",
+   "seen": "2026-11-22T02:16:22+00:00",
    "cop": true,
    "via_google": true,
    "ftries": 1,
@@ -4792,6 +5027,18 @@
    "desk": "reporting",
    "published": "2026-11-17T23:34:56+00:00",
    "seen": "2026-11-19T01:57:51+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQLV92aWpxbTdMSTlQdlJyQmtpMU9vc0pSY1JWakY3ckV5RElWN2FrR3kySkpGakNldGY2VUNwVEZYX1FqLUFFeDdYRUZrRmZjaE5wXzZLSFN2Vi13UEt4czZCalVxcWRoYjV5SDBJOHVlTUE1dE9xeDZrWC1malhxNFhBVjJONTVpWkw2M0ptcGN5MEhIVG9udDBXZms0Y3RjYTBfanhvRzQtdFBIYXAw?oc=5",
+   "title": "China's Jetour reaches deal to produce vehicles in Brazil, sources say",
+   "source": "Reuters",
+   "desk": "reporting",
+   "published": "2026-11-17T23:27:59+00:00",
+   "seen": "2026-11-22T02:16:22+00:00",
    "cop": true,
    "via_google": true,
    "ftries": 1,
@@ -5278,6 +5525,18 @@
    ],
    "lede": "Ministers are in the building and embarking on the tricky task of refining the mammoth draft cover text down to something that can be agreed upon by the end of the week.",
    "cop": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTXZfUjRFY2sybHV6NUN4TFc0WUs5NUh4Mk0tMjhmd1pXSWNtVzVJMDZCdGg2ODRodzhJSUFrQU5oOWNHVGpFakRPV2dCSkFMMkNBTTgySmhYSkN1UTJ6aWtOWFU0TzlnYVNwZWVhUjRXODlfOVhPUmRad19WMm9Dd2VkaFBTMVdFdDNqZEpuLW1NaEo0T1JwS0tvUXFWbFhQRVltekJ3WVNFb3ZVUWF0aWJrTQ?oc=5",
+   "title": "Mongolian president announces resignation over alleged corruption",
+   "source": "Reuters",
+   "desk": "reporting",
+   "published": "2026-11-17T08:26:09+00:00",
+   "seen": "2026-11-22T02:16:22+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://www.theguardian.com/environment/2026/nov/17/farming-apple-growers-climate-breakdown-thatchers-cider-wildflowers-soil-water-insects-aoe",
@@ -6861,6 +7120,17 @@
    "cop": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRkp6Q183UGRQQTZKX3BQUEJwY0stODBUbXlYNmx3b1JIVDJxVWxSc2JoYnpjaXd6VXZEVU5qN1JDNGtQWG1iVlBzZmFUdVViS0ZRaVFzbHZmRFhxY0NISFVoOE1ueWNGWE0td0FSQUdDWF8tV1RRWkxnV2FwVXVxUEFBNVNqejdtcmdxZTZGdmlMd3Nxc0F4X2dEU3hSOEZwcFFweVI2YUhJcThwdVE4X2tn?oc=5",
+   "title": "Norway Loses Supreme Court Ruling in Oil Field Licensing Case",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-13T08:00:00+00:00",
+   "seen": "2026-11-22T02:16:22+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYXZhVERBTXViVWV2MjJOVmpRY0NPX3JaYjI4N3huNHJJZC1OZWJRaDlXc0RCS09hcUtTX2VHTXVxbmZzcmEyNDVFRWJFbTN2ZnVfOXNwRHFqYmdzdGVwQUVzUWFhanF5dGw2M210dV90bFFvTXZvTVFzMW96TWxfYkFqamNUZHZXdU9JT19IeG5vck5ONjA1Q0RaazRGZHBfUzBMakRhNzBhR09GcFByQw?oc=5",
    "title": "Data Center Investors Underestimate Climate Risk, Report Says",
    "source": "Bloomberg Green",
@@ -7158,6 +7428,17 @@
    "cop": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeDZJR2pWNGtiSy1XcEEwNUdNM1JVSGZzcVNoUjAzNEtpdXBYUFQxRzFHbkh6R3BWZmxfVEtoSFNVQmpGX0JBQjcyakc3bm55YWVBNjlKZjNVaEZiTW5tckFBVWE1SDlYZFRyMk9XM0tSSENVa2U0dGtpSkJyNGpjdkctaVBRUm5aNmVDdV9Ra1pCelZoY2lLaDVOOER1TXNSMTd3b1FPd08tVTM5WUE?oc=5",
+   "title": "Plague, gruel and bad teeth: why do people idealise the olden days?",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-12T08:00:00+00:00",
+   "seen": "2026-11-22T02:16:22+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWmZBR05FeHBlRTFuSEVsRm5RRjJ1WGJ4eDdSNDNIS3dBNF85Z2laQVlOVmRGVlN2QzZILVNHNDJCekNybHgzbjAxYW1wanNHQVNvN2dBSk1LRk9kWlMzVVBqbzRKUHhVaHpLWlpJRlZKOU9xZEFMcHYyaGFsV19QcUlrUW11VklIdGJLMF9EWkQtUzB4?oc=5",
    "title": "Watch Ali Koç on the Business of Climate Change",
    "source": "Bloomberg Green",
@@ -7263,6 +7544,17 @@
    ],
    "lede": "Around 40 leaders, including Lula, Erdoğan and Albanese, addressed the summit in Antalya, where the UN chief proposed a \"climate justice compact\"",
    "cop": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMVhRM2JWS29NT2FnaXlOUS1JczY4NlJQdnFacXhpYXlkcmtic1MwdjlFOGw2STFmcDBUUlQ1bllmTlZkZlJOSk1RWjdPcmxOcmlqUGpuUndxa1FMNklaNHJZSFYtN0RYYjdRNUlIT01KN3ZqM0VRaUNKSlJqUGEyN2IxVDlJcjZRbml5aVZ0Q0NvOHhwc0lUMTdEQkhuX2JjV2lCZ3llVlNyUUpwUDAwYVVn?oc=5",
+   "title": "Lula Scolds Leaders as War, Inflation Eclipse Climate Crisis",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-11T08:00:00+00:00",
+   "seen": "2026-11-22T02:16:22+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSERqeHFDWGQ5LXhiU1AyMEdDQm9XWl9idnk4M25nV1BBMThBN0RwOTVBVm9taVRMYnRHdlIxUlJsMHllTmlFN0xjcEs4SnhzTHBzR3dBZlpxbWZWTFJkT3lNa3ZzM2NicjVyWFBHUGxvYXU2NkxGTlBwdVAxRk5sN3NURVBLYUtyX2tBQUxUOFlWeXhjYjVTTXVR?oc=5",
@@ -7481,6 +7773,17 @@
    ],
    "lede": "When we co-hosted the first-ever conference on transitioning away from fossil fuels (TAFF) this April, the world was reeling from the volatility in oil and gas prices due to the Hormuz blockade.",
    "cop": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNV8yS2g4U3FFOW0xQmFac2xHenFmWlBLazlUZVJPcGxsaTlhdnQtR3IwSGRoSUljRC1wRmpwQzZ2T3dESnMxV1dUc21KM1c2QWR5RUtnb0JFbUV4dG0zWC1nZVJZR3JYYWtlLXBIVWVZcGRxTkhYdVJGR00tMnlEZ212QkVoQUtlc2ZMdGx5aE9mT2prWk0xTWpkSVpERnpYZjY0dERFcUp0d3Bm?oc=5",
+   "title": "Our analysis of the leaked Russian death toll in Ukraine",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-10T08:00:00+00:00",
+   "seen": "2026-11-22T02:16:22+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRS10b2hUNXhtQ3BuektfU1IwTXdwZG43S0xUQnYtOUJNclJsM2szNi1QQ285M0NQdmFEVzB6WWxBbVNkNkJKcGt0TjE5YUlOWlFzeUxrQ2NoS19EY3ZqWmkzTHVjbkowanRLX2d0QzIyOHhSVW54OGtFdmROZUNuUVRmcnZBa2RYakpnZFp5VkhlcC0tX0lBUV9tV2FpaVdtRVRaU0lKVTNXNHZfclVpR252dU4?oc=5",
@@ -7782,447 +8085,6 @@
    ],
    "lede": "In the wake of its recent glacial flooding disaster, Nepal and the kingdom of Bhutan have proposed a new agenda item on mountains and climate change for the COP31 summit which opens on Monday in the Turkish city of Antalya.",
    "cop": true
-  },
-  {
-   "url": "https://www.climatechangenews.com/2026/11/06/european-nations-uk-fossil-fuel-roadmaps-brazil-cop30-president/",
-   "title": "European nations signal support for fossil fuel roadmap, says COP30 president",
-   "source": "Climate Home News",
-   "desk": "politics",
-   "published": "2026-11-06T12:44:50+00:00",
-   "seen": "2026-11-19T01:57:51+00:00",
-   "cats": [
-    "Energy",
-    "News",
-    "Politics",
-    "Cop30",
-    "fossil fuel",
-    "TAFF",
-    "UNFCCC"
-   ],
-   "description": "André Corrêa do Lago told Climate Home News that it's up to other nations to decide how the fossil fuel and deforestation roadmaps are used",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://www.climatechangenews.com/wp-content/files/2026/11/54925939991_1ec90ea5b7_5k-scaled.jpg",
-   "paragraphs": [
-    "Some governments have backed using Brazil's voluntary roadmaps on fossil fuels and deforestation to inform the next UN assessment of global climate action, a key process that concludes in 2028, the COP30 presidency told Climate Home News.",
-    "Brazil published the roadmaps on transitioning away from fossil fuels and on halting deforestation by 2030 this week, after failing to secure an agreement in Belém to make them part of formal negotiations. The documents set out a menu of policies countries could use to start acting on both issues straight away.",
-    "At their launch, Brazilian top climate officials argued the roadmaps could feed into the second stocktake negotiations. Through that process, due to start at this year's COP, countries are meant to take stock of collective progress on climate action and decide on a plan to ramp up ambition in future policies.",
-    "Some governments have backed using Brazil's voluntary roadmaps on fossil fuels and deforestation to inform the next UN assessment of global climate action, a key process that concludes in 2028, the COP30 presidency told Climate Home News.",
-    "Brazil published the roadmaps on transitioning away from fossil fuels and on halting deforestation by 2030 this week, after failing to secure an agreement in Belém to make them part of formal negotiations. The documents set out a menu of policies countries could use to start acting on both issues straight away.",
-    "At their launch, Brazilian top climate officials argued the roadmaps could feed into the second stocktake negotiations. Through that process, due to start at this year's COP, countries are meant to take stock of collective progress on climate action and decide on a plan to ramp up ambition in future policies.",
-    "In an interview with Climate Home News in London, COP30 president André Corrêa do Lago said that \"some European governments\" had signalled their support for the Brazil-led roadmaps to inform the global stocktake negotiations.",
-    "\"I hope that there will be many other countries that may support this,\" he said. \"It's not that you have to take the entire package, because who are we to come up with the solution? But some elements of the roadmaps may be useful.\""
-   ],
-   "lede": "Some governments have backed using Brazil's voluntary roadmaps on fossil fuels and deforestation to inform the next UN assessment of global climate action, a key process that concludes in 2028, the COP30 presidency told…",
-   "cop": true
-  },
-  {
-   "url": "https://www.carbonbrief.org/simply-staggering-rapidly-developing-super-el-nino-on-track-to-peak-in-december",
-   "title": "‘Simply staggering’: Rapidly developing ‘super El Niño’ on track to peak in December",
-   "source": "Carbon Brief",
-   "desk": "politics",
-   "published": "2026-11-06T09:12:35+00:00",
-   "seen": "2026-11-19T01:46:41+00:00",
-   "description": "The ongoing “super El Niño” is likely to peak at the end of 2026 and push average global temperatures to record levels next year.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://www.carbonbrief.org/wp-content/uploads/2026/11/2GJRNAW.jpg",
-   "paragraphs": [
-    "That is according to Carbon Brief’s latest “ state of the climate ” update, which analyses El Niño forecasts from more than a dozen climate models, as well as six global temperature datasets. Dr Zeke Hausfather , Carbon Brief’s climate science contributor, described this year’s El Niño as “simply staggering” when answering questions from CB+ members during a CB Connect “ ask me anything ” session.",
-    "El Niño is a naturally occurring climate pattern in the tropical Pacific that releases heat from the ocean into the atmosphere and temporarily boosts global temperatures.",
-    "This year’s El Niño event – which has been underway since June – has already broken a number of records and reshaped the world’s weather, fuelling fires in Indonesia and “super typhoons” in the west Pacific.",
-    "The strength of an El Niño is tracked using the “Niño3.4 anomaly”, which is a measure of how much warmer sea surface temperatures are than average in a section of the central Pacific.",
-    "Analysis of more than 600 forecasts from 14 different climate models by Hausfather for Carbon Brief’s “state of the climate” update shows how models project this year’s El Niño will peak with an anomaly of around 4C. This would be more than a degree above the previous record in 2015-16.",
-    "“This El Niño event is developing so quickly and is reaching sea surface temperatures so warm that it’s simply staggering. We haven’t seen anything like this in the historical record and it may end up being the strongest El Niño event in the past millennium.”",
-    "On 18 September, the daily anomaly in the Niño3.4 region broke the satellite-era record set in 2015 when it reached 3.11C.",
-    "Meanwhile, September as a whole recorded the highest monthly Niño3.4 region temperature anomaly – 2.84C – since sea surface temperature records began in the mid-1800s.",
-    "Hausfather wrote on CB Connect that this year’s El Niño had been “running well above any prior El Niño event since June, at times by a full degree [Celsius]”."
-   ],
-   "lede": "The ongoing “super El Niño” is likely to peak at the end of 2026 and push average global temperatures to record levels next year."
-  },
-  {
-   "url": "https://www.carbonbrief.org/analysis-chinas-quarterly-co2-falls-3-in-largest-drop-since-covid",
-   "title": "China’s quarterly CO2 falls 3% in largest drop since Covid",
-   "source": "Carbon Brief",
-   "desk": "politics",
-   "published": "2026-11-06T00:01:00+00:00",
-   "seen": "2026-11-19T01:46:41+00:00",
-   "description": "China’s carbon dioxide (CO2) emissions fell by 3.1% in the third quarter of 2026, as the Hormuz crisis continued to hit oil demand and coal use also dropped.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://www.carbonbrief.org/wp-content/uploads/2026/11/3FYMWXB.jpg",
-   "paragraphs": [
-    "This was the largest quarterly reduction since the 2022 Covid lockdowns and means that China’s CO2 emissions have now fallen by an estimated 0.5% in the year to date.",
-    "The new analysis for Carbon Brief, based on official figures and commercial data, shows that coal use fell by 3% year-on-year in the third quarter of 2026, while oil was down 4%.",
-    "The main drivers were a fall in power-sector coal consumption, a continued sharp reduction in transport oil consumption and slowing growth in the coal-to-chemical industry.",
-    "The sharp decline in China’s CO2 emissions extends a “ flat or falling ” trend that began in March 2024 and has now lasted more than two years, as shown in the figure below.",
-    "The outlook for China’s CO2 emissions depends on the balance between rising energy demand, clean-energy growth and the government response to a GDP slowdown .",
-    "Key drivers of the fall in CO2 in the third quarter of 2026 included a 3.3% drop in coal-power generation, after demand growth slowed and the amount of “ wasted ” wind and solar fell.",
-    "Power generation from solar, wind and nuclear increased by 110 terawatt hours (TWh) year-on-year, more than twice as much as the growth in total electricity demand. This added clean-power generation equal to Germany’s total power output in the same time period.",
-    "The fall in coal-power output and CO2 emissions came despite the fact that China continues to build new coal-power capacity at near-record rates . This means that average running hours for coal plants are falling even faster than total generation, eroding their profits.",
-    "Meanwhile, transport oil consumption continued to fall sharply, down 9% year-on-year in the third quarter of 2026. Electric vehicles (EVs) continued to gain market share, hitting a record 67% of passenger car sales and 50% of heavy trucks in September."
-   ],
-   "lede": "China’s carbon dioxide (CO2) emissions fell by 3.1% in the third quarter of 2026, as the Hormuz crisis continued to hit oil demand and coal use also dropped."
-  },
-  {
-   "url": "https://www.climatechangenews.com/2026/11/05/turkey-must-make-cop31-a-turning-point-for-global-climate-action/",
-   "title": "Turkey must make COP31 a turning point for global climate action",
-   "source": "Climate Home News",
-   "desk": "politics",
-   "published": "2026-11-05T17:25:01+00:00",
-   "seen": "2026-11-19T01:57:51+00:00",
-   "cats": [
-    "Comment",
-    "Politics",
-    "cop31",
-    "Turkiye"
-   ],
-   "description": "Turkey, which bridges developed and developing economies, is well placed to build consensus and partnerships at the Antalya summit - but it can set a better example at home too",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://www.climatechangenews.com/wp-content/files/2026/11/Turkey-wind-power.jpg",
-   "paragraphs": [
-    "Özgür Özel is the leader of Turkey's main opposition “New Party” and a member of parliament from Manisa.",
-    "The world is running out of time to deliver on the Paris Agreement. The UN Environment Programme’s latest Emissions Gap Report concludes that the chance of keeping warming below 1.5C without overshooting it is gone. Even if every country delivers its current national pledges, the planet is heading for about 2.6C of warming this century.",
-    "This is the backdrop as governments and their leaders gather in Antalya for COP31, ten years after the Paris Agreement took effect. Turkey lies in the Mediterranean, one of the regions most exposed to climate change, and hosting the summit is a real opportunity.",
-    "Özgür Özel is the leader of Turkey's main opposition “New Party” and a member of parliament from Manisa.",
-    "The world is running out of time to deliver on the Paris Agreement. The UN Environment Programme’s latest Emissions Gap Report concludes that the chance of keeping warming below 1.5C without overshooting it is gone. Even if every country delivers its current national pledges, the planet is heading for about 2.6C of warming this century.",
-    "This is the backdrop as governments and their leaders gather in Antalya for COP31, ten years after the Paris Agreement took effect. Turkey lies in the Mediterranean, one of the regions most exposed to climate change, and hosting the summit is a real opportunity.",
-    "It is also a responsibility, and that responsibility begins at home. The world does not lack targets. What it has lacked - almost everywhere - is delivery. If Antalya is remembered for anything, it should be for shifting the focus from what countries promise to what they actually do.",
-    "For many people in Turkey, the climate crisis is already part of daily life. In 2021, forests in Manavgat, a district of Antalya, burned for more than a week. Last year, wildfires forced more than 50,000 people from their homes around the western coast city of Izmir. This October, Istanbul had its heaviest rainfall in more than 80 years, with the floods killing at least eight people."
-   ],
-   "lede": "Özgür Özel is the leader of Turkey's main opposition “New Party” and a member of parliament from Manisa.",
-   "cop": true
-  },
-  {
-   "url": "https://www.carbonbrief.org/interactive-tracking-negotiating-texts-at-the-cop31-climate-summit",
-   "title": "Interactive: Tracking negotiating texts at the COP31 climate summit",
-   "source": "Carbon Brief",
-   "desk": "politics",
-   "published": "2026-11-05T14:13:38+00:00",
-   "seen": "2026-11-19T01:47:57+00:00",
-   "description": "The centrepiece of every UN climate summit is for countries to negotiate the wording of a large number of legal agreements – and COP31 in the Turkish city of Antalya is no different.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://www.carbonbrief.org/wp-content/uploads/2026/11/ENB_SB64_18Jun26_KiaraWorth-92.jpg",
-   "paragraphs": [
-    "These texts are hashed out behind closed doors in the “ blue zone ” at the COP, where diplomats from nearly 200 nations – not including the US – will be haggling over each individual verb .",
-    "Over the course of the two-week summit, negotiators will be trying to reach consensus on more than 100 separate agreements – but, first, they must agree which issues are on the agenda.",
-    "The complexity of this process can make it challenging to keep track of what countries are fighting about and how negotiations are progressing.",
-    "Carbon Brief’s real-time text tracker, below, offers a helping hand by decoding the agenda and keeping a searchable record of every document for each part of the negotiations.",
-    "The first column of the interactive tracker lists the topic of each agenda item, with further columns including dates, page counts and links to the original PDFs.",
-    "The table is searchable via the interactive text box and can be sorted using the arrow icons.",
-    "This year’s talks come with a twist: Turkey holds the presidency and is hosting COP31, but Australia is jointly running the show as “ president of negotiations ”.",
-    "The pair have already announced their intention to produce a “cover text” – an overarching political document summarising key negotiated outcomes, along with issues not on the official agenda.",
-    "This could include a recognition that warming is set to “ overshoot ” the 1.5C limit and the impacts this is already causing . It may also include potential solutions, such as the Turkish presidency’s “ electrification ” target, for 35% of global final energy to come from electricity by 2035."
-   ],
-   "lede": "The centrepiece of every UN climate summit is for countries to negotiate the wording of a large number of legal agreements – and COP31 in the Turkish city of Antalya is no different.",
-   "cop": true
-  },
-  {
-   "url": "https://www.climatechangenews.com/2026/11/05/cop31-briefing-what-to-expect-from-the-antalya-climate-summit/",
-   "title": "COP31 Briefing: What to expect from the Antalya climate summit?",
-   "source": "Climate Home News",
-   "desk": "politics",
-   "published": "2026-11-05T14:09:45+00:00",
-   "seen": "2026-11-19T01:57:51+00:00",
-   "cats": [
-    "Finance",
-    "News",
-    "Oceans",
-    "Politics",
-    "cop31",
-    "UNFCCC"
-   ],
-   "description": "Electrification, the fossil fuel transition, adaptation to rising impacts, climate science and trade are key themes as governments gather for COP31 in Türkiye",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://www.climatechangenews.com/wp-content/files/2026/11/55632294802_42ccee88fb_c-1.jpg",
-   "paragraphs": [
-    "Here's an overview of issues to watch as governments, businesses and civil society head to the Turkish seaside resort of Antalya for two weeks of negotiations, leaders’ speeches, panel discussions and initiative launches.",
-    "This is the first COP to be staring an almost certain overshoot of the 1.5C warming limit in the face, even as countries squabble over when the next UN science reports should be delivered.",
-    "The geopolitical mood ahead of the annual talks, from November 9-20, has been sweetened somewhat by Lula’s surprise re-election in Brazil and American voters delivering a thumbs down to climate change-sceptic Donald Trump in the US midterms this week.",
-    "Here's an overview of issues to watch as governments, businesses and civil society head to the Turkish seaside resort of Antalya for two weeks of negotiations, leaders’ speeches, panel discussions and initiative launches.",
-    "This is the first COP to be staring an almost certain overshoot of the 1.5C warming limit in the face, even as countries squabble over when the next UN science reports should be delivered.",
-    "The geopolitical mood ahead of the annual talks, from November 9-20, has been sweetened somewhat by Lula’s surprise re-election in Brazil and American voters delivering a thumbs down to climate change-sceptic Donald Trump in the US midterms this week.",
-    "Still, neither of those things will make the talks much easier in practice, as fossil fuel-producing emerging economies are unlikely to want to make compromises on issues such as the energy transition and donor nations aren’t expected to turn up with much additional money for helping developing countries deal with worsening climate impacts.",
-    "With government budgets squeezed by ongoing conflicts and oil prices riding high after the Strait of Hormuz crisis, there will be a focus on the national benefits of boosting renewables, from a security and cost perspective. This advances the cause of the voluntary electrification goal proposed by Türkiye - which could be one of the biggest headlines from this COP.",
-    "In terms of the mechanics of how COP31 will work, all eyes are on the relationship between the co-hosts Türkiye and Australia. This unusual splitting of the presidency roles wasn’t born out of love, despite the friendly demeanour the country’s two environment ministers displayed at the pre-COP in Fiji.",
-    "The deal, for Türkiye to host the COP on its soil and run the non-negotiated Action Agenda side of things while Australia manages the formal negotiations, was reached last year after Ankara steadfastly refused to back down in the face of greater support for its rival. It’s all smiles for now, with Australia backing the Turkish-championed electrification goal and early signalling in Fiji that both COP31 teams will work on producing a COP cover decision, summarising key outcomes and setting the political direction for the year ahead."
-   ],
-   "lede": "Here's an overview of issues to watch as governments, businesses and civil society head to the Turkish seaside resort of Antalya for two weeks of negotiations, leaders’ speeches, panel discussions and initiative launches.",
-   "cop": true
-  },
-  {
-   "url": "https://climatediplobrief.substack.com/p/climate-diplomacy-briefing-cop31",
-   "title": "Climate Diplomacy Brief: COP31 preview",
-   "source": "Climate Diplomacy Brief",
-   "desk": "politics",
-   "published": "2026-11-05T11:52:51+00:00",
-   "seen": "2026-11-19T10:24:07+00:00",
-   "byline": "Ed King",
-   "description": "Will US midterms & Lula’s win in Brazil deliver a COP31 bounce?",
-   "image": "https://substackcdn.com/image/fetch/$s_!TPRV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0a94834f-aada-4415-9653-fd8fa6a1730a_800x475.jpeg",
-   "ftries": 1,
-   "fetched": true,
-   "paragraphs": [
-    "One vision “Wake up, wake up, put your hand on your heart before time is up.” Two minutes into one of the latest musical posts by the COP31 team it occurred to me that perhaps they think they’re hosting Eurovision, not a two-week climate summit involving 190+ countries and 50+ world leaders. Maybe that’s for the best. Another COP31 top tune’s lyrics include “ bring down the heat… let’s COP… take it to the top ”. Who says AI is bad for songwriting?",
-    "Context The UN’s annual review of national climate plans (aka NDCs) dropped on 27 Oct. 154 countries have lodged 2035 targets with the UN. Submitted plans cover 71% of global emissions (excluding land use). The good: the quality of plans is much better, legislation is tighter, tracking is clearer. The bad: “progress in lowering projected emissions [from the 1.5C targets] remains substantially off track” warns the UN.",
-    "Expectations Ignore for a moment the deluge of LinkedIn short-form videos building Antalya up as a huge moment. Two weeks in an exhibition hall won’t change global politics. “No single COP can fix this global crisis, but each takes meaningful steps forward”, UN climate chief Stiell said on 21 Sept. Despite the shadow of record heat, lethal glacier collapse and extreme weather, progress in Antalya will be incremental. This is the UN, not Usain Bolt.",
-    "Bookmark *Carbon Brief: Who wants what at COP31? *NRDC: International climate finance tracker *CAT: GHG analysis of all major emitters * ENB: Priceless daily update from inside the talks",
-    "1.5C “Countries cannot waffle on or walk away from 1.5”, reads a punchy pre-COP note from the 39-strong Alliance of Small Island States (AOSIS). With the UNEP ‘ Limiting overshoot ’ report warning the 1.5C threshold is set to be breached, small islands are worried. And angry. Ditching 1.5C would be ‘egregious’ they say. They will hold ‘historical emitters and developed countries’ to account. ‘COP31 must be a reckoning’, they warn. Buckle up.",
-    "Presidency goals Ankara’s priorities are evident in its agenda for the 11-12 Nov Leaders Summit: electrification, green industrialisation, finance, zero waste and methane. And we know both Australia and Türkiye plan an overarching cover decision at the end to “recognise… bring profile… reaffirm” key issues. The emphasis is more on sending signals than on brokering major political shifts, which makes sense given the unstable state of the world.",
-    "Benchmarks So what could we reasonably expect, given fast rising greenhouse gas emissions need to be cut 18% by 2030, according to the latest UNEP Emissions Gap report? Below are 7 tests for COP31 that we’ll use to assess progress (and yes, I’m sure 4 won’t happen, but if you insist on hosting a climate summit there are some basic asks you should expect).",
-    "1. Is finance allocated by COP31 to Nepal for reconstruction/early warning? 2. Is there a clean electrification goal? Does it include $$$, grids & policies? 3. Are new fossil fuel phaseout plans published by governments? 4. Do hosts Türkiye & Australia commit to curbing coal use/exports? 5. Is there a plan to triple adaptation finance (as agreed in 2025)? 6. Have countries agreed (in negotiations) on how Global Stocktake 2 will work? 7. Will the IPCC deliver its next blockbuster report by GST2/2028?"
-   ],
-   "lede": "Will US midterms & Lula’s win in Brazil deliver a COP31 bounce?",
-   "cop": true
-  },
-  {
-   "url": "https://www.climatechangenews.com/2026/11/05/clean-power-shields-china-from-oil-shock-more-than-any-other-country/",
-   "title": "Clean power shields China from oil shock more than any other country",
-   "source": "Climate Home News",
-   "desk": "politics",
-   "published": "2026-11-05T01:00:00+00:00",
-   "seen": "2026-11-19T01:57:51+00:00",
-   "cats": [
-    "Energy",
-    "News",
-    "Politics",
-    "china",
-    "cop31",
-    "electrification"
-   ],
-   "description": "Rapid clean power growth and electrification have boosted China's energy resilience as well as its confidence in its energy policy pre-COP31, experts say",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://www.climatechangenews.com/wp-content/files/2026/09/2024-10-17T094334Z_1560095111_RC2KLAATRFHZ_RTRMADP_3_CHINA-ENERGY-scaled.jpg",
-   "paragraphs": [
-    "China’s rapidly-expanding clean energy generation and deepening electrification has made the country more resilient to energy shocks, bolstering its position ahead of the COP31 climate talks in Türkiye, where speeding up the world’s electrification is set to dominate.",
-    "The growth of China’s renewable energy capacity protected it from the economic fallout from the energy crisis triggered by the closure of the Strait of Hormuz, according to analysis by the Centre for Research on Energy and Clean Air (CREA) published on Thursday.",
-    "As oil and gas stopped flowing through the key fossil fuel trade route, leading prices to soar, China’s crude oil imports – the largest in the world – fell sharply, leading the country to start drawing down on its reserves and curbing its exports of petroleum products.",
-    "China’s rapidly-expanding clean energy generation and deepening electrification has made the country more resilient to energy shocks, bolstering its position ahead of the COP31 climate talks in Türkiye, where speeding up the world’s electrification is set to dominate.",
-    "The growth of China’s renewable energy capacity protected it from the economic fallout from the energy crisis triggered by the closure of the Strait of Hormuz, according to analysis by the Centre for Research on Energy and Clean Air (CREA) published on Thursday.",
-    "As oil and gas stopped flowing through the key fossil fuel trade route, leading prices to soar, China’s crude oil imports – the largest in the world – fell sharply, leading the country to start drawing down on its reserves and curbing its exports of petroleum products.",
-    "“Yet, the import reduction did not produce the economic and social disruption in China one might normally expect from a shock of this scale,” the report found.",
-    "As temporary adjustment cushioned the oil-import shock, clean power and the electrification of the transport sector buffered the economic costs.",
-    "“China remains exposed to imported fuels, particularly where oil is used as a chemical feedstock, but reducing fossil-fuel demand already contributes to energy security,” said Qi Qin, the report’s author.",
-    "CREA’s analysis found the roll-out of electric vehicles (EVs) displaced 38 million tonnes of oil equivalent between March and August, equivalent to around 13% of China’s crude oil imports in the same period the previous year."
-   ],
-   "lede": "China’s rapidly-expanding clean energy generation and deepening electrification has made the country more resilient to energy shocks, bolstering its position ahead of the COP31 climate talks in Türkiye, where speeding…",
-   "cop": true
-  },
-  {
-   "url": "https://www.climatechangenews.com/2026/11/04/cop30-adaptation-pledge-would-meet-under-a-third-of-poorer-nations-needs-un-warns/",
-   "title": "COP30 adaptation pledge would meet under a third of poorer nations’ needs, UN warns",
-   "source": "Climate Home News",
-   "desk": "politics",
-   "published": "2026-11-04T18:20:24+00:00",
-   "seen": "2026-11-19T01:57:51+00:00",
-   "cats": [
-    "Finance",
-    "News",
-    "adaptation",
-    "Climate finance",
-    "cop31"
-   ],
-   "description": "Even tripled by 2035, adaptation finance would reach only $85-120bn a year against $305bn in estimated needs, the new Adaptation Gap Report shows",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://www.climatechangenews.com/wp-content/files/2023/01/3crop-min-scaled.jpg",
-   "paragraphs": [
-    "International funding to help developing countries protect their communities, infrastructure and economies from climate impacts remains far below what is needed, a new United Nations report has found, leaving vulnerable nations increasingly exposed as global warming heads past 1.5C.",
-    "“The world is not ready to adapt to current climatic conditions, never mind what overshoot of 1.5C will bring,” said Inger Andersen, UNEP's executive director, calling on governments to intensify efforts to increase adaptation finance.",
-    "International funding to help developing countries protect their communities, infrastructure and economies from climate impacts remains far below what is needed, a new United Nations report has found, leaving vulnerable nations increasingly exposed as global warming heads past 1.5C.",
-    "“The world is not ready to adapt to current climatic conditions, never mind what overshoot of 1.5C will bring,” said Inger Andersen, UNEP's executive director, calling on governments to intensify efforts to increase adaptation finance."
-   ],
-   "lede": "International funding to help developing countries protect their communities, infrastructure and economies from climate impacts remains far below what is needed, a new United Nations report has found, leaving vulnerable…",
-   "cop": true
-  },
-  {
-   "url": "https://climate.copernicus.eu/6th-c3s-ncp-forum",
-   "title": "6th C3S NCP Forum",
-   "source": "Copernicus",
-   "desk": "science",
-   "published": "2026-11-04T16:19:12+00:00",
-   "seen": "2026-11-19T01:46:41+00:00",
-   "description": "6th C3S NCP Forum Eva 4th November 2026 Image credit: Image by Magnific About the Forum The 6 th Copernicus Climate Change Service (C3S) National Collaboration Programme (NCP) Forum will take place online on the morning of 9 December 2026. The 6 th C3S NCP Forum will focus on the progress, results and impact of national NCP projects, with project coordinators sharing their achievements, lessons learned and plans for further development. The Forum will also feature updates from the C3S programme relevant to the NCP community, including information about forthcoming events where participants can",
-   "ftries": 1,
-   "fetched": true,
-   "paragraphs": [
-    "The 6 th C3S NCP Forum will focus on the progress, results and impact of national NCP projects, with project coordinators sharing their achievements, lessons learned and plans for further development.",
-    "The Forum will also feature updates from the C3S programme relevant to the NCP community, including information about forthcoming events where participants can exchange experiences and discuss national needs."
-   ],
-   "lede": "The 6 th C3S NCP Forum will focus on the progress, results and impact of national NCP projects, with project coordinators sharing their achievements, lessons learned and plans for further development."
-  },
-  {
-   "url": "https://www.carbonbrief.org/qa-what-is-the-brazil-led-deforestation-roadmap",
-   "title": "Q&A: What is the Brazil-led ‘deforestation roadmap’?",
-   "source": "Carbon Brief",
-   "desk": "politics",
-   "published": "2026-11-04T15:39:10+00:00",
-   "seen": "2026-11-19T01:47:57+00:00",
-   "description": "Carbon Brief explains where the deforestation roadmap came from, what it entails, why some did not sign on – and what’s next.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://www.carbonbrief.org/wp-content/uploads/2026/11/3G1574R.jpg",
-   "paragraphs": [
-    "On 3 November, the Brazilian presidency of the COP30 climate talks released its long-awaited “roadmap” on ending deforestation.",
-    "Ahead of the Belém summit, Brazilian president Luiz Inácio Lula da Silva made a call for a “roadmap” to halt and reverse deforestation.",
-    "Although this voluntary roadmap was outside the COP’s official agenda, it snowballed into a rallying point at the “Amazon” COP.",
-    "Some 93 countries called for a reference to a new roadmap for ending deforestation to be part of COP30’s formal negotiated outcome.",
-    "However, at the end of the summit, the COP30 presidency announced that there was not the consensus needed for the deforestation roadmap to be part of the final text – but that Brazil would work to create a voluntary roadmap outside of the UN climate process.",
-    "This call was answered by 18 countries and four negotiating blocs that offered their inputs on the roadmap, along with scores of NGOs, research centres and other groups.",
-    "Now that the roadmap has been published, Carbon Brief explains where it came from, what it entails, why some did not sign on – and what’s next.",
-    "The “deforestation roadmap” was one of the signature announcements of the Brazilian presidency of the COP30 climate summit in Belém – albeit one that fell outside the official, negotiated outcomes.",
-    "Brazilian president Lula first proposed the deforestation and forest degradation roadmap, alongside one on the fossil fuel transition , at the leaders’ summit in Belém a few days before COP30 began.",
-    "By the end of COP30, nearly 100 countries had expressed their support for such a roadmap. This includes the EU, with its 27 member states, as well as the 56-member Coalition for Rainforest Nations ."
-   ],
-   "lede": "Carbon Brief explains where the deforestation roadmap came from, what it entails, why some did not sign on – and what’s next.",
-   "cop": true
-  },
-  {
-   "url": "https://www.carbonbrief.org/qa-what-is-in-the-global-roadmap-for-transitioning-away-from-fossil-fuels",
-   "title": "Q&A: What is in the global ‘roadmap’ for transitioning away from fossil fuels?",
-   "source": "Carbon Brief",
-   "desk": "politics",
-   "published": "2026-11-04T15:23:07+00:00",
-   "seen": "2026-11-19T01:47:57+00:00",
-   "description": "Transitioning away from fossil fuels is “urgent, inevitable and, yet, possible”, says a first-of-its-kind global “roadmap” produced by Brazil.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://www.carbonbrief.org/wp-content/uploads/2026/11/3D70572.jpg",
-   "paragraphs": [
-    "The host of last year’s climate summit, COP30 , has set out a voluntary plan for how countries can move away from coal, oil and gas.",
-    "The roadmap says there is no “one-size-fits-all” approach to transitioning away from fossil fuels and asks countries to “diagnose” their own “readiness” to start the process.",
-    "After mapping out their specific circumstances, countries should then pursue “tailored levers” to take action, according to the roadmap.",
-    "These efforts should culminate by 2033, it says – 10 years on from when the COP28 climate summit in Dubai called on all countries to contribute to a global transition away from fossil fuels.",
-    "Below, Carbon Brief examines what the roadmap says and how it could influence debates about fossil fuels at the upcoming COP31 climate summit, which begins next week in Turkey.",
-    "Calls for a global “roadmap” away from fossil fuels dominated debates at COP30, which was held in the Amazonian city of Belém.",
-    "A group of 85 countries called for a reference to a new roadmap for transitioning away from fossil fuels to be part of COP30’s formal negotiated outcome.",
-    "This call came after the first “global stocktake” of action towards the world’s climate goals at COP28 in 2023 asked all countries to contribute to transitioning away from fossil fuels.",
-    "It was claimed that this group included 84 countries. However, Carbon Brief’s analysis of the “informal list” revealed inconsistencies and errors, meaning the total number of countries opposing the roadmap was likely smaller."
-   ],
-   "lede": "Transitioning away from fossil fuels is “urgent, inevitable and, yet, possible”, says a first-of-its-kind global “roadmap” produced by Brazil.",
-   "cop": true
-  },
-  {
-   "url": "https://www.carbonbrief.org/cb-live-carbon-briefs-team-at-cop17-on-the-nature-talks-key-outcomes",
-   "title": "CB Live: Carbon Brief’s team at COP17 on the nature talks’ key outcomes",
-   "source": "Carbon Brief",
-   "desk": "politics",
-   "published": "2026-11-04T10:40:52+00:00",
-   "seen": "2026-11-19T01:47:57+00:00",
-   "description": "Following this year’s UN COP17 biodiversity conference, Carbon Brief’s journalists hosted a livestream to explain what happened at the summit.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://www.carbonbrief.org/wp-content/uploads/2026/11/CBlive-1.webp",
-   "paragraphs": [
-    "Carbon Brief’s Orla Dwyer and Aruna Chandrasekhar have been on the ground in Yerevan, Armenia, over the past two weeks, covering the negotiations.",
-    "They were joined on the livestream by associate editors Dr Giuliana Viglione and Daisy Dunne , who were following the talks from Washington DC and London, respectively.",
-    "Carbon Brief has also published its 10,000-word explainer of COP17, which lays out the key outcomes in detail.",
-    "Orla and Aruna kicked off the livestream by explaining the biggest issues at the event, including biodiversity finance and the first “global review” of progress towards reversing nature loss.",
-    "The four journalists then took live questions from the audience in an “ask me anything” format, covering issues such as “ nature-harming subsidies ”, marine biodiversity and the status of the Cali fund , which is meant to raise private-sector finance."
-   ],
-   "lede": "Following this year’s UN COP17 biodiversity conference, Carbon Brief’s journalists hosted a livestream to explain what happened at the summit.",
-   "cop": true
-  },
-  {
-   "url": "https://climate.copernicus.eu/ecmwf-and-copernicus-climate-and-atmosphere-services-cop31-antalya",
-   "title": "ECMWF and the Copernicus Climate and Atmosphere services at COP31 in Antalya",
-   "source": "Copernicus",
-   "desk": "science",
-   "published": "2026-11-02T11:33:29+00:00",
-   "seen": "2026-11-19T01:46:41+00:00",
-   "description": "ECMWF and the Copernicus Climate and Atmosphere services at COP31 in Antalya Sonia 2nd November 2026 The European Centre for Medium-Range Weather Forecasts (ECMWF) and the Copernicus services it operates on behalf of the European Commission will be present at COP31 in Antalya, Türkiye. The world comes together on 9 – 20 November 2026 to discuss climate change, and the present and future mitigation and adaptation strategies. ECMWF holds the official status of observer of the United Nations Framework Convention on Climate Change (UNFCCC) as an Intergovernmental Organization since 2023. The wider",
-   "ftries": 1,
-   "fetched": true,
-   "paragraphs": [
-    "The wider ECMWF, the Copernicus Atmosphere Monitoring Service (CAMS) and the Copernicus Climate Change Service (CAMS) will be well represented in Antalya. ECMWF Director-General Florian Pappenberger, Irina Sandu, Deputy Director-General and Director of Science and Innovation at ECMWF, the Copernicus Climate Change Service (C3S) Director Carlo Buontempo and Laurence Rouil, Director of the Copernicus Atmosphere Monitoring Service (CAMS) as well as Vincent-Henri Peuch, Director for ECMWF Engagement with the EU will participate in the conference.",
-    "The top-level ECMWF delegation will highlight the value of open, high quality and operational weather, climate and atmosphere data, and actionable information in helping protect lives and livelihoods, as climate change looms. The latest advances in artificial intelligence-based models, the value of ongoing cooperation with ECMWF Member and Cooperating states and the new projects and applications released by the Centre and its partners are some of the key topics that will be discussed in Antalya.",
-    "On 6 November, C3S will release its Climate Bulletin for October with a preliminary assessment of the annual global temperatures for 2026.",
-    "From the start of COP31, on 9 November, ECMWF Director-General Florian Pappenberger will participate in a joint event with the Turkish State Meteorological Service and the World Meteorological Organization on the Systematic Observations Financing Facility (SOFF).",
-    "Türkiye is a full Member State of ECMWF and has been since its early beginnings. The meeting will also be attended by WMO Secretary-General Celeste Saulo. ECMWF is an active player of the United Nations SOFF initiative by providing data and dedicated research efforts, in addition to helping promote the initiative.",
-    "On the same day, Vincent-Henri Peuch will represent ECMWF at the Earth Information Day organised by the United Nations Framework Convention on Climate Change.",
-    "Deputy Director-General of ECMWF Irina Sandu will discuss the value of impact-based forecasts at a session organised by hosts Turkish Meteorological Service and the Azerbaijan National Hydrometeorological Service on 11 November.",
-    "On 10 November ECMWF is organising a session in the joint Multilateral Development Banks Pavilion presenting the upcoming ClimateSET application , developed by the Copernicus Climate Change Service (C3S) in cooperation with the European Investment Bank (EIB). As global warming increases the frequency and intensity of extreme weather events, climate information is becoming also essential for investment decisions; the new tool supports initial climate risk assessment for the financial sector."
-   ],
-   "lede": "The wider ECMWF, the Copernicus Atmosphere Monitoring Service (CAMS) and the Copernicus Climate Change Service (CAMS) will be well represented in Antalya.",
-   "cop": true
-  },
-  {
-   "url": "https://berkeleyearth.org/september-2026-temperature-update/",
-   "title": "September 2026 Temperature Update",
-   "source": "Berkeley Earth",
-   "desk": "science",
-   "published": "2026-10-22T14:51:41+00:00",
-   "seen": "2026-11-19T01:46:41+00:00",
-   "description": "August 2026 was the warmest August on record. El Niño is strengthening rapidly and expected to break all-time records. 2026 is likely to be a new record warmest year.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://berkeley-earth-wp-offload.storage.googleapis.com/wp-content/uploads/2026/10/21123336/Month_anomaly_map-1.png",
-   "paragraphs": [
-    "The following is a summary of global temperature conditions in Berkeley Earth’s analysis of September 2026.",
-    "According to Berkeley Earth’s high-resolution temperature dataset, September 2026 was the 2 nd warmest September since records began in 1850, with a monthly global average of 1.65 ± 0.11 °C (2.96 ± 0.19 °F) above the 1850–1900 (pre-industrial) average. It sits about 0.06 °C below September 2023. The anomaly in September 2026 is nominally the third largest of any month, behind only September 2023 and August 2026.",
-    "On a month-to-month basis, September was nominally slightly cooler than August 2026 though within the margin or error. It remains sharply warmer than other months in 2026. September 2026 continued the run of months above the 1.5 °C mark that began in July, as the warming influence of El Niño has grown.",
-    "Only one month of 2026 has set a record warm month (August 2026) with most months entering as the 2 nd to 5 th warmest. Depsite that, we have now pushed close to all-time record high temperature anomalies. Record and near-record warmth is expected to continue through the end of the year due to the short-term influence of a record-breaking El Niño.",
-    "Over the most recent 12 months (October 2025 to September 2026), the global average was 1.458 ± 0.074 °C (2.62 ± 0.13 °F) above the 1850–1900 average, making it the 2 nd warmest such 12-month period on record. It is behind the period ending in September 2024 and effectively tied with the period ending in September 2025, which it exceeds by only 0.003 °C. Because El Niño’s influence on the global mean lags its peak in the Pacific, this measure is expected to keep rising into 2027.",
-    "In September 2026, warmer-than-average temperatures covered most of the globe. The warmth was most pronounced across the central and eastern equatorial Pacific, where El Niño appears as a broad warm band stretching east to the coast of South America, and across the high Arctic, including the Canadian Arctic Archipelago. Large positive anomalies also covered western and central Europe and the western Mediterranean, the western North Atlantic off North America, Australia, and much of northern and central Asia. Some of the largest anomalies anywhere were over West Antarctica. The most prominent cool anomaly was elsewhere on Antarctica, centered on the Weddell Sea sector and stretching along parts of the East Antarctic coast, with smaller cool areas over the Greenland ice sheet, along the west coast of the United States, and at the southern tip of South America.",
-    "Roughly 11.5% of Earth’s surface experienced its locally warmest September on record (about 9.3% of land and 12.7% of ocean surfaces), and 80.3% of the surface was warmer than average. The largest contiguous region of record warmth occurred in the Eastern tropical Pacific, where a record-breaking El Niño event is underway. Record warmth also covered parts of the tropical and western North Atlantic including the Gulf of Mexico and the Caribbean, Iberia and the western Mediterranean, northwest Africa, the Sahel and the Horn of Africa, the Arabian Peninsula and the Persian Gulf, much of the Indian Ocean, maritime Southeast Asia, and parts of northern Russia and Kazakhstan. Record and near-record warmth in tropical South America, Africa, and Southeast Asia are common features during large El Niño events."
-   ],
-   "lede": "August 2026 was the warmest August on record. El Niño is strengthening rapidly and expected to break all-time records."
-  },
-  {
-   "url": "https://berkeleyearth.org/introducing-berkeley-earths-data-pipeline-2-0/",
-   "title": "Introducing Berkeley Earth’s Data Pipeline 2.0",
-   "source": "Berkeley Earth",
-   "desk": "science",
-   "published": "2026-10-21T21:52:36+00:00",
-   "seen": "2026-11-19T01:46:41+00:00",
-   "description": "A rebuilt, expanded and more resilient foundation for the Berkeley Earth temperature record. For fifteen years stakeholders from across the climate, resilience, and research ecosystems have come to Berkeley Earth for a clear, transparent, and trustworthy read on how our climate is changing. Much of that trust rests on work that has, until very recently,…",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://berkeley-earth-wp-offload.storage.googleapis.com/wp-content/uploads/2026/10/19163213/NewStationMap.png",
-   "paragraphs": [
-    "For fifteen years stakeholders from across the climate, resilience, and research ecosystems have come to Berkeley Earth for a clear, transparent, and trustworthy read on how our climate is changing. Much of that trust rests on work that has, until very recently, remained relatively invisible: the data pipeline that gathers, merges, and quality-checks millions of observations from more than 50,000 global weather stations every month.",
-    "Following a number of upstream data disruptions last year, Berkeley Earth made a commitment to invest in building a more resilient and robust data pipeline, one less dependent on any one single upstream source of observations, and one that could maintain crucial data continuity in the case that any single ingest product was disrupted or lost.",
-    "Today we’re excited to announce the launch of Berkeley Earth’s newly rebuilt pipeline 2.0 , not only reinforced but expanded to provide not only the most comprehensive but also the most resilient observational temperature record available. Below is an overview of what we improved, what hasn’t changed, and why this matters for the greater climate and resilience ecosystem.",
-    "The rebuilt pipeline is faster by design, which means earlier monthly updates going forward, and we expect to have near-real-time data flowing into Synthesis , our high-resolution climate platform, available within the next few months.",
-    "Along with this rebuild, Berkeley Earth’s full station archive is now open on Synthesis , made available for researchers, analysts, and anyone who wants to get their hands on the data behind the record. A few key stats about our world-leading station data archive:",
-    "For any questions about the station data archive, please reach out to synthesis@berkeleyearth.org ."
-   ],
-   "lede": "For fifteen years stakeholders from across the climate, resilience, and research ecosystems have come to Berkeley Earth for a clear, transparent, and trustworthy read on how our climate is changing."
-  },
-  {
-   "url": "https://climatediplobrief.substack.com/p/climate-diplomacy-brief-world-bank",
-   "title": "Climate Diplomacy Brief: World Bank / IMF Annual Meeting special",
-   "source": "Climate Diplomacy Brief",
-   "desk": "politics",
-   "published": "2026-10-11T17:11:07+00:00",
-   "seen": "2026-11-19T10:24:07+00:00",
-   "byline": "Ed King",
-   "description": "WBG boss Banga faces key test in midst of biting climate impacts & fossil fuel crisis - but will US handlers let him off the leash?",
-   "image": "https://substackcdn.com/image/fetch/$s_!o7tq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F08cad0f2-2bcf-41ea-a498-57871cad4018_800x450.jpeg",
-   "ftries": 1,
-   "fetched": true,
-   "paragraphs": [
-    "MDBs to MCFs The other set of funds not to forget are the so-called ‘Multilateral Climate Funds’ - these are effectively banks set up purely for climate funding in the past 2-3 decades. Wonks at Germanwatch reckon the tripling of the multilateral climate finance target by 2030 on 2022 levels is possible. Below are two examples, the GCF & GEF.",
-    "New cash Typically most finance in the past came from G7 / developed countries like the US, Japan, Norway, EU nations, Canada etc. That dynamic is shifting. So-called ‘non-traditional donors’ now contribute significant climate finance to developing countries, WRI analysis shows:",
-    "What else could we possibly leave you with but Bangaranga by Dara. Let’s hope Ajay shows the same energy this week. Mehr & Ed"
-   ],
-   "lede": "WBG boss Banga faces key test in midst of biting climate impacts & fossil fuel crisis - but will US handlers let him off the leash?"
-  },
-  {
-   "url": "https://www.theatlantic.com/science/2026/10/hurricane-season-isaias-simon/688961/?utm_source=feed",
-   "title": "This Is the Hurricane Season El Niño Foretold",
-   "source": "The Atlantic",
-   "desk": "opinion",
-   "published": "2026-10-09T22:40:18+00:00",
-   "seen": "2026-11-19T01:46:41+00:00",
-   "description": "Hurricane Isaias formed so late in the season that it set an Atlantic Ocean record. The Pacific is on a very different track.",
-   "image": "https://cdn.theatlantic.com/thumbor/2nSnbuG_1zKtOwDNusmyX5UT4mw=/media/img/mt/2026/10/2026_10_09_Atlantic_Hurricane_Josh_Partlow/original.jpg",
-   "ftries": 2,
-   "lede": "Hurricane Isaias formed so late in the season that it set an Atlantic Ocean record. The Pacific is on a very different track."
   }
  ],
  "dropped": [

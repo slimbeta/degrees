@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T23:37:42+00:00",
+ "updated": "2026-11-23T07:42:22+00:00",
  "briefing": {
   "headline": "COP31, fossil fuels and El Niño",
   "period": "Nov 16–22",
@@ -44,6 +44,199 @@
   ]
  },
  "articles": [
+  {
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5lbHdvRVZWal9xVEg0amgxN0hHa3NHSjZ3dzNISmNFLTQyTzFzUGpBZ0FUMlJKdklzNlFQeU9aUzZEWWJOZWJfM0tCekg4d1ZJ?oc=5",
+   "title": "Global News Podcast",
+   "source": "BBC",
+   "desk": "reporting",
+   "published": "2026-11-23T06:28:43+00:00",
+   "seen": "2026-11-23T07:42:22+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://wattsupwiththat.com/2026/11/22/germanys-renewable-energies-lead-to-1-4-billion-euro-electric-power-trade-deficit/",
+   "title": "Germany’s Renewable Energies Lead to 1.4 Billion Euro Electric Power Trade Deficit",
+   "source": "Watts Up With That",
+   "desk": "opinion",
+   "published": "2026-11-23T06:05:00+00:00",
+   "seen": "2026-11-23T07:42:22+00:00",
+   "cats": [
+    "Energy",
+    "Intermittent Wind and Solar",
+    "Energiewende",
+    "Germany"
+   ],
+   "note": "Skeptic blog",
+   "description": "Financially, however, Germany spent €5.7 billion on electricity imports while earning just €4.3 billion from exports—a monetary deficit of €1.4 billion.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2026/11/germany-power-lines-pylons-1024x512-1.webp?fit=1024%2C512&quality=75&ssl=1",
+   "paragraphs": [
+    "Germany’s electricity trade deficit soars to 1.4 billion euros as renewables disrupt markets!",
+    "Germany’s Apollo News reports on figures from the Federal Statistical Office (Destatis) regarding cross-border electricity trade in the first nine months of 2026.",
+    "Between January and September 2026, Germany imported 49.2 terawatt-hours (TWh) of electricity and exported 48.8 TWh, leaving a near-zero net volume import surplus of just 0.4 TWh.",
+    "Financially, however, Germany spent €5.7 billion on electricity imports while earning just €4.3 billion from exports—a monetary deficit of €1.4 billion.",
+    "Imported electricity averaged €116 per megawatt-hour (MWh) (up nearly 39% year-over-year), roughly one-third higher than the average €87 per MWh earned on exported electricity (up ~20.6% year-over-year).",
+    "The top suppliers to Germany were Denmark (11.9 TWh), the Netherlands (8.7 TWh), and France (7.6 TWh).",
+    "Apollo News frames this price discrepancy, alongside the headline phrasing about “giving away” power abroad—as a consequence of Germany’s energy transition (Energiewende) and high reliance on weather-dependent wind and solar power, which tends to generate surpluses at lower prices – and at times negative prices – while requiring pricier imports during periods of shortfall.",
+    "In the interconnected European grid, electricity flows automatically toward whichever country has higher prices at any given hour. When Germany exports, usually on windy or sunny afternoons when domestic supply exceeds demand, pushing wholesale prices down (averaging €87/MWh in Jan–Sep 2026), neighboring countries like Austria buy this cheap power—often to pump water up into hydro reservoirs.",
+    "When Germany imports: Usually on calm, overcast evenings or peak winter demand hours when domestic supply is tight and wholesale prices spike (averaging €116/MWh). Germany buys power back from neighbors (such as Denmark’s wind/transit grid, Dutch gas/offshore wind, or French nuclear) to meet demand. The higher costs enbd up being paid by German consumers."
+   ],
+   "lede": "Financially, however, Germany spent €5.7 billion on electricity imports while earning just €4.3 billion from exports—a monetary deficit of €1.4 billion."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWlFZUWxVXzVGODZvQmlkT2JFYW0yakxJUElHSHRLdVlLRGI0Sm1EWnJQMWo3cWZoeGdlX3RQSFpSX1d0ZDZMeUVYc1RvaVV5U1hZQW9fVW5SeF9VdGJvY3JMQURHUHpWZ2RsdGtzYkNsNVRWYmtQRURiZnBZRXctdGxSYWswZDIyQ2RiYzNTMG15d1U3d18w?oc=5",
+   "title": "World in Brief: COP31 collapses; Russian ship hit in Baltic Sea",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-23T05:20:48+00:00",
+   "seen": "2026-11-23T07:42:22+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "cop": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOazd5Zkc5dUItYnZaUjFVZzVuRVZlYllmcmRmeW4tVXBlZ1J5Y1MwNU5yWFNRbV9lclRLT3F4OFJWYTFGc095dTZDbWhwR3Z0U1doVWwtS1dHQ055Nll2YnZDalRrMWJBZUpjQlRPRzQyMGc5bnlkUkNCc3BoT1hZcVltZDBMS0x4Z241N0hDNm80anV5bUdlTUtoSnU5UDV1aDl3SnlXMURmNFBYWElUSUhHUQ?oc=5",
+   "title": "San Francisco Faces Historic Flood Threat as Major Storm Nears",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-23T04:41:00+00:00",
+   "seen": "2026-11-23T07:42:22+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://www.theguardian.com/australia-news/2026/nov/23/difficult-geopolitical-times-albanese-defends-bowen-after-cop31-deal-failure",
+   "title": "‘Difficult geopolitical times’: Albanese defends Bowen after Cop31 deal failure",
+   "source": "The Guardian",
+   "desk": "reporting",
+   "published": "2026-11-23T04:21:00+00:00",
+   "seen": "2026-11-23T07:42:22+00:00",
+   "cats": [
+    "Anthony Albanese",
+    "Cop31",
+    "Australia news",
+    "Climate crisis",
+    "Chris Bowen",
+    "Dan Tehan",
+    "Coalition",
+    "Labor party"
+   ],
+   "description": "Coalition calls for climate change minister to resign immediately or be sacked over ‘catastrophic diplomatic disaster’, despite offering no alternatives on reducing emissions",
+   "image": "https://i.guim.co.uk/img/media/b9df393984e43418731394be8b2ebe70ca5aaf7c/845_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=28bab54fc38ecf4a33876f8afc5fb12d",
+   "ftries": 1,
+   "fetched": true,
+   "paragraphs": [
+    "Anthony Albanese has defended Chris Bowen from criticism following the failure of the UN Cop31 climate summit, blaming the result on “difficult geopolitical times” as the Coalition called for the minister to resign.",
+    "Bowen served as president of negotiations at the talks in Turkey, helping run the conference with his Turkish counterpart, Murat Kurum.",
+    "Speaking to journalists late on Sunday after a list of countries rejected a proposed “cover decision” – an overarching agreement – for the conference, Bowen said “Australia left nothing on the field” but the “red lines” he and his staff tried to negotiate to find consensus between nearly 200 countries were unbridgeable.",
+    "The biggest sticking point was whether the agreement would mention the need for the world to transition away from fossil fuels. The European Union, Panama, the Marshall Islands, Vanuatu, Norway and Belize told the conference they would not accept a deal without it.",
+    "Saudi Arabia and Russia led a group of oil-rich countries that vowed to veto a decision that included mention of fossil fuels.",
+    "Bowen told reporters: “I would have been happy with [a] transition away from fossil fuels being in the text, but that was not going to get support.”",
+    "He said despite the breakdown, “in the real world” the transition away from fossil fuels was inevitable and happening at speed. He said more than 90 countries had signed a pledge to increase electrification to 35% by 2035 – a step that should help cut fossil fuel use if delivered – but acknowledged the result was “very disappointing”.",
+    "Australia was sharply criticised during the conference for its continued support for new coal and gas export developments. Speaking on Monday, Albanese said Australia’s efforts had been critical in building relationships with Pacific neighbours.",
+    "“It’s evidence that we’re living in difficult geopolitical times,” he said of the result. “That is the reality. The important work of Cop is the work that we’ve done with the Pacific, where Australia and our Pacific leaders have worked constructively together."
+   ],
+   "lede": "Anthony Albanese has defended Chris Bowen from criticism following the failure of the UN Cop31 climate summit, blaming the result on “difficult geopolitical times” as the Coalition called for the minister to resign.",
+   "cop": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTlIwMm16SERFRUIwTHpnYXA5RE1pZDIyd3hSM3YxZUVDZTVkOVU0bnl6emlESm1ja0dEaFptdXN4V3FwZzFDNWN0ZE9iSS02ZDIxTFFkTXJsek5RX2duZjdrVk1CUnhXRkhjbTBEWG1WeWR6R0k0T2VVTFVSamJubUxfZi1lY2g1NXpvTmZiMllacVFfR21fbEVfbG1scTBzTUNybkF5cHpWUnBwV0RYOGdUaWg?oc=5",
+   "title": "Saudi Arabia's influence loomed large over failed COP31 deal",
+   "source": "Reuters",
+   "desk": "reporting",
+   "published": "2026-11-23T03:03:00+00:00",
+   "seen": "2026-11-23T07:42:22+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzajRwOXJobW1icW8yQXJjOWNkMU9WTEtBZlg4SnV6VWxvOHhkb0xqOUQxejJUX0tjM2dpc1ZRNUpxb2lLY2U3czJxNThUTnA4XzlLcDlwQXNibWs?oc=5",
+   "title": "'Complete COP-out' and Tyson Fury's 'torment'",
+   "source": "BBC",
+   "desk": "reporting",
+   "published": "2026-11-23T02:24:41+00:00",
+   "seen": "2026-11-23T07:42:22+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://wattsupwiththat.com/2026/11/22/as-texans-vote-against-their-future-louisiana-is-wide-open/",
+   "title": "As Texans vote against their future, Louisiana is wide open",
+   "source": "Watts Up With That",
+   "desk": "opinion",
+   "published": "2026-11-23T02:06:00+00:00",
+   "seen": "2026-11-23T07:42:22+00:00",
+   "cats": [
+    "Energy",
+    "Space",
+    "Elon Musk",
+    "Louisiana",
+    "SpaceX"
+   ],
+   "note": "Skeptic blog",
+   "description": "That’s how a state works together for economic development and high-paying manufacturing jobs.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2026/11/spacex-starship-launch-1024x512-1.webp?fit=1024%2C512&quality=75&ssl=1",
+   "paragraphs": [
+    "Since Elon Musk moved his headquarters from California to Texas, an estimated 22,000 Texans now work directly for one of Musk’s enterprises. That may be changing soon, as Governor-elect Gina Hinojosa has announced her intentions to go on the attack against Musk’s corporate empire.",
+    "Texas Democrats, like their counterparts nationally, are also seeking to control the growth of artificial intelligence, data centers, and other innovative technologies through burdensome regulations and to impose growth-killing regulations on the Texas oil and gas industry that has for decades been the state’s engine of economic growth.",
+    "Construction of what will be SpaceX’s fourth and largest launch site is expected to begin in 2027, with the first launch as soon as 2029. Louisiana Economic Development (LED) Secretary Susan B. Bourgeois said the project puts Louisiana at the epicenter of the growing private aerospace industry and “is an undisputable signal to the world that we are executing at the highest level and leading in the next generation of industry.”",
+    "LED welcomed SpaceX into Source Louisiana, the state’s online database connecting Louisiana businesses with contract and vendor opportunities tied to major development projects – of which there are many since Landry took office in January 2024. In Landry’s first year, Louisiana enacted historic tax cuts that lured major corporations to expand operations or build new facilities, moving the Pelican State from 31 st to 18 th in economic outlook.",
+    "The win for Vermilion Parish is, says LED, a direct result of Louisiana Lightning Speed, a whole-of-government approach, formalized by a Landry executive order, which brings state agencies together early on major economic development projects and focuses on infrastructure, workforce, permitting, regulations, wildlife, and coastal issues relevant to a project.",
+    "In addition, the River Parishes Community College and the Louisiana Community and Technical College System agreed to develop a new local workforce training center equipped with hands-on skills coaches from LED’s FastStart program. Hyundai Steel will have access to the full suite of LED FastStart workforce recruitment, training, and sustainability services.",
+    "That’s how a state works together for economic development and high-paying manufacturing jobs.",
+    "The closed loan, first of its kind made possible by President Trump’s Working Families Tax Cut, will enable Arena to complete the upgrades sooner and thus get more oil and gas to market sooner. The project is also expected to generate thousands of new jobs in Louisiana.",
+    "There also many other new projects aided by Governor Landry’s tax cuts and Louisiana’s pro-growth policies, with more likely to come soon.",
+    "One can imagine the folksy outdoorsman and angler explaining the reason behind Louisiana’s rapid economic growth: “The fish are there. If you use the right bait, you can keep reeling them in.”"
+   ],
+   "lede": "That’s how a state works together for economic development and high-paying manufacturing jobs."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xRkRKcW8zNHVTaXFyb2g5TEVGRHlxLTNkQ3paYVN2UlF6YTF4NXJLZGoxWVVSVUcwZnpYVl9nLUlhX2doOG95dmlLMEpjSUdrbzRCam5DUVB5dw?oc=5",
+   "title": "Newshour | COP31 climate talks collapse without agreement",
+   "source": "BBC",
+   "desk": "reporting",
+   "published": "2026-11-23T01:34:13+00:00",
+   "seen": "2026-11-23T07:42:22+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPd01yNTIwQXFCMzZra1VRckFNbzItc0E0cDRQYlBFNnFOMGtHQ1VfdDhCT1hJdVI2bDJiX2l0ZEE3b1VuYWhUTHUwTjV3SkFwNEN6YkVYYVJLR3F2djVDVnhBWS0zQVFMRFFTQnBFdjBTdUtsVy1zWXNtUGs5NThMSDNqRTNSNmZPanJSbTBDeVFSNHFnTm1VVEFsZFlWdWQwbFE?oc=5",
+   "title": "The collapse of UN climate talks, over fossil fuels, was years in the making",
+   "source": "Associated Press",
+   "desk": "reporting",
+   "published": "2026-11-23T00:45:00+00:00",
+   "seen": "2026-11-23T07:42:22+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQblprYUw1NWE0eFpwbTE0V2hhNmJHV1lxUFhORnExMGthTE5Ed1ROQlQ2Q0JlRlNmWHdlMjF6dUo4X3NOLTZ4Q3pDMjJTem1lTnlMRlBHQlpaTGNycnpZdVlnMTNJdkt6cDVXd0xjUHUyRE9aUHFnTGNTSV9CNWktWVpoZDBZY0V3a1d5YU5wcnRSQ2g3QzFDQVNvcnFLOEdKSlBqdE5jQUdGeTA?oc=5",
+   "title": "The messy breakdown of the UN’s latest climate conference",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-22T22:26:59+00:00",
+   "seen": "2026-11-23T07:42:22+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
   {
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOEZaeWtwOXBoWTBIVU00ZThzR1gycVhSLXJQcko2VnNkdWNKaWRJY2VReFJ5R3loTVRHbk5jLVBnd0pPeUJkNlpfeG5GbG04dmdQb3RoVUE0dTVPQUwtbTZpU1lKTHhleWROZXJYUlZiVzR0RElsbExCRlJ0Vk43MUswZzNOSUxNazhTWm5vbF9WbDlnV2R0NVp4cmJmWUNJanBMeUhtUFlFd090dXdkNXQ5OHRTeEVvY183Q2ZOS1RWQktQTXc?oc=5",
    "title": "Why Nations Failed to Secure a New Global Climate Change Agreement",
@@ -94,6 +287,18 @@
    "desk": "reporting",
    "published": "2026-11-22T21:19:25+00:00",
    "seen": "2026-11-22T23:37:42+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5WRFdZdms5MU5YcXhWZ0dwNlM2eXhBZ1hJczkxa3Y5LWhETzd0a1JXeXAyV216dmFGU2k2amE4VXc2TWVBc1RDdGFwemRRQjhJ?oc=5",
+   "title": "Global News Podcast | The Global Story: AI can imitate a human. But can it think like one?",
+   "source": "BBC",
+   "desk": "reporting",
+   "published": "2026-11-22T20:16:04+00:00",
+   "seen": "2026-11-23T07:42:22+00:00",
    "cop": true,
    "via_google": true,
    "ftries": 1,
@@ -244,7 +449,7 @@
    "byline": "Lisa Friedman",
    "description": "European and vulnerable nations rejected a proposed agreement after Saudi Arabia and other oil producers blocked any mention of phasing out coal, oil and gas.",
    "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22cli-cop31-final3-fmcb/22cli-cop31-final3-fmcb-mediumSquareAt3X.jpg",
-   "ftries": 2,
+   "ftries": 3,
    "lede": "European and vulnerable nations rejected a proposed agreement after Saudi Arabia and other oil producers blocked any mention of phasing out coal, oil and gas.",
    "cop": true
   },
@@ -339,7 +544,7 @@
    "seen": "2026-11-22T17:50:54+00:00",
    "description": "Delegates at the annual UN climate summit failed to reach an agreement for the first time in almost 20 years.",
    "image": "https://cdn.theatlantic.com/thumbor/YZbUMPP_c7NnhVd3vjlbZAw0h58=/media/img/mt/2026/11/2026_11_20_Climate_Action_Gets_Practical_Josh_Partlow/original.jpg",
-   "ftries": 2,
+   "ftries": 3,
    "lede": "Delegates at the annual UN climate summit failed to reach an agreement for the first time in almost 20 years.",
    "cop": true
   },
@@ -418,6 +623,17 @@
    "published": "2026-11-22T13:04:20+00:00",
    "seen": "2026-11-22T17:50:54+00:00",
    "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTUVhamFQU1hwVzJIdlF1TVB6RjJaQXdfY3JWeVlrcEhCS0syeTkwUXlIOTBKandoeGpCZ0dlT0VNWThBTTFiZzh0MVBCNjY1TG1LWC0wV0RwbFZ2UENIVk1QeTF0WFlZa1lraXRTN3E2aEFoRXh0aF81Z3h6bEthenFHZzRObE8tM3FicmpZSFcxRUpuTXFjM29XSWc1TlBMWkFOYS1raHU4dDBKV05ZSkF4clowV0ZXck9RVEhVQl9GazdlZE53WDNR?oc=5",
+   "title": "Harvard Landscape Architects Propose Monumental Alternatives to Trump’s Triumphal Arch",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-22T13:00:01+00:00",
+   "seen": "2026-11-23T07:42:22+00:00",
    "via_google": true,
    "ftries": 1,
    "fetched": true
@@ -860,6 +1076,18 @@
    ],
    "lede": "A chestnut tree blooming in November is not a trend line.",
    "cop": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44TzRNWExqcHNUS0x6RzhSTkRnN0tsUGhGVk1Bd0dHOUxPb3BfVjlkb21YVk9VV01JTm1YMVBXaXZSVldrWVVCb1luYmpIVDlNQVRrSzlSTTZ5dw?oc=5",
+   "title": "Newshour",
+   "source": "BBC",
+   "desk": "reporting",
+   "published": "2026-11-21T17:09:27+00:00",
+   "seen": "2026-11-23T07:42:22+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVF9OX2t3ZlJ2VzhyYkd5bUV2Nnl4UEdfX2xSZ0VTQUV4MWVFZ3RWdFJRT1pyN1FoSmFFWExSZWRPY0l4aGtlLXJOVWYwRVRUdER1SFp4MzBLTzBjQ3lJUTRMMGhBLXVkaFg3YXZOdlkwdTVjRjhGdHZ5dFdCem1hSmpKb293cXF6dUZFWlZXamk?oc=5",
@@ -1571,6 +1799,17 @@
    "lede": "If wind turbine energy was fracking for gas, it would have been banned years ago."
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVzVTVTBEUGlWaTZ6dU85TWxuQ2Y3ZEhaYWVaTEJBaWtPMTdqa2NoTUxxeHltaU5CaWF6bXl6dlNZcEdQc19sUTFCNTlFVk9Fd3dSeXFwNVY5dXYteF90akg1MnBNa2xJbGxldEN6X1pZbmFPeE1pRU1pc0JfV21ldWsxbjlITWN4NUxGN2RoLWNXQTZJMy1xWEZmci1hUkdRMmpDRlA1M2xkOE0?oc=5",
+   "title": "AI has conquered mathematics’ greatest challenge",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-20T21:41:15+00:00",
+   "seen": "2026-11-23T07:42:22+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY256NUZxVFdCVEZCamFBLV90OXFrMGJaZTJWcDBtaGFyMGxjUjExSko2bUU0VzZKeFBZazJQblBrUS1VdkJOWEl1MG1idkFVSkV3S3lFSTJQMXVJaWpnZF9oZFQ3d0dVcjJmU0F0eXV1VzUzYXdOUUZVX09xcEE1eGE3VWpqeWR5WnduVEx6MUw5bzBfYlFyLU1nQWZ5LW0zMHFRNTFEQzlCUGU3SXpRUVY1eDR2M0N6bHF6ZA?oc=5",
    "title": "AI may have solved the most important problem in mathematics",
    "source": "The Economist",
@@ -1872,6 +2111,17 @@
    "desk": "reporting",
    "published": "2026-11-20T17:07:27+00:00",
    "seen": "2026-11-21T00:49:24+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTXVBaHVmNVZOaXZoRmx0X1hZeFlodW14RDVkVm9XN1lnX0ZYUS1KdFZiTXhEZS1MSHljU2x1bHduUjgydU55VDNwLUlqb08wNUM0YThxS2NwbUMwT2NWV1dWNVJ2STlMWWZvUHJ1TGNrUE9SblVpbWFMV3N1NVBHQXp0Wkw4R0ZtWjBWcjNn?oc=5",
+   "title": "How can Democrats build on the midterms?",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-20T17:03:16+00:00",
+   "seen": "2026-11-23T07:42:22+00:00",
    "via_google": true,
    "ftries": 1,
    "fetched": true
@@ -3473,6 +3723,17 @@
    "desk": "opinion",
    "published": "2026-11-19T14:03:33+00:00",
    "seen": "2026-11-20T10:04:06+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRkVsZ1Rod0VzTlVhdnFxTnF4bUxrcXI2M2RwbU1FYmZHNldocm9qUnFMbFUzRXdkbDVjX3I4SXJwYlMxUC1tNk9hYWFESHBYLUxuMjRCQ19BYmw3WEZMbXNYeXNtRG1ldmJvUEhVR3NyZU5BZjJxMFplM2czSnE2OEtuSHlyNWhTNjNwcnNhRjhYSWVCMGlBMThfeVdocWt2RG1BQjRwNFpuRGlzYThYbU80aUU?oc=5",
+   "title": "Donald Trump’s love of “conquest” is more self-defeating than ever",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-19T14:01:02+00:00",
+   "seen": "2026-11-23T07:42:22+00:00",
    "via_google": true,
    "ftries": 1,
    "fetched": true
@@ -7266,6 +7527,17 @@
    "fetched": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZjFiTE1FdTd4TV93WnROMERVZXMtQzdSZDRTOTh3cVhocV9Sb1NSRVVGelJYamtpWkwyLWc5WTc2MGRWVUJWckNkVVJTOVBUZTNuN3Jxdl92R1E3dWRySnk3RTAyZ3BlVVI2bGZKbjJKb0U4WkNSS1VJU3dQZ1B2eUJXaUF3TVZaWk4zS0N5RlVVSWRlcXZ4UkZQYl9nQkxrRkFxNF93dm94c0NLWEdCa1d3X2Z2UQ?oc=5",
+   "title": "China’s Economy Disappoints With New Stimulus Yet to Kick In",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-16T07:31:00+00:00",
+   "seen": "2026-11-23T07:42:22+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdGQ5WGRTdWVUNFZDdmxmdDBKaEQyamJ2WE1aQXQ1TGs3T0RFbmxKRlpaX3dIMWk5bzdVQlEtVWtyTU9yVXJabnlMbUZXVGxkMm9pWE5DWU9nMkVJTWxxM1NlZzl6UFIxQld1UUJxX041Z0d6dWRUcmZrSUVfV2ZobEhEZVpQRnZwSzlDZVBqZ01WcEt6NEZlWW5GWmNNaHVVd3BnZzFKZy1LZjR3X3c?oc=5",
    "title": "Thai GDP Growth Accelerates to 2.9% on AI, Missing Estimates",
    "source": "Bloomberg Green",
@@ -7671,262 +7943,6 @@
     "It was quite a coincidence that two of the most extreme, and yet somewhat opposite, examples came from the two most populous MSAs: New York City and Los Angeles. The following plot shows how the New York City MSA GHCN station temperatures related to their impervious surface area."
    ],
    "lede": "So, while the UHI effect in NYC is quite large (+3 to +4 deg."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOak5nb2tVZ1dwUlZoWGZfSXpuaHJnMHlyUUlVOUlpSzVLZVRWLXBuc0o5VGgzMkdvajJfNXdsNXFaaklCSXpKZkY2NTBiNGJCZjZqdGIwdHU1YlBOZkEtalBkNE12dGl0SEdnODhocEtHWkI3dE1qY19sa3NxT1A5R0xPREdXM3k4NWI4dlNJcG1YSjc5V0RURTVHeHh0X0wzN1NpUjk0SUNGWDg?oc=5",
-   "title": "Coalition to move away from fossil fuels presses ahead without Colombia, its original champion",
-   "source": "Associated Press",
-   "desk": "reporting",
-   "published": "2026-11-15T02:01:00+00:00",
-   "seen": "2026-11-19T10:24:07+00:00",
-   "cop": true,
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://wattsupwiththat.com/2026/11/14/what-happens-when-our-ccgt-plants-shut-down/",
-   "title": "What Happens When Our CCGT Plants Shut Down?",
-   "source": "Watts Up With That",
-   "desk": "opinion",
-   "published": "2026-11-14T21:57:00+00:00",
-   "seen": "2026-11-19T01:49:59+00:00",
-   "note": "Skeptic blog",
-   "description": "There is no financial incentive for building new gas plants, which will be on idle for most of the time and which will be banned eventually because of Net Zero.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2026/11/gb-ccgt-capacity-by-age-timera-1024x512-1.webp?fit=1024%2C512&quality=75&ssl=1",
-   "paragraphs": [
-    "In the past seven days we have been getting 61% of our electricity from gas, plus another 9% from burning trees:",
-    "As I repeatedly point out, it does not matter how many wind farms you build, three times nothing is still nothing!",
-    "Timera published this chart the other day, showing that 15 GW of CCGT capacity is at risk of retirement in the next 10 years because of age:",
-    "There is no financial incentive for building new gas plants, which will be on idle for most of the time and which will be banned eventually because of Net Zero.",
-    "Miliband’s answer was gas plants fitted with carbon capture, but so far only one has been given a contract – Net Zero Teesside Power, with capacity of 742 MW.",
-    "Much of his £22bn bung to carbon capture will be spent on the storage and transport of CO2, rather than the generation plants. BEIS levelised costs imply that CAPEX and OPEX for CCGT with Carbon Capture would add £2.2bn to the cost of a conventional CCGT over its lifetime, excluding interest costs.",
-    "It is therefore unlikely the budget will be enough to cover more than a handful of plants – Timera have estimated 9GW by 2040 in their modelling, but this is probably hopelessly overoptimistic. At the least, it is highly unlikely this capacity could be constructed and connected to carbon storing sites by then.",
-    "Which brings us back to the initial question. How will the grid cope if a large chunk of its CCGT capacity disappears in the next ten years?"
-   ],
-   "lede": "There is no financial incentive for building new gas plants, which will be on idle for most of the time and which will be banned eventually because of Net Zero."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaEdHNmdSYU9NYzhkdE1iVHREZHV1TGl0a296LUNwZ3dGZEJvSm9KMVQzYmt4U3U4NGU3QTVnUmhQRG82NWMyLU4zVFJZMDQzTm5UWExZdVVTbFJSbmlQR1ZWM0ZCR1hHUnpMR3FmSloyc1cyX2x6MUF6cEVZeDdZODhGUkpuR1JDTjNDY05JZ2ZHNFdXXzdmRkNEVXIwd2w3NFVFd3lwNjBtN2dSbzZWVlVR?oc=5",
-   "title": "As Democrats seek changes to bill on energy permits, divisions emerge",
-   "source": "Reuters",
-   "desk": "reporting",
-   "published": "2026-11-14T18:53:43+00:00",
-   "seen": "2026-11-19T19:29:47+00:00",
-   "cop": true,
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://www.climatechangenews.com/2026/11/14/scientists-defend-un-overshoot-report-after-saudi-led-push-to-sideline-it-at-cop31/",
-   "title": "Scientists defend UN overshoot report after Saudi-led push to sideline it at COP31",
-   "source": "Climate Home News",
-   "desk": "politics",
-   "published": "2026-11-14T17:45:05+00:00",
-   "seen": "2026-11-19T01:47:57+00:00",
-   "description": "In response to critics who have questioned the report's scientific legitimacy, its authors say the review matches IPCC standards",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://www.climatechangenews.com/wp-content/files/2026/11/GettyImages-2304278861-scaled.jpg",
-   "paragraphs": [
-    "Scientists behind a landmark UN report on overshooting the 1.5C warming limit have defended its credibility, after Saudi Arabia and other large developing countries questioned its scientific legitimacy and sought to keep it out of the main political decision expected from COP31.",
-    "The UN Environment Programme's (UNEP) Limiting Overshoot report, published in September, examines how to minimise an almost certain breach of the Paris Agreement's temperature goal, what crossing it will mean for people and ecosystems and how temperatures could be brought back down.",
-    "The European Union, the UK, the Least Developed Countries (LDCs) and small island states are among those pushing for COP31 to make the response to overshoot of 1.5C one of the summit's priorities.",
-    "Scientists behind a landmark UN report on overshooting the 1.5C warming limit have defended its credibility, after Saudi Arabia and other large developing countries questioned its scientific legitimacy and sought to keep it out of the main political decision expected from COP31.",
-    "The UN Environment Programme's (UNEP) Limiting Overshoot report, published in September, examines how to minimise an almost certain breach of the Paris Agreement's temperature goal, what crossing it will mean for people and ecosystems and how temperatures could be brought back down.",
-    "The European Union, the UK, the Least Developed Countries (LDCs) and small island states are among those pushing for COP31 to make the response to overshoot of 1.5C one of the summit's priorities.",
-    "But during closed-door consultations on the cover decision this week, the Arab Group, led by Saudi Arabia, have tried to cast doubt on the report's scientific rigour, arguing it had not been peer-reviewed, according to sources familiar with the discussions.",
-    "Meanwhile, the bloc of Like-Minded Developing Countries (LDMCs), which included India and China, called for the cover decision to avoid references to reports produced outside the UN climate process, seen by observers as a thinly-veiled reference to the UNEP report.",
-    "Laurence Tubiana, CEO of the European Climate Foundation and one of the key architects of the Paris Agreement, said the overshoot report “tells us a truth some would rather hide”.",
-    "“We are on course to exceed 1.5C and limiting how far and for how long is a matter of survival for us all,” she told Climate Home News. “The attacks on climate science are an attempt to delay action. They target intergovernmental institutions that give countries a shared scientific basis for acting together.”"
-   ],
-   "lede": "Scientists behind a landmark UN report on overshooting the 1.5C warming limit have defended its credibility, after Saudi Arabia and other large developing countries questioned its scientific legitimacy and sought to…",
-   "cop": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMUdMa3BVSk45alRMRFZoSmM0ZllsLVVMcEdKaDZpbzh5UW5EeGR2WHVmYTh5aE1KRnlleEIwMEVyc1o0VVVael9pMHVaa25BSmpZYUpENWxCZ09aOW1VRlJqZkhMcjVSWnlXcFNBaGFzSUkwbG85SlpZZF9jYlltMHkzRC1fSUxVSFNRQ2hfVEdUMzdXSHc4TzBzZnFFZFhtSU1fNjJVcFppZ1Z2REp6bFdDV0NGbGlRVHc?oc=5",
-   "title": "UN climate chief urges speed as COP31 confronts fossil fuel divide",
-   "source": "Reuters",
-   "desk": "reporting",
-   "published": "2026-11-14T15:31:46+00:00",
-   "seen": "2026-11-19T10:24:07+00:00",
-   "cop": true,
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUWdoelFfRW5odXlFenRKVGQzNGN0Mm1vSVAyY1RSeEg0QWlSZUxXTU9WLXNFbVlOUWNHWmRxU1dOc25EaUFNZmhKVUNfdnFyWDRPa21mMHVRRlFiX240Zkh3bDVLZUVpWTJwRGpLMnlHNGJ2MjhXRlVRd3VEZV84NTZqODcxZ0o2c1dkM1o3ZmRPLVFfN2RpTGpMeHRRZ2FBZDMtMjdjMDBnV1hLS1Q5cFVPdXFuRm1nd1hZakJydGo?oc=5",
-   "title": "Bullet Trains and New Homes Are on a Collision Course in California",
-   "source": "Bloomberg Green",
-   "desk": "reporting",
-   "published": "2026-11-14T15:00:03+00:00",
-   "seen": "2026-11-21T00:49:24+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONTRxa3Nubm9nMFAzRjkwNEpQYnVlQVd6SnBZWXJ1aGllaENwZi1ZZlgxSkZ3SjQyWFN4Q29TVVpXb0lKZmVJcmFCRXR3aEw3bE1RaFZXb2pCNnFnb1VST29sNHJGdzFRclh5WVV5bUlOdVVLNUpYQW1JTGhJWUdmQjVJNkFOemRPdFhPZDNIcVJKOEVHMXVvczBaSFdWS2l1b0dnZVRneERPQWVJb3dLLQ?oc=5",
-   "title": "Tech Giants Face More Grid Cost Pressure on Democratic Sweep",
-   "source": "Bloomberg Green",
-   "desk": "reporting",
-   "published": "2026-11-14T13:00:00+00:00",
-   "seen": "2026-11-21T00:49:24+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://www.climatechangenews.com/2026/11/14/cop31-bulletin-day-6-limited-progress-as-ministers-arrive-in-antalya/",
-   "title": "COP31 Bulletin Day 6: Climate marchers call for justice as talks make limited progress",
-   "source": "Climate Home News",
-   "desk": "politics",
-   "published": "2026-11-14T11:21:49+00:00",
-   "seen": "2026-11-19T01:47:57+00:00",
-   "description": "After campaigners took to the streets, red lines are set to emerge at the summit as Australia and Türkiye preside over a stocktaking plenary on Saturday night",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://www.climatechangenews.com/wp-content/files/2026/11/GettyImages-2305088920-scaled.jpg",
-   "paragraphs": [
-    "As negotiators race to lay the ground for the big political fights coming in the second week of COP31, campaigners took to the streets of Antalya demanding that governments keep their climate promises.",
-    "Delegates, meanwhile, will spend their Saturday night at a midway stocktaking plenary presided over by Türkiye and Australia, where countries’ first red lines are expected to emerge.",
-    "Countries will have to decide whether to move forward with a cover decision as the main outcome from the Antalya talks. Some large developing countries have pushed back on it all week, as well as on any inclusion of sectoral targets, including a flagship new pledge to increase electrification to 35% of energy use by 2035.",
-    "As negotiators race to lay the ground for the big political fights coming in the second week of COP31, campaigners took to the streets of Antalya demanding that governments keep their climate promises.",
-    "Delegates, meanwhile, will spend their Saturday night at a midway stocktaking plenary presided over by Türkiye and Australia, where countries’ first red lines are expected to emerge.",
-    "Countries will have to decide whether to move forward with a cover decision as the main outcome from the Antalya talks. Some large developing countries have pushed back on it all week, as well as on any inclusion of sectoral targets, including a flagship new pledge to increase electrification to 35% of energy use by 2035.",
-    "UN climate chief Simon Stiell told a press conference on Saturday morning that progress so far has been “constructive” and praised the fact that negotiations were able to start on time as countries avoided what had seemed to be shaping up as a fight over the agenda .",
-    "He added that Saturday’s plenary will provide a sense of the most controversial issues, which ministers now flying in will have to take up and settle. \"As we head into the second week, I urge [governments] to move swiftly to the hardest issues and to avoid tactical delays,\" he added.",
-    "As of now, most issues on the formal agenda still need a lot of work. The cover text is more a wishlist of every proposal tabled and still needs to be worked up into a draft - expected by early next week.",
-    "An informal note on the Mitigation Work Programme (MWP), which tackles cutting planet-heating emissions, is heavily bracketed. The EU has said one of its priorities is to extend the MWP, with current options for a timeline going up to 2030, 2031 or 2040 (at COP45!). The MWP has so far delivered weak outcomes, but the current fight is over whether to expand its scope and task it with informing the next Global Stocktake of climate policies in 2028."
-   ],
-   "lede": "As negotiators race to lay the ground for the big political fights coming in the second week of COP31, campaigners took to the streets of Antalya demanding that governments keep their climate promises.",
-   "cop": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2NjBYTHpRaE9ObTBMd01ZSTh6U2V3UzM1bm5nb1hUVlVWUnhOSG9yUl85RWVuTGV0ZG1MWGp5S1VzakRPWkFpMWNjX3V5cHI5YWtzZ3U3TVNBZw?oc=5",
-   "title": "Newshour | US touts the idea of Ukraine withdrawing its forces for Nato membership",
-   "source": "BBC",
-   "desk": "reporting",
-   "published": "2026-11-14T08:00:00+00:00",
-   "seen": "2026-11-22T17:50:54+00:00",
-   "cop": true,
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hRVJBX1RMN2pCczk1NGY2X0wyckY4UHJzVjYwd2VWMjhtZk1TaTJVeDZyY18wcHowZ2ZOTk5BSFRTaUN6aXlJblZ5QUZqckNGODlSa05LU2lXbEwzc0VF?oc=5",
-   "title": "Whatever next?",
-   "source": "The Economist",
-   "desk": "opinion",
-   "published": "2026-11-14T08:00:00+00:00",
-   "seen": "2026-11-20T10:04:06+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZWw3R0VwdDZ5MVhtNGNaOFpQdjBDT2lxNU5OZXM3Q1VtSkk2SzdMQWJ6U2hKd0xtTXRIVE0tdHcwSFo0bnFaYlY0QkZYbHBaWmlhQVJYYUhhQTF0UDEtSnlqM2UxeTl1MDhwSHVHRkxzdVJiRjJVSTJkOTZaZEVSYzNZUmwxWGdxd0ow?oc=5",
-   "title": "UN chief says 'immediate and drastic' emissions cuts needed to avert climate change catastrophe",
-   "source": "Associated Press",
-   "desk": "reporting",
-   "published": "2026-11-14T06:18:00+00:00",
-   "seen": "2026-11-19T10:24:07+00:00",
-   "cop": true,
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://climatediplobrief.substack.com/p/climate-diplomacy-brief-cop31-day-602",
-   "title": "Climate Diplomacy Brief",
-   "source": "Climate Diplomacy Brief",
-   "desk": "politics",
-   "published": "2026-11-14T06:05:00+00:00",
-   "seen": "2026-11-19T01:46:41+00:00",
-   "byline": "Ed King",
-   "description": "‘Choose the future and never give up,’ Guterres tells delegates as COP shuffles on",
-   "image": "https://substackcdn.com/image/fetch/$s_!xdZh!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa6d27bd2-a20f-416c-a15e-bc73cb650d0b_799x533.jpeg",
-   "ftries": 1,
-   "fetched": true,
-   "paragraphs": [
-    "MIA Is there anyone in the cockpit? A week into COP31 and there’s a definite sense of drift. The co-hosts are lying low, work on a main political/cover text seems a mess (even containing reference to the “ largely defunct ” Kyoto Protocol) and levels of support for the 35% by 2035 electrification deal are a mystery. Silence is not unusual but it’s a little worrying. Maybe they’ve been learning a new dance ( like this ). Choreography next week is key. Wrap Saturday usually sees a marked shift in gear at COPs as ministers arrive and the main negotiating venues of week 1 (SBI & SBSTA) formally close. UN climate boss Simon ‘no silver bullet’ Stiell’s 10:30 presser and the 13:00 Presidency briefing will offer a vibe check. It’s unclear if we’ll see fireworks or everyone exude hammam chill in plenary sessions as envoys debate adaptation finance, 1.5C overshoot, GST2 and the IPCC. Bonus We made it through Friday 13th without the world reaching infinity population, as predicted by the journal Science back in 1960. Turns out Australia PM Albanese and his environment minister/COP co-boss Bowen have a theory why that’s the case. The pair were caught live on air discussing the danger of phone radiation on their penises . “My d**k, that’s rather important, arguably more important than the heart,” said Bowen.",
-    "Socks Beware COPs bearing gifts. In 2015 at the Paris Agreement the media got a tote bag. In 2021 in Glasgow it was a can of Irn-Bru and a deep fried pizza. In 2026 the bribes - sorry gifts - are next level. Bags, bottles, laptop stands, magnets, lapel pins, cuddly toys and two pairs of socks, which hopefully isn’t a sign we’re going to run over next weekend. We asked our Turkish colleague and he promised the power bank probably won't be bugged. Bookmarks *IEA: Energy crisis policy tracker *Carbon Brief: Who wants what at COP31? *Carbon Brief: Negotiating text tracker *NRDC: International climate finance tracker *CAT: GHG analysis of all major emitters *ENB: Priceless daily update from inside the talks Sitrep So where are we as week 1 wraps? Here’s our traffic-light take. COP veterans won’t be shocked that we’re mostly on red, amber at best. 1. Is finance allocated by COP31 to Nepal for reconstruction/early warning ? 2. Is there a clean electrification goal ? Does it include $$$, grids & policies? 3. Are new fossil fuel phaseout plans published by governments? 4. Will hosts Türkiye & Australia commit to curbing coal use/exports ? 5. Is there an agreed plan to triple adaptation finance (as agreed in 2025)? 6. Have countries agreed (in negotiations) on how Global Stocktake 2 will work? 7. Will the IPCC deliver its next blockbuster report by GST2/2028?",
-    "We mulled over what song would be totally out of keeping with the last week, and Lindsay chose her favourite tune of all time: ‘Tubthumping’ by Chumbawunba . Comments as ever to Lindsay.smith@gsccnetwork.org ."
-   ],
-   "lede": "MIA Is there anyone in the cockpit? A week into COP31 and there’s a definite sense of drift.",
-   "cop": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNLVhHdzBKMzBTb3ozUTZETmtWT2xTcXU0TzNJdzhnWW5ZVzZMYnlGZTM3OEJGWU5kOEd4Vkl1N0w3bDRKSlVXaGNsYkp2eU0zZVdZWlBqbTBzMTd4dWUzcUJ6czNqSFlXWlhzR2kwam1lMDNrSGRRcDR5U2tyQ18yZG84MU9Pb0ZKQzVyZXBOZDV4aUVhXzZhcGwzaTNpYThPbkRFWGFXVVdtcEI0djF5RmJVVQ?oc=5",
-   "title": "China to Meet All New Power Demand With Clean Energy, CCTV Says",
-   "source": "Bloomberg Green",
-   "desk": "reporting",
-   "published": "2026-11-14T04:05:00+00:00",
-   "seen": "2026-11-19T01:57:51+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOckxRVE9fZ2lzUURQMEpGc2dZNUQwZ2FQMzFydktkYzdvSVZzVmFYWEwwZmExR3ZsdTY2Wkg4UnNKS1VqRm1fcFFpU05QTEd1MW9PU19CRy1BaWptZjZiWUVMMHZvb29sUEwyVE1EYmNBd3g0QnJ2OWpNUFVvTEJiaDJpQ0JySFdjZXR1WVY4OUZkbHdfdVowc3lZRndjekhRQS1nbXQ3aW05c2l6OGhUTTk4aDR0c0Et?oc=5",
-   "title": "Bessent Assails Lutnick as Nvidia Scandal Spreads",
-   "source": "Bloomberg Green",
-   "desk": "reporting",
-   "published": "2026-11-14T02:40:00+00:00",
-   "seen": "2026-11-19T01:57:51+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSnJxbWVvWDdxd1gwZ0EtOE5aNDhTenh6VFc4WDVzLW1PQmR0VmZYRW5kMGRZYmNMTHdHNFFKUEVtWWlObVRiaDZtRmt2NjQ2ZDhCYk9TNG90MDZFSDNJeGJxU1ZhaW90cno1OFdKQzRWZFdfY3ZTTE5qUXJzYWNpT3NEdXVSLXNubllXWnlSMEFEVnpJb0FtN2R4Z0ZGTVpoLWJZS0FubC1GcnVFOXZydw?oc=5",
-   "title": "Watch US Flights Grounded Over Air Traffic Communication Issue",
-   "source": "Bloomberg Green",
-   "desk": "reporting",
-   "published": "2026-11-14T00:10:18+00:00",
-   "seen": "2026-11-19T01:57:51+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb2ItNXZXVGNsZDBqQW5JYVRjOERPdHNKWEFlakk3S0ZrZ09fVFZfM3JWRjJNa1dGcWhYdWdOdi1iR3FrUFJDNEo4SnNiUmo2MXBkdHBYNUYxTncwTElPc1k3TjNpSFdTTlF3dXFKSTc3a1prXzZyTFRfaGZXb0NTWkUzdmJpYVJ6bmVwb1liQmFjZERhMHNnblptZWktS0laRmprUGk2cVhncHNLRDVZel9LX0RIdkZO?oc=5",
-   "title": "How a Bolivian Woman Is Reviving a Dying Lake with Plants",
-   "source": "Bloomberg Green",
-   "desk": "reporting",
-   "published": "2026-11-13T23:30:19+00:00",
-   "seen": "2026-11-19T02:03:16+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYnB5cVJGS0l6M3FaTjJhUTNFa3VVODVGUGVCVEFfTnUwakFGU284ODJQWWM0RXhoQ0Y0c2ZIRE1henIxOFZkVHJvOEtRbERYYjhpUnQ2OC1lOC1zVDFUV1dGa0VnQ1NCQW1VS3RFME1SN2FnMUVwdTVUSXRlUFJfMTRXZ3U5blBPR1lsUGdjQzNVX3ZWWWFnZS1SNHRObGFvbE9SR1h3OWZDcTRRMmFv?oc=5",
-   "title": "Watch Big Take: The Climate Is Changing in Ways Models Couldn’t Predict",
-   "source": "Bloomberg Green",
-   "desk": "reporting",
-   "published": "2026-11-13T22:55:43+00:00",
-   "seen": "2026-11-19T01:47:57+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQakJTTFVVSzhtXzM2ZFNQam5JWWw0cWM5XzU2TUh4U0dSNVRiM01xUW0xODA2VGVoMG9yYjhEVFZpSDcxemltcEhLQnd4SndaNU1RdDU0d3VxbFh2TGphSFJmTnR4c0hpaFYzbnQtUExoU0tuZ1drem12cURCZWVQSlJDTWZ6bDVUWGlTc0w2WDR4OUhQT0oyWm1vZFY5M21BOVFYQW9TRmYxWkQ3QUQxMzlkUG9ONS1TY040QVdxZFJncm5Y?oc=5",
-   "title": "COP31 Is Grappling With Climate Change That Outpaces Modeling",
-   "source": "Bloomberg Green",
-   "desk": "reporting",
-   "published": "2026-11-13T21:57:17+00:00",
-   "seen": "2026-11-19T01:49:59+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "cop": true
   }
  ],
  "dropped": [

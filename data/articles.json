@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-24T04:50:33+00:00",
+ "updated": "2026-11-24T15:55:10+00:00",
  "briefing": {
   "headline": "COP31, fossil fuels and El Niño",
-  "period": "Nov 17–23",
-  "made": "2026-11-23T20:15:32+00:00",
+  "period": "Nov 18–24",
+  "made": "2026-11-24T15:55:10+00:00",
   "bullets": [
+   {
+    "text": "The youth of this era, both Gen Z and Gen Alpha, are often described as the “climate generation,” in part because climate change is already shaping how this generation (which also happens to be my generation) lives and…",
+    "source": "Inside Climate News",
+    "url": "https://insideclimatenews.org/news/24112026/the-climate-generation-at-cop31/",
+    "theme": "COP31"
+   },
    {
     "text": "The summit has been criticised for concluding without taking decisive action on fossil fuels",
     "source": "The Guardian",
     "url": "https://www.theguardian.com/commentisfree/picture/2026/nov/23/ben-jennings-failure-cop31-cartoon",
-    "theme": "COP31"
-   },
-   {
-    "text": "The COP31 climate talks in Antalya, Turkey, have failed to reach agreement on a “pact” that lacked clear references to curbing fossil fuels or scaling up climate finance.",
-    "source": "Carbon Brief",
-    "url": "https://www.carbonbrief.org/cop31-key-outcomes-agreed-at-the-un-climate-talks-in-antalya",
     "theme": "fossil fuels"
    },
    {
@@ -30,10 +30,10 @@
     "theme": "clean energy"
    },
    {
-    "text": "NASA researchers have produced detailed 3D topography maps for all of California, down to the scale of a single tree.",
-    "source": "NASA",
-    "url": "https://science.nasa.gov/blogs/science-news/2026/11/18/california-wildfire-risk-3d-maps/",
-    "theme": "wildfires"
+    "text": "I t’s sometimes said that we are sleepwalking into climate catastrophe.",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/commentisfree/2026/nov/24/deadly-floods-fires-cop31-collapsed-climate-crisis",
+    "theme": "flooding"
    },
    {
     "text": "A private company bid $6 million for access to 31.5 million acres of federal waters.",
@@ -44,6 +44,423 @@
   ]
  },
  "articles": [
+  {
+   "url": "https://wattsupwiththat.com/2026/11/24/youre-the-boss-of-your-inbox-now-wuwt-readers-can-mix-and-match-their-emails/",
+   "title": "You’re the Boss of Your Inbox Now. WUWT Readers Can Mix and Match Their Emails",
+   "source": "Watts Up With That",
+   "desk": "opinion",
+   "published": "2026-11-24T14:00:00+00:00",
+   "seen": "2026-11-24T15:55:10+00:00",
+   "cats": [
+    "Announcements",
+    "Email",
+    "Newsletter",
+    "Post Notifications"
+   ],
+   "note": "Skeptic blog",
+   "description": "Good news for everyone who loves WUWT but not quite enough to want an email for every single post. You now decide what lands in your inbox. Slow the post emails down, stop them, bring them back, get the Premium Newsletter again, or any combination you like, all without unsubscribing from everything.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2026/11/wuwt-email-preferences-feature.webp?fit=1024%2C512&quality=75&ssl=1",
+   "paragraphs": [
+    "Thanks to everyone who asked for something between “everything” and “nothing.” Now you can have whatever lies in between."
+   ],
+   "lede": "Good news for everyone who loves WUWT but not quite enough to want an email for every single post. You now decide what lands in your inbox."
+  },
+  {
+   "url": "https://insideclimatenews.org/news/24112026/the-climate-generation-at-cop31/",
+   "title": "The Climate Generation at COP31",
+   "source": "Inside Climate News",
+   "desk": "reporting",
+   "published": "2026-11-24T13:30:00+00:00",
+   "seen": "2026-11-24T15:55:10+00:00",
+   "cats": [
+    "Fossil Fuels",
+    "Politics",
+    "Today's Climate",
+    "Climate Change",
+    "COP31",
+    "policy"
+   ],
+   "description": "The youth of this era, both Gen Z and Gen Alpha, are often described as the “climate generation,” in part because climate change is already shaping how this generation (which also happens to be my generation) lives and what our futures will look like. Researchers have linked climate change to shifts in where Bangladeshi children live…",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://insideclimatenews.org/wp-content/uploads/2026/11/GettyImages-2304421459-1024x683.jpg",
+   "paragraphs": [
+    "The youth of this era, both Gen Z and Gen Alpha, are often described as the “climate generation,” in part because climate change is already shaping how this generation (which also happens to be my generation) lives and what our futures will look like. Researchers have linked climate change to shifts in where Bangladeshi children live and learn, girls dropping out of school in Kenya during droughts or floods and declining the mental health of students.",
+    "But we are also the generation that has learned to push back: taking to the streets, as millions did worldwide during the global climate strikes inspired by Greta Thunberg’ in 2019, and to the courts, where 27 students from the University of the South Pacific launched the campaign that ultimately led to the International Court of Justice’s 2025 climate opinion. At this year’s COP31, the United Nations’ 31st climate summit in Antalya, Turkey, the climate generation was back.",
+    "Dan Gearino’s habit-forming weekly take on how to understand the energy transformation reshaping our world.",
+    "A once-a-week digest of the most pressing climate-related news, written by Kate Waxman and released every Tuesday.",
+    "Don’t miss a beat. Get a daily email of our original, groundbreaking stories written by our national network of award-winning reporters.",
+    "A digest of stories on the inequalities that worsen the impacts of climate change on vulnerable communities.",
+    "Before the summit, the food and agriculture working group of YOUNGO, the official youth constituency in U.N. climate talks, called for grant-based adaptation finance that young farmers could access directly. The Nov. 19 draft does mention grant-based adaptation finance, but it reserves the “direct access” language for national development banks, not young people.",
+    "The one finance decision that appears to have survived the summit is on the loss and damage fund. It calls for the board to “enhance engagement” with the youth and to “take into account their perspectives, as appropriate.”",
+    "Did you also spend your free time reading the draft decisions? Email me at [email protected] to share what you noticed in the texts.",
+    "On Nov. 19, Higgins said in a video published to the UN Climate Change Facebook account that “farming practices are really under threat from climate change,” the same concern YOUNGO expressed."
+   ],
+   "lede": "The youth of this era, both Gen Z and Gen Alpha, are often described as the “climate generation,” in part because climate change is already shaping how this generation (which also happens to be my generation) lives and…",
+   "cop": true
+  },
+  {
+   "url": "https://www.theguardian.com/environment/2026/nov/24/summer-heat-deaths-record-high-england",
+   "title": "Summer heat deaths in 2026 reached record high of 5,258 in England",
+   "source": "The Guardian",
+   "desk": "reporting",
+   "published": "2026-11-24T12:39:50+00:00",
+   "seen": "2026-11-24T15:55:10+00:00",
+   "cats": [
+    "Extreme heat",
+    "UK weather",
+    "England",
+    "Health",
+    "Environment",
+    "Society",
+    "UK news",
+    "Climate crisis"
+   ],
+   "description": "Figure for May to September is far higher than previous peak of 2,985 since records began a decade ago",
+   "image": "https://i.guim.co.uk/img/media/54e33c27c1b231b7460aab7b0889f51506eac005/204_0_4710_3769/master/4710.jpg?width=140&quality=85&auto=format&fit=max&s=aeaf4b7a1df2d92dc36b01265161b54c",
+   "ftries": 1,
+   "fetched": true,
+   "paragraphs": [
+    "More than 5,200 deaths in England in 2026 were linked to summer heat, the highest provisional annual total since records began a decade ago, according to the UK Health Security Agency.",
+    "The government agency said 5,258 deaths were associated with extreme heat between May and September 2026.",
+    "The figure is substantially higher than the previous record of 2,985, recorded in 2022, and follows totals of 2,295 in 2023, 1,311 in 2024 and 1,504 last year.",
+    "This year’s summer was the hottest on record, bringing record-breaking temperatures and prolonged dry weather. Temperatures reached 38C (100.4F) in Norfolk in June, while a peak of 38.2C was recorded in Gloucestershire in August. England also experienced its driest July on record, with just 7mm of rain.",
+    "The greatest number of deaths was during the heatwave between 21 and 28 June, when an estimated 2,401 people died. More than 3,000 heat-associated deaths were recorded across the first two episodes of the season, in May and June.",
+    "The agency said the summer had seven “heat episodes” lasting a total of 41 days, the highest number of episodes and heat-episode days since monitoring began in 2016. The June heatwave triggered only the second red heat-health alert ever issued in England.",
+    "Dr Ross Thompson, UKHSA’s principal environmental health scientist, said: “Climate change is already affecting people’s health in England, and as the climate continues to warm we can expect periods of extreme heat to become longer, more frequent and more intense.”",
+    "“That is why it is vital that individuals, communities, health and care services and local organisations are prepared, not just during a heatwave but in the longer term. The decisions we make now will shape the health impacts people experience in the decades ahead.”",
+    "UKHSA said heat early in the summer could be particularly dangerous because people and public services may not yet be prepared. It said heat-health measures should be in place from the start of summer, rather than focused only on the hottest weeks."
+   ],
+   "lede": "More than 5,200 deaths in England in 2026 were linked to summer heat, the highest provisional annual total since records began a decade ago, according to the UK Health Security Agency."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbEZHYk1aU3pnWkgwNEVlRm82VllxeEFhR3dhQUQwQUJlRm5ScnhvdXNQM21ROHNWb3FjZ0hiM2E3dnEyQmxhb1hLX1hUWTllVU5tTWRuUC1ZMXpOY2ZaaExXSjZQS0dfMnpUaU8wdk43UzFjcm5pVW1DZmlKNHZ0eWN3MkU4Ump1Q2E5YkFJUTRqVGVoTFZVclRXbFN2a2R3Y0hwVUNzSnNhZGE5MTF0Qg?oc=5",
+   "title": "Republican lawmakers are in revolt over Jensen Huang’s return",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-24T12:37:32+00:00",
+   "seen": "2026-11-24T15:55:10+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://yaleclimateconnections.org/2026/11/indigenous-communities-push-back-against-mining-for-clean-energy/",
+   "title": "Indigenous communities push back against mining for clean energy",
+   "source": "Yale Climate Connections",
+   "desk": "science",
+   "published": "2026-11-24T12:00:00+00:00",
+   "seen": "2026-11-24T15:55:10+00:00",
+   "cats": [
+    "Feature Article",
+    "Policy & Politics",
+    "Lizeth Ortega Luna"
+   ],
+   "description": "At COP31, Indigenous representatives warned that growing demand for lithium and uranium is threatening their lands, water, and rights.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://i0.wp.com/yaleclimateconnections.org/wp-content/uploads/2026/11/202611-indigenous-peoples-cop31.jpg?fit=1600%2C900&ssl=1",
+   "paragraphs": [
+    "ANTALYA, TURKEY – As representatives of the world’s countries gathered in Antalya, Turkey, to discuss how to accelerate the transition to climate-friendly electric technologies, Indigenous people spoke out against mining on their territories for the raw materials that the tech requires.",
+    "“Why can protecting our territories wait, but exploitation cannot? What is really urgent? What is really critical?” asked Djalma Ramalho, a member of the Aranã Caboclo community, a territory in the Jequitinhonha Valley of Brazil.",
+    "Ramalho raised this question to the audience gathered at the Indigenous peoples’ pavilion for a panel on mineral extraction. The panel set the tone for Indigenous people’s demands during negotiations at the United Nations Framework Convention on Climate Change Conference of the Parties, also known as COP31.",
+    "Nearly 200 countries attended the recent two-week annual conference to debate an international agreement to limit climate change. Negotiations focused on the goal of rapidly increasing the share of the world’s energy needs that are met with electricity, which can be produced with climate-friendly solar, wind, and nuclear power. The talks broke down over the weekend when major oil-producing nations blocked language about phasing out fossil fuels, which cause climate change.",
+    "The push for electrification is accelerating demand for raw materials like lithium, which is used in the batteries that power electric vehicles and provide back-up power for solar panels. Production of uranium, which fuels nuclear power plants, is also rising.",
+    "That has big implications for Indigenous people: Fifty-four percent of mining projects for the minerals critical to an energy transition are located on or near Indigenous peoples’ land, according to a 2022 study. According to the World Nuclear Association, the largest-producing uranium mines are in Canada, Namibia, Kazakhstan, and Australia. Over a quarter (29%) of the uranium stemming from these mines is on recognized Indigenous land.",
+    "As demand for these materials grows, Indigenous representatives are pushing countries to write their rights into the Just Transition Mechanism, a framework agreed upon in 2025 to coordinate international cooperation, technical assistance, capacity-building, and knowledge-sharing.",
+    "Ramalho’s community in the Jequitinhonha Valley has seen firsthand the impacts of lithium extraction. Mines have contaminated waterways and exacerbated water scarcity in an already arid region.",
+    "“Our relationship with the water needs to be respected,” Ramalho said in a video produced for COP31. “This is a relationship that goes far beyond the physical. We believe the Jequitinhonha River is a reclining ancestor. Where does my ancestor go when you pollute my river? Where does my ancestor go when you kill my river? When the river has rights, life has a future.”",
+    "“They are literally destroying our territory,” Ramalho added. “Whatever the promises of clean energy development, my territory cannot be treated as a sacrifice zone for the world.”"
+   ],
+   "lede": "At COP31, Indigenous representatives warned that growing demand for lithium and uranium is threatening their lands, water, and rights.",
+   "cop": true
+  },
+  {
+   "url": "https://yaleclimateconnections.org/2026/11/transmission-bottlenecks-are-holding-up-wind-and-solar-projects/",
+   "title": "Transmission bottlenecks are holding up wind and solar projects",
+   "source": "Yale Climate Connections",
+   "desk": "science",
+   "published": "2026-11-24T11:59:00+00:00",
+   "seen": "2026-11-24T15:55:10+00:00",
+   "cats": [
+    "Audio",
+    "Energy",
+    "Policy & Politics",
+    "United States"
+   ],
+   "description": "Long waits to connect new energy projects to the grid are slowing the expansion of renewable electricity in the U.S.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://i0.wp.com/yaleclimateconnections.org/wp-content/uploads/2026/11/112426_transmission_1600.jpg?fit=1600%2C900&ssl=1",
+   "paragraphs": [
+    "Solar and wind farms can help the U.S. meet its rapidly growing demand for electricity. And there are lots of new clean energy projects ready to break ground.",
+    "But the country’s transmission infrastructure poses a bottleneck. And energy developers often spend years waiting for approval to connect a project to the grid.",
+    "Gramlich: “The big transmission lines that you see when you drive along the highway are what a lot of the large wind, solar, and battery storage developers are trying to connect to, and they connect specifically to substations.”",
+    "That’s Rob Gramlich of the consulting firm Grid Strategies. He says before utilities and grid operators greenlight a project, they have to assess whether the grid can handle the added electricity in that location or whether it will require upgrades.",
+    "It’s a slow, expensive process with a long backlog. But if passed, a new federal bill would require regulators to shorten it.",
+    "And government agencies and grid operators are working to streamline the process – for example, by studying clusters of projects at once, or prioritizing projects in areas with lots of transmission capacity to get them online more quickly.",
+    "Gramlich: “The regulations are difficult, the politics are difficult, but we can overcome those things.”"
+   ],
+   "lede": "Long waits to connect new energy projects to the grid are slowing the expansion of renewable electricity in the U.S."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPN1VGSms5WGtHWnp3ZmMzUGpEWFZGcXlqNnBvS3V1SzhQVEJialdrU1ozdVhLZHZTbm92QnhuNUZPWXBJUVdnS1AtQ1hoMl9NbVRadm1JN290ZUtfcm5KbWJOUUZsS056TkJzRUx0MlpJMm0wUlhvLUR4WGNoLXpObHo2MlZqSnYyZEE?oc=5",
+   "title": "Right-wing revolt threatens to bog down EU budget",
+   "source": "POLITICO.eu",
+   "desk": "reporting",
+   "published": "2026-11-24T11:41:00+00:00",
+   "seen": "2026-11-24T15:55:10+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYnhIY0JlZXh2d19hd0p6WktUNkcwdEY3UHRNTjdiekxIYjRJelY4Q091bzhlcjRnMnNKY01pYWdMLVBzQU5JTVJJVjI5SW01WjdVa2dYQ3dHc3RYa2lwanpnUjlwMW5WeS1FNTZZNlhrV0lWX1ZsYXJidGVVN1ZOTWpta1NtMElmckFwNUd2UzhvS1FXZUdCTUVqcG5pMTVzaVluNFVfbmFNM0NDdmhZM1JJQUZDUTA?oc=5",
+   "title": "‘Majority’ against Frederiksen’s return hub plan, says Socialist chief in EU Parliament",
+   "source": "POLITICO.eu",
+   "desk": "reporting",
+   "published": "2026-11-24T11:03:00+00:00",
+   "seen": "2026-11-24T15:55:10+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPS3k4UFhDemlEcGNHYW42akZPdlVIZi1fVEJoS3VzU25YUTE4NkpKNlI0c0s2VlNpcjFPR25laERkSExLTWtKaThXLThKSHphZENZQWlWNFlCeW9hTHVaZzdhZkZONlVRRmxiSmNkYUNRNmlneDA0eTNGUHkxOFpPV1ZhWXQ5Tm9ZeHd0MmtSUWJrcHM2TDAxcW42clprbXV0Y1dTUjItS20wRXk5WW12dw?oc=5",
+   "title": "Colleges Rejecting Fossil Fuel Divestment Enjoy a Rich Payoff",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-24T10:30:11+00:00",
+   "seen": "2026-11-24T15:55:10+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://wattsupwiththat.com/2026/11/24/el-nino-to-kill-half-a-million/",
+   "title": "El Nino To Kill Half a Million!!",
+   "source": "Watts Up With That",
+   "desk": "opinion",
+   "published": "2026-11-24T10:05:00+00:00",
+   "seen": "2026-11-24T15:55:10+00:00",
+   "cats": [
+    "Alarmism",
+    "Bad science journalism",
+    "El Nino Basics",
+    "Climate Impact Lab",
+    "heat deaths",
+    "Super El Nino",
+    "UK Telegraph"
+   ],
+   "note": "Skeptic blog",
+   "description": "Higher temperatures linked to El Nino will very likely save lives overall.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2026/11/owid-world-death-rate-1980-2023-1024x512-1.webp?fit=1024%2C512&quality=75&ssl=1",
+   "paragraphs": [
+    "It was once a proud, serious-minded newspaper, but under Axel Springer the Telegraph is rapidly turning into a laughingstock.",
+    "Scientists on Tuesday said that El Niño – predicted to be the most intense on record – should be classified as a global health emergency which could kill hundreds of thousands.",
+    "“The 2026-27 El Niño is going to cause pandemic-scale mortality,” said Dr Colin Carlson, an assistant professor of epidemiology at Yale University, warning it would be deadlier than the 2009 swine flu pandemic, which killed roughly 284,000 people.",
+    "He urged the World Health Organisation to classify the “discrete and deadly event” as a public health emergency of international concern, on par with the Ebola epidemic in the Democratic Republic of the Congo and the circulation of polio.",
+    "“An early analysis suggests that nearly half a million deaths will result from extreme heat alone, to say nothing of epidemics of dengue fever, cholera, and other infectious diseases that could also occur in tandem,” Dr Carlson said, in an article in Think Global Health with Prof Christopher Callahan, a climate scientist at Indiana University.",
+    "Needless to say, none of these frankly absurd claims are based on real world data; instead, they are worked out from computer models, programmed to assume that death rates increase as temperatures do.",
+    "That real world data shows no spikes at all in mortality rates during El Nino years, such as 1998 and 2016. The spike during the pandemic is abundantly clear, a fact which itself makes the Telegraph’s claims of “pandemic-scale mortality” ludicrous.",
+    "There was, interestingly, one other, smaller spike in 1994. Chat GPT informs me this was caused by the Rwandan Genocide, during which an estimated 800,000 lost their lives.",
+    "A Lancet study in 2021 estimated that there were on average 489,075 heat-related deaths around the world each year between 2000 and 2019, but nearly 4.6 million cold-related ones. In other words, nine times as many cold-related deaths.",
+    "You can argue about the numbers, but several other studies support the basic premise that deaths from cold far outweigh those from heat."
+   ],
+   "lede": "Higher temperatures linked to El Nino will very likely save lives overall."
+  },
+  {
+   "url": "https://insideclimatenews.org/news/24112026/montana-wildfire-insurance-costs/",
+   "title": "As Wildfires Stress Montana’s Insurance Market, the State is Getting Harder to Call Home",
+   "source": "Inside Climate News",
+   "desk": "reporting",
+   "published": "2026-11-24T10:00:00+00:00",
+   "seen": "2026-11-24T15:55:10+00:00",
+   "cats": [
+    "Justice & Health",
+    "homeowners insurance",
+    "insurance",
+    "insurance rates",
+    "Montana",
+    "Wildfire",
+    "Wildfires"
+   ],
+   "description": "Buying or maintaining homeowners insurance in fire-prone parts of the state is a mounting challenge, even for residents who have mitigated the hazard.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://insideclimatenews.org/wp-content/uploads/2026/11/51286207225_dce2d3fee0_o.jpg",
+   "paragraphs": [
+    "Montana’s snow-capped mountains, vast forests and open valleys have long attracted people seeking a life close to nature. But that lifestyle is becoming increasingly difficult to afford, or even attain, as the state’s growing wildfire risk spikes homeowners insurance premiums and leaves some home buyers unable to purchase coverage at all.",
+    "As wildfire seasons grow longer and more destructive across the American West, insurers are fundamentally changing how they evaluate risk, said James Brown, Montana’s elected state auditor, who also serves as the state’s commissioner of securities and insurance. About 70 percent of the acreage burned by wildfires in Montana since 1888 has burned since 2000, according to the state Legislature. And nearly two-thirds of Montana homes are located within the Wildland-Urban Interface, or WUI, where residential development meets fire-prone forests and grasslands, leaving them vulnerable to wildfires.",
+    "“We’re receiving more complaints from homeowners about wildfire insurance than almost any other issue,” said Brown in an interview with Inside Climate News. “People are finding that either their premiums have increased significantly or their policies are not being renewed because companies are reassessing wildfire risk.”",
+    "Dan Gearino’s habit-forming weekly take on how to understand the energy transformation reshaping our world.",
+    "A once-a-week digest of the most pressing climate-related news, written by Kate Waxman and released every Tuesday.",
+    "Don’t miss a beat. Get a daily email of our original, groundbreaking stories written by our national network of award-winning reporters.",
+    "A digest of stories on the inequalities that worsen the impacts of climate change on vulnerable communities.",
+    "The challenges facing Montana homeowners reflect a broader national trend. An August 2026 report by the National Association of Insurance Commissioners reported that inflation-adjusted homeowners insurance premiums increased between 18.3 percent and 43.3 percent across different U.S. regions from 2018 to 2024. During the same period, insurer-initiated policy nonrenewal rates rose between 96 percent and 216 percent, depending on the region.",
+    "Property insurance costs have risen fastest in regions exposed to climate-related hazards, according to the U.S. Treasury Department, and insurers are increasingly declining to renew policies in high-risk areas.",
+    "Montana has not experienced the insurance market collapse seen in parts of California and Florida, where major insurers have sharply reduced the new business they take on, but the state’s market is still under great stress."
+   ],
+   "lede": "Buying or maintaining homeowners insurance in fire-prone parts of the state is a mounting challenge, even for residents who have mitigated the hazard."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOE13aVJMMDZxMnJiME1ZZHFoLWFheUg5cm9hWGlmQVRqeTcxZF9aVF9DSzRwSS1SV3hnMVliN0kxTms5RGdHNnIxYUg0Q1Y4X0dfU2hsYTFGcHU0R1BvaEhsam9HVkZXalJoa05DWmg4d0xVZF9UdjFJanRvbWYxc2liWGxiMm05b1J2ODZaUklEaUpKcEdMcEFhcGVDaXR4R3FieUtON1c3Z25VLVo4?oc=5",
+   "title": "German Business Outlook Improves for Seventh Straight Month",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-24T09:34:41+00:00",
+   "seen": "2026-11-24T15:55:10+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://www.theguardian.com/australia-news/2026/nov/24/campaigners-urge-albanese-government-to-reject-climate-bomb-coalmine-expansion-after-cop31",
+   "title": "Campaigners urge Albanese government to reject ‘climate bomb’ coalmine expansion after Cop31",
+   "source": "The Guardian",
+   "desk": "reporting",
+   "published": "2026-11-24T07:42:57+00:00",
+   "seen": "2026-11-24T15:55:10+00:00",
+   "cats": [
+    "Australian politics",
+    "Climate crisis",
+    "Coal",
+    "Mining",
+    "Cop31",
+    "Australia news",
+    "Environment",
+    "Fossil fuels"
+   ],
+   "description": "Hunter Valley Operations expansion in New South Wales would allow additional 430m tonnes of coal to be extracted and burned",
+   "image": "https://i.guim.co.uk/img/media/67fe74e925e14e027af689b261f186a2cc29acfe/408_0_4080_3264/master/4080.jpg?width=140&quality=85&auto=format&fit=max&s=6c0b36383d375b7eaee48869bbc47198",
+   "ftries": 1,
+   "fetched": true,
+   "paragraphs": [
+    "Climate campaigners are urging the Albanese government to heed a “line in the sand” warning on fossil fuels issued by dozens of countries at a UN climate summit and refuse a massive coalmine expansion planned in New South Wales.",
+    "A proposed agreement at the Cop31 negotiations in Turkey failed after a list of nations – including European Union members, Panama, the Marshall Islands, Vanuatu, Norway and Belize – said they would not support it unless it included an explicit statement that the world needed to transition away from fossil fuels.",
+    "Activists said the government’s position on fossil fuels in a changing world would be soon tested when it decided whether to approve the Hunter Valley Operations expansion.",
+    "The project that would extend open-cut mining by 19 years at the site to 2045 and allow an additional 430m tonnes of coal to be extracted and burned.",
+    "The companies behind the development, Glencore and Yancoal, estimated it could lead to 800m tonnes of greenhouse gas emissions, mostly when the coal is burned overseas.",
+    "The Australian Conservation Foundation (ACF) said it would be “reckless” for the federal environment minister, Murray Watt, to approve the proposal.",
+    "“Australia is already one of the world’s largest exporters of climate-heating fossil fuels. What we export as coal and gas comes back as bushfires, floods, heatwaves and droughts,” ACF’s head of advocacy, Gavan McFadzean, said.",
+    "The expansion was approved by the New South Wales planning commission in September after it heard from workers, unions, climate organisations, scientists and people around the state who had experienced harm as a result of the climate crisis.",
+    "The commission ruled that the climate damage caused by the expansion was “outweighed by its benefits to the Hunter region and NSW”."
+   ],
+   "lede": "Climate campaigners are urging the Albanese government to heed a “line in the sand” warning on fossil fuels issued by dozens of countries at a UN climate summit and refuse a massive coalmine expansion planned in New South Wales.",
+   "cop": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVVFpcWFIeGhRVnZab3pDemNwc0VhNEVGUHFEMHgxNGlmQ2ZNNmxENDR0YjI1WGJRbVdJVDZtLXg5X2ZUQkNjaWFIakh2YWp2azlyTTBYNlhPM1dvUzA4LWtsNUVFbFFTQkZTVTcyWk5vaVB6MzRlQ2hxTTFkSWh5bFBELVBnN1VMeHFXanYzQ29hUU5BRDdr?oc=5",
+   "title": "World in Brief: Nvidia surges as Jensen Huang returns",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-24T07:40:01+00:00",
+   "seen": "2026-11-24T15:55:10+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://wattsupwiththat.com/2026/11/23/ucla-study-masks-energy-industrys-environmental-gains/",
+   "title": "UCLA study masks energy industry’s environmental gains",
+   "source": "Watts Up With That",
+   "desk": "opinion",
+   "published": "2026-11-24T06:08:00+00:00",
+   "seen": "2026-11-24T15:55:10+00:00",
+   "cats": [
+    "Methane",
+    "Oil and Gas",
+    "Greenpeace",
+    "Natural gas",
+    "UCLA"
+   ],
+   "note": "Skeptic blog",
+   "description": "Studies masking as advocacy may drive clicks, but they don’t drive progress.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2026/11/north-dakota-oil-well-tanks-gas-flare-1024x512-1.webp?fit=1024%2C512&quality=75&ssl=1",
+   "paragraphs": [
+    "A byproduct of living in the Information Age is how easily data spreads without context. A recent UCLA analysis identifying several prominent American energy companies as major methane emitters is a case in point.",
+    "The report, released as part of its “STOP methane” project, relied on satellite observations to track methane emissions across three American oil and gas basins, which the authors selected because they “export the most LNG to Europe.” It attempts to link the observable methane emissions from these basins to specific sites and companies operating in those regions.",
+    "The authors acknowledge that publicly available data could confidently match fewer than one-third of the identified methane sources to potentially responsible owners. They also concede that even those matches are susceptible to inaccuracies.",
+    "These substantial gaps leave UCLA’s report short of a full picture and warrant caution in interpreting its conclusions, particularly when activist organizations use them to make broader claims than the research supports. The report’s inclusion of a “dishonorable mention” list helped it generate catchy headlines and viral social media content. For instance, Greenpeace repurposed UCLA’s claims to discredit Energy Transfer, one of the companies mentioned in the report. Greenpeace, of course, failed to mention that it was found liable for claims including defamation, trespass, nuisance, conspiracy, and tortious interference for its role in the Dakota Access pipeline protests in a suit filed by Energy Transfer, the pipeline’s owner.",
+    "The UCLA analysis also overlooks a critical part of the broader picture: increased reliance on natural gas has contributed to the nation’s environmental progress. By failing to account for this contribution, the report risks misleading the public into believing that the energy companies listed are responsible for a disproportionately large share of atmospheric greenhouse gas concentrations.",
+    "U.S. energy-related carbon dioxide emissions have declined dramatically since 2005. The Congressional Budget Office has found that carbon dioxide emissions from the electric power sector have declined by about 35% since 2005. This downward trend largely stems from the shift from coal to natural gas for electric power generation. That’s not to say that reducing methane leaks from natural gas wells should not be taken seriously.",
+    "Beyond their obligation to environmental stewardship, energy companies have a financial incentive to prevent these leaks. Since methane is the primary component of natural gas, leaks represent lost product that could otherwise be sold. Insufficient pipeline infrastructure, which groups such as Greenpeace oppose, is a well-documented contributor to methane emissions from associated gas flaring, particularly in oil-producing basins where large volumes of natural gas are generated alongside crude oil.",
+    "Until that infrastructure is built to capture methane’s economic value, energy companies are taking steps to reduce their emissions. Targa, for example, has replaced gas-powered equipment with new electric compressors where practical. Over the last ten years, even as the company’s processing capacity has grown, these investments in electric compression have helped avoid nearly 25 million metric tons of greenhouse gas emissions, the equivalent of taking 5.8 million cars off the road for a year."
+   ],
+   "lede": "Studies masking as advocacy may drive clicks, but they don’t drive progress."
+  },
+  {
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/24/deadly-floods-fires-cop31-collapsed-climate-crisis",
+   "title": "A year of deadly floods and fires – and yet Cop31 still collapsed. When will our leaders grasp the scale of this crisis?",
+   "source": "The Guardian",
+   "desk": "reporting",
+   "published": "2026-11-24T06:00:08+00:00",
+   "seen": "2026-11-24T15:55:10+00:00",
+   "cats": [
+    "Cop31",
+    "Climate crisis",
+    "Environment",
+    "Fossil fuels",
+    "Wildfires",
+    "Flooding",
+    "World news"
+   ],
+   "description": "Fossil fuel producers are choking off progress while we reap the whirlwind of our inaction. This is what sleepwalking to disaster looks like, says climate academic Bill McGuire",
+   "image": "https://i.guim.co.uk/img/media/904f33806851828efac1427076be27ed5ae9a1dd/580_0_4706_3765/master/4706.jpg?width=140&quality=85&auto=format&fit=max&s=afe2823ab1e148a94b622c0409ef2741",
+   "ftries": 1,
+   "fetched": true,
+   "paragraphs": [
+    "I t’s sometimes said that we are sleepwalking into climate catastrophe. But the reality is that we are walking into it with our eyes wide open, in the full knowledge that we are dooming the lives of our children, and countless generations down the line, to hell on Earth. In the UK, summer temperatures could hit the mid-40s within decades, making extreme drought and harvest failures the norm, and leaving people camping in the streets as houses become overheated death traps. Across Europe, the fastest-heating continent on the planet, the 50C temperature mark could be broken as soon as next year. Elsewhere, by 2050, humid heatwaves could take many thousands of lives in a single day in parts of China, South Asia and the Gulf region.",
+    "We continue to pump out the CO 2 weight-equivalent of 800,000 Titanics every year, with no end in sight. Meanwhile the latest climate Cop – the only global initiative with the potential to turn things around – has just collapsed in disarray, unable to get its act together even to agree on a vague form of words about the need to transition away from fossil fuels.",
+    "A decade ago there was some hope that we might head off the worst of global heating, when the adoption of the legally binding Paris climate agreement promised to keep the global average temperature rise to below 2C and to pursue efforts to stay this side of 1.5C. Progress is tracked on the basis of so-called nationally determined contributions (NDCs) – in other words, each country’s pledge to reduce emissions which, in the round, should mesh with the agreed temperature limits.",
+    "But the world has moved on, and not in a good way. With no binding targets or enforcing mechanisms, NDCs rapidly became decoupled from the temperature goals set in Paris. Today, even if all countries stick to their current emissions reduction policies, it is predicted that the world will still be 2.7C hotter by the century’s end, compared with preindustrial times. This in itself is a catastrophic level of heating that would mean the crossing of key tipping points, including collapse of the Greenland and West Antarctic ice sheets and the likely failure of the Amoc (Atlantic Meridional Overturning Circulation), bringing bitter winters and baking summer droughts to the UK and northern Europe. But that “if” is doing a lot of heavy lifting, and there is no guarantee that NDCs will not be seriously diluted in the future as green policies are dumped.",
+    "So where does this leave us? The answer is in a very bad place. How quickly our world heats up is no longer only about emissions arising from our activities. The hotter the planet gets, the less carbon it is able to soak up; carbon “sinks” such as soils and forests will instead become sources that top up our emissions. Recent research suggests that by 2100, these could help pump up the heat to more than 3C above preindustrial levels."
+   ],
+   "lede": "I t’s sometimes said that we are sleepwalking into climate catastrophe.",
+   "cop": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa3JQYjR4NFpZaDdiNGVOcWljNFFaS2FMeDEyLXhSRU1DUm9IVGNBc1JCTVlMR3h3ZTc2WjNieFVWV0p1TWxUcjV6VzJHei1zME1UMGdDRGU5NHFWQmpIbVBrdXBBOW1xb0hkXzc5WDdFR2J1Y0dibVNCS0F4azJVNEtWN0ZwMVJqN1FTQ2xZRXBuZ0RlRUoxSTYtTFNrdw?oc=5",
+   "title": "Watch Nvidia Cannot Rely on Jensen Huang",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-24T05:26:15+00:00",
+   "seen": "2026-11-24T15:55:10+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbUk5RWtPeThxNTd4UjRsQ21MRXhUTWRLTV84NUl4SnFXbVBDWE10aml5cjBYV0p3ZVVpSFlFdjB6akZrVXZNUmYycFk0YVN5cElLWTFOVXgtUFd0OVNPTlk0Nm9MSUFsbHNTN0x6LV9DcUNzcUhZMHFsdThVOE1HSjBncWw4VW1VcFNoTlVaSjZEY2V2RzkxVkF1ZWZKd0tkOHNhRXpFSmVkekFORGQ2dTlaNUFYNE12S3lZTDJTWQ?oc=5",
+   "title": "Spain’s Angry Generation Feels Left Behind In a Booming Economy",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-24T05:00:00+00:00",
+   "seen": "2026-11-24T15:55:10+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRHdWb3h0c01xekdYdWh1MXBuWGswV0ExLWExLWZTS3hKVXNrRkd5dVZGZGVUZk9ZNWhXZi1lb0NKVGQtaVduUC1RYXNCNjZhdXVtZHZXOHdpaFVSR1drSVByalNkQ0NIX3owZ1U5bmNEdG14Y1ZQX05FeW5rOWtLbFhCb2hhb2hFQ1JBVTVQM1pTbU9QUEo1U0NrdENSQWhxRU00UFJsTGk3RjVQTkhkeVk1dzhLSVU?oc=5",
+   "title": "EU’s Socialists to hold formal discussion on Frederiksen’s migration stance",
+   "source": "POLITICO.eu",
+   "desk": "reporting",
+   "published": "2026-11-24T03:00:00+00:00",
+   "seen": "2026-11-24T15:55:10+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
   {
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMDVNeTdLS3N5SmtYNW41YlEwQktrcEZYb2xITmo5N0xKelhjQnhQemtQOW5JUmFvU1g5VjlaS1BvN3JxME5SdkpodEQ5WVVEZGFRSnpfNWJ5UEZIRGhZZGNYRkZBTzFJOE1SYkgzcWhhejg4OFdWbUM1dVpDTkVSNWpqNU9CR1BuWTQwVHJXUQ?oc=5",
    "title": "Experts say failed climate talks could worsen climate inequality, though all progress is not stalled",
@@ -230,6 +647,17 @@
     "For the 1982-1983 very strong El Nino, temperatures were on the warm side in early autumn, below normal in November and December, and moderately above normal during the rest of the year. Yawn."
    ],
    "lede": "In summary, a very strong El Nino year provides no reason to be alarmed along the West Coast regarding water resources, at least if past \"super\" El Nino years are a guide."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNazJnZk52WF9BcVpTUERqVloyQXh4NnRJYUxyRXl0ai1YeXp4Q1V2dGw4YUlOQmhLYXhVS2NNQzRJajQ5Y2lOd2VQdERrRmlTd19zdTJfemFDWEw4dWJWYm9UVFJNTU9RdlMzcF8wWUYtNWs5dDY0ZnV4M210aThNczVBTFFDdmNFUnJ6NF9QalhTT2czblo5SDJOeklnenc?oc=5",
+   "title": "How the manosphere could swing Spain’s election",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-23T22:07:14+00:00",
+   "seen": "2026-11-24T15:55:10+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSU96Vm1Pd0dEV3hDbzZkQkZvTGZYQWhSM3dPb3V3eG9xekRhWmJXX0JEdGhxbk5VeDUxTEdhNVhzb0JnRXFEcVhpU1dzU21IZnNJb2JVX0ZHdDlsdTl5NVdkYzR0eUM2VEtvTlNybEUzLTlWLXNaUXVldS1Bd2xEdVA4aFBsNXdkRzVGSXBCZXlXSW9UeUZsXw?oc=5",
@@ -564,7 +992,7 @@
    "byline": "Lisa Friedman",
    "description": "With big diplomatic efforts faltering, smaller pacts, local leaders and booming clean energy take center stage.",
    "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23CLI-COP31-WHAT-NOW-1-fpgh/23CLI-COP31-WHAT-NOW-1-fpgh-mediumSquareAt3X-v2.jpg",
-   "ftries": 2,
+   "ftries": 3,
    "lede": "With big diplomatic efforts faltering, smaller pacts, local leaders and booming clean energy take center stage.",
    "cop": true
   },
@@ -600,6 +1028,17 @@
    ],
    "lede": "The COP31 climate talks in Antalya, Turkey, have failed to reach agreement on a “pact” that lacked clear references to curbing fossil fuels or scaling up climate finance.",
    "cop": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeGFSS2RuckQyd2dwZlRhdEFkWXJ1SjdBRWN4YWVoU1VwUWl5UEc5V0plSUFaRU9vbnphWnZTa0VaRkplM0o3TENZbFk5LXUwUDFaZUd1NDlfMS1TT3hPdkRNZkd2UHFNMlNTMEJ6eHhueFlqQURxU0ZaemluQUthNXl1RjUyZGxCcEN2V2piVW9fSmwxSmRHc0lLMzBvTzBDMFJYcUZvU28xUQ?oc=5",
+   "title": "Johnny Depp is back as Scrooge, patron saint of second chances",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-23T15:32:38+00:00",
+   "seen": "2026-11-24T15:55:10+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV0wzQ193NFdYNG82RGhFYVl4MG4tSHpNT2xENDRqOW5pb3NLLVhUcVlFSm5WbjFCbzd5dWYxMVJ1UXNJcEZXUDV2M1Y4VVFDVDZZWkFfUnVacWd2bEhyNUNhZzdYcXZHQlM3b0hDVHZfX3BHVjY2WmJzalNaLUVuR21NR0ZDd0tONTFpZGdjd0VCUEFGM1U1VGk1ZlBSNHpVWWdCWDZrVnl5Yl91?oc=5",
@@ -837,6 +1276,17 @@
    "fetched": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbzZRV0pJaFBNLURxcG1wY0NIVGVuWmxvbkt2Y0tkZGxEcUExdjBPbjkwUktadjYwckQ2WnlGSXVySmVudF9GX2s0RmZ4NnlrcmpTUWt1MmdnLXpJTUJfb0Ntc0k1cjBQUVZVanNheFFNUVVjWWlheWl4YzJVRTB1TThNWWFFSHAyaXIxTk9UX2ZKQkctZFNKaENGa0l5clk3TllrRXRwbWQxOXo2UEE1WQ?oc=5",
+   "title": "European Gas Surges as Cold Snap Threatens Tight Inventories",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-23T11:07:27+00:00",
+   "seen": "2026-11-24T15:55:10+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOd0tTdzFnVVpmQkQ5Xy1yYTNkRnFab2d4R2tIVEJJT19zWmMwMDF5bWJHcnJqc0dUdGxieHBIa3pfVW9IZjA1cVhqb3IwdEJfelcwWTNSQ1p0MUhiQzhmRHhNbU44blVQOEprNzluVHZ5OGlKc0hSLUpEei02MF95VEpKVUR1MTYyd29SVUJESUZQZ2tWbWt2Q1RYNDFvZmV5dzVRQnpzWm5sRVZidy1iTmtPMUVMZw?oc=5",
    "title": "Poland Targets Early 2027 Contract to Sign Final Contract for Flagship Nuclear Power Plant",
    "source": "Bloomberg Green",
@@ -893,12 +1343,35 @@
    "fetched": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOa1RTQ0dNM2FaaTJRb3RVLVZQTWgzTGM0WENLZjBxLXc2SE5xcGstcG1nbC1PZ0JNUnVMVklJQjNnMzgzWDducGc1dzRqeTBVWG9PMjNqNVVWNjliRjRYMVczV0hCQUx1aXdrVHNtQjEzM1ZUX29lMGY0YXZFMDRQTENnVE1rYWhJTmlZMjd0ZmlldmpUdDhfUXpwaklEUDQ?oc=5",
+   "title": "Inside the Collapse of the COP31 Climate Summit",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-23T10:58:17+00:00",
+   "seen": "2026-11-24T15:55:10+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "cop": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNjZTcUZnNVlkemlhMmVkZGpXVk5fck4tNDB2ZlVTTEVPajM5QnNKTmE4TEg4M0lzSVVjcVpwdmtrbWtKUVZnT3MtbUZWYmMzMXR4VU1iYmNoNlYwZTl5c3p0X25lMDMwWmJZaFFwYUkxbFo1VFRNR2J5eHcwMk5zVllOSHBlaGtsanljeTY4azRnOWJ1blNJNXNMNmRzNEp2cDlKU2ZxVXU3NW9nMG9GWWR6UDRSN0t3Sm5PQXBLQm9JLTA?oc=5",
    "title": "Ukraine Farm Failures Loom as War Drains Financial Buffers, Top Trader Says",
    "source": "Bloomberg Green",
    "desk": "reporting",
    "published": "2026-11-23T10:48:52+00:00",
    "seen": "2026-11-23T20:15:32+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVGlrdFo4OXUyVVhEUmdwZ1dKN1F6UnJ4YWtNeGR2TUt4SlJqMkpvekhCemtuTWZiblJEVXhoeHZLTEhyX0ZaT1U2cWg4eWY5NUl0Q0QwekxjRUNwaFB3aDZCWWt6R0wwRW5Lc3ZnOU5nVzFmRnZPdUtqdlY5S01USTB3cVF3TmNuREFkQl9PRmJuZ3VHR281M1kweU81NE5XM002SnlxVDZ4Yy1CU1RON2JtYw?oc=5",
+   "title": "As public markets hog the limelight, dangers lie in the shadows",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-23T10:35:48+00:00",
+   "seen": "2026-11-24T15:55:10+00:00",
    "via_google": true,
    "ftries": 1,
    "fetched": true
@@ -1153,6 +1626,17 @@
    ],
    "lede": "Anthony Albanese has defended Chris Bowen from criticism following the failure of the UN Cop31 climate summit, blaming the result on “difficult geopolitical times” as the Coalition called for the minister to resign.",
    "cop": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcXBOb2xLa2dvY1FndktNbDVucUtnWmNNc0pjR2FYZUFiQ0RGUHNVRm1fTk5LOFhHWmlkLV9DeVBZdmxtdE5RRGxoMWJOd0RibEZGTGlqZVJxUTJrZ3J3ZUpyOXFPekI3aFgzOUhfdkpUNkk0NGVlZ0RGOGJiQ0tjbVhWR0lya1U2RXpuZVhmYTZ5NXpVSmJmZnhGUU9wOXlDbEJzUmFjWDBnUQ?oc=5",
+   "title": "Watch India’s Appeal Grows as Global Tech Selloff Deepens",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-23T03:13:39+00:00",
+   "seen": "2026-11-24T15:55:10+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTlIwMm16SERFRUIwTHpnYXA5RE1pZDIyd3hSM3YxZUVDZTVkOVU0bnl6emlESm1ja0dEaFptdXN4V3FwZzFDNWN0ZE9iSS02ZDIxTFFkTXJsek5RX2duZjdrVk1CUnhXRkhjbTBEWG1WeWR6R0k0T2VVTFVSamJubUxfZi1lY2g1NXpvTmZiMllacVFfR21fbEVfbG1scTBzTUNybkF5cHpWUnBwV0RYOGdUaWg?oc=5",
@@ -2681,6 +3165,18 @@
    "cop": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9mUVh1dkpzc1lpeUVHLWFQX0M1TktHaUZtUEJ2ZkdEYWVfQjZPUnpTOVJ2Y2MyZUZqcmZSWFhERHE4NUplM29FTlgyOXA4MGRr?oc=5",
+   "title": "Global News Podcast | Man found guilty of starting deadly LA wildfire",
+   "source": "BBC",
+   "desk": "reporting",
+   "published": "2026-11-21T05:33:09+00:00",
+   "seen": "2026-11-24T15:55:10+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONmNLRGI1ZnMzdE00Y0RyRzlxeHZNUzZwNUtkQUsyWUdqTDhvdzhCN0ZDLTd3TXc1VjBoMHRjOHN4UlNUQkNMNlBJLTk1aTU2NTR6cTUzWmRHUmxGeTRzWGNvMExCa0lZdmNaQlFzcnh3MmVxb2tzRS1mQmpXQjh5VXNJbDgwVW9TQm5mR2Q0cDFyOVNDNHFlalo4TWxQQUtLMWdEYU5IWlFxQk1kb1djRkFxSlo?oc=5",
    "title": "Australian Energy Officials Warned of Data Center Risk, Age Says",
    "source": "Bloomberg Green",
@@ -2939,6 +3435,30 @@
    "desk": "opinion",
    "published": "2026-11-20T21:41:15+00:00",
    "seen": "2026-11-21T00:49:24+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9vWVg3a243ai1vcjFxNUtoOU1WcmQ1TEpIdGJkLU5VbW1qMzg3WndDVW9BYkZ6WWNaOS04RHMtR3lCSjdzVFBlN3lFN01xNk5O?oc=5",
+   "title": "Six O'Clock News | Andy Burnham hails UK-EU deal",
+   "source": "BBC",
+   "desk": "reporting",
+   "published": "2026-11-20T21:15:30+00:00",
+   "seen": "2026-11-24T15:55:10+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcnFOVHkySXMyN1Zld2paMnBkWDFodzNnaVlyVkpyRENza1kzRXBjNDhWc3JHb2tEaE9RR2psLXVXcWNqaEIycnhjZWtpSnZGUTFISGtKd1dDOVZ0Wm81ODRiOVhlcGl1ekJ0UWp4R0NlakZtNzk4U3pGUWRlUXV3dkxCSVF0THdLQnhIMGVpNmMxNEZBaWMtY29HOV9qc1RRLWM3UmY5OGtIQms?oc=5",
+   "title": "EU ban on plastic waste exports to non-OECD takes effect",
+   "source": "Reuters",
+   "desk": "reporting",
+   "published": "2026-11-20T20:58:18+00:00",
+   "seen": "2026-11-24T15:55:10+00:00",
+   "cop": true,
    "via_google": true,
    "ftries": 1,
    "fetched": true
@@ -4011,6 +4531,18 @@
    ],
    "lede": "But if COP is just a CO2fest and a soothing exercise in confirmation bias, expect the CO2-positive confabs to continue.",
    "cop": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSWRSV1pnUGxldjhPVWRJMHVBSUphTXVUeHFNbFloQlAxUGYtd0tGLUtJamYxbHRnaWhaVTlzeXEzQzk1VkR6ZTFMVE9sR3NlcF9pbkxuVUlnRDRfT19YOXhTUUtxNmdzaUtHZ0J6ZnVkWnc3aUVvS2Y5TFhEdkFtbThBNlFQX3czWURHUXd0TjVydXIxNmNqeDlLLU9hdw?oc=5",
+   "title": "Warming has gotten so out of hand, nations call for sucking carbon out of air somehow",
+   "source": "Associated Press",
+   "desk": "reporting",
+   "published": "2026-11-20T02:00:00+00:00",
+   "seen": "2026-11-24T15:55:10+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14NGVDVGxITGhiVFBUT0QtNjhJanRZTEpDdDZOUFMtQi0yY1hZZFhKSFZGYzI1bVNsM1RyNE1nTk5GQlRJUDBaVEtwTi13YnVUakVhWnkxdnlPS0k?oc=5",
@@ -5773,6 +6305,19 @@
     "Then, as El Nino weakens later in the winter, Washington State gets substantial precipitation and snowpack, allowing us to be fine next summer."
    ],
    "lede": "At the current rate of decline, it will no longer be a very strong El Nino (2°C or more above normal) by early December."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZFhtWmJ1WkRNeUlhZ0FGRWFvbjN2QVFra2FpbGNFcnBhTllfZ19IRUI4QkVPNG5sT3Y2akdCdUNZSFZLbERmakd5X2FPWVpmcmV0LTFBcmotS3NScTd5X3JaSTM1VXppOE9yVkd4aTRFeWo5UDB0TlJHMmc1NGl1SEVjZVI?oc=5",
+   "title": "COP31 day 10",
+   "source": "Climate Diplomacy Brief",
+   "desk": "politics",
+   "published": "2026-11-19T06:05:34+00:00",
+   "seen": "2026-11-24T15:55:10+00:00",
+   "byline": "Ed King",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "cop": true
   },
   {
    "url": "https://climatediplobrief.substack.com/p/climate-diplomacy-brief-cop31-day-cce",
@@ -7618,465 +8163,6 @@
    ],
    "lede": "I n this cold weather, it is easy to forget that Britain has just been through its hottest summer on record, part of our new reality as the climate crisis reaches our doorstep.",
    "cop": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQN2xvczVrRTNBTlRVMnBhTDl1TkJGYkZhYXJNNlFMbWxQQkdMcm9Cc0FIOEhKcVNnQXhXZHNrR2thMFlMTkhVaURsd0VsLWZidmsyaHphTGQyQkN4b0lKR2Z6Sl9aTk41MXV6OXZZQjdibzlfSzdha2xNZHVkdEtUMTR5SDhLcENCQ0ptZXhBdERXalFETzVCeW5pX0VsWG1RLUJlTjVPY0ttNk9vSklIcmk4LVlxX2QxNzRva251M2k?oc=5",
-   "title": "Global Money Rushes Back Into Indian Stocks at Record Pace",
-   "source": "Bloomberg Green",
-   "desk": "reporting",
-   "published": "2026-11-17T13:31:21+00:00",
-   "seen": "2026-11-20T18:38:27+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNb3prRExYanpoNHRhQWJJSndvSGpodmlsdTRyYWl1aWlfSFlXNGZKWkZuZkxuMkd5RUVzZHNhNkpMbmJHMFc1Uzh6b2NjNnVHc0p0S0IxOXVlNnJ1eWdsSjJVbWp2UnhoUmpJNTNvZ2wyLWRLdlZyajNiTFc3RTNtRGEyV3FDdVJEZ2lWN0haNW1oWUVwQlQ4ekRVQXg2YWJxNTd0TU9xaFg5MWpCMzZvTnhSbkRZNEpsWGc?oc=5",
-   "title": "Mexico Risks Missing Out on AI Data Center Boom as Energy Crunch Bites",
-   "source": "Bloomberg Green",
-   "desk": "reporting",
-   "published": "2026-11-17T13:00:06+00:00",
-   "seen": "2026-11-19T02:03:16+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdjhUQlo3dXY1ODlsX0F3RUJhVFp2SUdWVmRfQktIWS1tYzJuR05fODk3eTg4M0szZ0gzTms2R2lRRWNCTGJGd2tocnhJM3JYU3oxaXNRUTEwM3Y5VGJvNVFxblotamhocDRiaFR2djdZc2lyV3V6WUdYOTNtQTNrVlJBcWl2b0MyQ1ozLVJfeVFsWHZYQUN1NmM1ZmtocWZwa2l1NUpES3c2R3JjVGdVbDNzUQ?oc=5",
-   "title": "Peru’s Fujimori Wins Chinese Aid for El Niño After Appeal to Xi",
-   "source": "Bloomberg Green",
-   "desk": "reporting",
-   "published": "2026-11-17T12:59:13+00:00",
-   "seen": "2026-11-19T01:57:51+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://yaleclimateconnections.org/2026/11/wildfire-prone-areas-could-turn-to-microgrids-to-cope-with-power-outages/",
-   "title": "Wildfire-prone areas could turn to microgrids to cope with power outages",
-   "source": "Yale Climate Connections",
-   "desk": "science",
-   "published": "2026-11-17T11:59:00+00:00",
-   "seen": "2026-11-19T01:46:41+00:00",
-   "description": "When wildfire risk is high, utilities sometimes shut off power lines, leaving people without electricity for days.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://i0.wp.com/yaleclimateconnections.org/wp-content/uploads/2026/11/111726_solar_1600.jpg?fit=1600%2C900&ssl=1",
-   "paragraphs": [
-    "When it’s extremely windy and dry, and the risk of wildfire is high, utilities sometimes turn off certain power lines to prevent sparking a blaze.",
-    "Brooks: “I live in Boulder, Colorado. We had our power turned off for five days last December. … The only saving grace for us was that it was relatively temperate and so pipes weren’t freezing.”",
-    "That’s Cameron Brooks of the group Think Microgrid . He says microgrids can help prevent those outages.",
-    "A microgrid is an energy system that provides power to a building, a neighborhood, or an area like a college campus. It often includes solar panels and battery storage. And it’s connected to the larger electricity grid, but it can also disconnect and operate independently.",
-    "So microgrids can provide backup power when the grid goes down during storms or when utilities need to shut off power to specific lines.",
-    "Brooks: “Then the utility could safely deenergize those lines, avoid the risk of wildfire, without causing a disruption to service that people depend on.”",
-    "So microgrids can help build resilience in wildfire-prone areas while also expanding the use of clean, renewable energy."
-   ],
-   "lede": "When wildfire risk is high, utilities sometimes shut off power lines, leaving people without electricity for days."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOLUxlLVUxMklSVU9TdEJTVWFUelMyNjNxTXo2TklSaHdqSDFfeFpBREtzN0czTWxYeHpzdm8tQ0hoRGlXRzFzakNaaVNlcm02NEw5STRncUpuUTZPUWNhWWdGTlMzUV9Kek16VTRsM1FCYU9hWmpiUjc1V0tkbmI4NXQzallheU4welFkSjd4clhFMFUtRDNCZWlTR0xxRnNkVDdzVjAtWkdMYW5zTVE?oc=5",
-   "title": "IKEA thinks outside the 'big blue box' as shopping habits shift",
-   "source": "Reuters",
-   "desk": "reporting",
-   "published": "2026-11-17T11:28:03+00:00",
-   "seen": "2026-11-20T10:04:06+00:00",
-   "cop": true,
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT0I5SFlaYlc1VWZvOE5MNGJHU0RTRUlKMDJYOU1hYnZYcWh5V1ZDbXB0R3gtb19CMGFONzRlRjc1dlNWSzFuazdBMkxFdC1lT0YyU2U1MVoxRk9IQlZlcWd5TWxrMFpydzQ1bVhFZGtfUDMxQVNkRW1iMllaYkV3T3dudFE2bDdHbEJqUlV1QmhkSjkxUmRWb1NkOUd0SFJfQzFSWm9FR2lTb0s3N3ZWYUs2QQ?oc=5",
-   "title": "Free Child Care Could Generate $6.5 Billion for NYC, Study Finds",
-   "source": "Bloomberg Green",
-   "desk": "reporting",
-   "published": "2026-11-17T11:00:01+00:00",
-   "seen": "2026-11-20T10:04:06+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT3N1clMxbG1DQTlLRUxybmI5dk1GeGFDZEVmWmxZQ1RzYnBXRnI3VGRXRC1HZWRDc1pPQ0xvY1lTd01MUkMzQ2Fra0pENzRrMEtMUWk5YklxWUg2V3J5NkVrOWRHYWZkYTRvT1RwbmRZU2VJbm01dDNXZHJKZUNLeGZJR2o3VDl1TGo2enRzREhvVEt0Z0FQWk14aFpHaExvb0tSREdYeGxueml3aF9CSjlPSlI?oc=5",
-   "title": "UK Backs Push to Explore Global Levies on Climate Polluters",
-   "source": "Bloomberg Green",
-   "desk": "reporting",
-   "published": "2026-11-17T10:28:46+00:00",
-   "seen": "2026-11-19T01:46:41+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://insideclimatenews.org/news/17112026/wildfire-litigation-complicating-prescribed-burns/",
-   "title": "Are Multibillion-Dollar Wildfire Payouts Undermining Efforts to Make Forests Less Flammable?",
-   "source": "Inside Climate News",
-   "desk": "reporting",
-   "published": "2026-11-17T10:00:00+00:00",
-   "seen": "2026-11-19T01:46:41+00:00",
-   "description": "Prescribed burners say the prospect of costly litigation and rising insurance rates are complicating efforts to fight fire with fire.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://insideclimatenews.org/wp-content/uploads/2026/11/54467939817_ff66fbf92f_o-1024x683.jpg",
-   "paragraphs": [
-    "The small fire slowly licked its way through a dense growth of pine trees in the Sangre de Cristo Mountains of northern New Mexico. A team of federal employees moved in tandem with the flames, dropping more fire from drip torches to clear out the small trees, deadwood, scrub and grasses that could fuel a runaway blaze in the future. Everything seemed to be going to plan.",
-    "But come afternoon, strong winds swept into the burn area. Powerful gusts carried the carefully planned fire beyond the control line intended to contain it. By 5 p.m. on April 6, 2022, the U.S. Forest Service reported the burn had escaped its control and declared it a wildfire.",
-    "The Hermit’s Peak Fire would eventually merge with another prescribed burn that had survived the winter as a “sleeper” fire in nearby Calf Canyon. In January, the Forest Service had burned piles of tree trunks and limbs left over from previous forest-thinning operations. But embers from the pile burn had smoldered beneath the winter snow and the fire reemerged in the spring.",
-    "Dan Gearino’s habit-forming weekly take on how to understand the energy transformation reshaping our world.",
-    "A once-a-week digest of the most pressing climate-related news, written by Kate Waxman and released every Tuesday.",
-    "Don’t miss a beat. Get a daily email of our original, groundbreaking stories written by our national network of award-winning reporters.",
-    "A digest of stories on the inequalities that worsen the impacts of climate change on vulnerable communities.",
-    "By the time the Hermit’s Peak/Calf Canyon Fire finally came under control in August 2022, the once-modest prescribed burns intended to reduce the potential for megafires in New Mexico had become the largest wildfire in the state’s history.",
-    "The colossal fire swept across more than 340,000 acres and destroyed more than 900 structures in San Miguel, Mora and Taos counties. Torrential rain in the fire’s burn scar spawned a flash flood that killed three people.",
-    "More than four years later, the fire’s memory has barely faded for those who witnessed the towering walls of flame. Outrage, too, has endured. How did a government-sanctioned project go so, so wrong?"
-   ],
-   "lede": "Prescribed burners say the prospect of costly litigation and rising insurance rates are complicating efforts to fight fire with fire."
-  },
-  {
-   "url": "https://wattsupwiththat.com/2026/11/17/twenty-years-of-watts-up-with-that-what-a-long-strange-trip-its-been/",
-   "title": "Twenty Years of Watts Up With That?",
-   "source": "Watts Up With That",
-   "desk": "opinion",
-   "published": "2026-11-17T10:00:00+00:00",
-   "seen": "2026-11-19T01:46:41+00:00",
-   "note": "Skeptic blog",
-   "description": "Twenty years ago today, I started Watts Up With That with one simple blog entry. The idea was somewhat gee-whiz in nature. It did not stay that way for long.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://wattsupwiththat.com/wp-content/uploads/2026/11/wuwt-20th-anniversary-feature.webp",
-   "paragraphs": [
-    "Twenty years, over 600 million page views, over 38,000 articles, countless arguments, personal losses, and one stubborn idea: scientific claims should stand or fall on the evidence.",
-    "Twenty years ago, on November 17, 2006, I published the first post at Watts Up With That? . I had no grand plan to build one of the world’s most widely read climate-related websites. I certainly didn’t envision spending the next two decades examining temperature records, questioning climate models, debating scientists, dealing with the occasional internet mob, or explaining for the umpteenth time why a thermometer next to an air-conditioning exhaust might not be the ideal instrument for measuring long-term climate change. I thought I might finally have a little spare time. That prediction turned out to be spectacularly wrong, and considering the subject matter that would eventually dominate this website, there’s a certain irony in that.",
-    "The original idea behind WUWT was simple enough. I wanted a place to discuss interesting things about science, technology, weather, and the natural world. I described it as somewhat “gee-whiz” in nature. The internet already had plenty of celebrity gossip and political shouting matches, and I was more interested in the kind of useful trivia that makes people stop and think. Why is the sky blue during the day but black at night? Why does urine smell funny after eating asparagus? And, with apologies to Lon, does disc golf cause cancer? Those were the sorts of questions I thought we might explore. The only real ground rules were to avoid crude language and personal attacks. Otherwise, almost anything was fair game.",
-    "The blog began under the umbrella of the Chico Enterprise-Record’s NorCalBlogs platform, and my intended audience was largely local: people around Northern California who knew me from my days on television and shared my interest in science, weather, and technology. For the first few months, that’s pretty much what it was. I wrote about PlayStation 3s, internet speed tests , hurricane-strength nails, and household power hogs. Climate-related material appeared almost immediately, but WUWT was still primarily a general science and technology blog. That began to change in the spring of 2007, when a longstanding curiosity about weather instruments led me in an unexpected direction.",
-    "Before getting into that history, I should say a word about the feature image created for this anniversary by Charles Rotter. Charles has taken the familiar Stevenson screen, that traditional white wooden shelter used to house weather instruments, and given it a rather unusual architectural upgrade. It now resembles an outhouse, complete with a thermometer mounted on the door, standing alone in a field beneath a beautiful sunrise. The caption simply reads, “TWENTY YEARS — 2006–2026.”",
-    "I had to laugh when I first saw it. After two decades of examining the condition and placement of surface temperature stations, the image sums up rather neatly what we’ve thought about the quality of some of the measurements being used to construct the historical temperature record. The thermometer may be housed in something that looks vaguely official, but that doesn’t necessarily make the observations trustworthy. Of course, the cartoon is deliberately exaggerated, and the actual scientific questions are considerably more complicated. Still, Charles has managed to convey twenty years of frustration with poorly sited instruments in a single picture. Sometimes a little humor gets the point across more effectively than another hundred pages of statistical analysis. Thanks, Charles. It’s a fitting image for the occasion."
-   ],
-   "lede": "Twenty years ago today, I started Watts Up With That with one simple blog entry. The idea was somewhat gee-whiz in nature."
-  },
-  {
-   "url": "https://insideclimatenews.org/news/17112026/colorado-roan-plateau-public-land-oil/",
-   "title": "A Landmark Deal Saved Colorado’s Roan Plateau. Now It’s Headed Back to the Auction Block.",
-   "source": "Inside Climate News",
-   "desk": "reporting",
-   "published": "2026-11-17T09:55:00+00:00",
-   "seen": "2026-11-19T01:46:41+00:00",
-   "description": "A new federal mandate requires fossil fuel lease auctions on land that past negotiations were supposed to have set aside, raising concerns about the fate of other public lands protections.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://insideclimatenews.org/wp-content/uploads/2026/11/2026_05_27_CO_Parachute_Creek-1024x683.jpg",
-   "paragraphs": [
-    "Almost a decade after a compromise between the Bureau of Land Management, conservationists and local governments safeguarded about 90 percent of the Roan Plateau in Western Colorado from gas drilling, those federal protections are being unraveled in the Trump administration’s push to open more public lands for resource extraction.",
-    "But in 2012, a U.S. District Court judge in Denver ruled the agency hadn’t followed proper protocol in developing the leasing plan and ordered that it be updated after the BLM conducted additional analysis of air quality impacts and considered an alternate plan, the “Community Alternative.” After two more years of litigation, the plaintiffs and the BLM reached a settlement in 2014 that canceled all but two leases on top of the plateau.",
-    "Dan Gearino’s habit-forming weekly take on how to understand the energy transformation reshaping our world.",
-    "A once-a-week digest of the most pressing climate-related news, written by Kate Waxman and released every Tuesday.",
-    "Don’t miss a beat. Get a daily email of our original, groundbreaking stories written by our national network of award-winning reporters.",
-    "A digest of stories on the inequalities that worsen the impacts of climate change on vulnerable communities.",
-    "Those protections are now in doubt. The second Trump administration’s push to increase resource extraction on public lands has reopened the possibility of development on lands that were previously protected. This December, the Bureau of Land Management will offer four parcels atop the Roan as part of the quarterly statewide lease sales mandated by 2025’s One Big Beautiful Bill Act.",
-    "“There was such broad consensus on the ground in this local community to protect this very special place,” said Chris Winter, a natural resources and environmental lawyer who runs the University of Colorado Law School’s Getches-Wilkinson Center for Natural Resources, Energy, and the Environment. “And then the administration can come in and just override that local consensus. I think that should concern everybody across the West.”",
-    "“There’s nobody out here who lives out here who wants to ruin the land,” said Wade Haerle, Executive Director of Club 20, a Western Slope advocacy organization that promotes resource development as essential for area economies. “We have been in support of leasing it as soon as practical … and we firmly believe that hunting and fishing, and oil and gas, [are all appropriate uses of] public lands, and they can coexist together.”",
-    "The Roan Plateau rises 3,500 feet above the Colorado River Valley between De Beque and Rifle on Colorado’s Western Slope. It sits atop the southern margin of the Piceance Basin, one of the most heavily drilled natural gas fields in the West; the federal land at the center of the fight covers some 73,600 acres."
-   ],
-   "lede": "A new federal mandate requires fossil fuel lease auctions on land that past negotiations were supposed to have set aside, raising concerns about the fate of other public lands protections."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQWFtM196eHg4TkRoTE9kMk9aQXQ0aGpJN1MydkZoQmpTS1BCeHhDLUN0ZmZscjh5aWhTWEVYX0tIN19uaEQ0MUV0NVF2TGVmUHdwQVRQQllCQzdCY0ZtR0FuVHRGbkFBdWhoU0NBeDlNSUxyUFFMNWFXSDJDWXZLTlpHSFFlTzF3aXpESDBTblM3Z3pDcU5EaHFUVE42QkR5LTA3RkdYdkV3VGY4emhFLVl2WDFHQQ?oc=5",
-   "title": "Pimco Says AI Bond Spreads May Tighten as Data Center Boom Slows",
-   "source": "Bloomberg Green",
-   "desk": "reporting",
-   "published": "2026-11-17T09:33:48+00:00",
-   "seen": "2026-11-19T02:03:16+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://www.climatechangenews.com/2026/11/17/cop31-bulletin-day-8-arab-group-russia-reject-cover-text-over-fossil-fuels-and-electrification-goal/",
-   "title": "COP31 Bulletin Day 8: EU backs electrification goal, as more TAFF roadmaps promised",
-   "source": "Climate Home News",
-   "desk": "politics",
-   "published": "2026-11-17T09:29:23+00:00",
-   "seen": "2026-11-19T01:46:41+00:00",
-   "description": "The EU endorses the 35x35 electrification goal, while the tally of countries preparing plans to exit fossil fuels grows",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://www.climatechangenews.com/wp-content/files/2026/11/COP31-badges.jpg",
-   "paragraphs": [
-    "Ministers are in the building and embarking on the tricky task of refining the mammoth draft cover text down to something that can be agreed upon by the end of the week.",
-    "If the reactions heard so far at COP are anything to go by, this will be a big challenge. Few appear happy about its current form, with Europe’s climate commissioner dubbing it a “shopping list” on Tuesday and some large emerging economies rejecting the text outright.",
-    "The headline political decision for COP31 should focus “on the gap that the world has in terms of delivery and in terms of implementation” to reach already agreed goals rather than straying into new territory, Wopke Hoekstra told reporters.",
-    "Ministers are in the building and embarking on the tricky task of refining the mammoth draft cover text down to something that can be agreed upon by the end of the week.",
-    "If the reactions heard so far at COP are anything to go by, this will be a big challenge. Few appear happy about its current form, with Europe’s climate commissioner dubbing it a “shopping list” on Tuesday and some large emerging economies rejecting the text outright.",
-    "The headline political decision for COP31 should focus “on the gap that the world has in terms of delivery and in terms of implementation” to reach already agreed goals rather than straying into new territory, Wopke Hoekstra told reporters.",
-    "According to the Earth Negotiations Bulletin, which unlike the media is allowed into the room, at a heads of delegation meeting on Monday evening, Like-Minded Developing Countries (LMDC) - a group that includes China, India and Saudi Arabia - said the draft crosses their red lines.",
-    "Particularly, they object to the inclusion of the 35x35 electrification target, the roadmap on transitioning away from fossil fuels and calls to rapidly reduce methane. The Arab Group and Russia went further, rejecting the draft text entirely over similar concerns. Even Türkiye’s ally Azerbaijan criticised the draft, ENB reports.",
-    "The European Union also voiced doubts, saying it was not going in the right direction by including elements on finance, trade and carbon capture and storage. On the other hand, the text currently contains most of the EU’s key asks, including on responding to an overshoot of 1.5C and acknowledging the latest science.",
-    "Negotiations on the cover decision resume in this afternoon. Other developments of note include concerns about the fate of the Climate Finance Work Programme (CFWP), with the poorest countries wanting it to continue for two more years and include a goal to triple adaptation finance. The EU and Switzerland have called for no text on this item, not wanting to take on new financial commitments."
-   ],
-   "lede": "Ministers are in the building and embarking on the tricky task of refining the mammoth draft cover text down to something that can be agreed upon by the end of the week.",
-   "cop": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTXZfUjRFY2sybHV6NUN4TFc0WUs5NUh4Mk0tMjhmd1pXSWNtVzVJMDZCdGg2ODRodzhJSUFrQU5oOWNHVGpFakRPV2dCSkFMMkNBTTgySmhYSkN1UTJ6aWtOWFU0TzlnYVNwZWVhUjRXODlfOVhPUmRad19WMm9Dd2VkaFBTMVdFdDNqZEpuLW1NaEo0T1JwS0tvUXFWbFhQRVltekJ3WVNFb3ZVUWF0aWJrTQ?oc=5",
-   "title": "Mongolian president announces resignation over alleged corruption",
-   "source": "Reuters",
-   "desk": "reporting",
-   "published": "2026-11-17T08:26:09+00:00",
-   "seen": "2026-11-22T02:16:22+00:00",
-   "cop": true,
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://www.theguardian.com/environment/2026/nov/17/farming-apple-growers-climate-breakdown-thatchers-cider-wildflowers-soil-water-insects-aoe",
-   "title": "Can this experimental orchard save the UK’s cider industry?",
-   "source": "The Guardian",
-   "desk": "reporting",
-   "published": "2026-11-17T08:00:08+00:00",
-   "seen": "2026-11-19T01:47:57+00:00",
-   "description": "Farmers are utilising science and nature to help orchards adapt and thrive in the face of shifting temperatures, rainfall and pests",
-   "image": "https://i.guim.co.uk/img/media/c16ddee7422bfaf3bc19a0615c31918926df7941/229_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=ce9f669a59bede67cb2654ab09685503",
-   "ftries": 1,
-   "fetched": true,
-   "paragraphs": [
-    "O n Myrtle Farm in Somerset, there are thousands of apple trees laid out in rows of 100. Over the past year, each has endured the same wet winter and long summer drought . Now, the different ways each tree responded to these challenges are being analysed in trials that could shape the future of apple growing – and the taste of cider – for decades to come.",
-    "Myrtle Farm is the home of Thatchers Cider , which this year had its earliest ever harvest in the company’s 122-year history. Yet the farm’s experimental orchard of 3,800 trees, where each 100-tree row produces a different apple variety, offers hope that – even as the climate emergency deepens – future harvests will become more consistent and predictable.",
-    "The trials aim to identify robust apple varieties that are resistant to diseases and pests, crop reliably and can withstand the most extreme weather that might affect Somerset .",
-    "“Somerset is the best county in the world for making cider. But the climate is changing. It has been changing for a long time. We need to be in a position where we’ve got the experience, the knowledge and the trees in place to deal with those changes,” says Martin Thatcher, the company’s managing director.",
-    "One of the biggest challenges he faces is the length of time it takes to introduce a new apple variety and change growing methods in orchards. “It doesn’t happen overnight. Each apple tree takes seven years to get to a fruit crop and could last 40 years. So it takes a very long time [for experiments] to come to fruition,” he says.",
-    "The trials came about because, nearly 30 years ago, his father, John Thatcher, rescued 458 varieties of cider apples grown at the Long Ashton research station, a government-funded horticultural and agricultural research centre founded in 1903. “My father took cuttings of every single variety before the centre was closed down, so we have an orchard with 458 varieties in it.”",
-    "The collection includes traditional cider apples and newer varieties that cater for modern tastes. “We’re looking at that orchard now and first of all seeing which apples make fabulous cider. And then we’re looking at how the trees are doing under modern orchard conditions – and if they’re good healthy trees and they’re cropping, we will plant them out in rows of 100-tree trials, to future-proof our orchard growing.”",
-    "He is trying to use fewer pesticides, so is keen to find varieties that are naturally resistant to disease and pests, and will blossom at exactly the moment when spring conditions suit apple tree pollinators such as bumblebees and honeybees.",
-    "Another priority is to find varieties that need less winter chill in a warming climate: apple trees, he explains, need a sustained cold period in winter to complete their dormancy, which enables their fruit buds to develop properly in spring. “That winter chill is really important – and last year, we probably didn’t have quite enough, and some varieties are more susceptible to a lack of winter chill than others.”"
-   ],
-   "lede": "O n Myrtle Farm in Somerset, there are thousands of apple trees laid out in rows of 100. Over the past year, each has endured the same wet winter and long summer drought."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORG5heVNzajhYb0lLRUVKYUdvSkJWZU9MMW5oZzdmM2pfNjl5QkNKTE4wUmEzLWtXNmZHMGpuQzJKb0hoclJzM0ZzVTNYZkxfMEU4N2wxb0JicnlUckdjUDJDSm9idzJ0ZEl6a09vOS04Zmx2cUVCQ1lYcDIwZlBOY1pYejNYbzVGUEZhRW1WTGVWdXdac0c3NXVXTGNNLXBzMmp5R3BHZ0d2R0g0NVZhMEMzTQ?oc=5",
-   "title": "Envision Said to Weigh Adding Data Center Power Unit to IPO Plan",
-   "source": "Bloomberg Green",
-   "desk": "reporting",
-   "published": "2026-11-17T07:00:00+00:00",
-   "seen": "2026-11-19T10:24:07+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://wattsupwiththat.com/2026/11/16/theyre-back-the-mullahs-of-meteorology-and-climate/",
-   "title": "They’re back: The mullahs of meteorology and climate",
-   "source": "Watts Up With That",
-   "desk": "opinion",
-   "published": "2026-11-17T06:07:00+00:00",
-   "seen": "2026-11-19T01:46:41+00:00",
-   "note": "Skeptic blog",
-   "description": "In the end, to me, the weather and climate have to be stand-alones, and the other items are a response to them, not the reason for an answer.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://wattsupwiththat.com/wp-content/uploads/2026/11/bastardi-strong-el-nino-december-analog-1024x512-1.webp",
-   "paragraphs": [
-    "I really wanted to be involved in the hierarchy that would help figure out how to address the climate agenda. I felt that, as someone who has been forecasting for over 50 years and relies on climate and past weather data, I could offer a different kind of input — one from the guy digging the ditch who has to deal with the fact that being wrong actually costs you something. I have always felt that the crucible of capitalism and competition will yield the best results. And certainly, in a private sector that has to compete for a shrinking dollar, you cannot simply dismiss anything that may impact the forecast.",
-    "But now I am glad I am not involved. And that is a horrible thing to say, because of the reason. It has to do with what I was warning my colleagues about at the climate conference back in April. You can’t win with zealots unless you take away the reason for the zealotry. And since it’s not really about climate and weather, but control, they were not going away. Now look at what we are seeing. The recent shift in Congress and the Senate has emboldened that extremity, so people are going to be targets. Some of those people may be held “accountable” for actions they took because they believed those actions were the best course of action. Of course, it’s not only people in the administration involved with climate and weather; it’s across the board.",
-    "I have always had a variety of clients. If a client happens to be an oil company that needs a forecast, I provide one. For instance, we have a colder December forecast than the standard strong El Niño analog. Even though December may not be cold compared to many others, it should be colder than that standard. Here is the example:",
-    "You start computing the difference in energy costs, and even though we’re by no means forecasting a frigid December — just one that’s not as warm — the difference is a big deal.",
-    "But that’s seen as taking money from an oil company. Yet wind and solar are huge items we forecast for also. So, does that put me in their pocket? Of course not. But it does to them. I found that out when I was making the Bill Nye movie as the villain. I was asked how much money I was getting from the Koch brothers because someone said they were paying me to say what I was saying. I have no idea who told them that, but I pointed to my 2007 Pontiac Firebird with a hole in the bumper and said, “How does a man getting rich off the Koch brothers drive that?” The fact is, if you did eliminate all non-wind and solar energy sources, that’s awesome for business. They need not only a seasonal forecast, but hour-by-hour forecasts. For instance, what does a 20-degree drop in a thunderstorm in Dallas do to demand? Or what if there is a prolonged heat wave in a big city, but the wind turbine source has light winds and is not producing? They need a forecast not only for an extended time period, but every day and every hour. Heck, why not just push wind and solar all the time if you are a forecaster? Now isn’t that an interesting question, as far as motivation goes? Mine is to look for trouble and forecast it, no matter who or what you are. I don’t care what your politics are. But think about this: Some people say you should care what someone’s politics are and question their profit motive. I suspect they are seeing in others what they know about themselves. In addition, there won’t be much of a profit motive anymore if the kind of draconian policies we see being touted come to pass (another leftist motivation)."
-   ],
-   "lede": "In the end, to me, the weather and climate have to be stand-alones, and the other items are a response to them, not the reason for an answer."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMkJSOUNJVFlCZDBaRnZieU1ibXYxUGFKOE1JU0pJUGRpT0VERGtEcktsM252bE5ZSEdHOTJUV2dzYmhwQlY4azB5THlkUlVtS09sMnpuT0w2ZWZvaVkzdWMyVzNWd1VZbXBUWGV1YVNObnloWjNlT2s1UXNwdWo2NkpSaUg?oc=5",
-   "title": "COP31 day 8",
-   "source": "Climate Diplomacy Brief",
-   "desk": "politics",
-   "published": "2026-11-17T06:06:10+00:00",
-   "seen": "2026-11-19T01:49:59+00:00",
-   "byline": "Ed King",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "cop": true
-  },
-  {
-   "url": "https://climatediplobrief.substack.com/p/climate-diplomacy-brief-cop31-day-e48",
-   "title": "Climate Diplomacy Brief",
-   "source": "Climate Diplomacy Brief",
-   "desk": "politics",
-   "published": "2026-11-17T06:06:10+00:00",
-   "seen": "2026-11-19T01:46:41+00:00",
-   "byline": "Ed King",
-   "description": "The latest draft political decision has left talks shaken, not stirred, with everyone in need of a stiff martini",
-   "image": "https://substackcdn.com/image/fetch/$s_!ppHY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F454e1c8d-7a95-439f-83e1-58fdd7c5b4fd_799x533.jpeg",
-   "ftries": 1,
-   "fetched": true,
-   "paragraphs": [
-    "Dr No In 2023 at COP28, nearly 200 countries agreed to transition away from fossil fuels. In 2025 at COP30, hosts Brazil committed to develop a global plan to transition away from fossil fuels. They submitted this plan to COP31 on 10 Nov. Six days later, countries seem stuck in an arm wrestle with big polluters over what’s been agreed to.",
-    "Never say never (again) Country views on the cover text ( via ENB ) *UK: Decision needs to emphasise the response to 1.5C overshoot *LMDCs (oil bloc + India/China): Draft crosses their red lines, including the global electrification target of 35% by 2035, roadmap for transitioning away from fossil fuels *Arab Group: No specific energy sources & no 35x35 target *Russia: Ditto *Least Developed Countries: Should provide a comprehensive response to 1.5C overshoot *Nepal/Andorra: Proposed establishing a dedicated programme and high-level dialogue on mountains and climate change",
-    "Ocean day wins Breakdown of regions’ ocean priorities in NDCs: * Latin America + Caribbean: Accounts for nearly 33% of ocean mitigation pledges, spanning marine conservation and blue carbon, fisheries, aquaculture, transport and energy. * Sub-Saharan Africa: 85% of commitments focus on adaptation, coastal zone and fisheries management *Asia: 8 of 12 energy commitments include offshore wind and alternative fuels for shipping 2x higher than other regions’ commitments *Oceania: Clean shipping pledges 3x more than the global average, with Fiji and Palau turning to electric and wind-powered ferries to cut fossil fuels dependence Pressers/events 09:00 Blue NDC Challenge : Implementation Taskforce launch (Ocean Pavillion, Blue zone) 10:30 Oceans media huddle (Media Center) 11:00 Action Agenda ocean event on ocean protection (Special Event Room 3) 13:00 COP31 Presidency Event: Launch of the Regional and International Cooperation Initiative for Ocean (Special Event Room 3) 14:00 European Union press conference 14:30 AOSIS: SIDS & LDCs Defending 1.5 and Science 12:30 Laurence Tubinana & Mary Robinson (Media Center) 17:00 Fossil fuel transition roadmaps launch event (Press Conference Room 1, Mevlana) We leave you with Gwen De Lien by Cay Elinden Oteye - a colleague tells us “it represents Turkiye’s dance on the diplomacy stage - trying to move from its local agenda to influence the global climate agenda with the potentially longest ever cover decision draft.” Ed & Lindsay"
-   ],
-   "lede": "Dr No In 2023 at COP28, nearly 200 countries agreed to transition away from fossil fuels. In 2025 at COP30, hosts Brazil committed to develop a global plan to transition away from fossil fuels.",
-   "cop": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMXpZeUZsNjI1UEF6VDdMOEw4eklRT2dYYmNsVkNxNW44WVoteXQxZDE5WXJ2M2RhX25wRENKUUZBMHlLak5CYkdtMnJFTEwyTTl2WGZDb0NlWEdLVDJVVmJLdmo5Uk15V3ZlTWh1LTFzeUwwZlhQY3RIY0xaS05qbmhmZ0c4ZjlmZkFZSGhWUWp1aFZ4ZFppRFJVOUREQQ?oc=5",
-   "title": "Can Tomatoes Grow in the Desert? A $200 Million Bet That They Can",
-   "source": "Bloomberg Green",
-   "desk": "reporting",
-   "published": "2026-11-17T05:01:00+00:00",
-   "seen": "2026-11-19T01:49:59+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://www.carbonbrief.org/revealed-russia-saudi-arabia-and-australia-are-largest-co2-exporters-of-all-time",
-   "title": "Revealed: Russia, Saudi Arabia and Australia are largest CO2 exporters of all time",
-   "source": "Carbon Brief",
-   "desk": "politics",
-   "published": "2026-11-17T05:00:00+00:00",
-   "seen": "2026-11-19T01:46:41+00:00",
-   "description": "Russia, Saudi Arabia and COP31 co-president Australia are the largest exporters of carbon dioxide (CO2) emissions in history, reveals Carbon Brief analysis.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://www.carbonbrief.org/wp-content/uploads/2026/11/3G186P0.jpg",
-   "paragraphs": [
-    "Since 1850, the three nations – and other major fossil-fuel exporters – have exported hundreds of billions of tonnes of CO2 in the form of gas, oil and coal that has been burned in other countries.",
-    "Carbon Brief’s analysis of extraction-based CO2 emissions is based on figures compiled by Robbie Andrew , a senior researcher at Norwegian climate institute CICERO .",
-    "It shows that Australia is responsible for more than twice as much global warming when including emissions from its fossil-fuel exports, while Saudi Arabia has caused more than four times as much.",
-    "Australia has been under pressure for continuing to expand its fossil-fuel production ahead of the UN climate summit in Antalya, where it is co-president with host nation Turkey.",
-    "In contrast, nations that are heavily reliant on energy imports – such as Japan or Germany – are responsible for far lower shares of planet-warming emissions, if responsibility passes to fossil-fuel producers.",
-    "There are many different ways to assign historical responsibility for current global warming.",
-    "Carbon Brief has previously published analysis based on territorial emissions , the consumption of imported goods, according to colonial rule or based on historical emissions per capita.",
-    "This year is expected to be around 1.5C hotter than pre-industrial temperatures. Next year is forecast to be the hottest on record, at around 1.7C of warming.",
-    "This year-to-year variation is due to natural variability, such as El Niño . However, approximately 100% of global warming to date is the result of human-caused greenhouse gas emissions."
-   ],
-   "lede": "Russia, Saudi Arabia and COP31 co-president Australia are the largest exporters of carbon dioxide (CO2) emissions in history, reveals Carbon Brief analysis.",
-   "cop": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdmJuaHQ3VTFfa3ZvaWJMZkVqMU1FUURZVEdiaTlrdzBKM3dvREFVd3g3WGNhd2ZyZHpSaVFxTmxiSVU5elNESEo1VHo5T0V4bm9KS2FvRktacUotMXNNUTViNWpsLTdpWmpjTkk3YkxOQ2t6TmJ1ZTQ0aEZaU2dJVU5EODJwWktCMUxDTExBUFljeVdEOEd6bm5JLV9MZjBDeWo1TG1lZHhDMkxJWmwyOE9R?oc=5",
-   "title": "CATL Bets on Battery-Swapping to Cement EV Industry Dominance",
-   "source": "Bloomberg Green",
-   "desk": "reporting",
-   "published": "2026-11-17T04:22:00+00:00",
-   "seen": "2026-11-19T01:49:59+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNN2FGMTkxaWkxVXpOQUoyN3JUbVBTeEdEOWo0YmZtajVHUXdINTBuZGNZSnpIQk5YUzVTSkY1Vl9FV3RtM0tQaE9Sanp5Nm1OVmZ6UjA5eHpuMkotdUt3RTEwS2lacWEtWDFuT0F4X0NvaHhUSnlBTmgxZnNOTHdyNWVQTkNodTlNNzgtTS11Xzh4eFFvREJfb1lsY2Z3bUdWOUNoNjZwN3VOcWpoa0E?oc=5",
-   "title": "At COP31, Nepal pushes for billions to help disaster survivors. So far, $20 million is promised",
-   "source": "Associated Press",
-   "desk": "reporting",
-   "published": "2026-11-17T02:29:00+00:00",
-   "seen": "2026-11-19T02:03:16+00:00",
-   "cop": true,
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUTFqY1VncEd2YzN6Z3dUT2lqVXNmVDVxOXROdERRaVFrcDN3ZlhxZVNXdFQ3bnVMNjBYeW1lVk90WGxJRW9VUnpnMU1QQ01vSGJmbmNKdWZWSHVYeElhMUpSMFhFeVk4eG5JakcyNjZ1NTh6ejhMU1RhWVA2N1BiU3lyX1VDRTJGVmpOSjBXd1V4b2Z0OVFWbXozRUJUdk5x?oc=5",
-   "title": "Study estimates magnitude of US data center pollution as climate talks unveil clean AI pledge",
-   "source": "Associated Press",
-   "desk": "reporting",
-   "published": "2026-11-17T02:29:00+00:00",
-   "seen": "2026-11-19T02:03:16+00:00",
-   "cop": true,
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://wattsupwiththat.com/2026/11/16/renewable-energy-siting-and-light-pollution-issues-eco-complaints/",
-   "title": "Renewable Energy: Siting and Light Pollution Issues (eco-complaints)",
-   "source": "Watts Up With That",
-   "desk": "opinion",
-   "published": "2026-11-17T02:05:00+00:00",
-   "seen": "2026-11-19T01:46:41+00:00",
-   "note": "Skeptic blog",
-   "description": "It is not easy being green. ‘Green’ energy has negative environmental consequences.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2026/11/night-sky-paranal-observatory-atacama-1024x512-1.webp?fit=1024%2C512&quality=75&ssl=1",
-   "paragraphs": [
-    "“Light pollution interrupts critical wildlife patterns for bats, migratory birds, insects (and more) and erodes biodiversity. In addition to these threats to wildlife, brighter night skies also threaten the health and natural cycles of humans, wastes energy and money, and disrupts ecosystems” according to a 2025 report from the World Economic Forum.” (- Haley Zaremba, below)",
-    "An article by Haley Zaremba (OilPrice.com) earlier this year, The Renewable Energy Transition Is Running Out of Places to Go (February 8, 2026), identified several issues of industrial wind complexes that seldom get attention. She speaks from the alarmist/transformationist camp, which makes her points extra interesting.",
-    "Just this month, a city-sized renewable energy development in Chile was scrapped after a year-long campaign led by astronomers who want to preserve the darkness of the Atacama Desert’s skies. The Atacama Desert is the highest and driest in the world, making it one of the world’s most ideal and important sites for astronomical observation. As of 2016, light pollution already covered nearly 80 percent of the planet , with a projected expansion of 2.2 percent a year . This means that a place like the Atacama is vanishingly rare. Chile’s highlands are therefore home to some of the biggest and most distinguished telescopes on the planet.",
-    "One of these, the European Southern Observatory’s (ESO’s) Paranal Observatory, would have been within five kilometers of the planned green energy site, which would occupy almost 7,500 acres (more than 3000 hectares). The ESO conducted a study on the likely impacts of this potential new neighbor and found that the megaproject would increase light pollution in the skies above the telescope by a minimum of 35 percent and increase atmospheric turbulence, further reducing clarity when observing the night sky. To nearly everyone’s surprise, the astronomers won … and the INNA (Integrated Energy Infrastructure Project for the Generation of Hydrogen and Green Ammonia) was scrapped.",
-    "“Light pollution,” Haley Zaremba concludes, “may sound like a relatively minor form of environmental degradation, but it can have serious consequences.” She explains:",
-    "Light pollution interrupts critical wildlife patterns for bats, migratory birds, insects (and more) and erodes biodiversity. In addition to these threats to wildlife, brighter night skies also threaten the health and natural cycles of humans, wastes energy and money, and disrupts ecosystems” according to a 2025 report from the World Economic Forum.",
-    "While this represents a major win for the astronomers and the sanctity of dark skies, renewable megaprojects have to go somewhere – and finding suitable sites for their construction is growing harder and harder. In developed countries, rural communities have been pushing back for years against massive-scale green energy projects in their areas, with relative success. And now, developing countries are starting to push back as well after years of bearing the brunt of these outsourced and offshored mega-developments, as well as their negative environmental and public health externalities."
-   ],
-   "lede": "It is not easy being green. ‘Green’ energy has negative environmental consequences."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5pWDlJOWc2NVpSOG5zYThXNHZCRmhXQmYxTEFqNF9ZOF96WkI3Q3h2bHdKNUF4Y0pBVjBfcjNtX0pRMUJuY0t2aWo4TEtrbWs4VDZiMTVwZzBLWjZ5Zjc0aUp0MA?oc=5",
-   "title": "The World Ahead 2027",
-   "source": "The Economist",
-   "desk": "opinion",
-   "published": "2026-11-17T00:52:52+00:00",
-   "seen": "2026-11-19T01:49:59+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQjFNV0o5M2RmamJCam90U3Y5TkxkYmloLWQ5WG1hTzU0ci01Y1YyM1VDaFFpSkNpNUs3SEFmQ0FMRzBtZndZenB0b2RNQkxBbEt5Y1VNMDV5MzQ1SzhYenRZbVV4akZuQ1pUdlVtWi1lV1pNWHZNcGowNGNkTlJRMk02VWRSZWUxR2k1ZURjZzMyM01RY3dlcDRVbER4eHBzTzU5VFpCNXN2MlNUMEI2aw?oc=5",
-   "title": "Slimming drugs are reshaping consumers—and their behaviour",
-   "source": "The Economist",
-   "desk": "opinion",
-   "published": "2026-11-17T00:07:09+00:00",
-   "seen": "2026-11-23T20:15:32+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOT2pVSmZ4VEVVMF9OMkhabXM3RzZqR3o0X2hQVWp4dXhpdlVxMHBFV25kRWpXNGoyUWhGRDNUZEo4QmxCUmRFb092cFNhd1Q5Vkx0WWY2Q0ZRUHNXVC00Yzd1UVJybVhhb3RidEtuczV3SU9ldlVERnFsdUtyNWhYM2tnRTRqclBsXzF5SkdoaWh1NVhfTUtFOTRYakVJdDcwVzE3UjY0OU5TOVZPRHJUdFdib0Y4dw?oc=5",
-   "title": "The year ahead will be crunch time for artificial intelligence",
-   "source": "The Economist",
-   "desk": "opinion",
-   "published": "2026-11-17T00:06:50+00:00",
-   "seen": "2026-11-21T08:18:38+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUzg2czRWd3l4bUFCVS16TkxwVXpzYTlzYl8zaDExa2FUaGVCMk1Kd1lGZnI2N0phWmJIMEg1NWM4YUI3UzVpQUM3N3IzampnaXdTOHhJSFRLN1FLYXlQRERaaFBSZ3plNGYtTEdHVTZNbVNZWWxtMUw5eU5HS1RoOGdrTXYxSGU0VzduVWtDOWIxd2VocHpJQg?oc=5",
-   "title": "The coming year will be the hottest ever",
-   "source": "The Economist",
-   "desk": "opinion",
-   "published": "2026-11-17T00:06:03+00:00",
-   "seen": "2026-11-19T01:46:41+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNlpMaDRhajRqNnRMR1B6Tk9oeUVqeGtNWkJvVEZvN3h0RHl2aUZGTXp1bGgyMHhxZXc3QlI4bXZKSXQ3RklTUnRfR040c1VwakVuOUlGT0Fmd1k2YVV4cGNoWEt1SWJOUlpHbHNOVHpsaU1nQ3pRTmlTU0pTTE93Z0Zuc2l1aC1uT0lVZkxjWVZzM015elNVbHhWbzdBNHhUb2c?oc=5",
-   "title": "China still doesn’t know what to do about Taiwan",
-   "source": "The Economist",
-   "desk": "opinion",
-   "published": "2026-11-17T00:05:37+00:00",
-   "seen": "2026-11-21T22:11:58+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYXpIZGljQ29aOXZraEM1VWxhb0xtYkFyazF2eDNGLUMtWFM4Qlhqb3NnNWJHbGxBRXZ6X1Z0NENmSXVMaW5ubUpsWllhRXZDR3RMYnBua016cnZfNkVZOGRBNzQ4QkxKaDZZMV9qUjNpWDNUWkRfekJMb3dGYXpFSExRSU1JNlFlc1E?oc=5",
-   "title": "The Trump saga’s final chapter",
-   "source": "The Economist",
-   "desk": "opinion",
-   "published": "2026-11-17T00:03:22+00:00",
-   "seen": "2026-11-19T01:47:57+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
   }
  ],
  "dropped": [

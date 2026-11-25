@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T00:46:46+00:00",
+ "updated": "2026-11-25T09:52:39+00:00",
  "briefing": {
   "headline": "COP31, fossil fuels and El Niño",
   "period": "Nov 18–24",
@@ -44,6 +44,109 @@
   ]
  },
  "articles": [
+  {
+   "url": "https://wattsupwiththat.com/2026/11/24/cop31-collides-with-stop-fossil-fuel-movement/",
+   "title": "COP31 collides with Stop Fossil Fuel movement",
+   "source": "Watts Up With That",
+   "desk": "opinion",
+   "published": "2026-11-25T06:03:00+00:00",
+   "seen": "2026-11-25T09:52:39+00:00",
+   "cats": [
+    "Climate Politics",
+    "COP conferences",
+    "Energy",
+    "Antalya",
+    "CFACT",
+    "COP31",
+    "David Wojick"
+   ],
+   "note": "Skeptic blog",
+   "description": "Our civilization is presently run on fossil fuels and there is no feasible alternative. Any serious attempt to reduce fossil fuel use is bound to be bad.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2026/11/cop31-antalya-failure-protests-1024x512-1.webp?fit=1024%2C512&quality=75&ssl=1",
+   "paragraphs": [
+    "COP31 systematically ignored the growing green movement focused on the (impossible) ending of fossil fuel use and it bit them hard. This movement threatens to compete with the COP process by pulling action away. The COP also gave a hard push in that destabilizing direction. So the movement shut the COP down.",
+    "Three months ago I pointed out two potentially destabilizing activities that are core features of the movement. The movement even has an easy acronym: TAFF which stands for Transitioning Away from Fossil Fuels.",
+    "The first activity is the development of a model international treaty to end fossil fuel use. The COP is itself based on a 1992 treaty which many green activists say is going nowhere. A new treaty might well compete with the COP treaty for attention and resources, even to the point of putting COPs out of business.",
+    "This startup TAFF treaty activity was officially ignored at COP31. Negotiations began with an 18 page, 147 item listing of potential considerations and findings. The word “treaty” did not appear once in that lengthy issue list. The COP could have tried to co-opt the treaty movement but it conspicuously failed to do so.",
+    "The second activity is promoting the country by country development of national “roadmaps” or plans for phasing out the use of fossil fuels. These roadmaps (to impossibility) are an obvious big step toward ratifying a treaty with the same (impossible) end. That it cannot possibly be done is irrelevant to the present politics.",
+    "The big issue list used the term roadmap many times but never to refer to this growing green movement. It was decisively ignored.",
+    "Then the COP opened the TAFF floodgates. While the first long draft of issues at least included something about reducing fossil fuel use the second draft dropped the term “fossil fuel” altogether.",
+    "Many COP delegates were TAFF proponents and they were outraged. TAFF quickly became the defining issue, driving the COP into protracted overtime then collapse. The collision was complete.",
+    "The TAFF issue is extreme. Opponents to TAFF say the COP is about emission reduction not fuel use. In fact the net zero doctrine allows for some fossil fuel emissions as long as these are offset. That is what “net” means.",
+    "Nor are major fossil fuel exporting countries willing to commit to abandoning that income. In fact Australia, which exports about a third of global coal by value, was in charge of COP31 negotiations. Russia won’t give up on gas nor Saudi Arabia on oil and so on. These are the realists."
+   ],
+   "lede": "Our civilization is presently run on fossil fuels and there is no feasible alternative. Any serious attempt to reduce fossil fuel use is bound to be bad.",
+   "cop": true
+  },
+  {
+   "url": "https://www.theguardian.com/commentisfree/picture/2026/nov/25/what-real-or-imagined-horrors-are-waking-you-up-at-4am",
+   "title": "What real or imagined horrors are waking you up at 4am?",
+   "source": "The Guardian",
+   "desk": "reporting",
+   "published": "2026-11-25T05:28:12+00:00",
+   "seen": "2026-11-25T09:52:39+00:00",
+   "cats": [
+    "AI (artificial intelligence)",
+    "Climate crisis",
+    "Nuclear weapons",
+    "Donald Trump"
+   ],
+   "description": "We are in the most globally anxious period since WW2. I made this up but it sounds true",
+   "image": "https://i.guim.co.uk/img/media/c834265aaf1f6dbe479a1f76f6ad7cf321895cea/0_48_636_509/master/636.jpg?width=140&quality=85&auto=format&fit=max&s=1705a13f66eb9189d582541a38ea6788",
+   "ftries": 1,
+   "fetched": true,
+   "paragraphs": [
+    "Get all your needs met at the First Dog shop if what you need is First Dog merchandise and prints"
+   ],
+   "lede": "Get all your needs met at the First Dog shop if what you need is First Dog merchandise and prints"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNX2xoU1dSSzBEeGVMMi1fVTdHRUticVJQR2Rod2F4aTNfYldpVkQ0XzA1SkNja0d2V1VENGlDM3h2Wnl1UnJzU3JKczMxY0xtNVdYR3VETDV3Z1FyQWpLMnhlVnExa0t0SWpTWkNXZnMyX19nV0hUUjNEWlEyc2hPY3NmXzZuMzVfenM5RWtNeUZSYjBsS2JUZWpaSV9GSFAtWTN1Z0dDaHhqUGkyQ01YdQ?oc=5",
+   "title": "Xi Probes Shanghai Boss, Widening Biggest Shakeup in Decades",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-25T03:08:00+00:00",
+   "seen": "2026-11-25T09:52:39+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://wattsupwiththat.com/2026/11/24/noaa-hurricane-season-wrap-up-el-nino-record-pacific-one-hurricane-atlantic/",
+   "title": "El Niño Giveth and Taketh Away. NOAA Credits a Natural Cycle for a Record Pacific Season and a One-Hurricane Atlantic",
+   "source": "Watts Up With That",
+   "desk": "opinion",
+   "published": "2026-11-25T02:00:00+00:00",
+   "seen": "2026-11-25T09:52:39+00:00",
+   "cats": [
+    "Climate Attribution",
+    "ENSO",
+    "hurricanes",
+    "Climate Central",
+    "El Niño",
+    "Godzilla El Nino 2026",
+    "NOAA"
+   ],
+   "note": "Skeptic blog",
+   "description": "NOAA's wrap-up credits El Niño, a natural phenomenon, for a record Pacific ACE and a one-hurricane Atlantic. The record is energy, not storm count.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2026/11/2026-11-24-noaa-hurricane-feature-lowell-karina-marie.webp?fit=1024%2C512&quality=75&ssl=1",
+   "paragraphs": [
+    "NOAA published its 2026 hurricane season wrap-up today under the headline “El Nino fueled record number of Pacific storms but calmed Atlantic.” The Atlantic produced 10 named storms and one hurricane. The eastern and central Pacific, by NOAA’s count, had their most active season on record.",
+    "The 2026 hurricane season, which officially ends on November 30, will be remembered as a year of contrasts between the Atlantic and Pacific, a classic indication of a hurricane season influenced by a very strong El Nino. Below normal activity across the Atlantic basin was offset by above-average activity in the Pacific, including two disasters in Hawaii.",
+    "“NOAA’s unparalleled forecasting skill and scientific expertise provided the early warnings needed to protect lives and property this hurricane season,” said Neil Jacobs, Ph.D., NOAA administrator. “This included accurately predicting this year’s very strong El Nino months in advance, which gave us the critical insight we needed to accurately forecast this season.”",
+    "NOAA did get the direction right in both oceans. The May 21 Atlantic outlook gave 8–14 named storms, 3–6 hurricanes, 1–3 major hurricanes and ACE of 45–115% of the median. The August 6 update trimmed that to 7–13, 2–6, 0–2 and 30–90%. The season delivered 10 named storms, one hurricane and one major hurricane, and NHC’s season table puts Atlantic ACE at 20.2, 83% below the 1991–2020 normal. That is roughly a fifth of the 1951–2020 median NOAA’s ranges are built on, under the floor of both outlooks, and one hurricane missed the bottom of both hurricane ranges too. The August outlook said strong El Niño seasons had historically produced 2–4 hurricanes and ACE of 33–89% of the median, so 2026 came in under that as well. “Accurately” is a generous word for it, though nobody on the Gulf Coast will complain about a forecast that missed in that direction.",
+    "One hurricane is the fewest in the Atlantic since 1925 in NOAA’s HURDAT2 database, a point Florida Atlantic University also made on November 16. NOAA says Isaias’s October 7 formation was the latest for a season’s first hurricane since the satellite era began in 1966. Readers here watched it happen; Chris Martz noted on September 21 that the Atlantic had reached that date without a hurricane for the first time since 1914.",
+    "In the Atlantic panel most of the orange bars sit near the bottom, with 2023 the exception. This year is the second lowest since 1971, behind 1983.",
+    "On the Pacific, the headline says a record number of storms, and the body of the release says something else:",
+    "The combined central and eastern Pacific basin had its most active hurricane season on record. NOAA measures a season’s overall tropical activity by its Accumulated Cyclone Energy (ACE), which refers to the combined intensity and duration of tropical storms and hurricanes occurring during the season. In total, the Pacific basin had an ACE of 359.5, surpassing the old record of 318 in 2018.",
+    "That record holds up. NHC’s eastern Pacific table (247.5) plus CPHC’s central Pacific table (112.0) gives NOAA’s 359.5, and summing the HURDAT2 best tracks east of the dateline for 2018 gives 318.1, the figure NOAA cites. ACE squares the wind speed every six hours, so a handful of long-lived Category 4 and 5 storms do most of the work. Polo alone logged 50.2 units in the eastern Pacific, more than twice the Atlantic’s whole season. The numbers are preliminary until NHC finishes its post-season reports."
+   ],
+   "lede": "NOAA's wrap-up credits El Niño, a natural phenomenon, for a record Pacific ACE and a one-hurricane Atlantic. The record is energy, not storm count."
+  },
   {
    "url": "https://www.theguardian.com/culture/2026/nov/25/chris-bowen-cop31-deal-failure-photograph",
    "title": "Why are people captivated by this photo of a crowded Chris Bowen scowling? Is it the negative space?",
@@ -179,6 +282,28 @@
    "lede": "Lead is highly toxic and can linger in the environment. Here’s what residents should know."
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOG5NNDM1dzB0OThjQmlqRk1nRmhXTG91TVVqeFp3MjFFQWZHSDc1bTkwaUNFZG5xUTlIbUVZd0h2N2ZRbllBUjR2dGRpNjNZWkdrZ0dTZVlVX3AwNXBVMk5oQVhzdUJPY2h1enJhdHYxT0VxbDMxS2FGelhsT3FRVUVsNzhrMWpWS1d3dnpqYV9VTDVBWHcxUWljV1NmekxhUW8tVEJRU0NQcjRydUNjRTdHWVg?oc=5",
+   "title": "San Francisco Inundated With Record-High Tides Juiced by El Niño",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-24T22:20:42+00:00",
+   "seen": "2026-11-25T09:52:39+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUlE2QWdoU0hLUnNMZ3p1VkIyUGZrdFJ6bjFRb0hlNFRmNTNOVGN5Z0NialFNTFk3MllsTGtMNWV1anV6Z2x6ZElod1lNdGRyRDA1MEg3Vk04c1lGSkRCQWpuaFkwa2E3bDRZeGw4M1ZrU0UzZnhfZGZYTWFPNXoteGZxM2NQODI3anpkYnlyenM3bks4enpVXzVEWHRaamsyWWhzQXdHVi1sRzNRM183eElLRVNTRElfel9mNlIzVndtQQ?oc=5",
+   "title": "The Gulf survived a short, hot war. A long, cold one will be harder",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-24T22:09:57+00:00",
+   "seen": "2026-11-25T09:52:39+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://www.theguardian.com/us-news/2026/nov/24/climate-scientists-lawmakers-baaja",
    "title": "Climate scientists urge US lawmakers to vote no on sweeping permitting bill",
    "source": "The Guardian",
@@ -295,6 +420,39 @@
     "“This could be a historic storm in southeast Virginia, with water levels approaching such notable events as the Chesapeake-Potomac Hurricane of 1933, Hurricane Isabel in September 2023, and Hurricane Irene in August 2011,” noted retired National Weather Service meteorologist Hugh Cobb, who grew up in the area and served as the science and operations officer at the NWS office in Wakefield, Virginia, before heading the Tropical Analysis and Forecast Branch of the National Hurricane Center."
    ],
    "lede": "Coastal flooding is expected to slam areas from the Outer Banks of North Carolina to Long Island, New York, and heavy rains and high winds will extend well inland."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWFlnWk04aFc3ampBSkxadXJJb3hNUUhDRzAybWlGZ2o3SlU5aFF3OGtOazh3Ui1HOTIyQWFST3NacC1YeFVXU3hTd2pVbTZ6Z1lNdEJVZXlkaTJTZXhpNlhiRWJ6bmJoR2EtdEhwTlJSSXNqT1hmR1ZJV0x1RUVXVlNIMzhJZGowWnVxWTVzeFd2eWFRUnZMWnBfWlNCMlNLaHBLRzBHZWIzdl9VWnFvQi1n?oc=5",
+   "title": "Doomsday predictions have value, even if they’re wrong",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-24T19:13:16+00:00",
+   "seen": "2026-11-25T09:52:39+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUDdSUXVwMkkycnpKS3R2NWdFZTYxUldCenh3dXpPYWpLbjUtWnplalFkTEpHbktFaUVQeW5QdmNzeXBROHl4UGdJZk9NYTgtR21lamxxemNTOEN1eXRyeFhxTnh4cVNpcjhieDUzVXZ6RjBGc19pSVlRMHZfaWJDR1dnNUExR1FsYTQtamtreU9rTGdCbzd0Ng?oc=5",
+   "title": "Shanghai’s boss is purged from Xi Jinping’s top team",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-24T18:45:56+00:00",
+   "seen": "2026-11-25T09:52:39+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOHd4VEw3bHFiWFNma3pvb0hjQ05nbXYzNXFWbTN2ZUUyaGRIZGo0Y0dVRGhPaE5WaW02UXZMUk9ZdzM1dEN0VW1pVWo3NFdZTGR1YkgwLXZiOXZBQzROQkVPUzNLM3dYNFJZTlhqdFVOOXBDQ2lnQUNsMUNxbnRtQkg5SXVhRmpSaE9qTVFZMjFUanAydW5pYlRabFhXNVJzeXZSVTBLY2dDSlQ0b3JsRlE2MDZMbmVa?oc=5",
+   "title": "Progressive Democrats in House Push Back on Energy Permitting Bill",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-24T18:10:16+00:00",
+   "seen": "2026-11-25T09:52:39+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://wattsupwiththat.com/2026/11/24/judith-currys-climategate-open-letter-revisited/",
@@ -461,6 +619,17 @@
    "fetched": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMmNZYWV2WDh1MjNscElmRnF0N3lRSlJXTFNKVjJMRGZsdHk4YXFkUXd1NVJCN3FTZjd5emtvUGV4SF9xcEgxVGxoUTA1ZXBUbzd6NXVPQXhVSldyQ2ZQa3JOZm51VXNrSEFaSHNIWnpsbzZDLWRuZmppVnRpck9YR1VPcWZzR0d5ZTcxV0lWVEgzU1RDdU93TmY5OXZoa3paeFNSYmJBMGlRZVRCckc4?oc=5",
+   "title": "Arabica Drops as Exchange Stockpiles Surge Most in 28 Years",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-24T15:13:09+00:00",
+   "seen": "2026-11-25T09:52:39+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNR0Z5NXh2NENUMGVKc3RYekpSLTJxU09CT3M2VWNXM1BQUHN2WjR4TmdqUlltZ3cxX0lOb2ZtNnZHMS1OS2V4MEN0RzBITFpEa0ZPckhLT29YZDV4YnpqMmxqZC1QVVhCR1JveDdzYTRPTjZDZU51Z2hIYXlIYnJ0LWh5UUVnSmF6TlFtaFNOXzg2R3pkS3RDRjYtT0tIYUpjYzFoQkQ3Z1duTm1QZ0tKQXdrMVh1dw?oc=5",
    "title": "Macy’s Thanksgiving Day Balloons Threatened by Winds in New York",
    "source": "Bloomberg Green",
@@ -496,6 +665,18 @@
    "fetched": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DVFJ3aVBZT1o5RklmMzRBQnhrQTRNNjEydllUb0dPQWF5WFhlZ1dIM2Zkb3VGY0lwdjhYNVhvc2lvZjJoeWtJcXl1LUE3bnpRMUljYkI4OXpBUUI5cEpMTFJIZWgzTlFvME9lRUdKbmdGOU1Ucnk2VnVnYzZXQUk?oc=5",
+   "title": "COP31 was a flop. What now?",
+   "source": "Reuters",
+   "desk": "reporting",
+   "published": "2026-11-24T14:00:00+00:00",
+   "seen": "2026-11-25T09:52:39+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://wattsupwiththat.com/2026/11/24/youre-the-boss-of-your-inbox-now-wuwt-readers-can-mix-and-match-their-emails/",
    "title": "You’re the Boss of Your Inbox Now. WUWT Readers Can Mix and Match Their Emails",
    "source": "Watts Up With That",
@@ -517,6 +698,17 @@
     "Thanks to everyone who asked for something between “everything” and “nothing.” Now you can have whatever lies in between."
    ],
    "lede": "Good news for everyone who loves WUWT but not quite enough to want an email for every single post. You now decide what lands in your inbox."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcGR4WnNuNlo3MU9Tb0VzV1laQ2t4MTNubWYtZHB2amE5eTB2bEFNQnlCbkhDeFItZmowWWxEN0hIQlBmY3ZBWnl6OFJpUXZuMklPbEU0RHNnalZIbHpTODFvU3RRUDdYR01OVlo4eEhxbW9SQkNaMlRIMWZpd21mUldJSWJ5OUpTOUx0R0puNzdNT0ltRFQxSUNfZ1E5OW9tZ000VTNmZ0txdw?oc=5",
+   "title": "Equinor CEO Says Carbon Capture Deals Impeded by Cost, Shortage",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-24T13:33:24+00:00",
+   "seen": "2026-11-25T09:52:39+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://insideclimatenews.org/news/24112026/the-climate-generation-at-cop31/",
@@ -4251,6 +4443,18 @@
    "fetched": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1QT2cwX21LbTJaRlRzMkpBYUpDY05PWWZGWDNfYkdsdWNpWjFrbmZuSF9mV1ZDUEhQd3NXSTJKQXhsZjZzSU9YcVlqbktGVllq?oc=5",
+   "title": "Global News Podcast | UK PM Burnham says \"win-win\" deal could lower cost of living for consumers",
+   "source": "BBC",
+   "desk": "reporting",
+   "published": "2026-11-20T17:37:58+00:00",
+   "seen": "2026-11-25T09:52:39+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://wattsupwiththat.com/2026/11/20/live-at-1-pm-et-commie-31-the-climate-realism-show-226/",
    "title": "Live at 1 PM ET: COMMIE 31",
    "source": "Watts Up With That",
@@ -5790,6 +5994,18 @@
    "fetched": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9HWVJncVQwSi1KZVVuUUVmLUZ2bzhON2toRnI1Y0w2ZWdhUE8tVVljYlY0UlZZUWJVYUNNcno1RUNMc29wLTB4UGZaWEh3TS04?oc=5",
+   "title": "Global News Podcast | UN court says Myanmar committed genocide against Rohingyas",
+   "source": "BBC",
+   "desk": "reporting",
+   "published": "2026-11-19T16:24:14+00:00",
+   "seen": "2026-11-25T09:52:39+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNenRES2E5MmQwb1FyNFJkdHpReUdWSWNFYkwyLVowYUxjZENLbzZnaTFURHNZSXRyLTVFUTBGSExLRFZEWHh2SllRMzdMZDFDeXozLWlYNmJkTzdNRkQ2bUZuSEpWUVR4d0R5cFhpWEp3YklUT0xRMjFGa3k5UXpTRXpJVk81VVNpUHM2OEoxQmhJTEw4c2huN1pFQQ?oc=5",
    "title": "UN bets on controversial carbon clean-up tech at climate summit",
    "source": "POLITICO.eu",
@@ -7246,6 +7462,18 @@
    "lede": "NASA researchers have produced detailed 3D topography maps for all of California, down to the scale of a single tree."
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBPb3VDajM3emVmUmtHelA0anBCWVppSDE5amtENzQ0UVJvR3RMZjZzN0FfWTVIZ1laYUtKTEtiNW9NSEVZYk5vakd1Q1RXTEtB?oc=5",
+   "title": "Six O'Clock News | Households brace for hike in energy bills",
+   "source": "BBC",
+   "desk": "reporting",
+   "published": "2026-11-18T19:18:05+00:00",
+   "seen": "2026-11-25T09:52:39+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWlI3cG1TZ2poQ1NkUEZiY09tcExRZzlKOGhtRDFZRHMxanZINjU3bTBEb1JhelU3N055WmxSek1kLVVxdXMtTzdMenUxVTZLcTRPNGstYkJSLU9BWHFiTlRoaHlDaUlndkZMT3Y2MFFDTms3SWxzZWg3b1RrQjV1WV9MVUwxMHdHUExETUxxN29wMjBPZjlGWHRRbFpBSWk5RExn?oc=5",
    "title": "“Grand Theft Auto VI” may mark the end of an era in gaming",
    "source": "The Economist",
@@ -8101,252 +8329,6 @@
    "desk": "opinion",
    "published": "2026-11-18T10:00:06+00:00",
    "seen": "2026-11-19T10:24:07+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSjQyTGNERU5qVTIxUXNxQXVGOWt5U3QtYUFDSnFBUDQ1MEx6VEh2SW44YS1IZk5lSmFMUWlRQmRtcDN2YWhDV1NOOWx2dWtQaDM1M0c1R0lmejl3R2pIRDlqM3ljSXFta0RoSE9PeU40eU1jTXh1WTlLYWg2aElzQWUtM3I1ZTk2bUZpNTNxSXpfMF9RRmNxMjBWS3dCc2tYb0N4M3plQ2ltUjEtVThxVDM5dmxaUjlNdm0w?oc=5",
-   "title": "The war in Iran is affecting Asian food supplies as well as energy",
-   "source": "The Economist",
-   "desk": "opinion",
-   "published": "2026-11-18T09:43:41+00:00",
-   "seen": "2026-11-20T10:04:06+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWHZsTGl6cEpFQzFFUGh0VWQ5TkllOVZSekctZzdDT0NxYmE3YlVITkVCUHNJZGl2Y2dIY3d6YkJ6WWVQU2RZWlBMSm1TcjJlN0R6NzExdHNlOEd5b2gxSm0yS0wzZGk1WUZTSm91bm81VmlfMWdBR2ZPV2xPTUY0S19uMlhpaWpWOVF3Y0V0WFNGVlhkcl95WnBYSmgtQ2kwcG15U0YyLUNhUUVqNHNWQW5tYWRFd3ZfODFFZTFoYWprOENuMmRv?oc=5",
-   "title": "To avoid conflict, great powers must be more flexible, argues Odd Arne Westad",
-   "source": "The Economist",
-   "desk": "opinion",
-   "published": "2026-11-18T09:40:31+00:00",
-   "seen": "2026-11-19T19:29:47+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcHRLZmUxYi1fUEhGbjcyN09CQ2VNNy0wVlJfWjIxOFNvTHZraDdNbDZlM0JSVExxMEdib3RCX2N3ZExDYVQ5MXlFZTFzVUZoNDJUNzZGOXB6UEtRS2pzbFdqQm5JdjZGSDJENTlKY1g4SnJtYXpFSjRhckowUkxlOGpLcFNFc1I2OXllVkxobzhPbEhKNzBwMjFmZm1tQQ?oc=5",
-   "title": "Cowboy culture is spreading across the world",
-   "source": "The Economist",
-   "desk": "opinion",
-   "published": "2026-11-18T09:39:50+00:00",
-   "seen": "2026-11-19T02:03:16+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://www.theguardian.com/environment/2026/nov/18/phantom-forests-in-australian-arid-outback-used-to-create-carbon-credits-meant-to-offset-emissions-report-claims",
-   "title": "‘Phantom forests’ in Australia’s arid outback used to create carbon credits meant to offset emissions, report claims",
-   "source": "The Guardian",
-   "desk": "reporting",
-   "published": "2026-11-18T09:30:36+00:00",
-   "seen": "2026-11-19T01:46:41+00:00",
-   "description": "Carbon credit companies reject research that found only small increase in forest and canopy cover in regeneration areas despite wet conditions",
-   "image": "https://i.guim.co.uk/img/media/06bf441bd0b1ae5e44706521aa2d8dfb287f3adb/126_0_3779_3024/master/3779.jpg?width=140&quality=85&auto=format&fit=max&s=93eb27396e961a3d060c9f56600717d0",
-   "ftries": 1,
-   "fetched": true,
-   "paragraphs": [
-    "A fight over the legitimacy of Australia’s climate change policy has reignited after researchers claimed “phantom forests” in the semi-arid outback are being used to create offsets that allow fossil fuel companies to keep pumping out pollution.",
-    "A group of academics, including professors from the Australian National University and the University of New South Wales, said they had examined 50 forest regeneration projects used to create carbon credits.",
-    "Led by Prof Andrew Macintosh , the former federal government carbon credit scheme integrity chair and the director of ANU’s Centre for Environmental Markets, the researchers said they found only a small increase in forest and tree crown cover in the areas over the past five years despite wet conditions.",
-    "They said the conclusions were consistent with their previous peer-reviewed studies that found Australia’s method for creating carbon credits from forest regeneration was doing little to nothing to help address the climate crisis .",
-    "The research was published in a report released on Wednesday by the Australian Conservation Foundation. Prof David Eldridge, one of the report’s authors and a former principal research scientist with the NSW environment department, said he was “gobsmacked” that “phantom forests” in outback areas north-west of the remote town of Bourke could earn carbon credits for forest regrowth.",
-    "The findings were rejected by companies that manage what are known as human-induced regeneration projects in north-western NSW. “These are some of the most closely examined carbon projects in the country, and the evidence on the ground shows they are working,” a spokesperson for Green Collar, a business that manages carbon credit projects, said.",
-    "Each carbon credit is said to represent one tonne of emissions that has been removed from, or prevented from being released to, the atmosphere.",
-    "Their use is contentious, in part, because industrial-polluting companies that are required to cut emissions under a federal policy known as the safeguard mechanism are allowed to buy an unlimited number of credits to count as their own cuts while continuing to pollute.",
-    "Scientists have warned limiting the climate crisis requires rapid direct cuts in emissions and that carbon credits – also known as offsets – should be used sparingly ."
-   ],
-   "lede": "A fight over the legitimacy of Australia’s climate change policy has reignited after researchers claimed “phantom forests” in the semi-arid outback are being used to create offsets that allow fossil fuel companies to…"
-  },
-  {
-   "url": "https://www.climatechangenews.com/2026/11/18/cop31-bulletin-day-9-crunch-ministerial-talks-planned-for-wednesday-evening/",
-   "title": "COP31 Bulletin Day 9: Crunch ministerial talks planned for Wednesday evening",
-   "source": "Climate Home News",
-   "desk": "politics",
-   "published": "2026-11-18T09:10:54+00:00",
-   "seen": "2026-11-19T01:46:41+00:00",
-   "description": "With a draft cover text still untrimmed, the presidency is holding a “Divan\" meeting to make progress towards a \"balanced package\"",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://www.climatechangenews.com/wp-content/files/2026/11/COP31-hall-globe.jpg",
-   "paragraphs": [
-    "With just three official days of talks left, the catch-all initial draft of the cover decision - which the Arab Group and Russia say they reject - has yet to be slimmed down.",
-    "To speed things up, the COP31 presidency has asked governments to send their top people to a meeting at 5pm local time dubbed a “Divan”, a word derived from an Ottoman council.",
-    "There, they are being encouraged to respond to the question: “How can COP31 send signals and capture a clear plan of action which meets the moment, while respecting national circumstances and priorities?”",
-    "With just three official days of talks left, the catch-all initial draft of the cover decision - which the Arab Group and Russia say they reject - has yet to be slimmed down.",
-    "To speed things up, the COP31 presidency has asked governments to send their top people to a meeting at 5pm local time dubbed a “Divan”, a word derived from an Ottoman council.",
-    "There, they are being encouraged to respond to the question: “How can COP31 send signals and capture a clear plan of action which meets the moment, while respecting national circumstances and priorities?”",
-    "Participants are encouraged to speak directly to each other rather than just reading out statements to the chair, who - despite Australia’s role as President of Negotiations - will be COP31 President Murat Kurum.",
-    "The aim is to “explain where their delegations see room for common ground and what they would need to reach agreement” on a text that is intended to be the cherry on the cake of “a balanced package” including negotiated agenda items. A handful of observer groups will also be present in the room.",
-    "It is unclear whether the next version of the text will come out before or after the \"Divan\" meeting. The presidency has said only that it will be published as soon as possible.",
-    "Before then on Wednesday, we are expecting announcements from a group of countries aiming for net negative emissions and we will be hearing from the European Union again at a 2pm press conference. There will also be a ministerial event to launch the next Global Stocktake of national climate plans, which is due to conclude in 2028."
-   ],
-   "lede": "With a draft cover text still untrimmed, the presidency is holding a “Divan\" meeting to make progress towards a \"balanced package\"",
-   "cop": true
-  },
-  {
-   "url": "https://insideclimatenews.org/news/18112026/western-pennsylvania-residents-unplugged-oil-wells/",
-   "title": "In Western Pennsylvania, You Might Live Next to—or on Top of—an Unplugged Well",
-   "source": "Inside Climate News",
-   "desk": "reporting",
-   "published": "2026-11-18T09:05:00+00:00",
-   "seen": "2026-11-19T01:46:41+00:00",
-   "description": "Inside Climate News and the Pittsburgh Post-Gazette have built an interactive map to bring these old ghosts to light",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://insideclimatenews.org/wp-content/uploads/2026/11/WELLSPG111826-13-1024x683.jpg",
-   "paragraphs": [
-    "Abandoned : The aging oil and gas wells haunting Pennsylvania. This project is a collaboration between Inside Climate News and the Pittsburgh Post-Gazette.",
-    "There are six old oil wells within 150 feet of Brittany and Ryan Mahoney’s first house in the South Fayette neighborhood known as The Berkshires. They didn’t know about any of them.",
-    "The thousands of oil and gas wells that still linger underground in this region are often long forgotten up on the surface. Some wells were drilled more than a century ago, and many haven’t produced oil or gas in decades. Some have been plugged with tree trunks. Some are still cavities.",
-    "Many don’t pose any immediate health or safety risks, but there’s no easy way for residents to know if a nearby well is leaking gas, fouling groundwater, or otherwise reacting to all the other extraction activities going on underground. It’s especially hard to monitor any of those hazards if you don’t know where the wells are.",
-    "Dan Gearino’s habit-forming weekly take on how to understand the energy transformation reshaping our world.",
-    "A once-a-week digest of the most pressing climate-related news, written by Kate Waxman and released every Tuesday.",
-    "Don’t miss a beat. Get a daily email of our original, groundbreaking stories written by our national network of award-winning reporters.",
-    "A digest of stories on the inequalities that worsen the impacts of climate change on vulnerable communities.",
-    "That’s why Inside Climate News and the Pittsburgh Post-Gazette built an interactive map to bring these old ghosts to light. The tool allows you to search any location in the state and look up information about nearby wells, many of which were long since abandoned.",
-    "More than a hundred years ago, The Berkshires neighborhood was part of the most prolific oil play in the world, the McDonald Oil Field—so productive that its output was reported in gallons per minute."
-   ],
-   "lede": "Abandoned: The aging oil and gas wells haunting Pennsylvania. This project is a collaboration between Inside Climate News and the Pittsburgh Post-Gazette."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZnRDdExvWG9lXzhGeXByMWlqaFRocjVsbG1PdEZGWW5ZMVVtSHRQYVlvMEMyb3ZNak9DMkpvQjhJanUxS3JhLUZ6SWltQk1EOWFqUE5UVXFJeWhmMzFqWENQWUltVGtNcGlsc2tVamVkTHFvSnpkOHk3Z3lobjRSN3BiVkFQRTZ6UFZKd21zRThOT3I2Q2M0QzBUTmo5YkpIYWxETWRDWlRaS3lJOWpIRQ?oc=5",
-   "title": "Expect a year of accelerating technological progress in AI",
-   "source": "The Economist",
-   "desk": "opinion",
-   "published": "2026-11-18T09:04:32+00:00",
-   "seen": "2026-11-19T01:47:57+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaWRyM0NjLWZJMnhvXzktTmd0NlotWTNqWmNyRV9sRzVUZnM0eTNKSy1UT2Yyblh0S1hQTVpzbU1wdHhsd1ZtSUtBSXl6WFdjZDFEZDFFUE9RSEVYbVVzbUhoRTNBYWprUmdBZ0N2bXI0M0tTQy1ZQ2ZVY1FqV2U2RjVqYWFJUmszajZlaWJZd0t6cnc3djhsakM2SVk4cXZYOWlDNmlkcDVqTVlDLUowRE9n?oc=5",
-   "title": "The rise of AI and the decline of Trumpism will define 2027",
-   "source": "The Economist",
-   "desk": "opinion",
-   "published": "2026-11-18T09:01:32+00:00",
-   "seen": "2026-11-22T02:16:22+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://insideclimatenews.org/news/18112026/how-we-mapped-pennsylvania-abandoned-wells/",
-   "title": "How and Why We Mapped Pennsylvania’s Forgotten Oil and Gas Wells",
-   "source": "Inside Climate News",
-   "desk": "reporting",
-   "published": "2026-11-18T09:00:00+00:00",
-   "seen": "2026-11-19T01:46:41+00:00",
-   "description": "They’re near and beneath homes, parks, businesses and more. Now you can learn more about them.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://insideclimatenews.org/wp-content/uploads/2026/11/260602_Goldsmith_AbandonedWells292-1024x683.jpg",
-   "paragraphs": [
-    "Abandoned : The aging oil and gas wells haunting Pennsylvania. This project is a collaboration between Inside Climate News and the Pittsburgh Post-Gazette.",
-    "Thanks to its long history of oil and gas exploration, the geology of Western Pennsylvania resembles a huge block of Swiss cheese. From the industry’s beginnings in 1859, when Edwin Drake struck oil less than 70 feet beneath the surface just south of Titusville, to the modern-day fracking boom that launched in 2004, hundreds of thousands of wells have been drilled into the landscape—adding to a labyrinth of shafts and tunnels from the region’s coal mines.",
-    "Many of these wells have long since been abandoned. Their operators may have gone out of business, if they are even known. Some old wells are still obvious from rusting wellheads and pipes. But in many cases, there’s little sign of them at the surface.",
-    "Dan Gearino’s habit-forming weekly take on how to understand the energy transformation reshaping our world.",
-    "A once-a-week digest of the most pressing climate-related news, written by Kate Waxman and released every Tuesday.",
-    "Don’t miss a beat. Get a daily email of our original, groundbreaking stories written by our national network of award-winning reporters.",
-    "A digest of stories on the inequalities that worsen the impacts of climate change on vulnerable communities.",
-    "These wells are hidden in forests, shopping centers, even the Pittsburgh Botanic Garden. Others lie beneath the terminal and runways of the Pittsburgh International Airport. There could even be a hidden well in your backyard or beneath your home.",
-    "And while many of these wells pose little hazard beyond tripping over a protruding pipe, some may be leaking explosive methane, toxic carbon monoxide or carcinogens like benzene. Oil and gas wells can create air and water pollution. Exercise great care if you think a well may be nearby.",
-    "The state’s Department of Environmental Protection does provide an oil and gas well mapping tool . But it can be slow and difficult to use, especially if you’re not an expert."
-   ],
-   "lede": "They’re near and beneath homes, parks, businesses and more. Now you can learn more about them."
-  },
-  {
-   "url": "https://insideclimatenews.org/news/18112026/pennsylvania-aging-unplugged-oil-wells/",
-   "title": "What the World’s First Oil Boom Left Behind",
-   "source": "Inside Climate News",
-   "desk": "reporting",
-   "published": "2026-11-18T08:55:00+00:00",
-   "seen": "2026-11-19T01:46:41+00:00",
-   "description": "America’s oil and gas industry was born in Pennsylvania. Hundreds of thousands of aging, unplugged wells are one of its enduring legacies.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://insideclimatenews.org/wp-content/uploads/2026/11/260602_Goldsmith_AbandonedWells250-1024x683.jpg",
-   "paragraphs": [
-    "Abandoned : The aging oil and gas wells haunting Pennsylvania. This project is a collaboration between Inside Climate News and the Pittsburgh Post-Gazette.",
-    "The property that became the Pittsburgh Botanic Garden has led many lives: coal mine, farmland, resurrected forest. Inside the southern boundary, in acres of dense woods off-limits to visitors, the relics of a less-remembered chapter litter the landscape.",
-    "Past the back gate is a jumble of overturned tanks, stained sheds and tangled, broken pipes. The creek gurgles strangely, a sulfurous smell hanging in the air. High on the ridge, rusted pumpjacks stand like quiet sentries. One wears a metal tag stamped with the name of a woman who lived here more than a century ago.",
-    "Jane McGill #1 is an abandoned oil well, drilled at the height of what was then the biggest oil rush in the world, and this is an oil field graveyard. The well is one of hundreds of thousands of oil and gas wells left unplugged by operators and scattered across the state, from Washington County in the southwest to Susquehanna in the northeast.",
-    "Some of them are fouling the air with methane, the highly flammable gas and potent climate pollutant, and other chemicals like cancer-causing benzene. In some cases, abandoned wells have been linked to home explosions. Others are implicated in water contamination, acting as accidental conduits between present-day drilling and private water wells.",
-    "For decades these lost wells went largely unnoticed. But dealing with them has become more urgent as suburbia sprawls into what used to be open space. Forgotten oil and gas wells now lurk near and even beneath shopping centers, schools, homes, backyards and public parks. They may no longer be marked, their metal casing stripped for scrap, the only sign a patch of dead grass, bubbles surfacing in a pond or an unassuming hole in the ground.",
-    "Inside Climate News and the Pittsburgh Post-Gazette set out to help make residents more aware of the wells in their midst. Using data from the Pennsylvania Department of Environmental Protection, we built an interactive tool that allows users to input an address anywhere in the state and immediately see if active, abandoned or orphaned wells are nearby.",
-    "Dan Gearino’s habit-forming weekly take on how to understand the energy transformation reshaping our world.",
-    "A once-a-week digest of the most pressing climate-related news, written by Kate Waxman and released every Tuesday.",
-    "Don’t miss a beat. Get a daily email of our original, groundbreaking stories written by our national network of award-winning reporters."
-   ],
-   "lede": "America’s oil and gas industry was born in Pennsylvania. Hundreds of thousands of aging, unplugged wells are one of its enduring legacies."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOTFNTXhVbkNsYW15R3dTNzVIb1dNTTlCRmFBbzdyNzd3bzVrbzctXzhmNTdabmwxRGJ6d01LWFpicjlYVURXb0FPM2ZyRUR0Wk02SVpfTmFjQkVBQ24tQV9DdHE0T1JYY3RmYUE5aHI3cVZpWUU0YTdiVm9ZLWdNaWdlWFBJS2h3TTdzT1o1UDBqUVMxOElJ?oc=5",
-   "title": "Catch up: Nvidia’s post-Huang earnings beat expectations; Putin, Trump and Xi to meet in China",
-   "source": "The Economist",
-   "desk": "opinion",
-   "published": "2026-11-18T07:59:46+00:00",
-   "seen": "2026-11-19T02:03:16+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://climatediplobrief.substack.com/p/climate-diplomacy-brief-cop31-day-43b",
-   "title": "Climate Diplomacy Brief",
-   "source": "Climate Diplomacy Brief",
-   "desk": "politics",
-   "published": "2026-11-18T06:01:57+00:00",
-   "seen": "2026-11-19T01:46:41+00:00",
-   "byline": "Ed King",
-   "description": "Time and credit is running out for the Australian / Turkish COP hosts: as the pressure mounts will they stick or twist?",
-   "image": "https://substackcdn.com/image/fetch/$s_!ho2V!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8444801a-8a26-49d7-93c8-3f5bb0a517b4_799x533.jpeg",
-   "ftries": 1,
-   "fetched": true,
-   "paragraphs": [
-    "72 hours Bright lights. Constant noise. Airless rooms. Average coffee. Tiredness is starting to seep into the bones and brains of envoys at COP31. Some have been existing on 5-6 hours sleep a night for the last 10 days. Managing teams. Analysing texts. Negotiating in Antalya and with capitals back home. The pressure is rising, inexorably. Türkiye and Australia did not have to have a major political decision, but they chose to. Officially less than 72 hours remain. Horror show That’s how Tuesday’s 4-6pm ‘heads of delegation’ meeting on Monday’s draft cover decision was described by one observer. That’s not unusual at this point in the second week when everything’s at stake. Below is a summary of views expressed by key blocks (not much has changed): *Arab Group: Remove ICJ, roadmaps, 1.5C work programme, electrification, IPCC timing *Islands: Backsliding on overshoot/1.5C is not on, too much CCUS + anti-science language *EU: Supports electrification target, focus on overshoot, dislikes historical responsibility *Africa: Supports 1.5C/overshoot language, more focus on adaptation + specifics on $$$ *Least Developed: Clarity on adaptation finance, supports ICJ reference *China: A text lacking coherent internal structure is like a body without bones - a zombie *Mex, Swiss, ROK: Supports 1.5C overshoot ref, wants more on fossil fuels transition AOSIS Chair Ambassador Ilana Seid took aim at “certain countries” who undermine the IPCC, calling out “scientists from a very select group of countries that have been sent here to brainwash us.”",
-    "Sitrep A generous take is the Australian/Bowen approach to this cover text was to allow for open discussion this week so everyone could present/vent their views. But, as ever with such a strategy, this carries risk: in this case an explosion of red lines and raw rage. Ministers will now engage on the details throughout Wednesday. Time & bank credit is running out. 17/11 highlight ( from ENB ) “Saudi Arabia opposed an activity inviting regular reporting on the protection of scientists, journalists, teachers, and environmental human rights defenders.” Bookmarks *IEA: Energy crisis policy tracker *Carbon Brief: Who wants what at COP31? *Carbon Brief: Negotiating text tracker *NRDC: International climate finance tracker *CAT: GHG analysis of all major emitters *ENB: Priceless daily update from inside the talks"
-   ],
-   "lede": "Time and credit is running out for the Australian / Turkish COP hosts: as the pressure mounts will they stick or twist?",
-   "cop": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb2lTMjM4bjlLWks3SUZDNjJxdWxVcC1ta1pIbktrZ3doYzlZU0R0cGdnQmRZb09IYU40dHNVZm9fMWE3dHc0SE1ROWRJZUw1YWJOV1pnMElseGFOclR4bmpjbWFRSGFobkpPYXBFd3RGaHdrczlGcFVRZ0t2UGJMNnFuckgxazFwNUcyOXRFUW1DSXpRZ2xIMGdrajV1WlFSY2ktWmFrWUhMYTJOV2NDRDFUdzlUQQ?oc=5",
-   "title": "Magnitude 5.9 earthquake strikes Indonesia's Flores, GFZ says",
-   "source": "Reuters",
-   "desk": "reporting",
-   "published": "2026-11-18T04:55:00+00:00",
-   "seen": "2026-11-20T18:38:27+00:00",
-   "cop": true,
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWU1GYUNEX0tIOUhHR2IxTnZMMS1SSVhJeTZCdzJ1aGVYQnVsSmtyQm55c0c5VnhKb0JnQmItYk54ZWhsQndMWG5nTUdHVGRELXd4SXNOWFN0d29xNjFGSC1PMGtxQV8xaTBKWl9nMExZZldjOGxSRmNCUnNFdXpGOUg5SkJmZW9sX3hELVByU0pmby0wYVdTQzZjWXRibDdQTTNzb0U4NUVOS0QwOTJJOThlNA?oc=5",
-   "title": "Magnitude 6 earthquake strikes Papua New Guinea, GFZ says",
-   "source": "Reuters",
-   "desk": "reporting",
-   "published": "2026-11-18T03:57:00+00:00",
-   "seen": "2026-11-22T02:16:22+00:00",
-   "cop": true,
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWkc3ZGFYRXREU3BPNVJ0bHhKQUFkdklCZ0pnM0ZYOXMzMU0yU05ZV1lZdzZWdWlKNmVoTHFXam1MWDJVdGNwYXUtN2xSYTFkdnNJRUg0ZllaWk9jcjF6RXlxOEpPVHNyVnNESVVTR0MwYzRPTmlmeDVPSXA2Y3VjUWdYOGdXTTZuWGkxRWxqa2hPZENMOGZfakQyQWpkWEhfX3VIbkxJVVoxRTB2ME03c19iai1mR0RpUGc?oc=5",
-   "title": "UK's William says world must act urgently on climate at Indian awards ceremony",
-   "source": "Reuters",
-   "desk": "reporting",
-   "published": "2026-11-18T03:41:02+00:00",
-   "seen": "2026-11-20T01:47:33+00:00",
-   "cop": true,
    "via_google": true,
    "ftries": 1,
    "fetched": true

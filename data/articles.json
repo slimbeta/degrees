@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-26T02:52:29+00:00",
+ "updated": "2026-11-26T12:39:22+00:00",
  "briefing": {
-  "headline": "COP31, fossil fuels and El Niño",
-  "period": "Nov 19–25",
-  "made": "2026-11-25T19:57:33+00:00",
+  "headline": "COP31, fossil fuels and flooding",
+  "period": "Nov 20–26",
+  "made": "2026-11-26T12:39:22+00:00",
   "bullets": [
    {
     "text": "Going into COP31, co-president Australia had talked up its plan to use the summit as an opportunity to make it easier for vulnerable countries to access climate finance.",
@@ -18,32 +18,211 @@
     "theme": "fossil fuels"
    },
    {
+    "text": "As warming temperatures made cranberry farming more difficult, one group restored a former bog to its natural wetland state.",
+    "source": "Yale Climate Connections",
+    "url": "https://yaleclimateconnections.org/2026/11/a-retired-cranberry-bog-is-helping-nantucket-fight-flooding/",
+    "theme": "flooding"
+   },
+   {
     "text": "The rare confluence of king tides and an extreme El Niño, supercharged by global warming, is likely to inundate areas up to 3 feet above sea level.",
     "source": "Inside Climate News",
     "url": "https://insideclimatenews.org/news/24112026/san-francisco-bay-area-coastal-flooding/",
     "theme": "El Niño"
    },
    {
-    "text": "At COP31, Indigenous representatives warned that growing demand for lithium and uranium is threatening their lands, water, and rights.",
-    "source": "Yale Climate Connections",
-    "url": "https://yaleclimateconnections.org/2026/11/indigenous-communities-push-back-against-mining-for-clean-energy/",
-    "theme": "clean energy"
-   },
-   {
-    "text": "The highest coastal water levels in over a century of record-keeping occurred in both San Diego and Los Angeles today, beating the records set just last month.",
-    "source": "Yale Climate Connections",
-    "url": "https://yaleclimateconnections.org/2026/11/king-tides-bring-record-coastal-flooding-to-california/",
-    "theme": "flooding"
-   },
-   {
     "text": "A group of more than 120 climate scientists have urged US lawmakers to not pass contentious legislation to speed up the building of energy projects, datacenters and other infrastructure, amid a growing backlash to the…",
     "source": "The Guardian",
     "url": "https://www.theguardian.com/us-news/2026/nov/24/climate-scientists-lawmakers-baaja",
     "theme": "permitting reform"
+   },
+   {
+    "text": "With big diplomatic efforts faltering, smaller pacts, local leaders and booming clean energy take center stage.",
+    "source": "The New York Times",
+    "url": "https://www.nytimes.com/2026/11/23/climate/cop31-collapse-what-next.html",
+    "theme": "clean energy"
    }
   ]
  },
  "articles": [
+  {
+   "url": "https://yaleclimateconnections.org/2026/11/a-retired-cranberry-bog-is-helping-nantucket-fight-flooding/",
+   "title": "A retired cranberry bog is helping Nantucket fight flooding",
+   "source": "Yale Climate Connections",
+   "desk": "science",
+   "published": "2026-11-26T11:59:00+00:00",
+   "seen": "2026-11-26T12:39:22+00:00",
+   "cats": [
+    "Adaptation",
+    "Audio",
+    "Food & Agriculture",
+    "Solutions",
+    "flood",
+    "Massachusetts",
+    "nantucket",
+    "United States"
+   ],
+   "description": "As warming temperatures made cranberry farming more difficult, one group restored a former bog to its natural wetland state.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://i0.wp.com/yaleclimateconnections.org/wp-content/uploads/2026/11/112626_cranberries_1600.jpg?fit=1600%2C900&ssl=1",
+   "paragraphs": [
+    "For more than a century, the cranberries on many Thanksgiving tables came from Nantucket Island in Massachusetts.",
+    "Karen Beattie is with the Nantucket Conservation Foundation, which has grown cranberries for decades. She says they used to thrive in the island’s wetlands and cool climate.",
+    "Beattie: “Cranberries are a northern plant species, and they require cold winters and cooler summers.”",
+    "But global warming is making it harder to grow them on Nantucket. So her group decided to stop farming cranberries in an area called Windswept Bog and to instead restore the former farm as a wetland.",
+    "First, crews scraped off thick layers of sand that growers had spread to promote cranberry growth.",
+    "And they filled in drainage channels that crisscrossed the bog. So now water flows naturally across the area.",
+    "Beattie says wetland plants and soils filter polluted runoff before it flows toward Nantucket Harbor.",
+    "And by soaking up water like a sponge, the wetland reduces the risk of nearby flooding, as seas rise and storms grow more extreme.",
+    "So the retired cranberry bog is now helping build Nantucket’s resilience to climate change.",
+    "We love it when others republish our articles. Most of our content – other than images – is available to republish for free under a Creative Commons license (CC BY-NC-ND 4.0). Here’s what to do:"
+   ],
+   "lede": "As warming temperatures made cranberry farming more difficult, one group restored a former bog to its natural wetland state."
+  },
+  {
+   "url": "https://wattsupwiththat.com/2026/11/26/ccc-campaign-for-heat-pumps-evs/",
+   "title": "CCC Campaign for Heat Pumps & EVs",
+   "source": "Watts Up With That",
+   "desk": "opinion",
+   "published": "2026-11-26T10:07:00+00:00",
+   "seen": "2026-11-26T12:39:22+00:00",
+   "cats": [
+    "Climate Politics",
+    "Electric Vehicles",
+    "Climate Change Committee",
+    "heat pumps"
+   ],
+   "note": "Skeptic blog",
+   "description": "It is simply dishonest to claim savings on heat pump running costs, without factoring in the capital cost, which is unaffordable for most people.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2026/11/air-source-heat-pump-terraced-house-uk-1024x512-1.webp?fit=1024%2C512&quality=75&ssl=1",
+   "paragraphs": [
+    "Is it just me? Or is the Climate Change Committee now taking a much more active role in influencing public policy?",
+    "In the last two months, they have interfered in decision making around Heathrow, attempted to prevent the weakening of EV mandates and published some deliberately misleading propaganda about energy costs.",
+    "It contains the misleading statement that a typical household can save £800 a year by switching to EV.",
+    "a) It makes no recognition of the fact that EVs typically cost between £10 and 15K more to buy than a proper car.",
+    "d) CCC estimated savings are based on currently high fuel prices – at last year’s prices, the fuel saving would be at best £600 a year.",
+    "e) Charging costs for an EV are much dearer than fuel, where a public charger has to be used.",
+    "The argument about savings is, in any event, a red herring – drivers will still have the choice of buying an EV if that is what they want, regardless of the ZEV mandate.",
+    "Meanwhile, the Telegraph reported yesterday that yet another leading carmaker has slammed ERV targets:",
+    "A leading carmaker has called Britain’s electric vehicle (EV) targets “the most aggressive regulatory regime in the world”, piling more pressure on Labour to water down the rules.",
+    "Paul Philpott, president and chief executive of Kia UK, accused the Government of imposing “eye-watering” costs on the UK’s automotive industry with the controversial zero-emission vehicle (ZEV) mandate."
+   ],
+   "lede": "It is simply dishonest to claim savings on heat pump running costs, without factoring in the capital cost, which is unaffordable for most people."
+  },
+  {
+   "url": "https://insideclimatenews.org/news/26112026/manhattan-east-river-park-flood-resiliency/",
+   "title": "Concrete Floods Walls and an Elevated East River Park Now Protect a Swath of Lower Manhattan",
+   "source": "Inside Climate News",
+   "desk": "reporting",
+   "published": "2026-11-26T10:00:00+00:00",
+   "seen": "2026-11-26T12:39:22+00:00",
+   "cats": [
+    "Science",
+    "climate resiliency",
+    "development",
+    "East Side Coastal Resiliency Project",
+    "Flood",
+    "flooding",
+    "manhattan",
+    "New York"
+   ],
+   "description": "Inspired by rising sea levels and Hurricane Sandy’s epic flooding in 2012, the $1.4 billion system of walls, berms and movable floodgates is designed to hold back 18.5-foot storm surges.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://insideclimatenews.org/wp-content/uploads/2026/11/9_barges_to_the_north-1024x683.jpg",
+   "paragraphs": [
+    "The most critical parts of the East Side Coastal Resiliency Project’s flood protection system may be the ones New Yorkers will never see.",
+    "In the new John V. Lindsay East River Park in lower Manhattan, engineers have been working on an ambitious challenge: protecting the park and surrounding neighborhoods from coastal flooding.",
+    "Beneath a 2-foot-thick concrete wall designed to hold back coastal flooding, steel structures extend deep underground, anchoring the barrier and helping prevent water from finding a way underneath it.",
+    "Depending on the location, engineers supported the wall with steel sheets driven into the ground or large underground pipes. The latter were used in areas where existing utility lines prevented the installation of a continuous barrier, explained Eric Ilijevich, a director at the city’s Department of Design and Construction.",
+    "Dan Gearino’s habit-forming weekly take on how to understand the energy transformation reshaping our world.",
+    "A once-a-week digest of the most pressing climate-related news, written by Kate Waxman and released every Tuesday.",
+    "Don’t miss a beat. Get a daily email of our original, groundbreaking stories written by our national network of award-winning reporters.",
+    "A digest of stories on the inequalities that worsen the impacts of climate change on vulnerable communities.",
+    "But keeping floodwater from flowing over the wall is only part of the challenge. Water can also seep through the soil beneath it. To prevent this, engineers installed underground barriers using a technique called jet grouting, which involves injecting cement-based material into the ground to seal gaps.",
+    "The greatest danger is not seepage during a single storm, but the cumulative damage caused by repeated flooding. Over time, water moving through the soil could erode the ground supporting the wall, potentially undermining the entire structure."
+   ],
+   "lede": "Inspired by rising sea levels and Hurricane Sandy’s epic flooding in 2012, the $1.4 billion system of walls, berms and movable floodgates is designed to hold back 18.5-foot storm surges."
+  },
+  {
+   "url": "https://wattsupwiththat.com/2026/11/25/electricity-bill-payers-charged-258-billion-for-net-zero-subsidies/",
+   "title": "Electricity Bill-Payers Charged £258 Billion for Net Zero Subsidies",
+   "source": "Watts Up With That",
+   "desk": "opinion",
+   "published": "2026-11-26T06:06:00+00:00",
+   "seen": "2026-11-26T12:39:22+00:00",
+   "cats": [
+    "Climate Economics",
+    "Energy",
+    "Electricity Bills",
+    "Net Zero",
+    "renewable subsidies"
+   ],
+   "note": "Skeptic blog",
+   "description": "Britain’s electricity bill-payers have paid £258.6 billion through climate policy since 2002 and £172.3 billion more is already owed.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2026/11/inside-the-electricity-bill-2025-1024x512-1.webp?fit=1024%2C512&quality=75&ssl=1",
+   "paragraphs": [
+    "Britain’s electricity bill-payers have paid £258.6 billion through climate policy since 2002 and £172.3 billion more is already owed. Yet no official body publishes either figure. In 2025, 38.7% of Britain’s electricity bills were due to the cost of subsidies and other climate policies.",
+    "On June 24th 2019 the House of Commons approved the order committing Britain to Net Zero by 2050. When Graham Stringer asked why there was no impact assessment, the minister replied that “impact assessments are not needed specifically for the SI” (the order itself). The debate took about an hour and a half, and the order was approved without a recorded vote.",
+    "Two days later Peter Lilley, by then Lord Lilley, pressed the point in the Lords. He wasn’t opposing the order, he said. He wanted “a proper impact assessment”, because “I just think we ought to know what the rough total is, as assessed by the Treasury”. Without one, “we are really buying a pig in a poke”. The Lords then passed a Labour amendment, by 155 votes to 116, that backed the target but regretted “a substantial change in policy without the full and proper scrutiny that such a change deserves”. The order went through all the same.",
+    "Seven years on, no official body publishes what bill-payers pay through climate policy on their electricity bills, scheme by scheme, each year. So I’ve counted it. My new report, The Price of Climate Policy, the second in the Affordable Energy series, finds that bill-payers paid £258.6 billion through climate policy on their electricity bills from 2002 to 2024, in 2024 prices. That’s about a quarter of everything they paid for electricity. And what has already been granted, in contracts, accreditations and entitlements, obliges bill-payers and taxpayers to pay a further £172.3 billion from 2026. That figure is modelled, in 2024 prices before discounting.",
+    "Last month, in Report No. 1 of the series, I put the net cost at £140.3 billion. That figure asked how much worse off climate policy left us, after giving it credit for what it saved such as wind lowering the price of power. This one shows the gross £258.6 billion that was paid through each scheme, year by year, as a receipt would show it.",
+    "More than half of it doesn’t depend on a model: £144.5 billion comes from the records of the payments themselves, such as the energy regulator Ofgem’s figures for the Renewables Obligation, a duty on electricity suppliers that pays renewable generators. It’s the largest single line. The rest is modelled or estimated. The second largest line, £82.9 billion, is the carbon charge: the cost to fossil-fuel power stations of their carbon dioxide. I count all of it. Without it, and the VAT on it, the total would still be £174.2 billion.",
+    "In 2024 alone climate policy took £22.0 billion, a third of that year’s electricity bill. Over the whole period an average household was charged £3,425 on its own electricity bills, before the Government’s help with bills in 2022 and 2023. Businesses paid £166.1 billion.",
+    "The bill doesn’t stop in 2024. Counting only what was granted by November 9th 2026, the Renewables Obligation alone has £47.8 billion still to run, until 2037, and the last renewable Contracts for Difference, which top a generator’s income up to an agreed price and take money back when prices are above it, run to 2052. Changing each disputed assumption in turn moves the £172.3 billion between £126.6 billion and £221.8 billion. And the £172.3 billion leaves out every cost not already fixed in contracts, among them the carbon charge, the grid and auctions not yet held."
+   ],
+   "lede": "Britain’s electricity bill-payers have paid £258.6 billion through climate policy since 2002 and £172.3 billion more is already owed."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNellJZTFIb0l3MlFJb2swTHFLUEpsanJEQTJSRFV0bGhkVG9ESFlPNEsxR1RZcTRSMHVybTdLUnd1cElMYjBWQW56WTdobUhIMUpQWW81ZmdoUFl5V0h6Vy1oTy1NOU80T1dGMmhuejRUc082ZzNuV2lqMDYxQWY5VXJhQW5OWlBJRnJpYnVVNEFwNUZnUmNkWnBGck1QcHQyekhaTklXZ0s0X3hkOTc5OWJLQQ?oc=5",
+   "title": "Diesel’s Slump Offers Brief Respite From Global Energy Turmoil",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-26T05:32:00+00:00",
+   "seen": "2026-11-26T12:39:22+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRENja0JkWDdhN1IxV05MWGpJc1laZGVDQ09BMjl4MjBJVEVFTmNUeEE2V2FGWWhQazBaN2F1cy1jTzUxOHIxaHNJTmQ1bUtyZWhsRlVZMVlXWkFCbG1rRDJkaU1mUHhkNlJwdGxCSnBCbFpUbkNEeGZta2lhLVJPbW9vVl9vS0RVMG1Ha3I5Uk1PTndYVzRUcmdBZV94bkUzaGVTYjNBa08?oc=5",
+   "title": "Why the Global Solar Buildout Is Starting to Slow Down",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-26T05:00:00+00:00",
+   "seen": "2026-11-26T12:39:22+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUkZlQjV2UmFDM0pyc3hHZzZMUDBzd2xjQjExaVRlTHlObkpvb0gybEJJRnBPODEyTkhyaUJzaURIaDRUS1VuYlB2bTZnNV9WbTFpNGF3elEyZGFyWjBMS2xBYUJaODBnWm94c1YxaFpObm9NbUNLczRsNEFpdjVTQQ?oc=5",
+   "title": "5 budget battles to watch at the EU summit",
+   "source": "POLITICO.eu",
+   "desk": "reporting",
+   "published": "2026-11-26T03:00:00+00:00",
+   "seen": "2026-11-26T12:39:22+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSmtJdlRfeUtjb19ENjdfTk1YbmFvcGFQQ0UtWWtwV2F6MUdfcjZWVDRaeU5BbXplVUozRnpaandjeXFqRWRiMTJyT3puOUdKSVE1d3liRmRhVXA2VVRnNWdQRExuZlYyc3prcFVTdnRaYlVSekVqMmJLaVdzYlhENkZmaw?oc=5",
+   "title": "Why Jean-Luc Mélenchon has it in for Germany",
+   "source": "POLITICO.eu",
+   "desk": "reporting",
+   "published": "2026-11-26T03:00:00+00:00",
+   "seen": "2026-11-26T12:39:22+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
   {
    "url": "https://www.theguardian.com/australia-news/2026/nov/26/australia-projected-to-miss-2035-emissions-targets-climate-policies",
    "title": "Australia projected to completely miss 2035 emissions targets without new climate policies",
@@ -108,6 +287,17 @@
    ],
    "lede": "COP31 didn't merely fail to produce an agreement. After 31 meetings, it provided a remarkably clear demonstration of the futility of the entire exercise.",
    "cop": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWWFqZkdFZ0VsOHh4dk9EZWc4RkpzNjFDZEFQNi1uVmFvNnRONnZkZGl6c2xlX3BIcWh6T21CbmFVRlVHb2dCdlpEN24yREI4bUZ3N2N2VDVpZVdtWXUtYmRYV0JHZ3hwSlFKV2ZraEpuNk1yUVhPdlZaSWptWUhrczE2OTllUkg0R3hBdzhFV08zUHhEX0w1NndjQnhLb1J0UFBYa0lxOEFlaGQwdkVvajJDR1h0dw?oc=5",
+   "title": "Rupee Has Room to Rally Before RBI Steps In, Strategists Say",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-26T01:30:00+00:00",
+   "seen": "2026-11-26T12:39:22+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZU55SnAtSmRUcDhYdmh4Z0pkR3h6WXZZRWZRNncxSERLVHhTeGVYa1lnaE9KRFM0YnpOb0pWeHF3SDgwSkF5ZjBkMEdURVFBQmNMR0xxSkg4czhlY1g0UzdVR0h2RV9Hb0JpbU9KMDBWR0s5RXpVZjE4RHNhdG9uYThmRzlWaE13N2tEY3piWDBSNHhCY0xQY2lsUFFicWU4SlFkTmk0cURWSTk3Q2c?oc=5",
@@ -641,6 +831,18 @@
    "fetched": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOU2RIalI0Uk5GZEJzRE9PVnpTeEVtNDcxLTVXNmptVDM5ZkhNU0xycm40M3BtNWlwWHFzOUtvc3l0WWxlTm80U1RYbDVENGtoQjFnbERyMTItaTZ5bFg2YTJ4QTg3OWNXVXQ3UFJGMGhmZEpHVklzM0ltcmhiM1Foa3pZdDlSNC10UUpRb3lhQlNpUQ?oc=5",
+   "title": "Pope Leo laments lack of climate commitments after UN talks end without agreement",
+   "source": "Associated Press",
+   "desk": "reporting",
+   "published": "2026-11-25T10:53:00+00:00",
+   "seen": "2026-11-26T12:39:22+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORVhabFFJem5KcFY5MGF2V21pQUF6ellUNk5KWGlCVDFldVVWeHNuRS1Bc2FFZ21EYjg2Szg3ZFdYS3R0bVdXTmFJZE5CTEhaNXRYVDRyYzlFYm00WFpkSkdlaXZRVEhYZXN2M2xIZkhpTTZTZUpnV2J2X3I1T3dpQ0taSlFxSllFU0NESXN6clRGR0VzMFRvUFg2cGowX00waDhNU2p3azBRUU54SXdiekJRRWNsX1oyeW1VVUhLZUhVVUdIeVE?oc=5",
    "title": "Pope Leo calls COP31 failure 'troubling,' urges action on climate change",
    "source": "Reuters",
@@ -913,6 +1115,18 @@
    "desk": "reporting",
    "published": "2026-11-25T03:08:00+00:00",
    "seen": "2026-11-25T09:52:39+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZU9TaDJiYjNkVkJ2Z3ZiTlp2ZkhNb3dSTW5MaDBkNHRJbjlQRzdldmxrRElfeVZtQURSR1FIQW1rcGI2V2h6MTlUV2p4YXBWQ1lNdjNxbDQ0V0o3UVBGQ1JwMXRBN2ZPRWlQTGRoMzg4Nm80OHJodXZvbW5hOEgxMjEwcXpXUzZ4RTI2aWJraTNMazQ?oc=5",
+   "title": "Meloni grapples with fallout from Ukraine’s Mediterranean strike",
+   "source": "POLITICO.eu",
+   "desk": "reporting",
+   "published": "2026-11-25T03:00:00+00:00",
+   "seen": "2026-11-26T12:39:22+00:00",
+   "cop": true,
    "via_google": true,
    "ftries": 1,
    "fetched": true
@@ -1318,6 +1532,18 @@
    "desk": "opinion",
    "published": "2026-11-24T17:56:13+00:00",
    "seen": "2026-11-25T00:46:46+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWlFnbDZCdUpETGNhMzd3eUxQa20tM25BVFE0SHBkb2dpWXZrQ1VIajN2cDBDRm9OVU1jZjlTcmhHSVg2SzJvOTgxM3RvWnNoLWxSa3NLOVlESGRCZXhYRWc0dmpKNFhnNWNrZGVmdTI5b0l3UHdYNjJxS2ktNkxWSFM1Z2dtWjktRGhfSkRpNjRwanROazBXQVZOTGNqZw?oc=5",
+   "title": "Quantum may be a bigger security risk than AI. Europe’s got a plan.",
+   "source": "POLITICO.eu",
+   "desk": "reporting",
+   "published": "2026-11-24T17:15:00+00:00",
+   "seen": "2026-11-26T12:39:22+00:00",
+   "cop": true,
    "via_google": true,
    "ftries": 1,
    "fetched": true
@@ -3309,6 +3535,18 @@
    "desk": "reporting",
    "published": "2026-11-23T03:03:00+00:00",
    "seen": "2026-11-23T07:42:22+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE91U0JlNmc4eUZfWEhnc1JVN19zTXJzMU13amlFb0V4UzZRRDQweHBXbU9hWi1RUG54RWdMdEk0VzNuZ2QwZnM1SXg5S1RrMUx3WHVraE5FZkVCeHFFV0FCMXg0Y3BlNFhoNGw3NWxNV2ZyV0pZ?oc=5",
+   "title": "In the new world order, Europe doesn’t have a seat at the table",
+   "source": "POLITICO.eu",
+   "desk": "reporting",
+   "published": "2026-11-23T03:00:00+00:00",
+   "seen": "2026-11-26T12:39:22+00:00",
    "cop": true,
    "via_google": true,
    "ftries": 1,
@@ -8321,6 +8559,17 @@
    "fetched": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTkx1bnY2MmRhWk95U1RycXhZQTFZaFlWcjZPakFQd296Y0ZpUGxNbkRNWnhldkJnQlZPZ1A5TVRIaGh4VFltd1FOQ2V1SUZpNkVQYjRGQ05UOHV0NjluNDFUOEpaWTZ1VkpPM3dFenB1ck1NZ3RYZERQUE01Q3UwVEFVZDB0amNBV1UzVHc5U2h1ZUI3SWNjWFhZQy1UbkQwYTlYUDNjczREQQ?oc=5",
+   "title": "Watch Iran Hit Key Infrastructure, Isn’t Behind Outages, US Says",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-18T21:18:44+00:00",
+   "seen": "2026-11-26T12:39:22+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://www.nytimes.com/2026/11/18/climate/nepal-disaster-aid-cop31.html",
    "title": "Nepal Came to COP31 in Dire Need. It’s a Test for the World.",
    "source": "The New York Times",
@@ -8482,193 +8731,6 @@
    "via_google": true,
    "ftries": 1,
    "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbDlGcVNtWmpRY080QlpqdGRvZk14THRWMmVhdGFlOUZEM2dMeWFHTjVhNmtuSzluVGJiQmdob2x5dlVLUHcwa2NlbzI0T2QwcHoyMzFhbVBfVFU3cG1lczY1RFdqR0VrODM0VWU1Q0JtSWtLRGlUUTFQeWdsVlpCbjFBOW9vSG0tR3hHTQ?oc=5",
-   "title": "Russia, Vatican lead gender backlash at climate summit",
-   "source": "POLITICO.eu",
-   "desk": "reporting",
-   "published": "2026-11-18T18:13:00+00:00",
-   "seen": "2026-11-19T10:24:07+00:00",
-   "cop": true,
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://wattsupwiththat.com/2026/11/18/whoopsie-callahan-and-mankins-28-trillion-heat-damages-depend-on-which-thermometer-scale-used/",
-   "title": "Whoopsie! Callahan and Mankin’s $28 Trillion Heat Damages Depend on which Thermometer Scale Used",
-   "source": "Watts Up With That",
-   "desk": "opinion",
-   "published": "2026-11-18T18:13:00+00:00",
-   "seen": "2026-11-19T01:46:41+00:00",
-   "note": "Skeptic blog",
-   "description": "A new preprint finds that Callahan and Mankin’s $28 trillion in extreme-heat losses comes out at $43 trillion in Fahrenheit and $359 trillion in Kelvin, more than three times world GDP. Remove one term and the total falls to $2.5 trillion.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2026/11/callahan-mankin-scale-feature.webp?fit=1024%2C512&quality=75&ssl=1",
-   "lede": "A new preprint finds that Callahan and Mankin’s $28 trillion in extreme-heat losses comes out at $43 trillion in Fahrenheit and $359 trillion in Kelvin, more than three times world GDP. Remove one term and the total falls to $2.5 trillion."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQclpQTUNiY0J6X0Z2TEdYVERBcHFzVm1nc2d2cW9xMTBqaU5lZ25JbTY2TmZNb0xfX19YUktmaWVWaXprNFAzZ0NRV2Y4cEs5cVNiaXIxZ20yVkgxdENId2dKZnU1M2diUDNibE53RXNqdF9adkw3bDBIM0hqa1Y0NFYyeTUwMTR3S0JDa29KSmlSY2Z2Wk9Fdw?oc=5",
-   "title": "LLMs are developing filthy mouths",
-   "source": "The Economist",
-   "desk": "opinion",
-   "published": "2026-11-18T17:48:07+00:00",
-   "seen": "2026-11-22T09:55:09+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMlNSOEtUQi16eTQtTVozTjZId3RqMFo3YzN1blJ1MlE4Tnl2YjRENVZqTDZXZnBZbTlVX19DNldDcHUzUTVnVmsxRWV6QWlqdEFFc19RODJUaWwtOVhkUGJSNy04bk40QVRHWlhjV0kwVzlXcTFMbnFLM1BSUExvUGZKVkZ5SnBDNHMwYnVUM1lpb2VTbnNzS2c3UlFJNFp2VmZRcmtDV2JRbGFuZ1luRV9HdVJZcEZV?oc=5",
-   "title": "America has slashed funding for biomedical science abroad",
-   "source": "The Economist",
-   "desk": "opinion",
-   "published": "2026-11-18T17:37:15+00:00",
-   "seen": "2026-11-22T23:37:42+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYTBzMG5uQ2VXMEF2a0VoUmJ5bzNybDJHcUpxbUZvU0Fvamd5YmVNczNPaVJMTWUtWHhMcHBVSGlaQlRDZG9lRUVGNzUxWGVXcXZDLTV2N0JGOXE5NU5hNl8zOWtMUHhucWlxNy1UaU1sRDd4NHc0VXZrdm1lVG5zdWdHTktvRzhZRlJENEZEQUFIbzBITG1qenNiMTJIa0o5cXhnazBHQTV3NzdmWUdiU282NXJCY1lp?oc=5",
-   "title": "COMMENTARY: Net zero is essential, but it is no longer enough",
-   "source": "Reuters",
-   "desk": "reporting",
-   "published": "2026-11-18T17:21:22+00:00",
-   "seen": "2026-11-22T09:55:09+00:00",
-   "cop": true,
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWlRMQXJObW92WS1jOW9PakpUZkJ3MTB2ZExiNTYzaC00Y3pYMzZNSVY1SFctbVl0d2h6RHJISnQzam9nQ2VDX3Z6UzU4YlV6eDVMSzdiX3JOU1NvcUZqalNTQXBGRWJLVmdaT21jR0hkT24tVm1CRW1raEh5Q0Q5UmxlalJCODlWNkhrQg?oc=5",
-   "title": "The technologies that will define 2027",
-   "source": "The Economist",
-   "desk": "opinion",
-   "published": "2026-11-18T17:18:22+00:00",
-   "seen": "2026-11-19T10:24:07+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://www.theguardian.com/environment/2026/nov/18/world-held-hostage-by-oil-mafia-says-panama-minister-at-cop-31",
-   "title": "World ‘held hostage by oil mafia’, says Panama minister at Cop 31",
-   "source": "The Guardian",
-   "desk": "reporting",
-   "published": "2026-11-18T17:07:06+00:00",
-   "seen": "2026-11-19T01:46:41+00:00",
-   "description": "Key issues unresolved as summit enters final days, with 30 countries signed up to forge fossil fuel treaty separate to UN process",
-   "image": "https://i.guim.co.uk/img/media/d76762d2e74b075396fcf3dc300d912daf841590/180_0_6222_4978/master/6222.jpg?width=140&quality=85&auto=format&fit=max&s=d2323709301ff1d9205b21599d369b85",
-   "ftries": 1,
-   "fetched": true,
-   "paragraphs": [
-    "The world is “being held hostage by the petroleum mafia” and seems unable to break free, Panama’s environment minister has warned, as key issues remain unresolved in the final days of the UN Cop31 climate summit .",
-    "“We are in love with our kidnappers,” said Juan Carlos Navarro, at a press conference to announce 30 countries were now signed up to forge a new fossil fuel treaty, separate to the UN process. “We love the petroleum guys. We can’t live without them, and they are so smart they have convinced us that they are doing this for our own good.”",
-    "Expressing the frustration shared by scores of developing countries and thousands of civil society activists at these talks, he added: “They torture us for our own good, they destroy our planet for our own good. They destroy nature to help us, and they demand our unrequited, endless, unlimited, boundless love. And we are so stupid that we fall for it.”",
-    "Countries have only two official days of negotiation left at Cop31 to resolve key issues, such as whether the conference should recognise the need to “transition away from fossil fuels” and how to address the “overshoot” of global temperatures beyond the 1.5C of heating targeted in the Paris agreement .",
-    "The Australian presidency of the talks and the Turkish hosts convened a “divan” meeting of ministers on Wednesday evening . Named for the Ottoman empire’s term for a council or assembly, the aim of the meeting was to make progress on a revised draft of a possible outcome and find compromises on sticking points. Significant dividing lines remain on issues such as climate finance, how to ensure a “just transition” to clean economy jobs for workers in fossil fuels and helping poor countries adapt to the impacts of extreme weather.",
-    "The first draft of a “cover decision” , issued on Monday, contained 144 separate items, including several – such as the “transition away from fossil fuels” – that some of the nearly 200 countries at the fortnight-long talks find contentious. There are concerns that the Australian approach of including “everything” in the draft text may result in longer negotiations. A new draft is expected on Thursday morning.",
-    "A breakthrough from the “divan” meeting was not expected, but negotiators told the Guardian that countries were working together on compromises. Campaigners feared that the outcome would be feeble, however.",
-    "“Rich countries are offering crumbs to the adaptation fund, while blocking the negotiations that should provide the money countries need,” he said. “Listening to ministers praise the adaptation fund before giving next to nothing, you have to wonder how they expect it to do the work they say is so important.”",
-    "There was anger, too, over the “just transition mechanism” , which is intended to help developing countries ensure workers in high-carbon industries can be retrained or helped, while they grow nascent green industries. “We’re seeing massive steps backwards on adaptation finance and just transition, relative to previous Cops,” said Brandon Wu, the director of policy and campaigns at the ActionAid USA charity. “In both cases, the blocking is being led by the EU.”"
-   ],
-   "lede": "The world is “being held hostage by the petroleum mafia” and seems unable to break free, Panama’s environment minister has warned, as key issues remain unresolved in the final days of the UN Cop31 climate summit.",
-   "cop": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZVVjZjNMU1llNktlY290Ny1WLXp6ZEplN3Ryc29tSHlOQVRNOFk0MVp4LU5tZDBSNFQ3Ym9PR2NFU242UWE0a2lYNE5hamxfcFE0SHlwQS1iZ2o4U3Vma3NpQm5aV2hQMjNjMkptd2Y2N2R0MUR1aEF3eGRnSzg4dG9EUU12QWVqMl9hOTRpZWF4ZExac0dMeHVzeTRBUENx?oc=5",
-   "title": "OPEC speaks up for fossil fuels at COP31 climate talks",
-   "source": "Reuters",
-   "desk": "reporting",
-   "published": "2026-11-18T16:59:30+00:00",
-   "seen": "2026-11-19T01:57:51+00:00",
-   "cop": true,
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQT3F0MU8tVXh0UEVzTFNRQzUyU3BlcGVKQkdLeHFLMHVldjRsdkFNbm1vOTBQZ2JBZHdKdDJoRmMxc01wdGdNOWVHVW9DRURBUDh6ZWpMcm5WMzJJS21SbHcxR1EzSWk0MGJmSC1WY3VweU43UnFSNjhwakt3QUZFWXl6RHRINGJ3dDNBZS1LRDNWY1pndFNmeXl4QmlWdkNLUHRxcGNEemlKZDRZYlMybktQYzI1U0tDQXVtWHhWMm9tUUEydTdJWDBB?oc=5",
-   "title": "The Democrat Telling the World the US Is Still a Climate Ally",
-   "source": "Bloomberg Green",
-   "desk": "reporting",
-   "published": "2026-11-18T16:33:03+00:00",
-   "seen": "2026-11-21T08:18:38+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUlRrOTlSVG1fOWlWdEtEeTlUaVZGVTZOV2U0TVMwQ2c0dERFejNaMmlwN2N1QWVmcmNpZGpqQ0RNV0o2TE5TMzdnU3ZwNjFiUDEza20wTXdnQm0yZElwN1kwQUFmTlNZYVFnb19HZm43Q2N5ODBOc2s2N2V3YUxOdC10VThMbkhpN1dwTVU3N29sU3kyYlA0?oc=5",
-   "title": "Muslims may outnumber Christians by 2035",
-   "source": "The Economist",
-   "desk": "opinion",
-   "published": "2026-11-18T16:24:26+00:00",
-   "seen": "2026-11-19T01:57:51+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFT3hadVZDR1liZWhjLWttMHl3aWxYeWZINjRCdHkwZnhwSElWWGRNZGI4aWl3cHliZFM5UG1NaGFPZDBLZ25qemJpWXJsbVNv?oc=5",
-   "title": "Global News Podcast",
-   "source": "BBC",
-   "desk": "reporting",
-   "published": "2026-11-18T16:04:56+00:00",
-   "seen": "2026-11-26T02:52:29+00:00",
-   "cop": true,
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5lZEpqRFVERDR3NV9pNnJlQmFUV19nVWk1YUpubjk3VFNHMlNlRXd1OUppNTlRSjd1OTAxM180TFdSLUpNZ2NhbWVLSlJuSUdvRVV6SUpXTkpMZw?oc=5",
-   "title": "Newshour",
-   "source": "BBC",
-   "desk": "reporting",
-   "published": "2026-11-18T16:04:52+00:00",
-   "seen": "2026-11-21T22:11:58+00:00",
-   "cop": true,
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNkFKZWtwcWw3SHZMSlp3dEdJY1pzSlN1LUZ0TU1VZE9XaEt3SzI5M0NJS3lwZWJtcnp5ZUZmN00wZXdROENmUURnUmhPS296ZVVpc3BvVjFSRVZickV5OGVFdEk3RnR1c01kUUFsUkRaNEMwalU2Uy1uVklsYzB2SF9xa3JPNThwTjdNWThWNS15M2FIU19TNHJHcEFObTk2dnN3MG8yTHVlajItMzB0Sw?oc=5",
-   "title": "Panama Climate Chief Says ‘Petroleum Mafia’ Hold Talks Hostage",
-   "source": "Bloomberg Green",
-   "desk": "reporting",
-   "published": "2026-11-18T15:50:45+00:00",
-   "seen": "2026-11-21T08:18:38+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://yaleclimateconnections.org/2026/11/cuales-son-los-continuos-efectos-de-el-nino-para-el-caribe-y-latinoamerica/",
-   "title": "¿Cuáles son los continuos efectos de El Niño para el Caribe y Latinoamérica?",
-   "source": "Yale Climate Connections",
-   "desk": "science",
-   "published": "2026-11-18T15:35:37+00:00",
-   "seen": "2026-11-19T01:46:41+00:00",
-   "description": "Estamos enfrentando un El Niño histórico y debemos prepararnos para clima extremo como sequías e inundaciones",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://yaleclimateconnections.org/wp-content/uploads/2026/11/AP26316835550341-scaled.jpg",
-   "paragraphs": [
-    "Sudamérica y Centroamérica deben prepararse para riesgos distintos durante las próximas fases de desarrollo de El Niño . El término El Niño es parte de un fenómeno más amplio denominado El Niño–Oscilación del Sur, o ENSO. Se trata del principal modo de variabilidad climática interanual del planeta, es decir, uno de los mecanismos naturales más importantes por los cuales el océano y la atmósfera intercambian energía y reorganizan el clima global de un año a otro.",
-    "El déficit de lluvia y el calor pueden comprometer el agua, la agricultura y la energía en unos territorios, mientras que las lluvias abundantes elevan el peligro de inundaciones en otros. La intensidad del fenómeno en el Pacífico ecuatorial modifica esas probabilidades, pero no determina por sí sola la magnitud de los daños locales.",
-    "En Ecuador y el noroeste del Perú, el calentamiento del Pacífico oriental puede favorecer lluvias intensas durante la temporada húmeda, con peligro de inundaciones y deslizamientos. Para el sur de Brasil y sectores de la cuenca del Río de la Plata, incluidos territorios de Argentina, Uruguay y Paraguay, deben vigilarse los posibles excesos de lluvia y las crecidas. La nota técnica de la Organización de Estados de América destaca riesgos contrastantes de sequía, inundaciones y deslizamientos y pide anticipar sus consecuencias hídricas, energéticas y alimentarias. El total de lluvia, su concentración y el estado previo de las cuencas deben orientar la respuesta. Un pronóstico trimestral no permite identificar la fecha, localización o severidad de una tormenta particular.",
-    "El pronóstico del Centro de Predicción Climática de NOAA del 8 de octubre de 2026 señala que El Niño continúa fortaleciéndose y asigna una probabilidad superior al 83 % de que mantenga una intensidad fuerte a muy fuerte durante enero–marzo de 2027. Otro de los indicadores es el Índice Oceánico Relativo de El Niño ( RONI por sus siglas en inglés), que estima que la temperatura podría superar +2.5 °C en octubre–diciembre de 2026 para el Pacífico.",
-    "El boletín de NOAA respalda la posibilidad de una magnitud excepcional dentro del registro desde 1950, pero no demuestra que ya se haya alcanzado un récord. Tampoco permite fijar diciembre o enero como fecha segura del máximo. El pico oceánico, la duración del episodio y la culminación de sus efectos hidrológicos son momentos diferentes.",
-    "El Niño es la fase cálida de un sistema acoplado entre el océano y la atmósfera. El debilitamiento de los alisios y el desplazamiento de las lluvias tropicales hacia el Pacífico central y oriental modifican la circulación atmosférica y transmiten su influencia a regiones distantes. No es suficiente observar agua cálida: debe existir una respuesta atmosférica coherente. Cada episodio presenta diferencias, de modo que una señal oceánica más intensa no implica daños proporcionalmente mayores en todos los países.",
-    "La distribución del calentamiento entre las distintas regiones influye en la configuración de los efectos de El Niño, junto con la respuesta atmosférica y la época del año. En las regiones uno y dos, que habitualmente se analizan conjuntamente, el calentamiento frente a Ecuador y el norte del Perú puede favorecer lluvias intensas, inundaciones y deslizamientos en sus zonas costeras. Cuando el calentamiento abarca las otras regiones pueden modificarse las lluvias en amplios sectores de Centroamérica y Sudamérica: aumentar en el sur de Brasil y sectores de Argentina, Uruguay y Paraguay, especialmente en la cuenca del Río La Plata, y disminuir en Colombia, Venezuela, sectores del norte de Brasil y la Amazonía, así como en el Corredor Seco centroamericano y sectores del Pacífico de Costa Rica. En Chile central, la señal de mayores precipitaciones se asocia principalmente con el invierno austral. El calentamiento en la región Niño 4, situada más al oeste, también puede modificar la circulación atmosférica y la distribución de los impactos a distancia."
-   ],
-   "lede": "Sudamérica y Centroamérica deben prepararse para riesgos distintos durante las próximas fases de desarrollo de El Niño. El término El Niño es parte de un fenómeno más amplio denominado El Niño–Oscilación del Sur, o ENSO."
   }
  ],
  "dropped": [

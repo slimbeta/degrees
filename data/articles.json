@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T15:08:13+00:00",
+ "updated": "2026-11-27T23:28:56+00:00",
  "briefing": {
   "headline": "COP31, fossil fuels and clean energy",
   "period": "Nov 21–27",
@@ -45,6 +45,133 @@
  },
  "articles": [
   {
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNX24wOVFmbDZDU2VONmY0cWR1UU4wRk5DS3FmY3lONExFZEk2VkI0dTMwdHZnVzBHMkxuRTItc2tqNzBKTk1nUm5oTE52dV9yOHVUazVaZHl6VmJfc2g3SHN0aE9qbnVfQlBCYmdjYVoyQzlfNEF3ZU12TnY0REdmeHJPNm5TOGZjWnRwemlUakNkMnhMWlI4NXJURFdIVGxZUkYtV1gwcVZvakkxcEY4?oc=5",
+   "title": "New York Senate Majority Leader Andrea Stewart-Cousins Dies",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-27T20:11:34+00:00",
+   "seen": "2026-11-27T23:28:56+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NSjJGV0J4dF9SQTFZR3hfSG5ZdmlRd3BQZHBna0pVV0hqSFdfZlVEWDZobDhvTk9HZGtUbmFUdEpCdjRWWURQcWpja1FxUjY3QkVGVlRyRGFoUFE?oc=5",
+   "title": "Satellite imagery shows how fast Lagos and Alexandria are sinking",
+   "source": "BBC",
+   "desk": "reporting",
+   "published": "2026-11-27T19:03:18+00:00",
+   "seen": "2026-11-27T23:28:56+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://www.carbonbrief.org/sinking-african-megacities-will-expose-seven-million-people-to-flooding-by-2050",
+   "title": "‘Sinking’ African megacities will expose seven million people to flooding by 2050",
+   "source": "Carbon Brief",
+   "desk": "politics",
+   "published": "2026-11-27T19:00:00+00:00",
+   "seen": "2026-11-27T23:28:56+00:00",
+   "cats": [
+    "Uncategorized",
+    "Africa",
+    "chart",
+    "Coastal flooding",
+    "coasts",
+    "Flooding",
+    "Sea level rise",
+    "sea levels"
+   ],
+   "description": "Sinking land and rising seas could expose more than seven million people living in Africa’s coastal “megacities” to flooding by…",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.carbonbrief.org/wp-content/uploads/2026/11/3DT7NER.jpg",
+   "paragraphs": [
+    "Sinking land and rising seas could expose more than seven million people living in Africa’s coastal “megacities” to flooding by the middle of the century, according to new research.",
+    "The analysis, published in Science Advances, combines satellite data with projections of sea level rise to assess the risk of flooding in 20 of Africa’s most populous coastal cities.",
+    "Lagos, the capital of Nigeria, and Alexandria in Egypt are the most vulnerable cities in the analysis.",
+    "Human activity, such as pumping groundwater or drilling for fossil fuels, can cause the ground to sink, in a process called “ subsidence ”.",
+    "Seismic or volcanic activity can also drive changes in the height of the land, causing it to either rise or fall. This “vertical land movement” can either alleviate or exacerbate the effects of sea level rise.",
+    "The researchers combined more than 4,000 satellite images of Africa’s coastline to determine how quickly different regions are rising or sinking.",
+    "They identified Lagos and Alexandria as “subsidence hotspots”, finding that the two cities are sinking at rates of 5.2mm and 6.3mm per year, respectively.",
+    "This is “comparable to rates reported for south-east Asian megacities such as Jakarta, Manila and Ho Chi Minh City”, which have recorded “some of the highest subsidence rates yet observed”, according to the study.",
+    "The authors combined these estimates with sea level rise projections from the Intergovernmental Panel on Climate Change’s sixth assessment report under three different emissions scenarios, to assess the regional sea level rise across the African coastline.",
+    "They used 2020 population data, building footprints and GDP per capita to estimate how much of each city would be exposed to these flooding events over the 21st century, if the city itself stays the same."
+   ],
+   "lede": "Sinking land and rising seas could expose more than seven million people living in Africa’s coastal “megacities” to flooding by the middle of the century, according to new research."
+  },
+  {
+   "url": "https://www.theguardian.com/stage/2026/nov/27/play-12-year-old-ecojustice-influencer-wins-shakespeares-globe-prize",
+   "title": "Play about 12-year-old ecojustice influencer wins Shakespeare’s Globe prize",
+   "source": "The Guardian",
+   "desk": "reporting",
+   "published": "2026-11-27T15:30:14+00:00",
+   "seen": "2026-11-27T23:28:56+00:00",
+   "cats": [
+    "Stage",
+    "Culture",
+    "Climate crisis",
+    "Environment",
+    "Shakespeare's Globe",
+    "Theatre",
+    "UK news",
+    "Young people"
+   ],
+   "description": "Timothy X Atack wrote Tiny Alarms after workshops with children, who felt theirs would be the last generation of humans",
+   "image": "https://i.guim.co.uk/img/media/4005a8fccd7c69783a6b39d0d6acba275a9432d2/515_0_5200_4160/master/5200.jpg?width=140&quality=85&auto=format&fit=max&s=505de04e70c3ad1f5c1e2536bc99aeea",
+   "ftries": 1,
+   "fetched": true,
+   "paragraphs": [
+    "Tiny, a 12-year-old schoolgirl, is an ecojustice influencer, whose funny and disconcerting takes on the climate crisis go viral. She is also an alien, sent to warn humankind of its impending doom – but her mission is far more difficult than she anticipated.",
+    "This is the plot of Tiny Alarms, the first winner of Shakespeare’s Globe’s new climate playwriting prize. It was inspired by the real beliefs of schoolchildren for whom its author, Timothy X Atack, ran creative writing workshops exploring ideas around the far future.",
+    "“These young people, they were aged 11 to 15, roughly, and the whole group were pretty much united in the idea that theirs would be the last generation of humans. They were really matter of fact about it … in a way that kind of broke my heart and gave me immense fire at the same time,” said Atack.",
+    "When the Bristol-based writer, composer and sound designer saw the callout for the prize in February, he believed it was a “truly hopeful exercise”, and he knew this was the story he wanted to tell.",
+    "“As a sci-fi writer, I’m used to thinking on these big cosmic scales, and it felt like one of the best things I could do in relation to the climate crisis was to take this planetary threat that we have and weave it into a story that was essentially about parents and children,” he said, adding that as well as addressing “this deeply scary problem”, he also “wanted it to be funny”.",
+    "The judging panel, which included Lenny Henry, chose the play because they felt it most captured how it feels to be a young person navigating the climate crisis today.",
+    "“It’s the play I want my children to see,” said the prize’s chair, Nancy Medina, artistic director of the Bristol Old Vic. “The innovation, the humour, the journey that this story takes us on is one we all need to take in order to connect back again to our humanity and why we care.”",
+    "Amber Massie-Blomfield, director of Fern Culture, which is collaborating with Shakespeare’s Globe on the prize alongside Climate Spring, said the quality of the shortlisted plays “gives the lie to the oft-repeated notions that climate plays are difficult to stage, dystopian, didactic or just plain dull”. She urged venues, producers and funders to stage more climate crisis plays, because, she said, “there is no time to lose”.",
+    "Atack will receive £15,000 and support to develop his play. It has also been optioned by the Globe, which launched the prize to reflect how almost every play Shakespeare wrote was about humans and our place in the natural world."
+   ],
+   "lede": "Tiny, a 12-year-old schoolgirl, is an ecojustice influencer, whose funny and disconcerting takes on the climate crisis go viral."
+  },
+  {
+   "url": "https://www.nytimes.com/2026/11/27/business/fatih-birol-iea-cop31-electrification.html",
+   "title": "Climate Talks Imploded, but the ‘Age of Electricity’ Rolls On, Energy Chief Says",
+   "source": "The New York Times",
+   "desk": "reporting",
+   "published": "2026-11-27T15:18:58+00:00",
+   "seen": "2026-11-27T23:28:56+00:00",
+   "cats": [
+    "United Nations Framework Convention on Climate Change",
+    "Birol, Fatih",
+    "Electric Light and Power",
+    "International Energy Agency",
+    "Oil (Petroleum) and Gasoline",
+    "Global Warming",
+    "Antalya (Turkey)",
+    "Turkey"
+   ],
+   "byline": "Lisa Friedman",
+   "description": "Fatih Birol, head of the International Energy Agency, said that market forces, data centers and energy security are driving the clean transition anyway.",
+   "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27biz-electric-future-kjtf/27biz-electric-future-kjtf-mediumSquareAt3X.jpg",
+   "ftries": 1,
+   "lede": "Fatih Birol, head of the International Energy Agency, said that market forces, data centers and energy security are driving the clean transition anyway.",
+   "cop": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdE56S2Z2QWhGYzVNNmk5bnFMWTNXQjE3MHdWc2xESGJXaDRTclVIdEZLSTVZTy0wcXZCSUtYanRhLUU3MTZmRy1oNHpVZ0puR2VwOGRjU1hibkZOMzJqU054TkhBQzVHeDFqYkoxTjZIVzhCMmh3bzA5ZmhhekpYY0lBVlZsVVpCNGNEM1NmSU5tYjgtdjBYa1ZjTGV2LUdHeFFiRFRwNA?oc=5",
+   "title": "Where El Niño Could Deliver the Best Snow This Winter",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-27T14:00:08+00:00",
+   "seen": "2026-11-27T23:28:56+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://yaleclimateconnections.org/2026/11/ringed-seals-face-habitat-loss-as-arctic-ice-declines/",
    "title": "Ringed seals face habitat loss as Arctic ice declines",
    "source": "Yale Climate Connections",
@@ -84,6 +211,41 @@
    "ftries": 1,
    "fetched": true,
    "cop": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeDdDZ2hmbzZSUEhXSmNXY3M1ZUNRcHFsU3pvQXVmdHFucDdwS3p4M25PTm9DdWxKbE4xVzRkd0tIbi1OdU9XcUYtVFN2RnduUjg4eEMybUFsb3I1Rm54dVgyUEctcDBOUDJVTFFzRXRXRVAzTlhkazlLSS13LUdOcmJ3dU5wcDdmd3RoNTUyQnB6S3FYWFF5UWhvcE4?oc=5",
+   "title": "Meta’s UK rollout for Muse AI agent exposes it to more liability",
+   "source": "POLITICO.eu",
+   "desk": "reporting",
+   "published": "2026-11-27T11:25:00+00:00",
+   "seen": "2026-11-27T23:28:56+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQY0F4WHdrLTVCN3FhQndrY1dWOGgxeGtvQndQSHJ3eFo4S2pqZUt6UUxWU3NXbG5qQXVoa0dVb1prOTRmRng1aFJ2YV9JVWV5ZEZlWnZQdGp1TzlFcHV3SkpYVy12ZkJySGgtQVVQUl8tclppOXd0WlN5eFA3ajNnTmQ2SFBaaHR6ZDQyRS1DVlhoZnkwbVhScA?oc=5",
+   "title": "Asia-Pacific trade bloc opens accession talks with UAE, Philippines and Indonesia",
+   "source": "POLITICO.eu",
+   "desk": "reporting",
+   "published": "2026-11-27T11:19:00+00:00",
+   "seen": "2026-11-27T23:28:56+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcGVVT0JVMUVUcDRmVjc4TU43ekZoRGpGYTZXZ0c4c0pXVXhKRHVIYXBqWmw1c3lkaUc5N2tRTXlvMm44MTJ0WWRaUERqeW9EWlliUkNjYS10ODlCdGdJQ0FvejZkXzNOazF6UlBLZ2hiR3loYzI0RXgxTUEyLTZQM05ST1hiTWY5RFZlWEVKMmNwX183M2RzZmM5MlpXWmlHNVQycjFmOHBKMlhVeDkxUmJMNkZyY2M?oc=5",
+   "title": "Permitting Reform Has Driven a Wedge Into the US Climate Movement",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-27T11:00:08+00:00",
+   "seen": "2026-11-27T23:28:56+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRXp5eTlUWjRKbEl3Ynk0WGlLZjVIdU83UzFnbmktLXdSYWdzWDlyMXdXcFZadUxOSTA3dFN1dHVzSkdkQzNiOTNJQkRpTVJpQ2J3VkZib255bThOZG1JWktSQ1VjY0Z6NHNkcWRZOFNRcDRSQU93Y1otdFUwd1FCSFRtSXo0RlkzNlA5Ujk5Z0VaV05QVEtFeG80RWFwT2tYY0ZvUDEzU1h5bE5fbktlUA?oc=5",
@@ -165,6 +327,29 @@
    "lede": "When a fire tore through a Valero refinery in Port Arthur, Texas, in March, the plane sat idle."
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVHI5VFU0dHRuU1NKaU9aMUh4ZHFVMW02M1R6QTdzVHlhYnBzNExPWXBQM1ltUEI4VTd0eXhiU2Y4cEJ1dHVULS1DSlQyU1lIaktlaVpHdEYxQnFZMWxNcmZmMjA5QWFvc3dmWXVKY2NhYlJCRW5udUdqNVVTXzVpZXFVYzRVQkY2WjlmcEpoOUdaYzRWSFp0TVZ5OEJDd1Y5OG1sMzVJUS15TU02em5kbDhTQk92MWdf?oc=5",
+   "title": "China Surprises Investors With Statement of Support for Markets",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-27T09:26:52+00:00",
+   "seen": "2026-11-27T23:28:56+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWnU3TWhmem5pUkxNTElldDJTOWxBaUk3dXFNQnlYMWdJTGpDbm5WdERPZjlfaTVjbkpOUHBhMkpCbWNyMXdXY042U3p6UTJuZk0xU045NnVCOUQ1dlczOUhhU0UxWXBRdmRpaFdTQUIxLS1LRmNia1VXWHF6SGw2RlB0NkxtNUo5cEVScl9zYWlHclB0emZmUlVicDVuUHdzZzJIWF9VOXF4ZG8tb1lySEI1djc2WTlRX3AwVQ?oc=5",
+   "title": "‘Islam is Sharia’: Germany’s far-right leader attacks Le Pen on Muslims and Europe",
+   "source": "POLITICO.eu",
+   "desk": "reporting",
+   "published": "2026-11-27T08:59:00+00:00",
+   "seen": "2026-11-27T23:28:56+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZElrYVNyeHFFcEJzczZwWTJHNWJlTjVzTjluZldaU0liWFkwMF83WkZ3dDhBR2N0Y1hLQUFGX1o2V3ZWNnlKYksxQ2p5UEl0bnM0VWZqUU1PbVJ0RC0xbW9qd0Q1a2NRUi1YanFZRjJSOVpQOEhObks5YUp1VV80d0tVOUNtajdaeTdwSXRqS1dfb2pCX2JWWEdROE51d0NSODkyeU9qR3VkUU90Nk9Gd29B?oc=5",
    "title": "AI Boom Hands Lifeline to German Industry Rocked by Car Slump",
    "source": "Bloomberg Green",
@@ -182,6 +367,18 @@
    "desk": "reporting",
    "published": "2026-11-27T05:22:00+00:00",
    "seen": "2026-11-27T15:08:13+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOVZqSDRNbm5nQ3FPbXZLcjlMajNpYldBeFFJUVc4MHV1VFhBd1pOY3R1dkJYemtiUjBEUHZkVjR5LTRvbjNmM2hyaW15ai04cDZoaWhONmc2MFE0T1NCUGI5djJxVHZ0eDkwcTNnSVFlNU1Rbmc1YmsxUjBKVFo2ejVQbWdPUjNac1hvZVl3THgtZFlkWno2WWNFN0I4VElRcDZuUUJn?oc=5",
+   "title": "How Costa’s budget talks sparked a new crisis",
+   "source": "politico.eu",
+   "desk": "reporting",
+   "published": "2026-11-27T03:45:00+00:00",
+   "seen": "2026-11-27T23:28:56+00:00",
    "cop": true,
    "via_google": true,
    "ftries": 1,
@@ -294,6 +491,18 @@
    "desk": "reporting",
    "published": "2026-11-26T22:54:35+00:00",
    "seen": "2026-11-27T15:08:13+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQa0ZTelJyTGVBZ1llRS1odGNZRzhXUHQtdGtkWmVucEQ2TkhvN0FJeFBRY3dyTHhTRXBEQjlDM3cwWmdvUE1KWDBpZUpTdmJxVEw0Z1RmN1hEa3ZvQnRCdXQ4SHF4UEhnd1dyREhZcmxMRFA1aWFubzRtNU5rZFhlUkNqVUVpZU9tVTdqUklFMkVrbkNBN042Q0M3djcxVXNIa1hkMndR?oc=5",
+   "title": "Macron accuses ‘arrogant’ Le Pen of speaking as if she already won",
+   "source": "POLITICO.eu",
+   "desk": "reporting",
+   "published": "2026-11-26T22:39:00+00:00",
+   "seen": "2026-11-27T23:28:56+00:00",
+   "cop": true,
    "via_google": true,
    "ftries": 1,
    "fetched": true
@@ -554,6 +763,28 @@
    "fetched": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lY1JaX0xucmU1N3dDa0IweXhVemtQLXNjRnRDcmVobXo1Y3AwREl2QkRlR1ZyUzJRRUNuOXhOUXZmZHNaVlBrZWZxcVkyMEJlaDkxV3p6eU9NY3VxaWNUakl1X1RLbDI5UURSUC1hd056aFk?oc=5",
+   "title": "Politics",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-26T13:45:02+00:00",
+   "seen": "2026-11-27T23:28:56+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQamZyQ0M2SmJBWXl6akV2WlNNbGh0ZXFDTHFLTXZhMktiUUwtckZ3bVVCTzJ2YXRGTy1WMjVLTjlhd0ZQSTl4T25IeV82RmFjR2JzTEpUa2d4R2h6dXBwdUxfSklVa0ZZUjhxcjJuYVN5MlpCZkFCQUxOMWxJQTRzbG9VelNrYVcwd1ROSTlPcFFYY1hPNDlKWWZtTG9IU1o0UXAxS0F5aU4?oc=5",
+   "title": "Meet the world’s favourite African coup leader",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-26T13:45:02+00:00",
+   "seen": "2026-11-27T23:28:56+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdURKcWNJbURVaE1BZDhjMmNwY3dzMjl4N1IwNVFoN3BVNlJBMnY0RjllMEZEa1FaNmE4MTl5QjNSNzV0dnpMSWR5YXpGbWlfbkhoOVJ4ZXJPQ1pSRmp5ZFA4WnhPOEpqS2dBdW5Kc3NNLVJVcWZBTDlNcVJGOUFZMXpNdVUyYlRDbWNIWFpSNA?oc=5",
    "title": "America needs to slash red tape and build",
    "source": "The Economist",
@@ -741,6 +972,17 @@
    "desk": "reporting",
    "published": "2026-11-26T08:22:17+00:00",
    "seen": "2026-11-26T22:22:51+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYTMwdFFNR3ZkUzJ5LUcxWkFpRDQ2UHllRWY5RW9Jam5nWVh4bGVsQTJTNk5EZWc2eEJaMnlRaE4yYUx6VWNVeVNFNjROSjEyM3FVYmNDNmtsUENLN1hDWTZadjBPTVo2SGtWLXJBYjFGU3FFVHEwZ1FNOUExb25JMHFhdlV0emNGZDNyektsOVR0eDVfenJRVGlRUTJsc1lnQ1VQOFlGX2RHUEVsN0ZEWTNB?oc=5",
+   "title": "Kenya Emerges as Top Destination for Chinese Solar Components",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-26T07:18:00+00:00",
+   "seen": "2026-11-27T23:28:56+00:00",
    "via_google": true,
    "ftries": 1,
    "fetched": true
@@ -2807,6 +3049,17 @@
    "published": "2026-11-24T08:51:49+00:00",
    "seen": "2026-11-25T19:57:33+00:00",
    "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSDBXa0I1Zk1EQmYwZC1qRjhWYUZ6M1VuYmFVQjJUV3N1TTg2MFU1OXRTUDA3NW5yNmZvSFlUU2k1aUNWdUNFVmVDRFJrQzVnR3M3dmhkSmxZSHJ1SnJHcVdhMl9XQUE4ZlJrb0NDdGh5QmJvSXo5ODlta01FaUpVY1VhSVFlbEdJYnhSNjBWNjZrc2UzNUtCbERMLW5vcjM2cVBvSnpGOA?oc=5",
+   "title": "Walk Clubs Are the Antidote to Fitness Culture",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-24T08:01:10+00:00",
+   "seen": "2026-11-27T23:28:56+00:00",
    "via_google": true,
    "ftries": 1,
    "fetched": true
@@ -8500,262 +8753,6 @@
    "via_google": true,
    "ftries": 1,
    "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMnk5d2N1TThRN25fWno4dmtQMXlyMl9PVjVJdWtrT2FObkJ2M2RTQk41N3BtSnpfUG9KWEFKT0JkRGlLMEFHMHdKY1N1WV9LNkY4bk80a1hUeHhSeU5OcXMwNE00V2o1QzhQckR1ZWFSd1d5NEpjSVA4OG12VXEwV1NhQkhtUzJlTVhXdTY3QU5PX28yOVl5Wg?oc=5",
-   "title": "China is kicking up a fuss over a Japanese spy show",
-   "source": "The Economist",
-   "desk": "opinion",
-   "published": "2026-11-19T14:01:02+00:00",
-   "seen": "2026-11-19T19:29:47+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOX19SYl9pQnlhWVRncE5TcENCc20zTHg5ejlIdFRFRERzTkFVNzRaTy00WnBKLUdkUGNsTUhaeXg2NDdBajZwYThWTmN4cjUxelZaU25BOXBDRDZLM0VMWDlScjdOd2Nmd3d1dW5wZ1lfNWxRWWpnV0ozRVVBMUJScndQNzV3d0o0cV9oYmhkZHFPeWFGVkVVOA?oc=5",
-   "title": "China’s prison for the elite is massively expanding",
-   "source": "The Economist",
-   "desk": "opinion",
-   "published": "2026-11-19T14:01:02+00:00",
-   "seen": "2026-11-19T19:29:47+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcEhxZE4wZV9ocnQ1azBscVA4NlRLTFV3eTlUMU5tTmZLaWR5WWM4RVhQTTBpVUE3NUs2Nng3a1JuU21kcHJIcGE1Mk5iVXp1bElPZ0NfXzltOTMyLWZyc3VwWEExTWhBU1pYOHpoZk1ubWtabm5OS2czVGVwRjJkSEhLYk5XaUxla015dzBCbDBXQ05SLUtJcTljUDUtb2J5Vy1aUkZFUQ?oc=5",
-   "title": "China’s efforts to strengthen its safety net fuel public anger",
-   "source": "The Economist",
-   "desk": "opinion",
-   "published": "2026-11-19T14:01:02+00:00",
-   "seen": "2026-11-19T19:29:47+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://wattsupwiththat.com/2026/11/19/is-americas-nuclear-renaissance-now-in-jeopardy/",
-   "title": "Is America’s nuclear renaissance now in jeopardy?",
-   "source": "Watts Up With That",
-   "desk": "opinion",
-   "published": "2026-11-19T14:00:00+00:00",
-   "seen": "2026-11-19T19:29:47+00:00",
-   "cats": [
-    "Climate Politics",
-    "Energy",
-    "nuclear power",
-    "Democrats",
-    "Donald Trump",
-    "Duggan Flanakin",
-    "SMRs"
-   ],
-   "note": "Skeptic blog",
-   "description": "We should soon know whether the new Congress will build on the Trump nuclear energy strategy or let their hatred of all things Trump wipe out years of nuclear progress.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2026/11/vogtle-nuclear-plant-cooling-towers-1024x512-1.webp?fit=1024%2C512&quality=75&ssl=1",
-   "paragraphs": [
-    "Throughout his presidencies, Donald Trump has been the most proactive leader for a renaissance of nuclear energy since the Cold War. But Democrats have consistently opposed most Trump policies, and the wipeout of GOP majorities in both houses of Congress raises questions about whether his nuclear agenda will be disrupted or even dismantled.",
-    "During the 2020 presidential campaign, The Week national correspondent Ryan Cooper argued that both Elizabeth Warren and Bernie Sanders were head and shoulders ahead of eventual nominee Joe Biden and any previous president on climate issues, but added that both had committed a serious policy error — one that may have cost them the nomination.",
-    "As Cooper explained, both disavowed the use of nuclear power and, echoing Germany’s green energy strategy, called for the dismantling of all existing nuclear power plants. Sanders’ platform included a moratorium on existing nuclear power license renewals, while Warren simply said, “We won’t be building new nuclear plants” and pledged to wean “ourselves off nuclear and replace it with renewables.”",
-    "In 2024, only Sanders and Ed Markey, Warren’s colleague from Massachusetts, voted against the ADVANCE Act. The 80-year-old Markey just extended his 50-year career in Washington by winning a third Senate term. He had criticized the bill for propping up the nuclear industry while omitting funds for communities affected by nuclear closures and contamination.",
-    "Markey, Warren, and Sanders are senior leaders of the “progressive” wing of the Democratic Party, and as of January they will have several new allies who have opposed a wide variety of Trump administration technology initiatives.",
-    "In September, for example, Sanders and Rep. Greg Casar (a close Texas ally of newly elected Sen. James Talarico) introduced the Ban Artificial Superintelligence Act, which would permanently ban development and deployment of superintelligent AI and pause advanced AI development pending a new regulatory framework.",
-    "Warren, in June, escalated her “war” against SpaceX on grounds that passive investors could be “dragged into what governance experts call a ‘catastrophic’ ownership structure through their index funds.” Now multiple Democrats, including Texas Governor-elect Gina Hinojosa, are calling for investigations and even imprisonment and confiscation of all of Elon Musk’s assets.",
-    "Despite the hue and cry against nuclear (which could power data centers) as well as AI and cryptocurrencies (which rely on data centers), Democratic governors like JB Pritzker, Mikie Sherrill, and even Kathy Hochul have taken steps this year to encourage nuclear development.",
-    "A year ago, a Gallup poll showed 46% of Democrats (up from just 34% in 2016) favored the use of nuclear energy (compared to 74% of Republicans), whether as a means of carbon reduction or energy reliability. This growing support for nuclear has not discouraged nuclear industry entrepreneurs.",
-    "Longtime nuclear energy advocate Steven Curtis, whose latest project U2energy seeks to enhance efforts to recycle used nuclear fuel, believes entrepreneurs will be more successful without government “support” than companies that rely on government funding. He also believes that everyone wants cheap, clean electricity, and that since nuclear can provide it, even the strongest opponents cannot stop its momentum."
-   ],
-   "lede": "We should soon know whether the new Congress will build on the Trump nuclear energy strategy or let their hatred of all things Trump wipe out years of nuclear progress."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV0FxUDNxTUV6RWJ6NkF0Y1NYSldPNXJWLWNZV3ZFOHI5UzlUNXJndm0wb3dUd0hHV216NVdiRVczX0lHblo3M2hydmVjeFhpS0N3ZEpmUENhVmpDQVVNMEtKcldoaTluNi1pRWx4QVFJdmlsSWs1VUw5aXFwOFJ4czFIZkNJd2V2aDZiTnR6M2pUcno1S3c?oc=5",
-   "title": "Grand Theft Auto: the real special relationship",
-   "source": "The Economist",
-   "desk": "opinion",
-   "published": "2026-11-19T13:59:33+00:00",
-   "seen": "2026-11-21T08:18:38+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMHBYSmo2Z2Y5dWg4VElaU3FiUXNZemUtYl9vd0NLdUNUUmZ6bUdLZkdjT1lLZjYtYjZkOUVyVGZVZVpRZVFyWnVfMkVPWi1DdU1KeldKRTlnanBuTl9Jc2FiTUl5eXRGRVZZR3JHZWRRWHktSkRwSW00bEh0Q0NXUWQxdzBfWkIxSkt1aks1dHZfLUNpd0xWa2luSUFJamxCVTRybURzTGtoblVrb3hZS3NhYl9WcUhS?oc=5",
-   "title": "Bezos Earth Fund awards $100 million-plus in grants to protect the Amazon",
-   "source": "Reuters",
-   "desk": "reporting",
-   "published": "2026-11-19T13:58:04+00:00",
-   "seen": "2026-11-20T18:38:27+00:00",
-   "cop": true,
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTVNsb0JiN3FPZzRvQS0tMFdaV0ZRMkZ1UFZRVTZ3MmJMS1NHeGplaXlBa2xyMjVUU1N1WGRUcDFXdUZkWVhLbUgtTDVxSHp2Q3g5cC1kRUtLQU9EbjB6ek1CcGpfbnVHcldqNVJyaUxQSTRGS09Tb2l5VG51REg5dFNva3o0c1h1VjZuX1hSQkt2R0N1RzZSaVNqMjU4S2lqdTBsbzI4T0FkMWJZeXZCdTZkWVh4ZVdi?oc=5",
-   "title": "Anthropic’s Massive IPO Is a Stress Test for Public Benefit Corporations",
-   "source": "Bloomberg Green",
-   "desk": "reporting",
-   "published": "2026-11-19T13:00:03+00:00",
-   "seen": "2026-11-19T19:29:47+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOXJmZWs3dzk4Uy10RXZBZDlKNGRBWTNSajhHeDhuMG16bWJwaTNzTTUwMXljQUlGbFVTQk1INEhNR3BldnpNNVN5bktPNUxINFpTRDRyb3BnMDA5N2ZrYzNoby12NGFDWExzcVBWOXdVbU16SVRQWXFXVzNyTTZzSEN4VDhIQUFkcXZqS3ZiZ1JpVEVLQWtJSkZfMnBIUlZldDJIa0N1VDg?oc=5",
-   "title": "Startups call on Commission to salvage or scrap EU Inc proposal",
-   "source": "POLITICO.eu",
-   "desk": "reporting",
-   "published": "2026-11-19T13:00:00+00:00",
-   "seen": "2026-11-20T01:47:33+00:00",
-   "cop": true,
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeUlFUlRBZ0VwZjFSN2oyR2t6Ny1LcWlycjJjTW5oWWI0eVBuX3dBVDRpdHVndjBuZEJSMFpZSkhvSzczUWZhb2hZV0MtanNBS0w2a0stNHIwSGtrNTFNWGFRVW1kV3hUekFmanRVZWlxQXVlUDB4QnZSNGxvdXducURWS0MwVFJQQnZzNmlQVEJjaWd6LTNmX2xfZFVUU0s4Z3dHSVZPM1JhV004Y3V4RERSdllfaVBLYVVZM2YxMVQ3QQ?oc=5",
-   "title": "Can US Data Centers Ditch the Grid and Supply Their Own Power?",
-   "source": "Bloomberg Green",
-   "desk": "reporting",
-   "published": "2026-11-19T12:00:00+00:00",
-   "seen": "2026-11-19T19:29:47+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://yaleclimateconnections.org/2026/11/these-two-types-of-people-can-help-children-recover-after-a-disaster/",
-   "title": "These two types of people can help children recover after a disaster",
-   "source": "Yale Climate Connections",
-   "desk": "science",
-   "published": "2026-11-19T11:59:00+00:00",
-   "seen": "2026-11-19T19:29:47+00:00",
-   "cats": [
-    "Adaptation",
-    "Audio",
-    "Solutions",
-    "Weather Extremes",
-    "Louisiana",
-    "New Orleans",
-    "United States"
-   ],
-   "description": "Researchers studying young Hurricane Katrina survivors found that supportive adults and community advocates often helped children fare better over time.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://i0.wp.com/yaleclimateconnections.org/wp-content/uploads/2026/11/111926_kids_1600.jpg?fit=1600%2C900&ssl=1",
-   "paragraphs": [
-    "Many children who survived Hurricane Katrina faced long, difficult roads to recovery – especially those who endured the worst impacts.",
-    "Peek: “They were literally behind in the disaster, they waded through floodwaters … they had an incredibly traumatizing disaster experience.”",
-    "But sociologist Lori Peek, co-author of the book “ Children of Katrina ,” says some are now thriving.",
-    "To learn why some recovered better than others, Peek and her co-author met with hundreds of children and tracked what happened to 25 of them over seven years.",
-    "An anchor is a parent or other person who provides steady support before, during, and after the disaster. And advocates are first responders, pastors, or others who connect the family with resources.",
-    "For example, Peek recalls a girl named Cierra who benefited from having a supportive mom and community advocates.",
-    "Peek: “They helped Cierra’s mom to find a car, to find stable housing, and to secure a full-time job. They helped Cierra to get into a good school.”",
-    "So Peek says a combination of family and community support is critical to kids’ recovery after disasters."
-   ],
-   "lede": "Researchers studying young Hurricane Katrina survivors found that supportive adults and community advocates often helped children fare better over time."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcEdkaW85aF8zYUdyVGZ2U3NuYU9ZQm1wX1F3d1l3eW1STEgyVGt4aWJUUEU2eW9VMUJBaG5vWlRCNGZBd3U3N1lhZ2lWQ0lTVUVIX3JhbTN2OHl5XzNUY3ZRTm9MRmo3eGdHWFk5SlpjbVAtZ2Y4WVh3RXZMYmZ6VjY2bUF0TmNDVVBCMU5mNDJ3WUU1anY1VzQtSGpDU2pCa3c2T2gwX1A2YWFJWVNHNUpmRFd5bVhYTm1F?oc=5",
-   "title": "China's Xi says US should do 'right thing' on Taiwan to avoid setbacks in relations",
-   "source": "Reuters",
-   "desk": "reporting",
-   "published": "2026-11-19T11:45:00+00:00",
-   "seen": "2026-11-22T09:55:09+00:00",
-   "cop": true,
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYjJIYkhXNkJlLWpTaVVEUzdGTW1WNy1yWHFmbkh6SjYzbXM2VVNfaGdpS3VYaXkza1ZNMnJMWUl2R0E3SndMTkxPcVc0aU1aejdRc05KSWdibjhIWV93RGs5MmU4SEFOTEVBU3VRRTZMUE9KSF9XYjVTM2U0bEdtb1BfeEdQaGNEYk84RHhJSDJnaHNKelhrbm9vTWg3SDJfZHlXMnp0U0k2SDZpUWc?oc=5",
-   "title": "IEA Sees Data Center Boom Pushing Power Grids to the Limit",
-   "source": "Bloomberg Green",
-   "desk": "reporting",
-   "published": "2026-11-19T11:03:08+00:00",
-   "seen": "2026-11-20T10:04:06+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbnphMUhTTDdEUV83bjJvc0lSeDFlbmw2QVlyU2tMMlJtcm5zQUVzdDZId3VfM3c2LW8xTS1LZkY3cnJXaVRBU0k3ZXRJemJydW9HQmxlTkpfVTlNd29ZZlM4OWtfOXdldFdWU3FucGpKYlhSVS1vRVZXNVFUREw1TzlHeGwzcEZrRkFiaVhXb2owRUVPajZJRzlpcUVBeWpoaFZVZ3VmWQ?oc=5",
-   "title": "India feeds the world, but its methane emissions are heating it",
-   "source": "The Economist",
-   "desk": "opinion",
-   "published": "2026-11-19T11:00:22+00:00",
-   "seen": "2026-11-19T19:29:47+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcXppZXV4Y3duMTQ0OUR3bjFBZE5DRHZKWTIwYkFXVVAwUU9IZ3I2QlRXTHc2V3lNdEszUTd0LXNFVFRIN3ZLSHRDUzd5M3M5QWxHUEV4dkQ5TWctbFUxbmZpdzZZRG8yUDNwNXBYSWRsdHNjNjhqcW1iaVlVZm5ZVEd4aVZ3Z1NtaDZzYU9XTjBYNThIYXExbkczUHBBVllkUFpQT2ZMaEI0LTB6LVdUbmJRTWxRZEhyZjNj?oc=5",
-   "title": "Russia wants talks on Europe’s “security architecture”. Don’t fall for it",
-   "source": "The Economist",
-   "desk": "opinion",
-   "published": "2026-11-19T10:44:42+00:00",
-   "seen": "2026-11-21T00:49:24+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRVVRbFFvU3ZPNWlmTHFvU1JzSm9FMW5yRXlqRkk0eWMyTkNORHBuN24wSXI4VTlpR0pqRzh1SWllb1gxXzFyU05WOUh6SWl1Skdvell5dFl3NVBZczJETUhLckpORGhPS3RiWVpfRjdha3psMG00Yy03QTBEMHl4NlNPclRCT21kMXN1YWFnV2RNVXVDTWxoYk5TNWxjOFp1NFJ6YmhBaUthbkltbG14eVJSUVpVQQ?oc=5",
-   "title": "ECB’s Kocher Warns Changing Climate Is Impacting Monetary Policy",
-   "source": "Bloomberg Green",
-   "desk": "reporting",
-   "published": "2026-11-19T10:14:57+00:00",
-   "seen": "2026-11-19T19:29:47+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcDV6c3lGUngyMDRuWXBtNERZZFhpQktSNi1Gbm5uMVVRNmxXaHBSaXNCdnBQSF90WEJaeU1QNTluT3p1YmtFbUlmMFZPQzEwMHZRQjJWWTYtcDNpanVYUXJ6WEZiTzdwUWFuQ1Y4RHlCa1VoM3BDMjA4c1l1aTlmb0x2czUtQ3JRQmNUSHVuR0tpRm0tMWdmSGFSWncxVnJNODg5Z3lBM0c?oc=5",
-   "title": "Bond yields are rising everywhere—except China",
-   "source": "The Economist",
-   "desk": "opinion",
-   "published": "2026-11-19T10:04:37+00:00",
-   "seen": "2026-11-21T00:49:24+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://wattsupwiththat.com/2026/11/19/thanks-climate-skeptic-for-exposing-the-bbcs-falsehoods-about-extreme-weather/",
-   "title": "Thanks, Climate Skeptic, For Exposing the BBC’s Falsehoods About Extreme Weather",
-   "source": "Watts Up With That",
-   "desk": "opinion",
-   "published": "2026-11-19T10:04:00+00:00",
-   "seen": "2026-11-19T10:24:07+00:00",
-   "cats": [
-    "Bad science journalism",
-    "extreme weather",
-    "Weather",
-    "BBC",
-    "BBC Panorama",
-    "Justin Rowlatt",
-    "Paul Homewood"
-   ],
-   "note": "Skeptic blog",
-   "description": "In the end, every specific claim of worsening weather made in the Panorama story is refuted by long-term data recorded by the U.K.’s Environment Agency. Data trumps anecdotes and unreferenced claims every time.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2026/11/london-rain-window-phone-box-1024x512-1.webp?fit=1024%2C512&quality=75&ssl=1",
-   "paragraphs": [
-    "Climate Skeptic recently posted an article by Paul Homewood, who operates the website, Not a Lot of People Know That, that exposes the BBC program Panorama’s ongoing misrepresentations about climate change causing worsening extreme weather in the United Kingdom. Homewood’s take down of Panaroma’s false claims is devastating. He shows with hard data that neither floods nor wildfires have become worse or more frequent in the United Kingdom.",
-    "The story, “ BBC Panorama Serves Up Justin Rowlatt’s Latest Barrel of Climate Hogwash ,” examines in detail an episode of the BBC One program, Panorama, called, “ Fire and Floods: Our Extreme Weather ,” by BBC’s Climate Editor, Justin Rowlatt. As Paul Homewood’s analysis shows, Rowlatt uses anecdotes to claim that wildfires and floods have become worse in recent years due to climate change, in the process, ignoring real world data and historical evidence that shows each of these claims is false.",
-    "At the outset, it is interesting that after complaints by viewer’s BBC examined a recent previous post by Rowlatt and found it contained at least two serious errors or misstatements of fact. Ignoring that, BBC allowed Rowlatt to produce a new segment that contains even more easily debunkable claims concerning climate change in the U.K.",
-    "Rowlatt repeatedly confuses weather with climate, claiming specific extreme weather events, recent floods and wildfires, for example, are proof of climate change. Yet, as discussed at Climate at a Glance: Weather vs. Climate, the World Meteorological Organization defines climate as “…the average weather conditions for a particular location and over a long period of time.” Typically, 30 years of weather data is averaged to create a “normal” climate expectation for a location or region. Yet none of the recent flood and wildfire occurrences or seasons in the U.K., even those above average, were historically unique, nor were they part of a long-term trend of extreme wildfire or flood conditions.",
-    "Concerning wildfires, Rowlatt asserts that global warming is causing more and larger wildfires in England due to increasingly dry summers with little rainfall. Homewood looks at the evidence and points out that multiple lines of evidence, including hard data from NASA, the European Space Agency, and multiple peer reviewed studies show that wildfires are in decline. While wildfires have been historically common in England during dry summers, this year was far from the driest on record and summer rainfall across the U.K. has been above average 12 of the 26 years since 1996 — the relevant 30 year period. (see the graph, below)",
-    "There is no long-term trend of declining rainfall that would suggest climate change is having an impact.",
-    "Concerning floods, contrary to Rowlatt’s claims that the U.K. was beset by extreme floods, data from the U.K. Environment Agency show just the opposite, in 2025 the numbers of properties affected by flooding was extremely low, reflective of a recent long-term trend of limited flooding, with a few exceptions. (See the figure below)"
-   ],
-   "lede": "In the end, every specific claim of worsening weather made in the Panorama story is refuted by long-term data recorded by the U.K.’s Environment Agency. Data trumps anecdotes and unreferenced claims every time."
   }
  ],
  "dropped": [

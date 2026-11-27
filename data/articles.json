@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-27T05:05:07+00:00",
+ "updated": "2026-11-27T15:08:13+00:00",
  "briefing": {
-  "headline": "COP31, fossil fuels and flooding",
-  "period": "Nov 20–26",
-  "made": "2026-11-26T12:39:22+00:00",
+  "headline": "COP31, fossil fuels and clean energy",
+  "period": "Nov 21–27",
+  "made": "2026-11-27T15:08:13+00:00",
   "bullets": [
    {
     "text": "Going into COP31, co-president Australia had talked up its plan to use the summit as an opportunity to make it easier for vulnerable countries to access climate finance.",
@@ -12,15 +12,21 @@
     "theme": "COP31"
    },
    {
-    "text": "The summit has been criticised for concluding without taking decisive action on fossil fuels",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/commentisfree/picture/2026/nov/23/ben-jennings-failure-cop31-cartoon",
+    "text": "When Terry Engelder estimated that trillions of cubic feet of gas lay beneath Appalachia, he thought it would serve as a transition to renewables.",
+    "source": "Inside Climate News",
+    "url": "https://insideclimatenews.org/news/27112026/marcellus-shale-geoscientist-pennsylvania-fracking-boom/",
     "theme": "fossil fuels"
    },
    {
-    "text": "As warming temperatures made cranberry farming more difficult, one group restored a former bog to its natural wetland state.",
+    "text": "At COP31, Indigenous representatives warned that growing demand for lithium and uranium is threatening their lands, water, and rights.",
     "source": "Yale Climate Connections",
-    "url": "https://yaleclimateconnections.org/2026/11/a-retired-cranberry-bog-is-helping-nantucket-fight-flooding/",
+    "url": "https://yaleclimateconnections.org/2026/11/indigenous-communities-push-back-against-mining-for-clean-energy/",
+    "theme": "clean energy"
+   },
+   {
+    "text": "I t’s sometimes said that we are sleepwalking into climate catastrophe.",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/commentisfree/2026/nov/24/deadly-floods-fires-cop31-collapsed-climate-crisis",
     "theme": "flooding"
    },
    {
@@ -30,20 +36,157 @@
     "theme": "El Niño"
    },
    {
-    "text": "A group of more than 120 climate scientists have urged US lawmakers to not pass contentious legislation to speed up the building of energy projects, datacenters and other infrastructure, amid a growing backlash to the…",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/us-news/2026/nov/24/climate-scientists-lawmakers-baaja",
-    "theme": "permitting reform"
-   },
-   {
-    "text": "With big diplomatic efforts faltering, smaller pacts, local leaders and booming clean energy take center stage.",
-    "source": "The New York Times",
-    "url": "https://www.nytimes.com/2026/11/23/climate/cop31-collapse-what-next.html",
-    "theme": "clean energy"
+    "text": "Inspired by rising sea levels and Hurricane Sandy’s epic flooding in 2012, the $1.4 billion system of walls, berms and movable floodgates is designed to hold back 18.5-foot storm surges.",
+    "source": "Inside Climate News",
+    "url": "https://insideclimatenews.org/news/26112026/manhattan-east-river-park-flood-resiliency/",
+    "theme": "storms"
    }
   ]
  },
  "articles": [
+  {
+   "url": "https://yaleclimateconnections.org/2026/11/ringed-seals-face-habitat-loss-as-arctic-ice-declines/",
+   "title": "Ringed seals face habitat loss as Arctic ice declines",
+   "source": "Yale Climate Connections",
+   "desk": "science",
+   "published": "2026-11-27T11:59:00+00:00",
+   "seen": "2026-11-27T15:08:13+00:00",
+   "cats": [
+    "Audio",
+    "Snow & Ice",
+    "Species & Ecosystems"
+   ],
+   "description": "The small seals are adapted to living on the sea ice of the frozen north.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://i0.wp.com/yaleclimateconnections.org/wp-content/uploads/2026/11/112726_seal_1600.jpg?fit=1600%2C900&ssl=1",
+   "paragraphs": [
+    "Somewhere in the far reaches of the Arctic, where the ocean surface is frozen solid as far as the eye can see, a small creature pops its head up through the ice.",
+    "This is a ringed seal – an animal whose future could be in jeopardy as the climate continues to warm.",
+    "Ringed seals – named for the small white rings on their fur – are some of the world’s smallest seals, often weighing less than 150 pounds fully grown.",
+    "Ringed seals have thick, sharp claws on their flippers to dig breathing holes in the ice. They use these holes to come up for air after diving below the frozen surface to hunt.",
+    "The seals also build dens in the snow on top of the ice. They raise their young in these sheltered nurseries.",
+    "But as the climate warms, sea ice in the Arctic is declining. It’s freezing later in the year and breaking up earlier in the spring. And less snow is accumulating on top of the ice.",
+    "In one study of Svalbard, a group of islands north of Norway, scientists found that ringed seal habitat there has been shrinking for two decades.",
+    "So conservationists warn that these charismatic seals face an uncertain future if the climate continues to warm.",
+    "The seal sounds heard in this segment were provided by Cloudberry, the ringed seal who was a patient at Seal Rescue Ireland."
+   ],
+   "lede": "The small seals are adapted to living on the sea ice of the frozen north."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQW0wSnpQVFk0Y2l6VDdaM2RZbzN6TjJud1hXZWpZQ2JQMDBVZjU4Ulllbi1yYjJySWZqQ1NhSU9oZ2tNVWNzYzhVVVFLbDdINTNnRl9qQV9GZ0xiR2xaV3V3NjJqbUwzczhCU3NYUHVTbjVpemkxTVozVzNJbVdZWXYzcENmai1RYVNsZUZSdHBhUDBHd1I1NXlmS3NCTGdYdHkySDlhQWp0aGhnQkx6S3NB?oc=5",
+   "title": "Turkey Spent Nearly $700 Million to Host Failed Climate Summit",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-27T11:36:34+00:00",
+   "seen": "2026-11-27T15:08:13+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "cop": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRXp5eTlUWjRKbEl3Ynk0WGlLZjVIdU83UzFnbmktLXdSYWdzWDlyMXdXcFZadUxOSTA3dFN1dHVzSkdkQzNiOTNJQkRpTVJpQ2J3VkZib255bThOZG1JWktSQ1VjY0Z6NHNkcWRZOFNRcDRSQU93Y1otdFUwd1FCSFRtSXo0RlkzNlA5Ujk5Z0VaV05QVEtFeG80RWFwT2tYY0ZvUDEzU1h5bE5fbktlUA?oc=5",
+   "title": "The man who coined ‘Brexit’ likes the sound of ‘Breturn’ and ‘Brejoin’",
+   "source": "POLITICO.eu",
+   "desk": "reporting",
+   "published": "2026-11-27T10:32:00+00:00",
+   "seen": "2026-11-27T15:08:13+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://insideclimatenews.org/news/27112026/marcellus-shale-geoscientist-pennsylvania-fracking-boom/",
+   "title": "The Scientist Who Kickstarted Pennsylvania’s Fracking Boom Thought Gas Would Be a ‘Bridge Fuel’",
+   "source": "Inside Climate News",
+   "desk": "reporting",
+   "published": "2026-11-27T10:00:00+00:00",
+   "seen": "2026-11-27T15:08:13+00:00",
+   "cats": [
+    "Fossil Fuels",
+    "fossil fuel industry",
+    "Fracking",
+    "Marcellus Shale",
+    "oil and gas industry",
+    "Pennsylvania",
+    "Q&A",
+    "Terry Engelder"
+   ],
+   "description": "When Terry Engelder estimated that trillions of cubic feet of gas lay beneath Appalachia, he thought it would serve as a transition to renewables. That didn’t happen.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://insideclimatenews.org/wp-content/uploads/2026/11/GettyImages-452089747.jpg",
+   "paragraphs": [
+    "Almost 20 years ago, a Penn State University geoscientist named Terry Engelder published an eye-popping estimate of the volume of gas sitting beneath Pennsylvania. That calculation helped trigger the state’s fracking boom. It’s now the second-biggest producer of gas in the U.S., behind only Texas.",
+    "At the time, Engelder says now, he hoped that his assessment would help to curb greenhouse gas emissions because it would encourage the transition away from coal. But he now fears that natural gas has become a long-term occupant of the energy landscape rather than the “bridge fuel” that he and others thought they were promoting.",
+    "Engelder, now an emeritus professor of geology at Penn State, is writing a book describing his work in estimating that the Marcellus Shale deposit—which also underlies parts of West Virginia, New York and Ohio—had enough gas to meet total U.S. needs for about 20 years under consumption rates at the time.",
+    "Engelder’s estimate of 489 trillion cubic feet (tcf) of technically recoverable gas—published in 2009, and still, he says, underlying industry assumptions today—first persuaded bankers to lend the energy industry billions of dollars to extract the gas using hydraulic fracturing of mile-deep shale beds. Critics say the process causes environmental and public health harms, adds to global emissions and that its entrenchment in Pennsylvania has stunted the growth of renewables.",
+    "Dan Gearino’s habit-forming weekly take on how to understand the energy transformation reshaping our world.",
+    "A once-a-week digest of the most pressing climate-related news, written by Kate Waxman and released every Tuesday.",
+    "Don’t miss a beat. Get a daily email of our original, groundbreaking stories written by our national network of award-winning reporters.",
+    "A digest of stories on the inequalities that worsen the impacts of climate change on vulnerable communities.",
+    "His estimate was broadly confirmed by the U.S. Energy Information Administration, which in 2011 estimated the Marcellus contained 410 tcf of gas. In 2018, it was revised upward by the University of Texas, which calculated the field had about 560 tcf of technically recoverable gas.",
+    "Engelder hoped natural gas, which creates about 55 percent of the carbon emissions of coal, would act as a transition on the way to a renewable-dominated future. But with its increasing use since the start of the fracking revolution in Pennsylvania, its status is now at odds with Engelder’s original vision. Almost 60 percent of Pennsylvania’s electricity now comes from gas."
+   ],
+   "lede": "When Terry Engelder estimated that trillions of cubic feet of gas lay beneath Appalachia, he thought it would serve as a transition to renewables."
+  },
+  {
+   "url": "https://insideclimatenews.org/news/27112026/how-the-epa-let-a-key-chemical-detection-program-unravel/",
+   "title": "How the EPA Let a Key Chemical-Detection Program Unravel",
+   "source": "Inside Climate News",
+   "desk": "reporting",
+   "published": "2026-11-27T09:55:00+00:00",
+   "seen": "2026-11-27T15:08:13+00:00",
+   "cats": [
+    "Justice & Health",
+    "aspect",
+    "Chemical Exposure",
+    "Chemicals",
+    "East Palestine",
+    "EPA"
+   ],
+   "description": "This story is from Floodlight, a nonprofit newsroom that investigates the powers stalling climate action. Sign up for Floodlight’s newsletter here. When an ammonia leak outside a hotel in Weatherford, Okla., injured 74 people last November, the federal government’s chemical-detection plane stayed on the ground. When a fire tore through a Valero refinery in Port…",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://insideclimatenews.org/wp-content/uploads/2026/11/Sequence-01.00_00_04_16.Still001.jpg",
+   "paragraphs": [
+    "When a fire tore through a Valero refinery in Port Arthur, Texas, in March, the plane sat idle.",
+    "And when massive blasts killed two workers at an industrial recycling plant in Toledo, Ohio in August, it stayed put, despite a fire surrounding tanks of flammable solvents.",
+    "“Ten years ago, it would have gone to all of them,” said Mark Thomas, a former EPA official who for years managed the airborne detection effort.",
+    "The program, known as ASPECT, was designed to respond around the clock to emergencies involving toxic chemicals, oil spills and radiation. The plane’s sensors could identify chemicals in the air within minutes, giving emergency responders crucial information about the dangers nearby communities face.",
+    "For more than two decades, the plane has flown over many of the country’s worst disasters, from New Orleans after Hurricane Katrina to the deadly West Fertilizer explosion in Texas to the Deepwater Horizon oil spill in the Gulf of Mexico.",
+    "But since early 2021, the single-engine Cessna has responded to just seven emergencies. And former ASPECT scientists said two of those missions—the 2023 train derailment that sent toxic clouds over East Palestine, Ohio, and the 2025 fire at Smitty’s Supply in Louisiana—were badly mismanaged.",
+    "At Smitty’s, the EPA declared the air safe, but a former ASPECT scientist later found toxic chemicals the agency had missed. And the agency’s Inspector General is now auditing the response to the East Palestine derailment, including the data behind its public assurances about air quality.",
+    "Now—at a time when chemical emergencies are increasing—the plane can no longer do its job. In June, the EPA Inspector General found the plane’s systems can’t identify chemicals within minutes, as designed. Instead the process takes about a week, far too long to help anyone on the ground who’s deciding whether to evacuate.",
+    "The EPA said the plane’s chemical sensors are wearing out and expects replacements to be working by mid-2027."
+   ],
+   "lede": "When a fire tore through a Valero refinery in Port Arthur, Texas, in March, the plane sat idle."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZElrYVNyeHFFcEJzczZwWTJHNWJlTjVzTjluZldaU0liWFkwMF83WkZ3dDhBR2N0Y1hLQUFGX1o2V3ZWNnlKYksxQ2p5UEl0bnM0VWZqUU1PbVJ0RC0xbW9qd0Q1a2NRUi1YanFZRjJSOVpQOEhObks5YUp1VV80d0tVOUNtajdaeTdwSXRqS1dfb2pCX2JWWEdROE51d0NSODkyeU9qR3VkUU90Nk9Gd29B?oc=5",
+   "title": "AI Boom Hands Lifeline to German Industry Rocked by Car Slump",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-27T06:28:00+00:00",
+   "seen": "2026-11-27T15:08:13+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVmJEdmR5Wl9uZTZKS1R2ckJXekhkX1AwSVZpSHhkODcweDNmTVRva2JDdjRWcjNvYk4yeXNkQWw3ZTVnMUpWUTBjYXNWOTVCY2Y1emVTdGFjazhoR1ltaXF6WTNvMEVqSUdaNTI3VzU4U3dMNkROYVlDMTR5NHhpdGhuZjl4VnZGTzFTNHRXMDdnSXVmdXhpODl6YjVabXVoa0NlMVFsOW94OUw1clJ2UUpR?oc=5",
+   "title": "Erdogan completes Turkey's ratification of Mecca defence pact",
+   "source": "Reuters",
+   "desk": "reporting",
+   "published": "2026-11-27T05:22:00+00:00",
+   "seen": "2026-11-27T15:08:13+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
   {
    "url": "https://insideclimatenews.org/news/26112026/california-endures-historic-coastal-flooding-waves-thanksgiving/",
    "title": "Southern California Endures Historic Coastal Flooding and Devastating Waves Over Thanksgiving",
@@ -75,6 +218,17 @@
     "In Northern California, Pacifica, a city southwest of San Francisco, lost part of its pier to savage ocean waves. To the south, San Diego issued boardwalk closures amid surging water levels."
    ],
    "lede": "“We didn’t know what was going to happen,” Mitry, a 57-year-old retired nurse who moved to Huntington Beach in September, told Inside Climate News."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVnNhZHdWc2NIZ1VoWDI1ZldteXdBYlNxLWNjMVVENnZPNVVza2x4c3h6cUhfVVNqQm5SY1Z4UVdnWWZxeDJrZXIyR2NQTm5XeFY5SHo3alF3ME9BNGxYZlhzdG9ob3h5TVJpV2NYQ2JPeTNhemlEMXNXTTh4RUNxalRNa243YjZRSnJheURncU1jdHBiZDc5VE91cTY4Si1fdU5jemkxU1VaV2pDdGFV?oc=5",
+   "title": "Data Centers to Double Malaysian Electricity Demand by 2050",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-27T03:24:00+00:00",
+   "seen": "2026-11-27T15:08:13+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://wattsupwiththat.com/2026/11/26/nigeria-challenges-climate-dogma-and-revives-gas-project/",
@@ -112,12 +266,34 @@
    "lede": "If you still believe Nigeria should leave proven gas offshore, explain what you offer the 86.8 million Nigerians living without power in its place. Nigeria has spent too long asking permission from people who never had to live in the dark."
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSkxXd0tjNkk0aWxXMDM3cWItWEMxb1R4a2xfMHJzSXY5U0RJTGU4M0F2dkNrdzF0UXdqUFBfZFJGa3h4VjFScEVtbGxQWUgwaWh0VTQxMG82eXpLWTRrMnprelozcnUyRDBmX0N6Y0JPdDdlTGVVSTdicEFsVjJOUHc4OHhJOEd0M05relhsVDAyMTBYTGxNWEIza1RJWTgtQndncXVXZWVoQjVhNUtGdS13Z2RhQQ?oc=5",
+   "title": "Sanchez Warns Spain of Massive Cuts and Recession With Far Right",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-26T23:29:10+00:00",
+   "seen": "2026-11-27T15:08:13+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSDJsYUw5blhfWkp1SDc2RTM3RHdHcmdJM2M1Q3Q4NzlGYTNjSVgxZHNaREp6WnhnM3dTOU9ja2lLWFA0YXM5ekl0NmxUcmFwOFh3VVpQR2Q0MHNiSm5BTXkyX3NhMzdPMXlLRXpVOG5Pb3ZHTVZMemN1Q3BYN0Fyby1sQVJhUmxmcTdpOUpON2RHY0VfZm5EcWtqc0dSTzBMUUc5LVItNmFxRzl4S1UxOVo4QlBSYkJ1QXhpZi1UMTc?oc=5",
    "title": "Singapore’s Endless Hunt for Space Faces Rare Public Resistance",
    "source": "Bloomberg Green",
    "desk": "reporting",
    "published": "2026-11-26T23:00:04+00:00",
    "seen": "2026-11-27T05:05:07+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRFI5d0x5d3BQUVZadkxYN3hqRVlzeERYWWFqaElWWDVYaXBGOVFwQTdHaWhNYmlfakJ0R0x5eWZpRDhuc3NIYWtCVmZBaE9XR1FiRFJIM2VyNlZ6TVpkUklrdno2ZlJQTXpXY3EwZTVxRWxsX3VmenFZaTV1RnBJS2xaRmx6dHNfbC1taVp4LXFvc24zeWZkUTNOenBOajRrRDZHWklzY0E5ME5ZN1hIbDh4R24?oc=5",
+   "title": "Thanksgiving Storm Hits East Coast, Disrupting Holiday Plans",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-26T22:54:35+00:00",
+   "seen": "2026-11-27T15:08:13+00:00",
    "via_google": true,
    "ftries": 1,
    "fetched": true
@@ -367,6 +543,28 @@
    "lede": "Farming has always faced unpredictable weather, with farmers attempting to anticipate and adapt to changes from one season to the next."
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU1gyczNTemhhM1RrMjZ0emJNNDZIRDVGek93LWhvUFNHNmlaeXRtTDdJTXdpWWxaZDBHY2l6Tk5CVDFFWFJ6MVZzV094RktWMmNwcUc1TEJsM1lJM282Q3RJWGJJdjdCUzZkeDllRS0zQTRvUWhuUkNkckEzLV9xYUNNQ1hUczVxY2YtSlk5NlEtTmhwSUx3YlZnU2JianRQUGhid3oyelViZjBpc2RBeVB6bw?oc=5",
+   "title": "Energy Trader BGN Targets Agriculture in Latest Expansion Push",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-26T13:54:21+00:00",
+   "seen": "2026-11-27T15:08:13+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdURKcWNJbURVaE1BZDhjMmNwY3dzMjl4N1IwNVFoN3BVNlJBMnY0RjllMEZEa1FaNmE4MTl5QjNSNzV0dnpMSWR5YXpGbWlfbkhoOVJ4ZXJPQ1pSRmp5ZFA4WnhPOEpqS2dBdW5Kc3NNLVJVcWZBTDlNcVJGOUFZMXpNdVUyYlRDbWNIWFpSNA?oc=5",
+   "title": "America needs to slash red tape and build",
+   "source": "The Economist",
+   "desk": "opinion",
+   "published": "2026-11-26T13:45:02+00:00",
+   "seen": "2026-11-27T15:08:13+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcDdtWEpTSThFWFV5UHZzVW80LVlnaURzRWdkcTE2SUFYNklYMG50SFdKSDBOWWptZEQzZFlJSElvczlKdVVnckpaVFNCN09HVWJMTE4tNXNaVGo2alZQR0Z3eWhMdTRZQVRzTlhrQ1NqSzFabVRmVmp2OURJajREUWs3NGhuM1NRbk0wZlp0TFhLT1NGRlZ0dGUzS2k3OXBQaGxpdExR?oc=5",
    "title": "How Democrats and Donald Trump can make it easier to build",
    "source": "The Economist",
@@ -613,6 +811,17 @@
    "fetched": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT0d2VXNiaWpldm1PNUhWWnNOM0lYazlualJrSlpoSGR5VHVhS2o0ekhLUHYxRmRiaEFPYXVwZV9FTnVaS1lVaHhHaEhmbEZHWUZ1ZVRzd0pOVE81ZkQxYkFjclBMU2N5bUdPOUc0ZkNuSV9UMmcxNmFYdDRCcko4QkFmb2JLTHpXYTZ2SlpIbzRJdDZ1ck1mN2xzaUlZWUotVnJTdFNQc2JlVUp4SW02WnMwTG4?oc=5",
+   "title": "Macy’s Thanksgiving Parade Moved to Saturday on NYC Storm",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-26T03:45:00+00:00",
+   "seen": "2026-11-27T15:08:13+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb09ZVVB3eEJlREZXRUxKVC1GaEtlemkzbmhhQUp0NVR2S1lySVY2Q0h5YzRLd3ZCRkpQbFpzYzBCbXVQT3YtTFdyVnk5NEQyQU1XRUxOaXVRa1Nrc1FuTWlDYjd5cVpXbTRSTkVXSld0eVBMSDFKTkxKZ3d3U09Hekpwb2E5OFZuN3VSdHRJSkFUZWQ3SW5TX3p2QnNfYWhUbERWVFVhaXJLYXI2MkdfbFB3?oc=5",
    "title": "Japan Gets First Malaysia Bio-LNG Shipment in Green Fuel Push",
    "source": "Bloomberg Green",
@@ -731,6 +940,17 @@
    "published": "2026-11-26T00:14:18+00:00",
    "seen": "2026-11-27T05:05:07+00:00",
    "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOR1VYSkV6czVycUFWd0t1bDdZMWhuY05hV3RuYjhjVnhrSXZfdXBfd1VDRjZzaFJOYnlGNDhiWDhIeTBIQV9oMGZOaTJQNmlMdll1a285bDkyYmgyVEVvTkVfcG5XNEV2Nzg5d19VbzBlTmxBeE1YeWgzd0ZwWHR3REYwTzBXS1dyc3l6R3FGUVdxU29objAwM1o3Zl9MdjJBRzN5Y3BBMjVrR0o1TkswQXRxMjkydw?oc=5",
+   "title": "Houthis Launch Retaliatory Attacks on Two Saudi Ports on Red Sea",
+   "source": "Bloomberg Green",
+   "desk": "reporting",
+   "published": "2026-11-25T23:45:44+00:00",
+   "seen": "2026-11-27T15:08:13+00:00",
    "via_google": true,
    "ftries": 1,
    "fetched": true
@@ -925,6 +1145,18 @@
     "As illustrated in the infographic below, plants consume carbon dioxide through photosynthesis, greening the planet in the process."
    ],
    "lede": "Africa is getting greener and water more plentiful. Formerly parched land is supporting more vegetation and lakes are refilling."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWG00UW9FQnFuQWJoc2xxZXNsa1U2NnBnSmFucGFfWHoyUE1nUFhXS29RWjVZRjhmOTlXRDh5TU9MOUdocWJtSlRXa3FrbUd6X3F2X1ZvUlBGc2xDeURWVWpvLU1yeTExSUJYU1V0YUVsdnM1RklfWVA4YnFTUngzSDJ5SU5PTC1OWmE1TE9BMA?oc=5",
+   "title": "EU falling drastically short of green spending target",
+   "source": "POLITICO.eu",
+   "desk": "reporting",
+   "published": "2026-11-25T17:42:00+00:00",
+   "seen": "2026-11-27T15:08:13+00:00",
+   "cop": true,
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://yaleclimateconnections.org/2026/11/un-noreaster-durante-el-dia-de-accion-de-gracias-traera-vientos-huracanados-lluvias-torrenciales-y-niveles-del-agua-cercanos-a-maximos-historicos/",
@@ -3365,6 +3597,18 @@
    "desk": "reporting",
    "published": "2026-11-23T16:03:34+00:00",
    "seen": "2026-11-25T00:46:46+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUUtMTEJCNFh6eVdXak12WWpLSXlJTzF3b3hPMGd4N1BzbWp4UEx4Z0VwZnZsekxrNWhaazlKX1kzWlBmRGM0Nk03Q0Q0T3E1ak45Q0xZVTdrNHVuY0psSFVydWVaS0JIcnNtMDlkT3pXaDJhRndTSFZSMWxManpoeG9KbGJ1NTVaTUgxcUNzbWdOTGk1SF9WZW9nWm5VbFRBSXI3M2hiQVBHQnhId0o0dDI0Vmd2QjVWeEpuYmJoYjVEdmc?oc=5",
+   "title": "Hopes for green hydrogen revive as industry seeks to cut costs",
+   "source": "Reuters",
+   "desk": "reporting",
+   "published": "2026-11-23T15:54:30+00:00",
+   "seen": "2026-11-27T15:08:13+00:00",
+   "cop": true,
    "via_google": true,
    "ftries": 1,
    "fetched": true
@@ -8512,301 +8756,6 @@
     "Concerning floods, contrary to Rowlatt’s claims that the U.K. was beset by extreme floods, data from the U.K. Environment Agency show just the opposite, in 2025 the numbers of properties affected by flooding was extremely low, reflective of a recent long-term trend of limited flooding, with a few exceptions. (See the figure below)"
    ],
    "lede": "In the end, every specific claim of worsening weather made in the Panorama story is refuted by long-term data recorded by the U.K.’s Environment Agency. Data trumps anecdotes and unreferenced claims every time."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQkxzUWdBcFpHVy01Y3hvOURnd0drNUZuWW9rWC1QQk5GQVV0blFhU0ZnZVFpY2JWaVZrUlVhZ0pOV2hkVmNtUUZ0ODIyVGtxUWx6RU9LNWhJcDJNTjhCYVlvODk2eWYwRHRnbnE0NFAwOGdaQ1BsTFdSWUVFSFBzaHJaVWxDc3NSRF9ZRFVqTk1TdzZTWmNCUDhqLUJsN19YUTl1YUNPMEY0MTNnenN2aHNUeklwdw?oc=5",
-   "title": "Europe tightens sanctions on Russia. America loosens them",
-   "source": "The Economist",
-   "desk": "opinion",
-   "published": "2026-11-19T10:03:23+00:00",
-   "seen": "2026-11-22T02:16:22+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbVUtbkVFNUxQZ0pMcVIwVjAwYXhKTW9GOXBfcVdHdVFxSEItd3BGUWdpSm5XbEtUVWdycFdMOEJoZEh1MXpJS3hPUkhXdkN1dm5vZU5ObFdpTTZCRnRENjNFa0JuXzkzNzIwanN3cG50RkwwSXllNVFJM0tkZGJwSkZLRWY5NmpBeHFBbEcxN1BGbDFXN1FuMTYxNE54ZmxL?oc=5",
-   "title": "AI is swallowing maths. Is economics next?",
-   "source": "The Economist",
-   "desk": "opinion",
-   "published": "2026-11-19T10:01:25+00:00",
-   "seen": "2026-11-21T16:49:04+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://insideclimatenews.org/news/19112026/florida-stanton-coal-plant-trump-emergency-orders/",
-   "title": "Trump Orders to Keep Florida Coal Plant Running Cost Ratepayers Millions",
-   "source": "Inside Climate News",
-   "desk": "reporting",
-   "published": "2026-11-19T10:00:00+00:00",
-   "seen": "2026-11-19T10:24:07+00:00",
-   "cats": [
-    "Fossil Fuels",
-    "Justice & Health",
-    "Politics",
-    "Coal",
-    "coal power plant",
-    "coal power plants",
-    "Department of Energy",
-    "Florida"
-   ],
-   "description": "The consecutive emergency orders have led to $25.6 million in ratepayer costs, according to the analysis by the Environmental Defense Fund.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://insideclimatenews.org/wp-content/uploads/2026/11/GettyImages-1236577115-1024x683.jpg",
-   "paragraphs": [
-    "The group said the orders were issued under a law designed for temporary emergencies such as weather events, but the Trump administration repeatedly has renewed the orders. In Florida, the Orlando Utilities Commission had planned to move one of two coal-fired plants at Stanton into a state of “extended cold shutdown” by the end of May 2026, as part of a plan to transition to renewable energy and achieve net zero emissions by 2050.",
-    "Dan Gearino’s habit-forming weekly take on how to understand the energy transformation reshaping our world.",
-    "A once-a-week digest of the most pressing climate-related news, written by Kate Waxman and released every Tuesday.",
-    "Don’t miss a beat. Get a daily email of our original, groundbreaking stories written by our national network of award-winning reporters.",
-    "A digest of stories on the inequalities that worsen the impacts of climate change on vulnerable communities.",
-    "The Department of Energy issued an initial order to keep the plant running in June and another in September that expires Nov. 30. OUC is the state’s second-largest municipal utility, serving more than 288,000 customers in Orange and Osceola counties in central Florida.",
-    "“If they stay true to form then they’re going to issue another order,” said Bradley Marshall, senior attorney at Earthjustice, which filed a legal challenge against the Trump administration over the situation at Stanton.",
-    "“We know that a lot of these coal plants were due to be retired for a reason. They simply weren’t economic to run anymore,” he said. “When you unexpectedly have to keep a plant running that you were planning to retire, and you don’t need to keep it running for any kind of reliability purpose but because the Trump administration has told you to keep it running, it shouldn’t be surprising there are a lot of economic costs associated with that.”",
-    "The Department of Energy has attributed an energy emergency in Florida to a shortage of facilities and anticipated growing demand related to a burgeoning data center industry in the state. The agency also noted a February cold snap that strained OUC’s resources.",
-    "“Radical climate activists will say anything to further their anti-energy agenda. The Trump Administration’s actions—including saving six coal-fired plants, preserving more than 17 gigawatts of coal power from retirement, and unleashing backup power generation—likely saved hundreds of American lives during peak demand periods,” a Department of Energy spokesperson told Inside Climate News."
-   ],
-   "lede": "The consecutive emergency orders have led to $25.6 million in ratepayer costs, according to the analysis by the Environmental Defense Fund."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQM2RxWnRjRUZqalVPTERhNHQ4eXowOThOR3cxTlhyT3RGcE8wd1h2MDI4ZG5OM080aDFkWVVBbE9LT21nMGZ1dHRhS2lGQmJNMlRCYWNLbjdlcnFMS2xEaFVSY2ZHeVIzSEUwaEl4bG1xaklydjhTWWdLVjc4U3B3dUNBVUlLekhSM05ydTc2ZlBMRGpQeGNKT1lYekVHVTdEbWNERVZ1NWNqbjNa?oc=5",
-   "title": "Bangladesh, an underappreciated success, faces an economic crisis",
-   "source": "The Economist",
-   "desk": "opinion",
-   "published": "2026-11-19T09:51:47+00:00",
-   "seen": "2026-11-19T19:29:47+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNDZaRDE5Tmk3UDBjWE01cmJQcnlJblp3LWVyZ1ZYYXNaSVV2dWtSbzdHaThxeW1GUkJFdmxiQUJuU0FRemRIa2pjanZCVzZueU00TE9uMnAxMkxGR0dLTEdhSlQ5YkRHYWZvd1RqLVlHWVZ1eWZuWERiVk0xTng3OFN5eWFWUlpOTWdIVGxXM3pEclRYd3d0cEtvZXNRT09NZ01xSXhmalEzNV9JWDNNRUt3QXZ0UQ?oc=5",
-   "title": "Nations Take Aim at a Climate Threat Hiding in Electricity Grids",
-   "source": "Bloomberg Green",
-   "desk": "reporting",
-   "published": "2026-11-19T09:32:16+00:00",
-   "seen": "2026-11-20T10:04:06+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNelZRLXNWLUdqaUxFZzVOOVR6T2tOQmx4RFA0dEF3MFdETnVTV01HY1R2cGpnUGlzVFdZUjh6a2U5d1JfSnZ6dUNwOG0yNEV2UFJKX010WUZlak1SMlFsLUJpcEl6Z2NCNlIwYUw5cGVnbUF6RVpQSzRTS3VGTEhWeWlSSXJCbXl6enptVTJONjRLR1NQeEtoLWNnLTBPMFNzVDVwcl95ZHl1dnRHTEQ0amd3?oc=5",
-   "title": "ECB to Probe Riskier Private Credit and Hedge Fund Links at Banks",
-   "source": "Bloomberg Green",
-   "desk": "reporting",
-   "published": "2026-11-19T09:28:33+00:00",
-   "seen": "2026-11-19T19:29:47+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://www.nytimes.com/2026/11/19/business/cop31-energy-iea.html",
-   "title": "How the War in Iran Will Remake the Global Energy Order",
-   "source": "The New York Times",
-   "desk": "reporting",
-   "published": "2026-11-19T09:25:56+00:00",
-   "seen": "2026-11-19T10:24:07+00:00",
-   "cats": [
-    "International Energy Agency",
-    "Birol, Fatih",
-    "Oil (Petroleum) and Gasoline",
-    "US and Israeli Attack on Iran (2026)",
-    "Electric Light and Power",
-    "Coal",
-    "Greenhouse Gas Emissions",
-    "Antalya (Turkey)"
-   ],
-   "byline": "Lisa Friedman",
-   "description": "The International Energy Agency, in its most comprehensive analysis of the war’s fallout, found the oil shock could accelerate adoption of alternative power sources.",
-   "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-iea-energy-01-mgtf/19biz-iea-energy-01-mgtf-mediumSquareAt3X.jpg",
-   "ftries": 3,
-   "lede": "The International Energy Agency, in its most comprehensive analysis of the war’s fallout, found the oil shock could accelerate adoption of alternative power sources."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUVFaNUVRcThfX2tpbHNfNUUtZzdZMVBSeXItR3VZeG5tdlBwVG0taWg1NkdCelQ5aDhWNC1xZjFpdlo5QndRN1JySTRucHlYUDNRZ2lpakFOTHJuODJiYklNSmxSTkJjUzNvNWEtbVN4TVZFV2hHSkxaNDdQV3JXZGE4NlBDWHJHeHpvZThZbURZbDROWnBJYm10ZkR3dnlpazQ4dk53?oc=5",
-   "title": "Deeper collusion between hostile powers threatens the West",
-   "source": "The Economist",
-   "desk": "opinion",
-   "published": "2026-11-19T08:31:05+00:00",
-   "seen": "2026-11-19T10:24:07+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://www.climatechangenews.com/2026/11/19/cop31-antalya-turkiye-australia-ministers-agremeent-fossil-fuels-electrification/",
-   "title": "COP31 Bulletin Day 10: New draft keeps electrification goal but drops fossil fuel references",
-   "source": "Climate Home News",
-   "desk": "politics",
-   "published": "2026-11-19T08:28:07+00:00",
-   "seen": "2026-11-19T19:29:47+00:00",
-   "cats": [
-    "News",
-    "Politics",
-    "cop31"
-   ],
-   "description": "The second draft of the COP31 cover decision leaves out a key ask from many developing countries to put a number on tripling finance for adaptation",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://www.climatechangenews.com/wp-content/files/2026/11/Ministerial-Divan.jpg",
-   "paragraphs": [
-    "The keenly awaited second draft of the COP31 cover decision was released mid-afternoon on Thursday in Antalya. At half the length of the first version, the nine-page document still covers many bases - but leaves out a key demand by developing nations to put a number on tripling finance for adaptation, instead delaying the decision until COP32.",
-    "It also drops any wording on the transition away from fossil fuels, including welcoming the global roadmap to that end prepared by Brazil’s COP30 presidency, an omission that one veteran campaigner called “a glaring regression”."
-   ],
-   "lede": "The keenly awaited second draft of the COP31 cover decision was released mid-afternoon on Thursday in Antalya.",
-   "cop": true
-  },
-  {
-   "url": "https://www.climatechangenews.com/2026/11/19/cop31-bulletin-day-10-ministers-exchange-makes-little-concrete-progress/",
-   "title": "COP31 Bulletin Day 10: Ministers’ exchange makes little clear progress",
-   "source": "Climate Home News",
-   "desk": "politics",
-   "published": "2026-11-19T08:28:07+00:00",
-   "seen": "2026-11-19T10:24:07+00:00",
-   "cats": [
-    "News",
-    "Politics",
-    "cop31"
-   ],
-   "description": "On Wednesday night, ministers got the chance to swap views on what should be in the cover decision, but it seems few differences were bridged",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://www.climatechangenews.com/wp-content/files/2026/11/Ministerial-Divan.jpg",
-   "paragraphs": [
-    "After ministers gathered for a “divan” conflab on Wednesday night to start resolving differences on what should be in the main COP31 political decision, the talk in the halls was that it had been a nice opportunity for them to share views but little had moved forward.",
-    "The room - closed to media - was set out with chairs in a large circle, so far apart the assembled ministers looked like they had to cross a small ocean to actually speak to one another. Let’s hope they could at least hear what their peers were saying through the mics and headsets.",
-    "Adão Soares Barbosa, Timor-Leste’s climate ambassador who chairs the Least Developed Countries (LDCs) at the climate talks, told Climate Home News the discussion had been “constructive” but noted that some ministers expressed concern there would be no agreement on a decision.",
-    "After ministers gathered for a “divan” conflab on Wednesday night to start resolving differences on what should be in the main COP31 political decision, the talk in the halls was that it had been a nice opportunity for them to share views but little had moved forward.",
-    "The room - closed to media - was set out with chairs in a large circle, so far apart the assembled ministers looked like they had to cross a small ocean to actually speak to one another. Let’s hope they could at least hear what their peers were saying through the mics and headsets.",
-    "Adão Soares Barbosa, Timor-Leste’s climate ambassador who chairs the Least Developed Countries (LDCs) at the climate talks, told Climate Home News the discussion had been “constructive” but noted that some ministers expressed concern there would be no agreement on a decision.",
-    "Irish environment minister Darragh O’Brien, who represents the European Union, told a press conference on Thursday morning that the atmosphere at the divan was “very different” from last year. “It wasn’t as confrontational,” he said.",
-    "Next to him, Tuvalu’s climate minister Maina Talia said “it seems to be” that language about transitioning away from fossil fuels will be out of the cover text, adding there was a small window of opportunity to keep it in. It is opposed by fossil fuel-producing countries, including Saudi Arabia and Russia.",
-    "In a statement issued after the “divan”, COP31 president Murat Kurum urged countries not to reiterate their respective positions at this stage of the talks, but to identify where they can move forward together.",
-    "Discussions reportedly touched on all the key hot topics - from 1.5C overshoot to adaptation finance and electrification - but little progress seems to have been made in how to bridge divisions."
-   ],
-   "lede": "After ministers gathered for a “divan” conflab on Wednesday night to start resolving differences on what should be in the main COP31 political decision, the talk in the halls was that it had been a nice opportunity for…",
-   "cop": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNa1ZUek1QR1M3U0NMaGM3dTVBTUg2aUMxemxNSmlHRmRSQklxOWRVOG9iMHl4dkZFWWZMbVpGbFJSZXpKWTFxcVdVRXZvdGhkcW01UnhFQVFaMEQwSmVicVFlSlBNYndvcmNOTWVEX29UU1UzcFVHU2pCbnFiSWMxMEd1V2hJcFRMVzFZYk5yc1IwZVVNRkR5VFFzYlM4dHJob1hMM09SWWFjdmZtblI4R0Z2djZzQ0NNUmdtd2g2N2ZvU1dSSFNaVg?oc=5",
-   "title": "Modi’s Manufacturing Mission Is Only Half Done",
-   "source": "Bloomberg Green",
-   "desk": "reporting",
-   "published": "2026-11-19T08:08:47+00:00",
-   "seen": "2026-11-20T01:47:33+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSmlJS29GQVp4X1EwcHc0bG9nVzdYZGN6OHVlMFlrNmM2aUxLWVpCYVd6MVgyS0ZETVRWVXpXRFpKZGNBUDl4cGFOSlE5SkJsb2NPS0dnUEFxb1MwdjMxOGJBUGpZaXJsWmRqMTBuUWxqR1RqcERkMmRUQ2ZxUEI3djZPTHZJR25rUlhGaTZtMWxRUFBhMVFRVVJLRnYxU0VSeUxyUTl1VjNsdG0wc01rdA?oc=5",
-   "title": "Latvian leader calls for closure of EU borders to all Russians",
-   "source": "POLITICO.eu",
-   "desk": "reporting",
-   "published": "2026-11-19T08:00:00+00:00",
-   "seen": "2026-11-21T22:11:58+00:00",
-   "cop": true,
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://www.theguardian.com/science/2026/nov/19/ipcc-report-delay-climate-crisis-scientist",
-   "title": "IPCC report delay will threaten global effort to tackle climate crisis, says top scientist",
-   "source": "The Guardian",
-   "desk": "reporting",
-   "published": "2026-11-19T07:16:45+00:00",
-   "seen": "2026-11-19T10:24:07+00:00",
-   "cats": [
-    "Climate science",
-    "Intergovernmental Panel on Climate Change (IPCC)",
-    "Environment",
-    "Global climate talks",
-    "Science",
-    "United Nations",
-    "World news",
-    "Cop31"
-   ],
-   "description": "Johan Rockström, one of world’s leading climate experts, says slowing down scientific work puts cooperation at risk",
-   "image": "https://i.guim.co.uk/img/media/9f57ba9d5e7f9ed5bfc10dd82f5dcdcde10b2020/497_0_3703_2962/master/3703.jpg?width=140&quality=85&auto=format&fit=max&s=d584aa31cc111b9e9a02f2521a765572",
-   "ftries": 1,
-   "fetched": true,
-   "paragraphs": [
-    "Climate science is “foundational” to the Paris agreement and worldwide progress on tackling global heating, and attempts to delay new scientific reports threaten global cooperation on tackling the crisis, one of the world’s leading climate scientists has warned.",
-    "Johan Rockström, the director of the Potsdam Institute for Climate Impact Research, said the world’s leading body of climate scientists, the Intergovernmental Panel on Climate Change, must be allowed to work as quickly as possible on its next comprehensive assessment of global knowledge of the climate systems.",
-    "Some countries are holding up work on the three-part report in a row over the body’s role and representation of developing countries. One group has argued that racist assumptions underpin some of the body’s recommendations.",
-    "Rockström said the reports were fair. “The IPCC is objective, evidence-based science, and it’s the only thing that we can reliably stand on as a basis for our policymaking,” he said. “The IPCC is the summary of everything done voluntarily by scientists from the entire world, global south and global north, that collectively carries out a synthesis [of established research].”",
-    "The IPCC’s work is used to inform the annual climate “conference of the parties” (Cop) to the UN Framework Convention on Climate Change. Its next assessment, called AR7, the seventh in a series dating back to 1988, under way, and it is hoped it will be completed in 2028. In the autumn of that year, nations will gather for Cop33, where the second “global stocktake” under the Paris agreement will be thrashed out.",
-    "This is the mechanism by which progress towards the core Paris goal, of limiting temperature rises to 1.5C above pre-industrial levels, will be judged. The stocktake is almost certain to find that current pledges to cut greenhouse gas emissions are inadequate and must be improved.",
-    "The UN has already found the world to be on track for a 2.8C temperature rise, a level previous IPCC reports have found would result in severe and, in some cases, irreversible consequences, such as the melting of ice caps and glaciers, sea level rises, coral bleaching and extreme weather.",
-    "But some countries – chiefly Russia, India and the Arab group of countries including Saudi Arabia – want to delay publication of AR7 until 2029, after the global stocktake is completed. They argue, with the backing of some climate campaigners, that developing countries are disadvantaged in trying to submit science to the IPCC. As a result, they say, the work is permeated by racist assumptions that guarantee the privilege of developed countries.",
-    "Lidy Nacpil, the coordinator of the Asian Peoples’ Movement on Debt and Development, told the Guardian the IPCC’s scenarios for cutting greenhouse gas emissions – known as “mitigation” in UN jargon – were “biased against the interests of the global south”."
-   ],
-   "lede": "Climate science is “foundational” to the Paris agreement and worldwide progress on tackling global heating, and attempts to delay new scientific reports threaten global cooperation on tackling the crisis, one of the…",
-   "cop": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWFpFbE5TVV92emdxZ05rWER2RWpZQW1VZWt6Mm1ueUNuckljRzBkVk9qVGJ4SjV6Qjlsb3N1SGZCOTUtOTFZQjVRbTB6TXYyZDBZYXJVZElaT3hJOGtEbElNeXNYNFdaeGJyQ2tydWExNV90OXkwT2dSRmlUZWpwTEtnX1ZvN29RSmp5Yi05SERrUDVlQkI5TEtpOE9kWHhJcmlNV0QtYTFwX3dCWTAzdDIxZw?oc=5",
-   "title": "EU Reaches Deal on Longer Delay to Methane Rules for Importers",
-   "source": "Bloomberg Green",
-   "desk": "reporting",
-   "published": "2026-11-19T06:15:00+00:00",
-   "seen": "2026-11-19T19:29:47+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://wattsupwiththat.com/2026/11/18/el-nino-is-weakening-with-rapid-sea-surface-cooling-off-the-washington-coast/",
-   "title": "El Nino Is Weakening With Rapid Sea Surface Cooling Off the Washington Coast",
-   "source": "Watts Up With That",
-   "desk": "opinion",
-   "published": "2026-11-19T06:10:00+00:00",
-   "seen": "2026-11-19T10:24:07+00:00",
-   "cats": [
-    "El Nino Basics",
-    "Sea Surface Temperature",
-    "Weather",
-    "Cliff Mass",
-    "El Niño",
-    "NOAA",
-    "Pacific Northwest"
-   ],
-   "note": "Skeptic blog",
-   "description": "At the current rate of decline, it will no longer be a very strong El Nino (2°C or more above normal) by early December.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2026/11/northeast-pacific-sst-cooling-trend-1024x512-1.webp?fit=1024%2C512&quality=75&ssl=1",
-   "paragraphs": [
-    "Cooling of the ocean surface has been occurring over the last month, with substantial implications for our future.",
-    "Wow. Massive cooling off the Northwest coast, with some locations chilling by 2°C or more.",
-    "A series of strong low-pressure centers have developed again and again off our coast, as the surface pressure analysis at 10 AM on Saturday (below) shows.",
-    "Such a strong pressure system produces strong winds that mix the upper layer of the ocean, bringing cool water to the surface.",
-    "Ironically, the low center and resulting cool surface water are caused by the warm tropical waters of El Nino, which produce a “wave train” in the Pacific.",
-    "The current El Nino is weakening. According to the latest NOAA report, the relevant warm surface waters (in the Nino 3.4 area) have peaked and are now declining (see below).",
-    "Right now the temperature anomaly (difference from normal) in that Nino 3.4 area is 2.2C. At the current rate of decline, it will no longer be a very strong El Nino (2°C or more above normal) by early December.",
-    "The latest NOAA forecasts suggest it will continue to decline for the remainder of the winter season.",
-    "We start the winter with a classic El Niño pattern, and California and Colorado River drainage get a major refill. Very helpful.",
-    "Then, as El Nino weakens later in the winter, Washington State gets substantial precipitation and snowpack, allowing us to be fine next summer."
-   ],
-   "lede": "At the current rate of decline, it will no longer be a very strong El Nino (2°C or more above normal) by early December."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZFhtWmJ1WkRNeUlhZ0FGRWFvbjN2QVFra2FpbGNFcnBhTllfZ19IRUI4QkVPNG5sT3Y2akdCdUNZSFZLbERmakd5X2FPWVpmcmV0LTFBcmotS3NScTd5X3JaSTM1VXppOE9yVkd4aTRFeWo5UDB0TlJHMmc1NGl1SEVjZVI?oc=5",
-   "title": "COP31 day 10",
-   "source": "Climate Diplomacy Brief",
-   "desk": "politics",
-   "published": "2026-11-19T06:05:34+00:00",
-   "seen": "2026-11-24T15:55:10+00:00",
-   "byline": "Ed King",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "cop": true
   }
  ],
  "dropped": [
